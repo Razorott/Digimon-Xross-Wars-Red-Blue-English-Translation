@@ -1,0 +1,395 @@
+{
+  "description": "Translate the Sky Fortress energy crisis and Knuckle Coast lead-in.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki...\nIf your Digimon\nare low on HP\nor MP, use a\nTent or the\nhealing bed on\nthe Sky\nFortress. A nap\nthere will get\neveryone back\non their feet!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "There should be\na request to\nfind the\nDigimon Flight\nTeam. First,\naccept it from\nthe Quest\nMonitor."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "The Quest\nMonitor...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "It's the big\ndigital screen\nin the\nCommander Room.\nAsk Palmon\nbeside it how\nto use it."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki can do\nanything\nperfectly! And\nthat thing you\ncalled it?\nLeave it to me,\ntoo!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Woo! Brother!\nSo cool!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "I-I want to\ncome, too! When\nI'm with you,\nTaiki... I feel\nlike I might\nget back the\nmemories I\nlost..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "...Taiki, I\nknow this is a\nlot, but please\nlook after\nSpadamon! I'll\nkeep repairing\nthe system and\ngathering data.\nIf you need\nanything, I'll\nbe right here."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "All right,\nlet's go!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "Mmm..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "Mmmph!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "Grrrr..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Why is everyone\nstanding here\ngrunting?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, Taiki! You\ncame at the\nperfect time!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "We've been\nwaiting for\nyou, Taiki\nKudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh? What's\nwrong? Is there\ntrouble, Akari?\nI can lend a\nhand, my head,\nor my strength!\nWhatever you\nneed, I'll do\nit right now!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "What's going\non, Zenjiro?\nPatamon, what\nhappened?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "...Starmon,\nShoutmon. Calm\ndown."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "What's wrong,\nPatamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "I was checking\nthe Sky\nFortress\nsystems... but\nthere's not\nenough energy.\nThe DigiLab and\nDigiFarm can't\nrun any of\ntheir important\nfunctions.\nWorse, unless\nwe get the\nCapacitor\nTowers working\nsoon, we'll run\nout of energy\nand the systems\nwill shut down."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "The Capacitor\nTowers?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "They generate\nthis Zone's\nenergy. There\nare six towers,\nbut it looks\nlike all of\nthem have\nstopped. They\nwere working\nfine before ROG\ntook the Sky\nFortress... Did\nMinotaurmon\nmess with\nsomething?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "They cut the\nSky Fortress's\npower so they\ncould steal it!\nThis must be\npart of ROG's\nplan! What a\ndirty trick!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "But each\nCapacitor Tower\nhas a huge\ndoor, with the\nCapacitor\nSystem behind\nit. Only the\ntower's\nadministrator\nshould be able\nto start it.\nThat's why ROG\nhas the area\naround every\ntower locked\ndown."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Who is the\nadministrator\nof the\nCapacitor\nTowers?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't know...\nThe towers have\nbeen locked for\nages. Patamon\nand I once\ntried to sneak\nin, but the\ndoor wouldn't\nbudge. We had\nto go back in\ntears... I\nmean, that was\na long time\nago! I wouldn't\ncry now!\nReally!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "But the system\nbehind those\ndoors shut\ndown, so the\nenergy stopped\nflowing and the\ntowers stopped\nworking, right?\nWe have to\ninvestigate the\nCapacitor\nTowers..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, something\nmay have\nhappened there.\nLet's\ninvestigate.\nWhere are the\nCapacitor\nTowers?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "The closest one\nis... let's\nsee... on the\nedge of the\nEnergy\nContinent, at\nKnuckle Coast."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "Ooh! That\nsounds like a\ntough place! I\ncan't wait to\nget going!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, request, and system dialogue translated directly from Japanese; named features follow the project glossary."
+    }
+  ]
+}

@@ -1,0 +1,1669 @@
+{
+  "description": "Translate the next Capacitor Tower, DigiFarm/Farm Island tutorials, and returning allies in MESPAK02 entry 13.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "This door protects the Capacitor System. ...It's still firmly shut. ROG hasn't been here, so why does something feel different from last time...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! How did that happen?! Taiki, did you do something?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "N-no... Spadamon, did you do something?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "I only touched it! Then it suddenly lit up! How? Only the administrator should be able to open it..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "So... does that mean Spadamon is the administrator?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "N-no way! When I came here before, it wouldn't open at all!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "But..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "What are you standing around talking for?! Let's get the tower running! Sky Fort will crash with everyone still inside!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "...Right. Restoring the energy supply comes first."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, try activating the tower."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "O-okay..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Will getting this running make Sky Fort move again? We can use the DigiLab and DigiFarm, too? This is gonna be great!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "It worked!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice work, Spadamon! But what's a Farm Island? Is that different from the DigiFarm Patamon mentioned?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Farm Islands are the growing areas inside the DigiFarm. Each one can raise up to eight Digimon. They help you make your Digimon stronger! The Terrain Board and BGM Board affect how different types grow, so try different combinations on each island! Now, give your first Farm Island a name!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice! I like it. That's the perfect name for our first DigiFarm!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "Did that restore Sky Fort's systems, too?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Only one of the six Capacitor Towers is running, so... maybe about 16% of Sky Fort's systems are back?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "That's all?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, don't rush it. We'll get there one tower at a time. At least the energy problem is fixed!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "And now that Sky Fort has power again, I can access the Data Library folder!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "A DigiScore? What's this?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "You need DigiScores for DigiFusion. You can use DigiFusion at the DigiLab."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiFusion? What's that?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiFusion is a special kind of DigiXross. It fuses two Digimon to create a new one!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "A fusion?! A special DigiXross? You can do that?! That's amazing!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "This system was developed specially for this Zone. Sky Fort used to have every DigiScore, but the energy stopped and the backup was damaged... Only a few DigiScores remain. Still, don't worry! You can collect more by defeating wild Digimon! Check the DigiLab PC and DigiFarm PC at Sky Fort."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "...Taiki! Did you hear that? Someone's over there!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "C-could it be ROG?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "No way. They couldn't have shown up this soon... right?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "We can talk later! Let's go check it out! Spadamon, come on,and keep up!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Oh,whoa! Wait! I'm not mentally ready yet!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon! And you must be... Hmm, how unusual. There's even a human with you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "...Who are you?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm Ganimon. I live around here. The Capacitor Tower suddenly started running, so I hurried over. I'm not a threat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "You startled us! We're here to get the Capacitor Towers running. That's one down, only five left!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "You got the Capacitor Tower running?! I was worried ROG had taken it, too. So you stopped them... Thank you! If you could activate the tower, does that mean Spadamon's memories have returned?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh?! Well... I... Not yet... I don't even know why the door opened."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "...I see. Don't force it. Your memories are important, but they'll come back when the time is right. Until then, fight your enemies and grow stronger. You can't keep running away, all right?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "That's incredible! You seem like someone we can count on."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "You're amazing, too! You defeated Pukumon from ROG! We'll protect this place from now on. I'll be right here, so come talk to me if you need anything!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Great! Let's head to the next one!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Then put us in your Xros Loader for now!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Once we get this one running, our Digimon friends will come back, right? I can't wait!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Can you give this Farm Island a good name, too?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yeah, I like it. Oh, I can access the Data Library folder again!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "...All right! This tower is running now! We got a new Farm Island and more DigiScores, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "The more Capacitor Towers we get running, the more of Sky Fort's systems should come back."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "And our Digimon friends will return, too! Someone might already be here. Let's go check!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "...Huh? Kuwagamon? Did you live around here?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Nope! I was a free-spirited drifter! But I got lost, hit a rough patch, and somehow washed up here... I don't really know how it happened, but if you'll let me stay, I'll put down roots here and do my best!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Is this guy okay? He seems kind of... mellow."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "He's fine! Kuwagamon's jaws are incredibly strong! Kids love him, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "Well, he is a stag beetle. They're pretty cool."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "Aw, you're making me blush!♪ Now I'm fired up! Count on me!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "All right! Let's hurry to the next one!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, we'll hop into the Xros Loader now!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "All right, let's open this door, too...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "All these Capacitor Towers look the same... I'd probably take a wrong turn and end up at the wrong one!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you name the new Farm Island?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... 72 points! ...I guess? But maybe it's even better... Hmm... 98 points! Yes, that's more like it! Oh! I can access the Data Library again!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Spadamon. I still don't really understand the Farm Goods you can put on Farm Islands... What should I choose?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Farm Goods can raise stats like strength or speed, give you lots of EXP, or help you make equipment. Choose whatever suits what you want to do, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... But they're kind of expensive. Can't they be a little cheaper?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "B-but they're worth the price! Strong enemies might show up later! For our sake, don't be too stingy... Buy us strong equipment and Farm Goods! You will, right?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't worry! Taiki will buy them for you. More importantly, let's go see if any friends have returned!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "...Mammothmon! And Zudomon, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "You finally took the tower back from them! Thank you so much, Spadamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "You went to all the trouble of taking the Capacitor Tower back... Now it's our turn to guard it with everything we've got!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah! I'm counting on you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "We'll leave the rest to them. Let's move on."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Let's hop into the Xros Loader for a while."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "Right! Then we're counting on you, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll open it now, so wait a moment."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, think of a name for the next Farm Island!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, will you name the new Farm Island?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yeah, that's a clear, easy-to-remember name. Oh! I can access the Data Library folder again!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "...By the way, Taiki, I've been wondering for a while... Why did you come to Elestou Zone?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "Why? Spadamon called us, didn't he? Taiki heard your voice."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "We were standing in front of a Weapon Digimon buried in the jungle when a strange ball of light swallowed us and brought us here. I thought you had called us."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "Whaaat?! I called Taiki? I have no idea what you're talking about!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "...Really? Then who brought us to this Zone...? Well, never mind the details. Let's head into the city!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "Devitamamon! And Pinocchimon, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "I heard the rumors and couldn't stay away! Spadamon and Xros Heart! Everyone is grateful to you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Well, I'm tired of running away. With you guys, we might actually take the Zone back!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "Leave it to us! Let's work together from now on!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, you've got a lot of great friends."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yeah. We were all able to come back because of Taiki and the others. Thank you both!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "No problem! Now let's hurry and take the rest back!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll open the door now. Wait a little..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, what setup should we use for the next Farm Island? Let's think about it now!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you name the new Farm Island?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Taiki. That's a good name! I knew you'd think of one! Oh! I can access the Data Library again!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, you two! Do you like sweets?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Why do you ask all of a sudden, Spadamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "When we take the Zone back from ROG, I want to have a huge cake ready at Sky Fort... Then we can all celebrate together!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, great idea! We should have fireworks, too! Since Sky Fort is in the sky, we could launch them from there... Everyone in the Zone would see!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Fireworks? That sounds like something delicious!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't think they're food..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "I hear someone's voice outside! Let's go see!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "CannonBeemon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "Sorry we left everything to you. From now on, we'll help with whatever you need!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks. I'm counting on you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "We'll be right here. Come talk to us if you need anything."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "Everyone here is so nice."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah. They really are."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "All right, on to the next one! Let's keep moving!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait a moment."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh...? That's strange... I don't think I have enough power. My abilities will return when we defeat ROG's leaders... Maybe we have to defeat the leader Digimon first?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, recruit this Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "Not yet. Don't recruit this Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "You can't recruit any more Digimon. Release some and come back."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Understood. I'll wait here..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "Want me to join you?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "Would you like me to join you?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Make me your ally...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "You want me on your team?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Talk to me whenever you're ready."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Recruit me if you want to beat up the bad guys!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm always ready to fight."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "Stop pretending you don't need me and recruit me."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "Make me your ally."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "Put me on your team!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "If you need help, recruit me."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "Dorumon joined your team."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon joined your team."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Beelzemon joined your team."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "SkullKnightmon joined your team."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Restored Capacitor Tower tutorial, Farm Island and DigiFusion explanations, returning allies, and recruitment prompts. Key game terms follow the project glossary."
+    }
+  ]
+}

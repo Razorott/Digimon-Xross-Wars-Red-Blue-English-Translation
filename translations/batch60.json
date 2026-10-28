@@ -1,0 +1,3046 @@
+{
+  "description": "Continue the Pharaohmon and Crystal Volcano story; translate the next 66 battle-technique effects and remaining tree-sap DigiFarm reports.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Pharaohmon must be weakening by now. Let's finish him off next time. Come on!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "Quick question, me! What's my best feature, me?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Uh... you're handy when someone gets hurt!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "Then I'm no use until someone gets hurt, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Guess that wasn't it..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Now's the time to use a bandage on your injury, me..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh?! Did you hurt yourself?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "My heart's badly hurt, me! I need emergency surgery, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "What's that supposed to mean?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Can you perform surgery on yourself?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't know what you're sneaking around looking for, but too bad! The DigiShip you're after isn't here, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiShip? What's that?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "I just came out in the wrong place, me! Those goggles are confusing, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Where were you trying to go?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Those goggles prove you're the main character, me... Take good care of them, me..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, where were you really trying to go?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "I... I can't tell you that, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "What a strange one..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "It's sitting in a suspicious spot, practically begging to be found."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "It had to be hiding somewhere easy to find... Is there something here?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "Look, you two! It's coming out by itself!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Fwa-ha-ha-ha!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "You found my tomb! That's right, I am Pharaohmon! But this time, there's more!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "What do you mean? You don't look any different."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Fwahahaha! I only ran away to lure you here! Now behold my true power!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Pharaohmon... transform!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Whaaaat?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "You... Surprised too soon! Behold! Anubismon has arrived!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=EX5-062&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "He transformed without DigiXross?! How is that possible?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "It's not DigiFusion or Jogress Up... This is Pharaohmon's... no, Anubismon's power!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=EX5-062&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "You've made a fool of me long enough! This time I'll defeat you and take everything!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "He's serious this time! Everyone, be careful!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "Gah...! How could this happen?! I never thought I'd lose, even after using the Pyramid's power!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Anubismon! Tell me about the Legendary Ancient Weapons and the Legendary Warrior! What do they have to do with Spadamon? Maybe you ROG guys know more than Spadamon, who lost his memories!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=EX5-062&search=true",
+        "https://world.digimoncard.com/rule/pdf/booster_xros_encounter_BT10.pdf"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "It's true that ROG chased Spadamon on ZeedMillenniummon's orders, to find the Legendary Weapons. But those days are over! ROG has found the seal of the Legendary Ancient Weapons! ROG's age of glory starts now!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/rule/pdf/booster_xros_encounter_BT10.pdf"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "You found the seal of the Legendary Ancient Weapons...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Well? Did you remember anything?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "The weapons' seal... Maybe we'll learn something if we activate every Capacitor System. There are seven in all..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Seven? We've only visited six Areas so far."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Maybe I'm mistaken... I thought there were seven."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon... You're bad at math, aren't you? Don't worry! Picture a Digi-no-wa in your head and you can count as high as you like!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/rule/pdf/booster_xros_encounter_BT10.pdf"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey... Something's lying over there."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "What does that key go to?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "It's the key to a gate in Twisting Amazon. It's near the route we took to the Digital Space. Papyrus Desert is close to Twisting Amazon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "So we went in a big circle and ended up back where we started?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, so there are only six towers after all... Once we activate all the Capacitor Towers, we'll learn the secret of the Legendary Ancient Weapons' seal! Then maybe I'll remember everything..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Then all the more reason to activate the towers! Let's get every Capacitor Tower running!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "You picked wrong, me! Your opponent is the lonely Mummymon, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=BT3-087&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh... We got the wrong one."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Who's wrong?! Don't underestimate Mummymon, me! I'll beat you to a pulp, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=BT3-087&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "You're the one who called us the wrong choice..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I'm the bottom-of-the-barrel weakling here again, me. Do what you want. Laugh at me all you like, me..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "That's not what I meant, Mummymon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=BT3-087&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "I already know I'm the wrong choice, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "No, that's not it. I mean you're no weakling. You're one of the strongest opponents we've faced!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "I-I... I won't be fooled by flattery, me! I'll remember this, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Was that... embarrassment?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "You touched a coffin in Papyrus Desert... That means you're picking a fight with Mummymon, me?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=BT3-087&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? No, we didn't come here for Mummymon. It was just... a coincidence... sort of."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=BT3-087&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Who touches someone's coffin by accident, me?! What if someone rang your doorbell? Wouldn't you be mad if they said it was an accident, me?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "I-I'm sorry!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll remember your face, me! Mummymon never forgets a grudge until he's in the grave, me!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=BT3-087&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "But doesn't Mummymon already live in a grave...?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=BT3-087&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "Look, it's right there! Isn't a place like this scary?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "You have no sense of adventure, kid! Mine's tingling!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... But still..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Akari! Zenjiro! Patamon! We're back! What are you scared of?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Isn't it scary when machines start up by themselves?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "A giant machine starting up... Isn't that exciting?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "There's an underground base in Elestou Zone called Earth Fortress, besides the Sky Fortress. It had been shut down ever since ROG invaded... But Earth Fortress suddenly started moving. Maybe it's because we activated the Capacitor Towers..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh! So that means... A new base is finally opening up on the Energy Continent! Where is Earth Fortress?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "They say it's in a place called Crystal Volcano... But that's the scary part!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "C-Crystal Volcano?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "Zenjiro, what do you mean? Why is it scary?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "They say Crystal Volcano is terrifying... The wild Digimon there are fierce! Akari may be scared, but this whole chain of events... I feel the thrill of a giant secret base coming online!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "That's all you ever talk about! Taiki, do something about Zenjiro!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm checking where the port to Crystal Volcano is. While I do, could you help with something? Our Digimon friends are returning, and they've sent requests to the Quest Monitor. Can you help grant as many as possible?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "We're helping as much as we can, but they say it's dangerous to leave the Sky Fortress, so there's only so much we can do."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Would you believe Digimon are lining up to see me? Ah, being popular is tough!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Zenjiro's a great playmate for the Pickmons. I guess he's only popular with the little ones!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "So we'll have to ask you to handle requests that involve leaving the Sky Fortress. Please grant as many as you can."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Everyone at the Sky Fortress is counting on you! Ask us if there's anything you want to know!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Requests, huh? You're pretty popular, Taiki! Maybe you'll become the Legendary Warrior of Elestou Zone someday!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon's more suited to be a warrior than I am. Right, Spadamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/rule/pdf/booster_xros_encounter_BT10.pdf"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "...Huh? What's wrong, Spadamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/rule/pdf/booster_xros_encounter_BT10.pdf"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "I-It's nothing! Don't look at me! I heard Crystal Volcano is terrifying... My legs aren't shaking or anything!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon... Is it really that scary? I'm excited to explore a new Area!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/rule/pdf/booster_xros_encounter_BT10.pdf"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, it's a pretty place! And I hear the crystals there are sweet and tasty!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Really?! Th-Then I'm going too! Sweet crystals... I can't wait!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "He likes sweets that much? Maybe Spadamon will post a Quest Monitor request for a tasty cake someday."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/rule/pdf/booster_xros_encounter_BT10.pdf"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "Sweets are the best way to get motivated! All right, please take care of everyone's requests!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, Taiki! Big news!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "We found the port to Crystal Volcano!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Great! You finally found it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh no... So you found it..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "There's a little problem, though... Can you come to the Central Room? I need to explain."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "So it won't be that simple after all..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Then I'll have to brace myself, too."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, come right away!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "Did the Flight Team gather everyone?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah. Let's hear the details in the Central Room."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "I can't wait to fly through the sky!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Wait a second!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "We need to check the Capacitor Towers first! There was an entrance to a tower along the path we just came from. Why not check it out?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "Let's see... Armadillomon in the mountain near the Sky Fortress can dig. The Tyrannomon around here should be able to dig, too."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?card_no=BT3-032&search=true",
+        "https://world.digimoncard.com/cards/?category=522001&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you sure this is the right thing to do?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Enough, MailBirdramon. There is no other way."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?category=522015&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Is that Kiriha and MailBirdramon over there?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?category=522015&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "Why is Kiriha here? Don't tell me he followed Taiki just because they're rivals?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "It looks like he's holding something... What is that? Some kind of machine?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! That device he's holding... It's a Pathfinder Device, something only found at the Sky Fortress! How?! Where did he get it?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "Kiriha, it seems we've been interrupted."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki and the others coming was within the expected range. Hurry, MailBirdramon. Find the Legendary Ancient Weapons! Linkage: Path Connect! Destination input: Lost Space!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?category=522015&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "The Legendary Ancient Weapons and Lost Space...? No... Stop him, Taiki! ROG is desperately searching for Lost Space. It must be where the weapons are hidden!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What?! Why is Kiriha there?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Stop, Kiriha! ROG will find out!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Anything that stands in the way of the plan must be eliminated. Even if it's Xros Heart... Is that right, Kiriha?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "...The orders haven't changed. No one can stop us. We are the blue flame, Team Blue Flare! Do it, MailBirdramon!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?category=522015&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "Kiriha... Hurry... Connect..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Sorry, Taiki. There's no other way... Linkage: Path Connect! Destination input: Lost Space!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Find the Legendary Digimon...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Get away! Something's wrong!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "The Legendary Weapons... The Legendary Digimon... I'm so close to remembering... But we must never let them into Lost Space!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! The connection was rejected?! The energy... It's going to explode!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "What happened after the explosion? Where are Kiriha and the others?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't know... But I don't think they made it to Lost Space."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Kiriha? What's he doing here alone?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "Looks like he's searching for something... Be careful, Taiki. He might attack without warning!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "But he isn't your enemy, right? Maybe talking to him will help..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Kiriha, what are you doing? Why are you searching for the Legendary Ancient Weapons?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki... There's no point trying to stop me. I'll get them, no matter what."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "You mean the Legendary Weapons?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "It's none of your business. Stay out of it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait, Kiriha! What's driving you so hard? If there's a reason, tell us."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "...What I want is the power to change everything."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "The power to change everything...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "I thought he was cool, but now he's even harder to approach."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "Still... he looked so sad."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Maybe we should look for Sparrowmon first. He might be nearby."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "You're right. Let's look for Sparrowmon first. But we can't leave Kiriha like this..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "Phoenixmon scouted from the sky... It looks like things are bad around Earth Fortress."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=EX1-010&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! Is that true? But we can't let ROG break the seal! We have to stop them!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Phoenixmon. We need to make sure we're ready, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?card_no=EX1-010&search=true"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Whoa..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "That Digimon was the one who occupied the Sky Fortress!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "Just as the Flight Team said... ROG's leader Digimon is protecting ZeedMillenniummon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "W-We have to hurry to Earth Fortress, or ROG will get the Legendary Weapons!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "You again... I can't believe you're still alive!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "Stop making this Zone suffer!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "We'll take back Elestou Zone!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "Still as irritating as ever! But I have no way around it... I can't let you pass!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Grrrraaaaaah!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "What was that...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Lord ZeedMillenniummon! Now, take my power!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What?! What's happening to him?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "We are ROG! We'll do anything to get everything we desire, even if we have to sacrifice ourselves!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What did you say?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "H-Hey... What is that?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "That's right, Minotaurmon... I want your power. If you're destined to become dust, become one with me..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "With this power, I'll be reborn as the strongest!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What was that?! Did he just devour Minotaurmon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Every boss we've fought absorbed their underlings to become stronger... Could that shadow be... ZeedMillenniummon?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "...That's likely. Stay alert."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese story script. Character names and area terms follow the project glossary; Anubismon, Mummymon, Phoenixmon, MailBirdramon, SkullKnightmon, Spadamon, Armadillomon, and Tyrannomon use checked official English card references where those names occur."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Glares at all enemies\nwith its dark eye."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby enemies\nwith star-shaped\nshuriken."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a enemy with\na charged sickle."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calls down lightning\non a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calls down a huge\nbolt on nearby enemies."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Summons a barrage\nof lightning on\nnearby enemies."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an electric\norb at a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a powerful\nelectric orb at a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a enemy with\ncharged claws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rakes a enemy with\nelectric claws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes a enemy with a\nbewildering electric\nwhip. May confuse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Lashes a enemy with a\ndangerous electric\nwhip. Drains HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a enemy with\ndigital-data energy.\nMay confuse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts enemies with a\nhigh-voltage orb."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a blazing blue\nflame. May lower\nAttack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Incinerates a enemy\nwith a searing beam."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a enemy with a\ncross-shaped strike."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bites a enemy with\nterrifying fangs."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Knocks a enemy back\nwith a twisting\npillar of water."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Tears at a enemy with\nblade-like claws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rakes a enemy with\nsharp claws. May\nlower Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rakes a enemy at\nblinding speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a enemy with\nmajestic claws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Focuses beast power\nin a fist and strikes\na finishing blow."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an energy wave\nfrom a beast-powered\nfist."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pummels nearby enemies\nwith a hard fist."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes a enemy with a\nsupersonic punch."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a enemy with a\ndevastating punch."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Curls up, spins, and\nrams a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges into nearby\nenemies with all its\nstrength."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rams nearby enemies\nwith all its might.\nMay paralyze."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a ball of dark\nenergy at a enemy. May\ncause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoots a enemy with an\nenergy ball of dark\nmessengers."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a dark-chaos\nenergy ball at a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a dark-aura\narrow that destroys\na enemy's data."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an arrow of\ndark messengers to\ndestroy enemy data."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an arrow of\ndark chaos to bury\na enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby enemies\nwith dark energy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts a enemy down with\none holy slash."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Tears a enemy with\nsharp dark claws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Tears a enemy with\nrazor-sharp dark\nclaws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Tears a enemy with\nlife-draining claws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a enemy with a\nlife-draining sword.\nDrains MP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts a enemy with a\nchaotic slash. May\ncause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts a enemy with a\njet-black slash."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls foul-smelling\npoop at a enemy. May\ncause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spreads a ward that\ncleanses evil. Raises\nallies' Intelligence\nand Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires sacred pyramid\nlight at nearby enemies.\nMay cause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a bubble of\nlight at a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a bubble of\ndarkness at a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoots a enemy with a\nneedle of lightning."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a ball of\nblazing blue fire at\na enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smashes a enemy with\na spiked iron ball."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an electric\nenergy bullet at a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a dark\nshuriken at a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calls down blue\nlightning on a enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fire raises one\nally's Attack and\nIntelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strong fire raises\none ally's Attack and\nIntelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Intense fire raises\none ally's Attack and\nIntelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Water raises one\nally's Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strong water raises\none ally's Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Powerful water\nraises one ally's\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Inputs a cursed\nprogram into a enemy.\nMay cause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Light raises one\nally's Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strong light raises\none ally's Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 5,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Powerful light\nraises one ally's\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese technique/effect text. Stat names follow the English UI glossary; effects are kept concise for the move-info panel."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is that tasty sap?\nIf it's really that good,\nmaybe I'll taste it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese DigiFarm report; EXP terminology follows the game's existing English UI."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, it's sweet and\nquite tasty!\nI seem to have gained\nlots of EXP!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese DigiFarm report; EXP terminology follows the game's existing English UI."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh! It's so sticky\nand hard to lick!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese DigiFarm report; EXP terminology follows the game's existing English UI."
+    }
+  ]
+}

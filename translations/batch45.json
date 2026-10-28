@@ -1,0 +1,1305 @@
+{
+  "description": "Translate the third 100 Digimon profile records directly from Japanese.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 0,
+      "category": "Digimon profiles",
+      "english": [
+        "An armored\ndragon Digimon\nwith a tough\nbody and a horn\nas hard as\ndiamond. It\ncharges foes\nwith its horn\nand can breathe\nhuge fireballs."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 1,
+      "category": "Digimon profiles",
+      "english": [
+        "A reaper-like\nghost Digimon\ncarrying a huge\nchain sickle.\nThe cloth\ncovering it\nconnects to\nanother\ndimension. It\nis said that no\none possessed\nby Phantomon\ncan be saved."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 2,
+      "category": "Digimon profiles",
+      "english": [
+        "A black,\nbull-like\nsacred beast\nDigimon clad in\nred armor. This\nmighty warrior\nwields two\nswords said to\nbe powerful\nenough to split\na mountain."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 3,
+      "category": "Digimon profiles",
+      "english": [
+        "A legendary\nholy dragon\nDigimon evolved\nfrom Veedramon\nafter many\nvictories. It\nhas grown wings\nand gained\ngreatly\nimproved\noffense and\ndefense."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 4,
+      "category": "Digimon profiles",
+      "english": [
+        "Leomon's\nUltimate form\nis a beast-man\nDigimon wearing\nrapidly\nspinning armor\non its arms and\nlegs. A master\nwarrior, it\nbattles evil\nwith swift,\npowerful\nattacks like a\nwhirlwind."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 5,
+      "category": "Digimon profiles",
+      "english": [
+        "A warrior\nDigimon clad in\nheavy Chrome\nDigizoid armor\nand wielding\nits favorite\ngreatsword with\nease. The armor\nrestrains its\ndangerous\npower. It\nserves its\nmaster\nfaithfully,\nwhether good or\nevil."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 6,
+      "category": "Digimon profiles",
+      "english": [
+        "A gentle,\nlong-necked\ndragon Digimon\nresembling a\ndinosaur from\nancient times.\nDespite its\nhuge body, it\nis\nmild-mannered\nand spends its\ndays at a\nleisurely pace."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 7,
+      "category": "Digimon profiles",
+      "english": [
+        "A kappa-like\ndemon Digimon\nsaid to have\nbeen banished\nfrom the\nDigital World's\nheaven. Its\nnecklace seals\nits DigiCore;\nif even one\ncharm is lost,\nit may revert\nto a terrifying\ncreature."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 8,
+      "category": "Digimon profiles",
+      "english": [
+        "A three-legged\ncrow Digimon.\nThe sacred\njewels on its\nwings generate\nholy energy.\nLegend says it\nguides the\nchosen to the\nGolden Land of\nthe Digital\nWorld."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 9,
+      "category": "Digimon profiles",
+      "english": [
+        "A puppet\nDigimon skilled\nwith artillery.\nIts attacks\ncover a long,\nwide range,\nallowing it to\nstrike enemies\nfrom afar."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 10,
+      "category": "Digimon profiles",
+      "english": [
+        "A fortress-like\nDigimon with\nimpenetrable\ndefense. It\nblocks enemy\nattacks, then\ncounterattacks\nwith speed\nunexpected from\na giant."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 11,
+      "category": "Digimon profiles",
+      "english": [
+        "A form evolved\nfrom Fairymon\nfor\nhand-to-hand\ncombat. It\nstands on two\nlegs and\nchannels the\npower of fire\nand lions into\nits fighting\nspirit. Its\nsignature fist\nattack is\nCrimson Beast\nKing Wave."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 12,
+      "category": "Digimon profiles",
+      "english": [
+        "Lekismon's\nUltimate form\nmoves at\nincredible\nspeed. Wielding\ntwo\ncrescent-marked\nweapons called\nNoire Luna, it\ndances through\nbattle and\nslices foes\napart with its\nsignature move,\nLunatic Dance."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 13,
+      "category": "Digimon profiles",
+      "english": [
+        "An Armor\nDigivolution of\nVeemon using\nthe Digi-Egg of\nCourage. It\ndraws out the\nEgg's fire\nattribute\ncompletely and\nlaunches fierce\nattacks like\nblazing flames."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 14,
+      "category": "Digimon profiles",
+      "english": [
+        "A Royal Knight\nand Veemon's\nArmor\nDigivolution\nwith the\nDigi-Egg of\nMiracles. Its\nChrome Digizoid\narmor is\nexceptionally\ntough, and its\nmiraculous\npower can\novercome any\ncrisis."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 15,
+      "category": "Digimon profiles",
+      "english": [
+        "Patamon's Armor\nDigivolution\nwith the\nDigi-Egg of\nKindness. It\nexcels at\ndigging through\nthe ground and,\nwhen\nfrightened, may\nquickly burrow\naway to escape."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 16,
+      "category": "Digimon profiles",
+      "english": [
+        "Wormmon's Armor\nDigivolution\nwith the\nDigi-Egg of\nMiracles. This\nheavyweight\nfighter has a\ngolden metal\nbody and wields\nthe sacred\nVajra, said to\nmake miracles\nhappen."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 17,
+      "category": "Digimon profiles",
+      "english": [
+        "Hawkmon's Armor\nDigivolution\nwith the\nDigi-Egg of\nPurity. It\nblends into\nnature and\nattacks like a\nninja,\nextending its\nspringlike arms\nand legs to\ngreat length."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 18,
+      "category": "Digimon profiles",
+      "english": [
+        "Armadillomon's\nArmor\nDigivolution\nwith the\nDigi-Egg of\nFriendship. Its\nright arm is a\nforklift and\nits left a\npower shovel,\nmaking it\nuseful for any\nconstruction\njob."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 19,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon born\nfrom an\nalgorithm bug.\nIt uses\ncountless vines\nlike tentacles\nto dominate a\nwide area,\ntransforming\ninto a\nparasitic form\ncalled Worm\nPhase."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 20,
+      "category": "Digimon profiles",
+      "english": [
+        "A Jogress of\nAngemon and\nAnkylomon with\nhigh defense.\nIts appearance\nsuggests it may\nbe an angel\nDigimon\ndescended from\nthe ancient\nDigital World.\nIts neck and\ntorso rotate\n360 degrees,\nletting it\nattack in any\ndirection."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 21,
+      "category": "Digimon profiles",
+      "english": [
+        "An evil\nevolution of\nthe Seadramon\nspecies. It\ncontrols dark\npower with the\nblade-like horn\non its head and\nis even more\ncunning and\nrelentless in\nhunting prey\nthan\nMegaseadramon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 22,
+      "category": "Digimon profiles",
+      "english": [
+        "An undead\nDigimon revived\nfrom fossil\ndata. The black\nchill pouring\nfrom its\nDigiCore fills\nany Digimon\nwith mortal\nterror. Its\nsignature move\nis Grave Bone."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 23,
+      "category": "Digimon profiles",
+      "english": [
+        "A dual-sword\nwarrior Digimon\nknown as the\nGolden Meteor.\nIts\nswordsmanship\nis said to\nsurpass even\nthe Royal\nKnight\nLordKnightmon.\nIts royal-blue\ncape honors its\nmany victories."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 24,
+      "category": "Digimon profiles",
+      "english": [
+        "A Tyrannomon\nthat evolved\nafter surviving\nfierce battles.\nIt trains its\nyounger\nTyrannomon\nfollowers to\nbecome\nfull-fledged\nwarriors, like\na master to its\nstudents."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 25,
+      "category": "Digimon profiles",
+      "english": [
+        "A mysterious\nDigimon that\ncan appear\nanywhere in\ntime and space\nthrough a book.\nResearchers\nbelieve it is a\ndemon Digimon\nfrom the same\nlineage as\nPiedmon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 26,
+      "category": "Digimon profiles",
+      "english": [
+        "A mermaid-like\nDigimon with a\ncaptivating\nsinging voice.\nIts greed for\ntreasure is so\nstrong that it\nwill even steal\nanother\nDigimon's data."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 27,
+      "category": "Digimon profiles",
+      "english": [
+        "A warrior\nDigimon evolved\nfrom\nBryweludramon.\nIt swings a\nhuge greatsword\nthat can fell a\nmountain with\none blow.\nThough nearing\nthe peak of\nstrength, it\nhas begun to\nquestion\nbattles that\ndestroy\neverything."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 28,
+      "category": "Digimon profiles",
+      "english": [
+        "A beast-man\nDigimon called\nthe Cat\nGoddess. Flashy\nand cunning, it\nuses its jewels\nand bewitching\neyes to control\nothers. Its\ngraceful\nmovements hide\ngreat strength,\nand its claws\ncan cut stone."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 29,
+      "category": "Digimon profiles",
+      "english": [
+        "A hellhound\nDigimon\nprotected by\ntough\nbiological\narmor. It\nrepairs damage\nover time. The\narmor on its\nshoulders is\nsentient,\ndetecting\nattacks from\nevery direction\nand warning its\ntrue body,\nCerberumon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 30,
+      "category": "Digimon profiles",
+      "english": [
+        "A flame Digimon\nburning even\nhotter than\nMeramon. Its\nsignature Ice\nPhantom fires\ndry-ice-cold\nice at foes,\nleaving them\nwith burns."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 31,
+      "category": "Digimon profiles",
+      "english": [
+        "An insect\nDigimon known\nas the Desert\nAssassin. Its\ntail's venomous\nstinger kills\nbefore its\nvictim notices\nthe wound, so\nthe assassin's\npresence is\nnever\ndiscovered."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 32,
+      "category": "Digimon profiles",
+      "english": [
+        "Tailmon's Armor\nDigivolution\nwith the\nDigi-Egg of\nLight. It draws\nout the Egg's\nholy attribute\nto its fullest,\ngaining power\nthat can drive\naway darkness."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 33,
+      "category": "Digimon profiles",
+      "english": [
+        "The ultimate\ninsect Digimon,\nevolved from\ncombined\nKabuterimon and\nKuwagamon data.\nIts huge horn\nand pincers\ncompensate for\nboth species'\nweaknesses, and\nit flies at\nsupersonic\nspeed."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 34,
+      "category": "Digimon profiles",
+      "english": [
+        "An ancient lion\nDigimon\nbelieved to be\nan ancestor of\nLeomon. Its\norigins are a\nmystery; some\nsay it is\nLeomon in a\nbeast form. It\nmoves at the\nspeed of Mach."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 35,
+      "category": "Digimon profiles",
+      "english": [
+        "Etemon's Mega\nform, upgraded\ninto a\nfull-metal\ncyborg for\ncombat. It\nrebuilt its\ndamaged body\nwith Chrome\nDigizoid, using\ndata gathered\nfrom countless\nbattles."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 36,
+      "category": "Digimon profiles",
+      "english": [
+        "A cute fairy\nDigimon living\nin the Net\nOcean, rarely\nseen by others.\nIts Holy Ring\nsuggests a\nconnection to\nholy Digimon,\nand it prefers\nto avoid\nfighting."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 37,
+      "category": "Digimon profiles",
+      "english": [
+        "A cyborg\nDigimon\nnicknamed the\ngiant\namphibious\nassault\ncarrier. It is\nlonger than\nWhamon and can\ncarry several\nDigimon inside.\nIts attack\npower matches\nits enormous\nsize."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 38,
+      "category": "Digimon profiles",
+      "english": [
+        "A demon Digimon\nin the form of\na clown. It\nappears without\nwarning and is\nshrouded in\nmystery. If you\nmeet it, you\ncan only curse\nyour fate."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 39,
+      "category": "Digimon profiles",
+      "english": [
+        "A Demon Lord\nwho commands\ndemons and\nfallen angels.\nIt was once a\nhigh-ranking\nangel, but was\ncast into the\nDark Area for\ndefying the\nforces of good\nand now bears a\ngrudge against\nthem."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 40,
+      "category": "Digimon profiles",
+      "english": [
+        "The ultimate\nform of a\ngolden bird\nDigimon with\nfour wings. It\nleads all bird\nDigimon and is\nalso said to\nunite holy\nDigimon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 41,
+      "category": "Digimon profiles",
+      "english": [
+        "A puppet\nDigimon made\nfrom the body\nof the cursed\nCherrymon.\nThough it looks\nlike a\nmarionette, it\nhas a will of\nits own. Many\ncomputer errors\nare said to be\nits doing."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 42,
+      "category": "Digimon profiles",
+      "english": [
+        "A rose-like\nfairy Digimon\nknown as the\nQueen of\nFlowers. The\ngem on its\nchest, Tifaret,\nis said to\npromise eternal\nbeauty and\nstrength. It\nalways strives\nto remain\nbeautiful."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 43,
+      "category": "Digimon profiles",
+      "english": [
+        "The Mega form\nof the Greymon\nspecies, clad\nin Chrome\nDigizoid armor\nwith Dramon\nKillers on its\narms and a\nBrave Shield on\nits back. This\nveteran dragon\nwarrior has\ngreatly\nincreased speed\nand power."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 44,
+      "category": "Digimon profiles",
+      "english": [
+        "The Mega form\nof the\nGarurumon\nspecies,\nupgraded\nwithout\nsacrificing\nspeed. Its\ncyborg body\nhides many\nweapons; it\nlocks on with a\nlaser sight and\ncan fly at\nextreme speed\non beam wings."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 45,
+      "category": "Digimon profiles",
+      "english": [
+        "A full-metal\ncyborg\nassembled from\nparts of many\ncyborg Digimon.\nIt has immense\npower and\nintelligence\nbut no will of\nits own. An\nunknown being\nimplanted an\nevil program in\nits DigiCore,\nfeeding it\nendless malice."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 46,
+      "category": "Digimon profiles",
+      "english": [
+        "A beast Digimon\nwith an armored\nupper body and\nanimal-like\nlower half. It\nis Vamdemon\nafter releasing\nits true power,\nbut loses\nitself to\nrampaging and\ndislikes this\nform."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 47,
+      "category": "Digimon profiles",
+      "english": [
+        "An ancient,\nultimate dragon\nDigimon. Its\nimmense power\nis difficult to\ncontrol, so it\nmay become\neither good or\nevil. It is\nsaid to have\nanother form\nthat can use\nall its power."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 48,
+      "category": "Digimon profiles",
+      "english": [
+        "A Demon Lord\nonce a\nhigh-ranking\nangel, cast\ninto the Dark\nArea. Unlike\nother fallen\nangels, it\nstays neutral\nbetween good\nand evil, but\nis said to\nbecome a god of\ndestruction in\nthe final\nbattle."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 49,
+      "category": "Digimon profiles",
+      "english": [
+        "A Seraph\nDigimon clad in\nsacred armor\nand bearing ten\ngolden wings.\nIt ranks above\nall other angel\nDigimon and is\none of the\nThree Great\nAngels,\nalongside\nOphanimon and\nCherubimon\n(Virtue)."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 50,
+      "category": "Digimon profiles",
+      "english": [
+        "A cyborg\nDigimon\nperfected by\nupgrading the\nincomplete\nAndromon and\nadding Chrome\nDigizoid parts\nto its body. It\ncan think for\nitself and\nlaunch precise,\npowerful\nattacks against\nVirus Digimon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 51,
+      "category": "Digimon profiles",
+      "english": [
+        "A mutant\nDigimon said to\nbe\nDigitamamon's\ndark evolution,\nlike a\nPandora's box.\nIt contains all\nthe Digital\nWorld's evil\nand uses lost\nancient\nprogramming\nlanguages as\nmagic to\ndestroy\neverything."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 52,
+      "category": "Digimon profiles",
+      "english": [
+        "A beast-like\nCherub Digimon\nthat wields\npowerful\nlightning like\ndivine\npunishment. It\nis one of the\nThree Great\nAngels,\nalongside\nSeraphimon and\nOphanimon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 53,
+      "category": "Digimon profiles",
+      "english": [
+        "The\nVirus-corrupted\nform of\nCherubimon\n(Virtue), one\nof the Three\nGreat Angels.\nIt can wield\npowerful\nlightning that\nfalls like\ndivine\npunishment."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 54,
+      "category": "Digimon profiles",
+      "english": [
+        "A Royal Knight,\none of the\nhighest-ranking\nnetwork\nsecurity\nguardians.\nThough a Virus\ntype, it\nprotects the\nNet; if balance\nis lost, it can\nbecome\ndangerous. It\nbears sacred\nChrome Digizoid\narmor, the\nlance Gram, and\nthe shield\nAegis."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 55,
+      "category": "Digimon profiles",
+      "english": [
+        "A gigantic\nmachine Digimon\nmade entirely\nof weapons. It\nis slow because\nit channels its\nenergy into\npower, giving\nit astonishing\ndestructive\nforce and the\nability to\ncounterattack\nfrom any\ndirection."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 56,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon that\nserves as a\nshrine maiden\nand conveys\ndivine will. It\ncan assume a\npriestess form\nfor rituals.\nFour fox\nspirits hide in\nthe tubes at\nits waist,\naiding it in\nbattle and\ngathering\ninformation.\nIts Onmyodo\narts create\nbarriers that\nrepel evil."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 57,
+      "category": "Digimon profiles",
+      "english": [
+        "A destructive\nDigimon bearing\nthe name of a\ndemon. It\nabsorbs network\ndata,\nrepeatedly\nevolves and\ngrows, and\nrampages. It\nplans to seize\na military\ncomputer and\nattack the\nhuman world\nwith nuclear\nmissiles."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 58,
+      "category": "Digimon profiles",
+      "english": [
+        "A sea-king\nDigimon who\nrules all\naquatic\nDigimon. Its\nscale armor is\nmade of light,\nstrong Blue\nDigizoid,\ngranting high\nmobility. Its\nmassive spear\nalso gives it\nformidable\nattack power."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 59,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon born\nwhen a hacker's\ncomputer virus\nsuddenly\nmutated. Small\nbut fiercely\nproud, it\ncannot resist\npicking a fight\nwith anyone.\nIts metal head\nis made of\nChrome\nDigizoid."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 60,
+      "category": "Digimon profiles",
+      "english": [
+        "A beast Digimon\nborn from parts\nof bird-like\nand animal-like\nDigimon. It\nhides in caves\nin deserts and\nmountains. Fast\nand powerful,\nit guards data\non the\nInternet."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 61,
+      "category": "Digimon profiles",
+      "english": [
+        "A mysterious\nlong-necked\ndragon Digimon\ndiscovered by\nresearchers\nstudying\nunidentified\ncreatures. It\nappears on\nmisty days but\nis rarely seen;\nits cry makes\nlisteners feel\nsad."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 62,
+      "category": "Digimon profiles",
+      "english": [
+        "A cyborg\nDigimon created\naround the same\ntime as\nAndromon, with\na human-based\nbody. It has\nemotions and\ngreat strength,\nbut could not\nbe controlled;\nrecords of its\nexistence were\nerased after an\naccident."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 63,
+      "category": "Digimon profiles",
+      "english": [
+        "A mutant\nDigimon born\nfrom royal\ndata, called\nthe Prince of\nthe Mamemon\nKingdom. Its\ncrown and cape\nare based on\nroyal records,\nit is quite\nluxurious, and\nit always wears\na smile."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 64,
+      "category": "Digimon profiles",
+      "english": [
+        "An Ophanim\nDigimon\nembodying\ndivine love and\nstanding at the\nsummit of\nfemale angel\nDigimon. It is\none of the\nThree Great\nAngels,\nalongside\nSeraphimon and\nCherubimon\n(Virtue)."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 65,
+      "category": "Digimon profiles",
+      "english": [
+        "A brave demon\nDigimon who\nleads the\nMusyamon army's\ncharge. Its\nlower body is a\nhorse, giving\nit balance in\nbattle as it\nswings its\nkatana. The\nhuge blade in\nits right hand\nis called\nRyuzanmaru."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 66,
+      "category": "Digimon profiles",
+      "english": [
+        "An ancient\nDigimon in the\nform of an old\nman, said to\nhave existed\nsince the\nDigital World's\ncreation. This\nsage knows\neverything and\nis said to have\nguided chosen\nhumans when the\nworld was in\ndanger."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 67,
+      "category": "Digimon profiles",
+      "english": [
+        "An ancient\nDigimon in the\nform of an old\nwoman. Some\nwhisper that an\nevil being\ncursed Rosemon\ninto this\nshape, though\nno one knows\nthe truth. One\nsweep of her\nmagic broom can\nerase evil\nVirus data."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 68,
+      "category": "Digimon profiles",
+      "english": [
+        "A god Digimon\ncalled the\njudge of\nDigimon,\nguardian of the\nDark Area. It\ncan rebirth\nincoming data\nas Digi-Eggs or\nimprison evil\ndata in\ndarkness, and\ncan summon the\nbeasts of hell."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 69,
+      "category": "Digimon profiles",
+      "english": [
+        "A parasite\nDigimon that\npossesses\nothers and\ncontrols them\nat will. It\nresembles a\none-eyed spider\nand can draw\nout its host's\nfull abilities,\nbut makes the\nvictim\nferocious."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 70,
+      "category": "Digimon profiles",
+      "english": [
+        "A metal,\nfour-legged\ndragon Digimon\nequipped with a\nlong-range\ncannon. Its\npowerful cannon\nshot and sturdy\narmor make it a\nformidable\nfighter, and\nits tail is\ndangerous at\nclose range."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 71,
+      "category": "Digimon profiles",
+      "english": [
+        "An angel\nDigimon who\nleads the angel\narmy into\nbattle. Its\nwhole body is\nlike a sharp\nblade, letting\nit slash foes\nto pieces. It\nis among the\nangels most\nspecialized for\noffense."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 72,
+      "category": "Digimon profiles",
+      "english": [
+        "A giant bird\nDigimon clad in\ngolden armor\nmade of Chrome\nDigizoid, which\nrepels every\nattack. It is\nsaid to remove\nintruders who\nenter the\nDigital World."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 73,
+      "category": "Digimon profiles",
+      "english": [
+        "A fictional\nDigimon born\nfrom the\nimagined\nDigiCore: an\navatar of\nimmense\ndestruction and\nthe ultimate\nenemy. Its\npower is too\ngreat for an\nordinary Tamer\nto control."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 74,
+      "category": "Digimon profiles",
+      "english": [
+        "A solitary\nDemon Lord\nDigimon who\nprefers to act\nalone. Proud\nand fiercely\nindependent, it\ndislikes\nganging up on\nthe weak. Its\ntwo favorite\nshotguns are\ncalled\nBeerenhena."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 75,
+      "category": "Digimon profiles",
+      "english": [
+        "A proud\nbeast-man\nDigimon who\nlives by its\nown sense of\njustice. It\nfights anyone\nwho opposes\nthat justice,\nand only a\nDigimon that\nkeeps winning\nagainst\npowerful foes\ncan earn the\ntitle of\nBancho."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 76,
+      "category": "Digimon profiles",
+      "english": [
+        "A cyborg\nDigimon\nbelieved to be\nthe D-Brigade's\nfinal battle\nweapon. It\nwanders in\nsearch of a\ntarget\ncodenamed\nBAN-TYO and\ncarries a\nhidden\nGigastick Lance\nin its right\narm."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 77,
+      "category": "Digimon profiles",
+      "english": [
+        "A cyborg\nDigimon\nartificially\ncreated by\nstudying\ncaptured\nVademon data.\nIt is said to\nhave been built\nwith alien\ntechnology at\nArea 51."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 78,
+      "category": "Digimon profiles",
+      "english": [
+        "A dark beast\nDigimon from\nthe deepest\npart of the\nDark Area. Its\nbody is as\nlarge as a\nmountain, and\nits lower jaw\nis said to open\ninto the Dark\nArea's depths.\nAnything\nswallowed has\nits DigiCore\ncrushed."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 79,
+      "category": "Digimon profiles",
+      "english": [
+        "A golden holy\ndragon Digimon\nwith a dragon\nhidden in each\nhand. It can\nrelease divine\nenergy and\nattack foes\nanywhere with\nits\ntree-shattering\nmove, God\nFlame."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 80,
+      "category": "Digimon profiles",
+      "english": [
+        "The Mega form\nof the\nSeadramon\nspecies,\nentirely\ncovered in\nChrome Digizoid\narmor. Its\nmetal body\ndeflects\nattacks, and it\nis by far the\nfastest aquatic\nDigimon in the\nwater."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 81,
+      "category": "Digimon profiles",
+      "english": [
+        "A pure-white\nwarrior Digimon\nthat moves too\nquickly for the\neye to follow.\nIts magic sword\nFenrir Sword\nfreezes\nanything it\ncuts. The\ngolden bird\nFreyja at its\nside warns it\nof danger."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 82,
+      "category": "Digimon profiles",
+      "english": [
+        "A righteous\ncyborg Digimon\nwho appears in\na flash,\ntrailing a red\nscarf. It is a\nhero admired by\nRookie Digimon\nand never\ntolerates evil.\nIt evolves from\nCyberdramon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 83,
+      "category": "Digimon profiles",
+      "english": [
+        "A beast-man\nDigimon who\ncommands\nIkkakumon and\nZudomon and\nrules the\nfrozen land.\nIts fur is as\nhard as Chrome\nDigizoid. It is\nmerciless to\nfoes but caring\ntoward its\nfollowers, and\ncarries Mjolnir\non its back."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 84,
+      "category": "Digimon profiles",
+      "english": [
+        "The black Virus\nform of\nWarGreymon. Its\nbeliefs oppose\nWarGreymon's,\nbut it has its\nown sense of\njustice. A\nproud warrior,\nit hates\ncowardice and\ndoes not\nconsider\ndeceitful Virus\nDigimon its\nallies."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 85,
+      "category": "Digimon profiles",
+      "english": [
+        "A\nSkullMammothmon\ncreated when\nMammothmon,\nlong a fighter\nagainst Virus\nDigimon, was\ninfected and\nreduced to\nbones. It has\nlost its\nemotions but\nstill remembers\nits mission to\ndefeat Virus\ntypes."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 86,
+      "category": "Digimon profiles",
+      "english": [
+        "The final form\nof the\nKuwagamon\nspecies. It\nlives deep in\nthe forest and\nis active only\nat night.\nCalled the\nDemon of the\nDeep Forest, it\nis HerakleKabut\nerimon's\neternal rival."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 87,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon said\nto have evolved\nfrom a mummy\ntype and ruled\nmany areas of\nthe ancient\nDigital World.\nLegends say it\nused many\nDigimon to\ncomplete\nmysterious\nancient ruins,\nshowing its\ngreat\nauthority."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 88,
+      "category": "Digimon profiles",
+      "english": [
+        "A Royal Knight\nsaid to\nrestrain the\nothers, though\nit never\nappears. It is\nalso called the\nmaster of the\nEmpty Seat."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 89,
+      "category": "Digimon profiles",
+      "english": [
+        "The ultimate\nform of the\nholy beast\nDigimon, a holy\ndragon that\ncarries the\nenergy of\njustice and\nlight to erase\nevil. Few have\nseen it, and\nits home is\nunknown; it is\nsaid to appear\nwhen evil\nenergy arises."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 90,
+      "category": "Digimon profiles",
+      "english": [
+        "A composite\nDigimon born\nfrom the fusion\nof powerful\nMugendramon and\nChimairamon\ndata. The cause\nof the fusion\nremains a\nmystery; it is\nsaid to freely\ncontrol space\nand dimensions."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 91,
+      "category": "Digimon profiles",
+      "english": [
+        "A wicked dragon\nDigimon formed\nby\nMegalogrowmon's\nmistaken\nevolution. It\nspreads hatred\nand seeks to\ndestroy\neverything it\nsees, embodying\nthe dangerous\npower of the\nDigital Hazard."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 92,
+      "category": "Digimon profiles",
+      "english": [
+        "A Royal Knight\nbeast Digimon\nwith six legs\nand high-speed\nmovement, clad\nin Red Digizoid\narmor. It\ncarries the\nsacred bow\nMuspelheim and\nthe sacred\nshield\nNiflheim."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 93,
+      "category": "Digimon profiles",
+      "english": [
+        "A holy dragon\nDigimon that\nstores blazing\nsolar energy\nfor battle. Its\nshining wings\noverflow with\nlight, and it\ncan summon the\nGeoGrey Sword,\ncondensed from\nthe power of\nthe earth."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 94,
+      "category": "Digimon profiles",
+      "english": [
+        "A heavy knight\nDigimon fully\ncovered in\nChrome Digizoid\narmor. It moves\nat incredible\nspeed,\nappearing like\na mirage to its\nopponents, and\ncan use a wide\nrange of\ntechniques."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 95,
+      "category": "Digimon profiles",
+      "english": [
+        "A gigantic\ncyborg Digimon\nthat sacrificed\nsome shell\nstrength to\ncover its body\nwith beam\ncannons. Its\npowerful\nall-over\nweapons make\nthe saying 'the\nbest defense is\na good offense'\nsuit it\nperfectly."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 96,
+      "category": "Digimon profiles",
+      "english": [
+        "A stealthy\nninja Digimon\nonce called the\nSilver Crow,\nserving another\nDigimon at the\ndawn of the\nDigital World.\nLegend says the\ngods' anger\nturned one of\nits wings\nblack."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 97,
+      "category": "Digimon profiles",
+      "english": [
+        "The strongest\nChessmon, with\nextreme range\nand attack\npower. It is a\nreliable\nprotector for\nthe timid\nKingChessmon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 98,
+      "category": "Digimon profiles",
+      "english": [
+        "The king\nChessmon who\nschemes to\nbuild a\nChessmon\nempire. The\nother Chessmon\ndo not know\nwhat this\nempire would\nbe, and no one\naround him is\ninterested. He\nis timid and\nruns very fast."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 2,
+      "start": 99,
+      "category": "Digimon profiles",
+      "english": [
+        "A legendary\nDigimon born\nalongside\nChrono Data\nthrough the\nYMIR Project.\nIt can assume\nHoly Mode only\nwhen it\nundergoes super\nevolution with\nthe power of\nsacred light."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Official Digimon names and franchise terminology are used where identifiable; see the linked English card list for nomenclature reference."
+    }
+  ]
+}

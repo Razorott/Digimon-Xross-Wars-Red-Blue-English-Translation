@@ -1,0 +1,187 @@
+{
+  "description": "Translate the emergency call and the opening of the Chibickmon search mission.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "Ngh...! Hey,\nhey, hey...\nWh-what is it?\nWhat's going\non?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "...What\nhappened all of\na sudden,\nShoutmon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "The Pickmon on\nthe Sky\nFortress... Ow!\nMy ears!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Your ears?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "They're yelling\nsomething over\nthe emergency\nchannel, but\nthey're\npanicking and\nshouting so\nmuch... I can't\nunderstand a\nword!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "This looks bad,\nTaiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Maybe ROG\nattacked again!\nLet's hurry\nback to the Sky\nFortress!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Ah, Taiki! Did\nyou hear the\ncall?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "This is\nserious,\nbrother!\nChibickmon...!\nThat little\nPickmon from\nthe Pickmons\nwas kidnapped!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "Kidnapped...?\nBy whom? When?\nWhy? Where did\nthey take it?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "We don't\nknow...! We\ndon't know what\nhappened... We\nlooked away for\njust a moment,\nand it was\ngone. S-sorry,\nbrother! We\nwere supposed\nto keep an eye\non it..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "Could it have\njust gotten\nlost...? Maybe\nit's playing\nsomewhere?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "No... If even\nthe other\nPickmon called\nout and it\ndidn't answer,\nit's probably\nnot just lost."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "Actually, the\nlast Digimon to\nsee the little\none heard it\nsay, 'Wait up,\nbig sis!' I\nthink it\nfollowed\nsomeone."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated directly from Japanese; Chibickmon and other Digimon names use the project naming style."
+    }
+  ]
+}

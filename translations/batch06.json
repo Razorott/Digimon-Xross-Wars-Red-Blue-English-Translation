@@ -1,0 +1,5751 @@
+{
+  "description": "Battle Melody reward messages, repeated NPC dialogue, DigiLab/capture tutorials, canonical Digimon spelling candidates, and additional Dawn/Dusk move-name matches.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 415,
+      "category": "Digimon name",
+      "english": [
+        "GigaSeadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 888,
+      "category": "Digimon name",
+      "english": [
+        "GigaSeadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4179,
+      "category": "Digimon name",
+      "english": [
+        "GigaSeadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 416,
+      "category": "Digimon name",
+      "english": [
+        "Piedmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 889,
+      "category": "Digimon name",
+      "english": [
+        "Piedmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 417,
+      "category": "Digimon name",
+      "english": [
+        "Creepymon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=EX10-009&search=true",
+      "review_note": "The official English card list uses Creepymon. Some older games use Daemon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 890,
+      "category": "Digimon name",
+      "english": [
+        "Creepymon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=EX10-009&search=true",
+      "review_note": "The official English card list uses Creepymon. Some older games use Daemon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4199,
+      "category": "Digimon name",
+      "english": [
+        "Creepymon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=EX10-009&search=true",
+      "review_note": "The official English card list uses Creepymon. Some older games use Daemon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 418,
+      "category": "Digimon name",
+      "english": [
+        "Phoenixmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 604,
+      "category": "Digimon name",
+      "english": [
+        "Phoenixmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 891,
+      "category": "Digimon name",
+      "english": [
+        "Phoenixmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4213,
+      "category": "Digimon name",
+      "english": [
+        "Phoenixmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 419,
+      "category": "Digimon name",
+      "english": [
+        "Puppetmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 892,
+      "category": "Digimon name",
+      "english": [
+        "Puppetmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4209,
+      "category": "Digimon name",
+      "english": [
+        "Puppetmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 420,
+      "category": "Digimon name",
+      "english": [
+        "Rosemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 893,
+      "category": "Digimon name",
+      "english": [
+        "Rosemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4226,
+      "category": "Digimon name",
+      "english": [
+        "Rosemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 421,
+      "category": "Digimon name",
+      "english": [
+        "WarGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 894,
+      "category": "Digimon name",
+      "english": [
+        "WarGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4172,
+      "category": "Digimon name",
+      "english": [
+        "WarGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 422,
+      "category": "Digimon name",
+      "english": [
+        "MetalGarurumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 895,
+      "category": "Digimon name",
+      "english": [
+        "MetalGarurumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4222,
+      "category": "Digimon name",
+      "english": [
+        "MetalGarurumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 423,
+      "category": "Digimon name",
+      "english": [
+        "Machinedramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 896,
+      "category": "Digimon name",
+      "english": [
+        "Machinedramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 426,
+      "category": "Digimon name",
+      "english": [
+        "Ghoulmon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=BT25-076&search=true",
+      "review_note": "The official English card list uses Ghoulmon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 626,
+      "category": "Digimon name",
+      "english": [
+        "Ghoulmon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=BT25-076&search=true",
+      "review_note": "The official English card list uses Ghoulmon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 899,
+      "category": "Digimon name",
+      "english": [
+        "Ghoulmon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=BT25-076&search=true",
+      "review_note": "The official English card list uses Ghoulmon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 427,
+      "category": "Digimon name",
+      "english": [
+        "Seraphimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 900,
+      "category": "Digimon name",
+      "english": [
+        "Seraphimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4193,
+      "category": "Digimon name",
+      "english": [
+        "Seraphimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 428,
+      "category": "Digimon name",
+      "english": [
+        "HiAndromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 901,
+      "category": "Digimon name",
+      "english": [
+        "HiAndromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4206,
+      "category": "Digimon name",
+      "english": [
+        "HiAndromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 429,
+      "category": "Digimon name",
+      "english": [
+        "Devitamamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 902,
+      "category": "Digimon name",
+      "english": [
+        "Devitamamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4200,
+      "category": "Digimon name",
+      "english": [
+        "Devitamamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 430,
+      "category": "Digimon name",
+      "english": [
+        "Cherubimon (Virtue)"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4184,
+      "category": "Digimon name",
+      "english": [
+        "Cherubimon (Virtue)"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 431,
+      "category": "Digimon name",
+      "english": [
+        "Cherubimon (Vice)"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 432,
+      "category": "Digimon name",
+      "english": [
+        "Gallantmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 905,
+      "category": "Digimon name",
+      "english": [
+        "Gallantmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4474,
+      "category": "Digimon name",
+      "english": [
+        "Gallantmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 433,
+      "category": "Digimon name",
+      "english": [
+        "MegaGargomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 906,
+      "category": "Digimon name",
+      "english": [
+        "MegaGargomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4194,
+      "category": "Digimon name",
+      "english": [
+        "MegaGargomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 434,
+      "category": "Digimon name",
+      "english": [
+        "Sakuyamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 907,
+      "category": "Digimon name",
+      "english": [
+        "Sakuyamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4187,
+      "category": "Digimon name",
+      "english": [
+        "Sakuyamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 435,
+      "category": "Digimon name",
+      "english": [
+        "Diaboromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 908,
+      "category": "Digimon name",
+      "english": [
+        "Diaboromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4198,
+      "category": "Digimon name",
+      "english": [
+        "Diaboromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 436,
+      "category": "Digimon name",
+      "english": [
+        "Neptunmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 909,
+      "category": "Digimon name",
+      "english": [
+        "Neptunmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4205,
+      "category": "Digimon name",
+      "english": [
+        "Neptunmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 437,
+      "category": "Digimon name",
+      "english": [
+        "Pukumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 608,
+      "category": "Digimon name",
+      "english": [
+        "Pukumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 910,
+      "category": "Digimon name",
+      "english": [
+        "Pukumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 438,
+      "category": "Digimon name",
+      "english": [
+        "Gryphonmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 911,
+      "category": "Digimon name",
+      "english": [
+        "Gryphonmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 439,
+      "category": "Digimon name",
+      "english": [
+        "Plesiomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 912,
+      "category": "Digimon name",
+      "english": [
+        "Plesiomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 440,
+      "category": "Digimon name",
+      "english": [
+        "Boltmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 627,
+      "category": "Digimon name",
+      "english": [
+        "Boltmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 913,
+      "category": "Digimon name",
+      "english": [
+        "Boltmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4215,
+      "category": "Digimon name",
+      "english": [
+        "Boltmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 441,
+      "category": "Digimon name",
+      "english": [
+        "PrinceMamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 914,
+      "category": "Digimon name",
+      "english": [
+        "PrinceMamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4211,
+      "category": "Digimon name",
+      "english": [
+        "PrinceMamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 442,
+      "category": "Digimon name",
+      "english": [
+        "Ophanimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 915,
+      "category": "Digimon name",
+      "english": [
+        "Ophanimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4176,
+      "category": "Digimon name",
+      "english": [
+        "Ophanimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 443,
+      "category": "Digimon name",
+      "english": [
+        "Zanbamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 916,
+      "category": "Digimon name",
+      "english": [
+        "Zanbamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4188,
+      "category": "Digimon name",
+      "english": [
+        "Zanbamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 444,
+      "category": "Digimon name",
+      "english": [
+        "Jijimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 917,
+      "category": "Digimon name",
+      "english": [
+        "Jijimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 445,
+      "category": "Digimon name",
+      "english": [
+        "Babamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 918,
+      "category": "Digimon name",
+      "english": [
+        "Babamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 446,
+      "category": "Digimon name",
+      "english": [
+        "Anubimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 613,
+      "category": "Digimon name",
+      "english": [
+        "Anubimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 919,
+      "category": "Digimon name",
+      "english": [
+        "Anubimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4169,
+      "category": "Digimon name",
+      "english": [
+        "Anubimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 447,
+      "category": "Digimon name",
+      "english": [
+        "Parasimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 920,
+      "category": "Digimon name",
+      "english": [
+        "Parasimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 448,
+      "category": "Digimon name",
+      "english": [
+        "Cannondramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 921,
+      "category": "Digimon name",
+      "english": [
+        "Cannondramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4178,
+      "category": "Digimon name",
+      "english": [
+        "Cannondramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 922,
+      "category": "Digimon name",
+      "english": [
+        "SlashAngemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 450,
+      "category": "Digimon name",
+      "english": [
+        "Eaglemon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?category=522118&search=true",
+      "review_note": "The official English card list uses Eaglemon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 923,
+      "category": "Digimon name",
+      "english": [
+        "Eaglemon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?category=522118&search=true",
+      "review_note": "The official English card list uses Eaglemon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4181,
+      "category": "Digimon name",
+      "english": [
+        "Eaglemon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?category=522118&search=true",
+      "review_note": "The official English card list uses Eaglemon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 451,
+      "category": "Digimon name",
+      "english": [
+        "DORUgoramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 924,
+      "category": "Digimon name",
+      "english": [
+        "DORUgoramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4204,
+      "category": "Digimon name",
+      "english": [
+        "DORUgoramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 556,
+      "category": "Digimon name",
+      "english": [
+        "Beelzemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 629,
+      "category": "Digimon name",
+      "english": [
+        "Beelzemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 926,
+      "category": "Digimon name",
+      "english": [
+        "BanchoLeomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 454,
+      "category": "Digimon name",
+      "english": [
+        "Darkdramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 927,
+      "category": "Digimon name",
+      "english": [
+        "Darkdramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4195,
+      "category": "Digimon name",
+      "english": [
+        "Darkdramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 455,
+      "category": "Digimon name",
+      "english": [
+        "Ebemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 928,
+      "category": "Digimon name",
+      "english": [
+        "Ebemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 456,
+      "category": "Digimon name",
+      "english": [
+        "Gulfmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 929,
+      "category": "Digimon name",
+      "english": [
+        "Gulfmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 457,
+      "category": "Digimon name",
+      "english": [
+        "Goldramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 930,
+      "category": "Digimon name",
+      "english": [
+        "Goldramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4185,
+      "category": "Digimon name",
+      "english": [
+        "Goldramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4476,
+      "category": "Digimon name",
+      "english": [
+        "Goldramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 931,
+      "category": "Digimon name",
+      "english": [
+        "MetalSeadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 459,
+      "category": "Digimon name",
+      "english": [
+        "Valkyrimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 932,
+      "category": "Digimon name",
+      "english": [
+        "Valkyrimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4174,
+      "category": "Digimon name",
+      "english": [
+        "Valkyrimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4477,
+      "category": "Digimon name",
+      "english": [
+        "Valkyrimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 460,
+      "category": "Digimon name",
+      "english": [
+        "Justimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 933,
+      "category": "Digimon name",
+      "english": [
+        "Justimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4189,
+      "category": "Digimon name",
+      "english": [
+        "Justimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 461,
+      "category": "Digimon name",
+      "english": [
+        "Vikemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 934,
+      "category": "Digimon name",
+      "english": [
+        "Vikemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4173,
+      "category": "Digimon name",
+      "english": [
+        "Vikemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 935,
+      "category": "Digimon name",
+      "english": [
+        "BlackWarGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 463,
+      "category": "Digimon name",
+      "english": [
+        "SkullMammothmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 936,
+      "category": "Digimon name",
+      "english": [
+        "SkullMammothmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4191,
+      "category": "Digimon name",
+      "english": [
+        "SkullMammothmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 937,
+      "category": "Digimon name",
+      "english": [
+        "GranKuwagamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 465,
+      "category": "Digimon name",
+      "english": [
+        "Pharaohmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 612,
+      "category": "Digimon name",
+      "english": [
+        "Pharaohmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 938,
+      "category": "Digimon name",
+      "english": [
+        "Pharaohmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4210,
+      "category": "Digimon name",
+      "english": [
+        "Pharaohmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4478,
+      "category": "Digimon name",
+      "english": [
+        "Pharaohmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 466,
+      "category": "Digimon name",
+      "english": [
+        "Alphamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 939,
+      "category": "Digimon name",
+      "english": [
+        "Alphamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4171,
+      "category": "Digimon name",
+      "english": [
+        "Alphamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 467,
+      "category": "Digimon name",
+      "english": [
+        "Magnadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 940,
+      "category": "Digimon name",
+      "english": [
+        "Magnadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4214,
+      "category": "Digimon name",
+      "english": [
+        "Magnadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 468,
+      "category": "Digimon name",
+      "english": [
+        "Millenniummon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 941,
+      "category": "Digimon name",
+      "english": [
+        "Millenniummon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4217,
+      "category": "Digimon name",
+      "english": [
+        "Millenniummon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 469,
+      "category": "Digimon name",
+      "english": [
+        "Megidramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 620,
+      "category": "Digimon name",
+      "english": [
+        "Megidramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 942,
+      "category": "Digimon name",
+      "english": [
+        "Megidramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4220,
+      "category": "Digimon name",
+      "english": [
+        "Megidramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 470,
+      "category": "Digimon name",
+      "english": [
+        "Kentaurosmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 943,
+      "category": "Digimon name",
+      "english": [
+        "Kentaurosmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4192,
+      "category": "Digimon name",
+      "english": [
+        "Kentaurosmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 944,
+      "category": "Digimon name",
+      "english": [
+        "ShineGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 945,
+      "category": "Digimon name",
+      "english": [
+        "MirageGaogamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 473,
+      "category": "Digimon name",
+      "english": [
+        "JumboGamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 946,
+      "category": "Digimon name",
+      "english": [
+        "JumboGamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4190,
+      "category": "Digimon name",
+      "english": [
+        "JumboGamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 474,
+      "category": "Digimon name",
+      "english": [
+        "Ravemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 947,
+      "category": "Digimon name",
+      "english": [
+        "Ravemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4225,
+      "category": "Digimon name",
+      "english": [
+        "Ravemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 948,
+      "category": "Digimon name",
+      "english": [
+        "QueenChessmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 950,
+      "category": "Digimon name",
+      "english": [
+        "Chronomon Holy Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 567,
+      "category": "Digimon name",
+      "english": [
+        "Lilithmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 479,
+      "category": "Digimon name",
+      "english": [
+        "Apollomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 952,
+      "category": "Digimon name",
+      "english": [
+        "Apollomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4170,
+      "category": "Digimon name",
+      "english": [
+        "Apollomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 480,
+      "category": "Digimon name",
+      "english": [
+        "Dianamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 953,
+      "category": "Digimon name",
+      "english": [
+        "Dianamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4197,
+      "category": "Digimon name",
+      "english": [
+        "Dianamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 481,
+      "category": "Digimon name",
+      "english": [
+        "Lotusmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 954,
+      "category": "Digimon name",
+      "english": [
+        "Lotusmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4227,
+      "category": "Digimon name",
+      "english": [
+        "Lotusmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 483,
+      "category": "Digimon name",
+      "english": [
+        "Minervamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 609,
+      "category": "Digimon name",
+      "english": [
+        "Minervamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 956,
+      "category": "Digimon name",
+      "english": [
+        "Minervamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4216,
+      "category": "Digimon name",
+      "english": [
+        "Minervamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 484,
+      "category": "Digimon name",
+      "english": [
+        "Leopardmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 957,
+      "category": "Digimon name",
+      "english": [
+        "Leopardmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4203,
+      "category": "Digimon name",
+      "english": [
+        "Leopardmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 485,
+      "category": "Digimon name",
+      "english": [
+        "Spinomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 958,
+      "category": "Digimon name",
+      "english": [
+        "Spinomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4479,
+      "category": "Digimon name",
+      "english": [
+        "Spinomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 486,
+      "category": "Digimon name",
+      "english": [
+        "Mercurymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 959,
+      "category": "Digimon name",
+      "english": [
+        "Mercurymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4223,
+      "category": "Digimon name",
+      "english": [
+        "Mercurymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 487,
+      "category": "Digimon name",
+      "english": [
+        "Gaiomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 960,
+      "category": "Digimon name",
+      "english": [
+        "Gaiomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4177,
+      "category": "Digimon name",
+      "english": [
+        "Gaiomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 488,
+      "category": "Digimon name",
+      "english": [
+        "GranDracmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 961,
+      "category": "Digimon name",
+      "english": [
+        "GranDracmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4183,
+      "category": "Digimon name",
+      "english": [
+        "GranDracmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 962,
+      "category": "Digimon name",
+      "english": [
+        "AncientIrismon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 963,
+      "category": "Digimon name",
+      "english": [
+        "AncientGarurumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 964,
+      "category": "Digimon name",
+      "english": [
+        "AncientMegatheriummon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 965,
+      "category": "Digimon name",
+      "english": [
+        "AncientGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 966,
+      "category": "Digimon name",
+      "english": [
+        "AncientMermaimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 967,
+      "category": "Digimon name",
+      "english": [
+        "AncientWisemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 968,
+      "category": "Digimon name",
+      "english": [
+        "AncientSphinxmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 969,
+      "category": "Digimon name",
+      "english": [
+        "AncientTroiamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 970,
+      "category": "Digimon name",
+      "english": [
+        "AncientBeetlemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 971,
+      "category": "Digimon name",
+      "english": [
+        "AncientVolcamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 972,
+      "category": "Digimon name",
+      "english": [
+        "UlforceVeedramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 975,
+      "category": "Digimon name",
+      "english": [
+        "TigerVespamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 898,
+      "category": "Digimon name",
+      "english": [
+        "Imperialdramon Dragon Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 981,
+      "category": "Digimon name",
+      "english": [
+        "Imperialdramon Fighter Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 982,
+      "category": "Digimon name",
+      "english": [
+        "Imperialdramon Paladin Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 983,
+      "category": "Digimon name",
+      "english": [
+        "Gallantmon Crimson Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 897,
+      "category": "Digimon name",
+      "english": [
+        "VenomMyotismon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 985,
+      "category": "Digimon name",
+      "english": [
+        "MaloMyotismon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=EX10-011&search=true",
+      "review_note": "The official English card list uses MaloMyotismon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 987,
+      "category": "Digimon name",
+      "english": [
+        "ZeedMillenniummon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 988,
+      "category": "Digimon name",
+      "english": [
+        "ChaosGallantmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 990,
+      "category": "Digimon name",
+      "english": [
+        "Moon=Millenniummon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 992,
+      "category": "Digimon name",
+      "english": [
+        "ShineGreymon Burst Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 993,
+      "category": "Digimon name",
+      "english": [
+        "ShineGreymon Ruin Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 994,
+      "category": "Digimon name",
+      "english": [
+        "MirageGaogamon Burst Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 995,
+      "category": "Digimon name",
+      "english": [
+        "Ravemon Burst Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 996,
+      "category": "Digimon name",
+      "english": [
+        "Rosemon Burst Mode"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate. Confirm this individual species/form against its official English reference entry before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1256,
+      "category": "move name",
+      "english": [
+        "Big Tornado"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2532,
+      "category": "move name",
+      "english": [
+        "Big Tornado"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1298,
+      "category": "move name",
+      "english": [
+        "Tiny Metal"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2574,
+      "category": "move name",
+      "english": [
+        "Tiny Metal"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1405,
+      "category": "move name",
+      "english": [
+        "Trump Sword"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2338,
+      "category": "move name",
+      "english": [
+        "Trump Sword"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2339,
+      "category": "move name",
+      "english": [
+        "Trump Sword"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2681,
+      "category": "move name",
+      "english": [
+        "Trump Sword"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3614,
+      "category": "move name",
+      "english": [
+        "Trump Sword"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3615,
+      "category": "move name",
+      "english": [
+        "Trump Sword"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1409,
+      "category": "move name",
+      "english": [
+        "Amemit"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2364,
+      "category": "move name",
+      "english": [
+        "Amemit"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2685,
+      "category": "move name",
+      "english": [
+        "Amemit"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3640,
+      "category": "move name",
+      "english": [
+        "Amemit"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1415,
+      "category": "move name",
+      "english": [
+        "Double Impact"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2368,
+      "category": "move name",
+      "english": [
+        "Double Impact"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2691,
+      "category": "move name",
+      "english": [
+        "Double Impact"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3644,
+      "category": "move name",
+      "english": [
+        "Double Impact"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1418,
+      "category": "move name",
+      "english": [
+        "Holy Flare"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2388,
+      "category": "move name",
+      "english": [
+        "Holy Flare"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2694,
+      "category": "move name",
+      "english": [
+        "Holy Flare"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3664,
+      "category": "move name",
+      "english": [
+        "Holy Flare"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1433,
+      "category": "move name",
+      "english": [
+        "Omega Blade"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2416,
+      "category": "move name",
+      "english": [
+        "Omega Blade"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2709,
+      "category": "move name",
+      "english": [
+        "Omega Blade"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3692,
+      "category": "move name",
+      "english": [
+        "Omega Blade"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1467,
+      "category": "move name",
+      "english": [
+        "Ocean Love"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2336,
+      "category": "move name",
+      "english": [
+        "Ocean Love"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2743,
+      "category": "move name",
+      "english": [
+        "Ocean Love"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3612,
+      "category": "move name",
+      "english": [
+        "Ocean Love"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1469,
+      "category": "move name",
+      "english": [
+        "Necro Mist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2378,
+      "category": "move name",
+      "english": [
+        "Necro Mist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2745,
+      "category": "move name",
+      "english": [
+        "Necro Mist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3654,
+      "category": "move name",
+      "english": [
+        "Necro Mist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1413,
+      "category": "move name",
+      "english": [
+        "Mega Death"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2349,
+      "category": "move name",
+      "english": [
+        "Mega Death"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2689,
+      "category": "move name",
+      "english": [
+        "Mega Death"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3625,
+      "category": "move name",
+      "english": [
+        "Mega Death"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1420,
+      "category": "move name",
+      "english": [
+        "FIN Elysion"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2354,
+      "category": "move name",
+      "english": [
+        "FIN Elysion"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2355,
+      "category": "move name",
+      "english": [
+        "FIN Elysion"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1499,
+      "category": "move name",
+      "english": [
+        "Spiral Flower"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2289,
+      "category": "move name",
+      "english": [
+        "Spiral Flower"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2775,
+      "category": "move name",
+      "english": [
+        "Spiral Flower"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3565,
+      "category": "move name",
+      "english": [
+        "Spiral Flower"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1536,
+      "category": "move name",
+      "english": [
+        "Shogekiha"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2300,
+      "category": "move name",
+      "english": [
+        "Shogekiha"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2812,
+      "category": "move name",
+      "english": [
+        "Shogekiha"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3576,
+      "category": "move name",
+      "english": [
+        "Shogekiha"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1545,
+      "category": "move name",
+      "english": [
+        "Glorious Burst"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2384,
+      "category": "move name",
+      "english": [
+        "Glorious Burst"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2821,
+      "category": "move name",
+      "english": [
+        "Glorious Burst"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3660,
+      "category": "move name",
+      "english": [
+        "Glorious Burst"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1568,
+      "category": "move name",
+      "english": [
+        "Holy Arrow"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2284,
+      "category": "move name",
+      "english": [
+        "Holy Arrow"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2844,
+      "category": "move name",
+      "english": [
+        "Holy Arrow"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3560,
+      "category": "move name",
+      "english": [
+        "Holy Arrow"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1569,
+      "category": "move name",
+      "english": [
+        "SevenHeavens"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2350,
+      "category": "move name",
+      "english": [
+        "SevenHeavens"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2845,
+      "category": "move name",
+      "english": [
+        "SevenHeavens"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3626,
+      "category": "move name",
+      "english": [
+        "SevenHeavens"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1860,
+      "category": "move name",
+      "english": [
+        "Tidal Wave"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2306,
+      "category": "move name",
+      "english": [
+        "Tidal Wave"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3136,
+      "category": "move name",
+      "english": [
+        "Tidal Wave"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3582,
+      "category": "move name",
+      "english": [
+        "Tidal Wave"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1862,
+      "category": "move name",
+      "english": [
+        "Cosmo Flash"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2307,
+      "category": "move name",
+      "english": [
+        "Cosmo Flash"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3138,
+      "category": "move name",
+      "english": [
+        "Cosmo Flash"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3583,
+      "category": "move name",
+      "english": [
+        "Cosmo Flash"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1669,
+      "category": "move name",
+      "english": [
+        "Grave Bone"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2326,
+      "category": "move name",
+      "english": [
+        "Grave Bone"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2945,
+      "category": "move name",
+      "english": [
+        "Grave Bone"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3602,
+      "category": "move name",
+      "english": [
+        "Grave Bone"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1325,
+      "category": "move name",
+      "english": [
+        "BeastKing Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2253,
+      "category": "move name",
+      "english": [
+        "BeastKing Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2254,
+      "category": "move name",
+      "english": [
+        "BeastKing Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2601,
+      "category": "move name",
+      "english": [
+        "BeastKing Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3529,
+      "category": "move name",
+      "english": [
+        "BeastKing Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3530,
+      "category": "move name",
+      "english": [
+        "BeastKing Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1235,
+      "category": "move name",
+      "english": [
+        "Meteor Squall"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1594,
+      "category": "move name",
+      "english": [
+        "Meteor Squall"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2511,
+      "category": "move name",
+      "english": [
+        "Meteor Squall"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2870,
+      "category": "move name",
+      "english": [
+        "Meteor Squall"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1428,
+      "category": "move name",
+      "english": [
+        "Holy Flame"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2380,
+      "category": "move name",
+      "english": [
+        "Holy Flame"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2704,
+      "category": "move name",
+      "english": [
+        "Holy Flame"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3656,
+      "category": "move name",
+      "english": [
+        "Holy Flame"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1429,
+      "category": "move name",
+      "english": [
+        "Atomic Ray"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2351,
+      "category": "move name",
+      "english": [
+        "Atomic Ray"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2705,
+      "category": "move name",
+      "english": [
+        "Atomic Ray"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3627,
+      "category": "move name",
+      "english": [
+        "Atomic Ray"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1439,
+      "category": "move name",
+      "english": [
+        "Megido Flame"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2382,
+      "category": "move name",
+      "english": [
+        "Megido Flame"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2715,
+      "category": "move name",
+      "english": [
+        "Megido Flame"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3658,
+      "category": "move name",
+      "english": [
+        "Megido Flame"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1579,
+      "category": "move name",
+      "english": [
+        "Guren Juuouha"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2321,
+      "category": "move name",
+      "english": [
+        "Guren Juuouha"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2855,
+      "category": "move name",
+      "english": [
+        "Guren Juuouha"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3597,
+      "category": "move name",
+      "english": [
+        "Guren Juuouha"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1580,
+      "category": "move name",
+      "english": [
+        "Solblaster"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2390,
+      "category": "move name",
+      "english": [
+        "Solblaster"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2856,
+      "category": "move name",
+      "english": [
+        "Solblaster"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3666,
+      "category": "move name",
+      "english": [
+        "Solblaster"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1581,
+      "category": "move name",
+      "english": [
+        "Lunatic Dance"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2322,
+      "category": "move name",
+      "english": [
+        "Lunatic Dance"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2857,
+      "category": "move name",
+      "english": [
+        "Lunatic Dance"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3598,
+      "category": "move name",
+      "english": [
+        "Lunatic Dance"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1586,
+      "category": "move name",
+      "english": [
+        "Strike Roll"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2393,
+      "category": "move name",
+      "english": [
+        "Strike Roll"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2862,
+      "category": "move name",
+      "english": [
+        "Strike Roll"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3669,
+      "category": "move name",
+      "english": [
+        "Strike Roll"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1623,
+      "category": "move name",
+      "english": [
+        "Spiral Blow"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2270,
+      "category": "move name",
+      "english": [
+        "Spiral Blow"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2899,
+      "category": "move name",
+      "english": [
+        "Spiral Blow"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3546,
+      "category": "move name",
+      "english": [
+        "Spiral Blow"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1637,
+      "category": "move name",
+      "english": [
+        "Data Crusher"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2263,
+      "category": "move name",
+      "english": [
+        "Data Crusher"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2913,
+      "category": "move name",
+      "english": [
+        "Data Crusher"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3539,
+      "category": "move name",
+      "english": [
+        "Data Crusher"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1671,
+      "category": "move name",
+      "english": [
+        "Thousand Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2395,
+      "category": "move name",
+      "english": [
+        "Thousand Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2947,
+      "category": "move name",
+      "english": [
+        "Thousand Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3671,
+      "category": "move name",
+      "english": [
+        "Thousand Fist"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English move-name match from an extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Welcome to the Service Counter. If you get a Summon Ticket, talk to me and I'll call a Digimon for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it.\n...Farewell."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Ready!\nFight!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Give us a fair\nbattle, both of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Take this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Very well.\nHere, take an item."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello there!\nHere is an item for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello there!\nHere is an item for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello there!\nHere is an item for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello there!\nHere is an item for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello there!\nHere is an item for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello there!\nHere is an item for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello there!\nHere is an item for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello there!\nHere is an item for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello there!\nHere is an item for you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!\nSee you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "Raaagh!\nTake this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Raaagh!\nTake this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Raaagh!\nTake this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Raaagh!\nTake this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Raaagh!\nTake this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "Raaagh!\nTake this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "Raaagh!\nTake this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Raaagh!\nTake this item!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, I'll take it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, I'll take it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, I'll take it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, I'll take it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, I'll take it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, I'll take it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, I'll take it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, I'll take it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I won't."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I won't."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I won't."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I won't."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I won't."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I won't."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I won't."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I won't."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello! Great work.\nHere is an item for you."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello! Great work.\nHere is an item for you."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello! Great work.\nHere is an item for you."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello! Great work.\nHere is an item for you."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello! Great work.\nHere is an item for you."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "To gain an edge in battle,\nassign roles for healing\nand attacking."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "To gain an edge in battle,\nassign roles for healing\nand attacking."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "To gain an edge in battle,\nassign roles for healing\nand attacking."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "To gain an edge in battle,\nassign roles for healing\nand attacking."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Some of Spadamon's\nabilities have returned!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Some of Spadamon's\nabilities have returned!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Some of Spadamon's\nabilities have returned!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Some of Spadamon's\nabilities have returned!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Some of Spadamon's\nabilities have returned!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Some of Spadamon's\nabilities have returned!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Some of Spadamon's\nabilities have returned!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me join you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me join you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me join you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me join you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me join you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me join you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me join you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice to meet you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice to meet you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice to meet you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice to meet you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice to meet you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice to meet you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice to meet you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "Switched to Normal Mode!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Switched to Normal Mode!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Switched to Normal Mode!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "Switched to Normal Mode!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "Switched to Normal Mode!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "Switched to Normal Mode!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Fortress systems\nhave been restored!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Fortress systems\nhave been restored!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Fortress systems\nhave been restored!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Fortress systems\nhave been restored!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Fortress systems\nhave been restored!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Fortress systems\nhave been restored!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "You got a new Farm Island!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "You got a new Farm Island!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "You got a new Farm Island!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "You got a new Farm Island!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "You got a new Farm Island!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "You got a new Farm Island!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Melody Capture lets you recruit wild Digimon by collecting their data as Melodies. Defeat an uninjured foe in one hit, or finish it with a Melody-effect attack. Use its weakness to improve your odds. Hitting its strength lowers them. Turn captured Melodies into Digimon at the DigiLab."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "At the DigiLab, you can fuse Digimon to make them stronger and restore captured Melodies to physical form. Ask Veemon by the DigiLab PC for details."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "Melody Playback restores a Digimon from its Melody data. The more Melodies you use, the higher its level. You can use up to 10 Melodies at once."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "You can turn a Digimon back into a Melody, but this resets all the data you have raised. Be careful!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Expedition teams find all sorts of things, including rare gear and Melodies you cannot get elsewhere."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 109,
+      "category": "battle reward message",
+      "english": [
+        "Obtained a Melody!\n^0"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 110,
+      "category": "battle reward message",
+      "english": [
+        "Obtained a Melody!\n^0 x^1"
+      ]
+    }
+  ]
+}

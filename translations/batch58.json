@@ -1,0 +1,291 @@
+{
+  "description": "Translate the Dorulumon standoff and the Chibickmon misunderstanding.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "Heh-heh! That's\nup to the\ndoggy! Stop\nfooling around\nand hurry up\nand catch\nSpadamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "D-Dorulumon...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't struggle!\nBe a good\nkitty!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't whine! Do\nwhat I say,\nmeow!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "...Tch!\nRemember this,\nMinervamon! I\nwon't let this\nend here!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "Keep your mouth\nshut, doggy.\nYour breath\nstinks!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, wait,\nDorulumon! This\nhas to be a\njoke...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "I never thought\nwe'd have to\nfight you like\nthis... But I\ncan't abandon\nCutemon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "Heh-heh...\nGreat, just\ngreat! If this\nkeeps up, ROG\nwill find the\nLegendary\nAncient Weapons\nand take over\nthe world!\nYee-haw!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Honestly, this\ndoggy is\ncompletely\nuseless! How\nwill I face\nLord Zeed\nMillenniummon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "You guys aren't\nneeded here\nanymore. Just\nleave them and\ngo home!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Meow! We'll\nleave them\nbehind, meow!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Meow! We're\ngoing home,\nmeow!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "Dorulumon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "...Cutemon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Using your\nfriends as\nhostages to\nmake them\nfight... What a\ndirty trick!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "So that's why\nyou took\nChibickmon,\ntoo! You\nplanned to use\nit for\nsomething!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "...Ha ha!\nThat's a pretty\nnasty\naccusation,\nkid. Capturing\nSpadamon is my\nlousy job;\nplaying with\nthat one was\nthe best fun!\nWhy would I use\nsuch a cute\nthing for\nanything?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "Then why did\nyou take it\naway? What were\nyou trying to\ndo?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "I was just\nplaying with\nPukumon!\nKidnap, take\naway, use, some\nkind of plan...\nWhat are you\neven talking\nabout?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "No... Don't\nlie. Were you\ntrying to steal\nsomething...?\nBut Chibickmon\ndoesn't have\nanything\nimportant...\nSo... what else\ncould be\nvaluable...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't insult\nPukumon any\nfurther! If you\nlook ugly, your\nthoughts must\nbe ugly, too!\nNothing is more\nprecious than\nthat little\none's cuteness!\nBut no one can\never take that\naway! You're\nfilthy and\nunpleasant, the\nworst of the\nworst! I can't\nstand sharing\nthe same air\nwith you!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Pukumon and the other Digimon use established Western spellings."
+    }
+  ]
+}

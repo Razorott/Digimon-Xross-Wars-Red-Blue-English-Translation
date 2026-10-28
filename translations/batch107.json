@@ -1,0 +1,4 @@
+{
+  "description": "Isolate the Digidex right-quote alias in a single-code font map after emulator QA found that a mixed-width sparse map corrupted spacing.",
+  "blocks": []
+}

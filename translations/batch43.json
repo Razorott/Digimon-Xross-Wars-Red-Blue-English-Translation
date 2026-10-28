@@ -1,0 +1,1305 @@
+{
+  "description": "Translate Digimon profile blurbs 1-100 from the original Japanese data, including the reserved dummy profile slot.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 0,
+      "category": "Digimon profiles",
+      "english": [
+        "Dummy Data\n123456789012345\n678901234567\n123456789012345\n678901234567\n123456789012345\n678901234567\n123456789012345\n678901234567\n123456789012345\n678901234567"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 1,
+      "category": "Digimon profiles",
+      "english": [
+        "Its fuzzy down\nfell\noff, and it\ngrew a\nsize larger.\nSmall,\nbut full of the\nspirit\nof a dragon!"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 2,
+      "category": "Digimon profiles",
+      "english": [
+        "A mysterious Digimon that suddenly appeared on a computer network. It is said to have been born from a Digi-Egg filled with the destructive instincts of humanity. It multiplies like bacteria and ruins networks."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 3,
+      "category": "Digimon profiles",
+      "english": [
+        "A being called Digi-Entelecheia, which governs evolution, became a Digimon. It is said to help other Digimon evolve."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 4,
+      "category": "Digimon profiles",
+      "english": [
+        "A small Digimon\nthat loves to\nfight.\nIts motto is,\n\"Bring\non the fight!\"\nIt\nfears no foe\nand\nfights with a\npowerful\nfist. Full of\nenergy,\nit has a\ndeep-purple\nbody and a\ndragon's\nform."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 5,
+      "category": "Digimon profiles",
+      "english": [
+        "A reptilian\nDigimon\nthat has grown\nto walk\non two legs. It\nfaces\nany foe with\nits hard\nclaws and Baby\nFlame,\nwhich it spits\nfrom\nits mouth. A\nreliable\npartner in a\nfight."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 6,
+      "category": "Digimon profiles",
+      "english": [
+        "Descended from\na\ntribe that\nflourished\nin the early\nDigital\nWorld. It may\nbe able\nto Armor\nDigivolve\nusing a\nDigi-Egg. This\nenergetic\ndragon has\na pure, honest\nheart."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 7,
+      "category": "Digimon profiles",
+      "english": [
+        "A Rookie dragon\nDigimon with\nthe\npotential to\nfight.\nThe mark on its\nbelly\nis the Digital\nHazard,\nplaced on data\nthat\nmay threaten\ncomputer\nsystems. But if\nused\nfor peace, its\npower\ncan protect the\nworld."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 8,
+      "category": "Digimon profiles",
+      "english": [
+        "It has an\nold-style\n\"Interface\" on\nits\nforehead, so it\nmay be\na Prototype\nDigimon\nfrom before\nDigimon\nwere\ndiscovered. It\nloves to bite\nand has\na strong\nfighting\ninstinct, but\ngrows\nfond of what it\nbites.\nIt may become\nmighty."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 9,
+      "category": "Digimon profiles",
+      "english": [
+        "A four-legged\namphibian\nDigimon.\nUsually gentle\nand\nquiet, but when\nangered\nit shocks\neverything\naround it\nwithout\ndiscrimination."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 10,
+      "category": "Digimon profiles",
+      "english": [
+        "It gathers data\nleft\nby Garurumon\nand wears\nit as a pelt to\nprotect\nitself. Shy by\nnature,\nit becomes bold\nwhile\nwearing the\nfur."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 11,
+      "category": "Digimon profiles",
+      "english": [
+        "A mammal\nDigimon\nwith huge,\nwing-shaped\nears. It can\nfly, but\nonly at 1 km\nper hour,\nso walking is\nfaster.\nIt can Armor\nDigivolve\nwith a\nDigi-Egg."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 12,
+      "category": "Digimon profiles",
+      "english": [
+        "A chick Digimon\nwith wings\ndeveloped\nlike arms. It\nlives on\nthe ground and\nflies\naway when\ndanger comes.\nIt flies as\nslowly as\nPatamon, but\ndreams\nof soaring\nfreely\nthrough the\nsky."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 13,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon with\na\ntropical flower\ngrowing\non its head.\nThe flower's\nscent changes\nwith its\nmood: sweet\nwhen happy,\nbut so pungent\nwhen\nangry that even\nlarge\nDigimon run\naway."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 14,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon from\nwhich\ninsect Digimon\ndescend.\nIt loves nature\nand\nlives at an\neasy pace.\nThough many\ninsect\nDigimon are\naggressive,\nthis one is\ngentle. It\nhas a hard\nshell and\nsharp claws."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 15,
+      "category": "Digimon profiles",
+      "english": [
+        "A mineral-type\nDigimon that\nwears\nmineral data as\narmor\nand has\npowerful\ndefenses. Its\ndata\nchanges\ndepending on\nwhere and how\nit forms."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 16,
+      "category": "Digimon profiles",
+      "english": [
+        "It swims by\nusing\nits large tail\nas a\npropeller and\nlives\nunderwater. Its\nskin\nhas not fully\nhardened\nafter so long\nin the\nwater.\nSometimes it\nclimbs onto\nrocks to\npractice\nwalking."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 17,
+      "category": "Digimon profiles",
+      "english": [
+        "A seal-like\nDigimon\nthat can now\nlive on\nland. Warm fur\ncovers\nits body. Its\ncoat grows\nlonger as it\nmatures,\nand its color\nmay turn\nfrom white to\nbrown."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 18,
+      "category": "Digimon profiles",
+      "english": [
+        "A small,\nbat-like\nDigimon said to\nhave\nled Devimon,\nonce an\nangel, down the\npath\nof evil. It\navoids the\nfront lines,\nbut its\ncunning mind\nkeeps it\ncausing trouble\neverywhere."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 19,
+      "category": "Digimon profiles",
+      "english": [
+        "Said to have\nbeen\ncreated by a\nchild\ncopying Agumon\nwhile\nplaying online.\nIt is\ntimid, but has\na strong\nsense of\njustice and\ncan't ignore\nwrongdoing.\nIt loves\nchatting with\nchildren\nonline. When\nstartled, its\nbody\nblocks fall\napart."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 20,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon\nshaped\nlike a huge\ngear. More\ngears fill its\nbody;\nif even one is\nmissing,\nit stops\nmoving. It can\nsend a computer\nvirus\nto control the\nmachine\nit infects."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 21,
+      "category": "Digimon profiles",
+      "english": [
+        "An experimental\nnew\nDigimon created\nby a\nDigimon\nresearcher.\nIt does not yet\nknow\nits purpose, so\nhow it\nis raised can\nlead it\ntoward good or\nevil."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 22,
+      "category": "Digimon profiles",
+      "english": [
+        "A timid, gentle\nlarval Digimon.\nIt is\nweak and can't\nmatch\nlarger Digimon,\nbut\nArmor\nDigivolution\nwith a Digi-Egg\ncan\ngive it\ntremendous\npower."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 23,
+      "category": "Digimon profiles",
+      "english": [
+        "A bird Digimon\ndescended from\nan\nancient tribe.\nIt can\nArmor Digivolve\nwith\na Digi-Egg.\nPolite,\ncalm, and\ncollected."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 24,
+      "category": "Digimon profiles",
+      "english": [
+        "A mammal\nDigimon\ncovered in a\nhard\nshell. It is\ndescended\nfrom an ancient\ntribe\nand can Armor\nDigivolve\nwith a\nDigi-Egg."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 25,
+      "category": "Digimon profiles",
+      "english": [
+        "One of a pair\nof\ntwin Digimon,\nwith a\nsingle horn on\nits head.\nBright and\nenergetic,\nit hardly seems\nlike\na fighter, but\nit can\nrelease\ntremendous\npower when\nbattle\ncomes."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 26,
+      "category": "Digimon profiles",
+      "english": [
+        "One of a pair\nof\ntwin Digimon,\nwith\nthree horns. A\ncrybaby\nand the\nopposite of\ncheerful\nTerriermon,\nit is shy and\nlonely.\nLike its twin,\nit can\nshow its true\nstrength\nwhen needed."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 27,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon whose\ngrowth reflects\nits\nbond with its\nTamer.\nCare from its\nearly\nstages can help\nit\nbecome a\nparticularly\nwise Renamon.\nIt\nfavors speed\nover\nstrength in\nbattle."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 28,
+      "category": "Digimon profiles",
+      "english": [
+        "A mischievous\nDigimon with a\nlittle\ndemon-like\nappearance.\nProud and\nunable to\nstand losing,\nit never\nflatters or\nfollows the\nstrong. Deep\ndown,\nit is very\nlonely."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 29,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon that\nevolved from\nTsumemon.\nIts huge mouth\ncan\ndestroy over\n100 MB\nof data in a\nsecond.\nWhen it enters\na\ncomputer, it\ndestroys\nall its data.\nIt thinks\ndestroying data\nis fun."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 30,
+      "category": "Digimon profiles",
+      "english": [
+        "A bird Digimon\nwith a\nninja-like\nform.\nIt uses its\nwings\nskillfully to\nmove\nquickly and\nconfuse\nits opponent."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 31,
+      "category": "Digimon profiles",
+      "english": [
+        "A bird Digimon\ndiscovered in a\nbase\nin Antarctica.\nIts\nwings have\natrophied,\nso it walks\nslowly,\nbut it swims\nskillfully\nwith its small\nwings."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 32,
+      "category": "Digimon profiles",
+      "english": [
+        "A mischievous\nlittle\ngoblin Digimon\nthat\nnever picks a\nfight\nwith someone\nstronger.\nIt carefully\ntends its\nmohawk every\nday. Its\nspecial move is\nGobli\nStrike."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 33,
+      "category": "Digimon profiles",
+      "english": [
+        "A bivalve\nDigimon\ncovered by a\nhard shell.\nIt lures foes\nwith its\ncute face, then\nattacks.\nThe shell is so\ntough\nthat small\nattacks\ncan't harm it.\nIts body\ninside is like\nslime."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 34,
+      "category": "Digimon profiles",
+      "english": [
+        "A cold-loving\nvariant of\nAgumon\nthat lives in\nchilly\nplaces. Its\ncolor acts\nas camouflage\nwhen\nit fights in\nthe snow."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 35,
+      "category": "Digimon profiles",
+      "english": [
+        "A crab-like\nDigimon\nthat wears\nmetal data\nfrom the \"Net\nOcean\"\nto strengthen\nits\nbattle ability.\nIts\nhuge pincers\nand hard\nshell are its\npride,\nbut its joints\nand\nbelly are weak\nspots."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 36,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon whose\nface is shaped\nlike a\nflower. It\nusually\nwears its\npetal-like\nshell as a\nhelmet,\nbut opens the\npetals\nwide when in a\ngood\nmood."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 37,
+      "category": "Digimon profiles",
+      "english": [
+        "A bud-shaped\nplant\nDigimon. It\nspins the\nleaves on its\nhead to\nfloat through\nthe air.\nThough\nexpressionless,\nit has a\ncharming face.\nA gentle,\ncaring soul,\nit always\nthinks of\nits friends."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 38,
+      "category": "Digimon profiles",
+      "english": [
+        "A beast Digimon\nwith sharp\nclaws. It\nwears gloves to\nprotect\nits paws until\nthe\nclaws grow. It\nexcels\nat swift\nhit-and-run\nattacks."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 39,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon\nwearing\na holy shell.\nIt is\nsaid to store\nholy\npower in the\nearring\non its left\near. The\nmore power it\nstores,\nthe more it may\naffect\nits next\nevolution."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 40,
+      "category": "Digimon profiles",
+      "english": [
+        "A turtle\nDigimon\nwith a shell\nshaped\nlike a computer\nmouse.\nIt can hide its\nwhole\nbody inside,\nexcept\nfor the helmet\non\nits head."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 41,
+      "category": "Digimon profiles",
+      "english": [
+        "A vampire\nDigimon\nthat loves\npranks. It\nwill even\nforget to\ndrink blood or\ntake\ndangerous risks\nif\nthat helps a\nprank\nsucceed."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 42,
+      "category": "Digimon profiles",
+      "english": [
+        "A puppet\nDigimon\nborn from data\nleaked\nfrom a computer\nchess\ngame. It is\nstill weak,\nbut may rise to\nthe\nstrength of an\nUltimate\nDigimon if it\nclimbs\nthe ranks."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 43,
+      "category": "Digimon profiles",
+      "english": [
+        "A poisonous\nmushroom-shaped\nDigimon. Tiny\nmushrooms\ngrow all over\nits body;\ntheir attacks\ncause\nvarious\nsymptoms. It\nloves bullying\nthe weak,\nbut is actually\nvery\nshy."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 44,
+      "category": "Digimon profiles",
+      "english": [
+        "A stag-beetle\nDigimon with a\nhead\nand arms like\nstun\nguns. When it\nsenses\ndanger, it\nreleases\none million\nvolts. It\nrecharges when\nhungry,\nbut is usually\ncalm."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 45,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon that\nevolved from\nSunmon.\nEnergetic and\ncurious,\nit holds\nsolar-like\nfire within its\nbody.\nIt fights by\nstriking\nfoes with fiery\nfists."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 46,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon that\nevolved from\nMoonmon.\nA little shy\nand\nreserved, it\nholds the\npower of pure\nwater.\nIt attacks with\nclaws\nimbued with\ndarkness,\ndespite its\ncute look."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 47,
+      "category": "Digimon profiles",
+      "english": [
+        "A chick-like\nbaby\nbird Digimon\nthat has\njust begun\nsword\ntraining.\nConfident\nand proud, it\nstill\nhasn't noticed\nits\neggshell is\nstuck on."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 48,
+      "category": "Digimon profiles",
+      "english": [
+        "A child-shaped\nangel Digimon\nsaid to\nhave brought\npeace to\nthe Digital\nWorld in\nancient times.\nThough\nit looks like a\nchild,\nit has the\nwisdom and\npower to\nsurpass even\nPerfect\nDigimon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 49,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon that\nsmall Digimon\ncan ride.\nIt has no will\nof its\nown and cannot\nmove\nwithout a\nrider. But\nit reflects the\nrider's\npower, so never\nunderestimate\nit."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 50,
+      "category": "Digimon profiles",
+      "english": [
+        "A yellow,\ndinosaur-\nlike Digimon.\nIts\nhardened\nforehead\nskin forms a\nshell\nthat protects\nit. With\nsharp claws and\na huge\nhorn, it is\npowerful\nand\nintelligent,\nand\nworks well with\nallies."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 51,
+      "category": "Digimon profiles",
+      "english": [
+        "An ancient,\ndinosaur-\nlike Digimon.\nIt looks\nfrightening,\nbut is\nactually calm\nand\nintelligent, so\nit is\nfairly easy to\ntame.\nIn battle, it\ncharges\nwith its two\ndeveloped\narms and huge\ntail,\nknocking foes\naside."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 52,
+      "category": "Digimon profiles",
+      "english": [
+        "A fallen angel\nDigimon with\ntattered\nwings and black\nrobes.\nOnce an angel,\nit was\ncorrupted by\nevil. A\nlarge mark of\nevil\nrests on its\nchest.\nCruel by\nnature, it\nfaithfully\nserves the\nmaster it has\nsworn\nto obey."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 53,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon that\nsoars through\nthe\nDigital World's\nskies\non giant wings.\nSo\nrare it is\ncalled a\nphantom\nDigimon, it\nis said to be\nclose\nto a god. It\ncan\nsummon storms\nand\ntornadoes."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 54,
+      "category": "Digimon profiles",
+      "english": [
+        "A long,\nsnake-like\nDigimon that\nlives\nnear water. It\nis\nsurprisingly\ngentle\nand usually\nswims\nslowly\nunderwater,\nbut becomes\nfierce\nwhen it must\nfight."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 55,
+      "category": "Digimon profiles",
+      "english": [
+        "A slug-like\nDigimon\nthat prefers\ndark,\ndamp places. It\nhas\nlittle strength\nor\nwill to fight\nand just\nlives freely.\nWhen\nattacked, it\nthrows\npoop to protect\nitself,\nstartling its\nfoes."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 56,
+      "category": "Digimon profiles",
+      "english": [
+        "A blue,\nbeetle-like\nDigimon. Its\nhuge body\nis full of\nstrength,\nand its hard\nshell\ngives it strong\ndefenses. Its\nhead is\nreinforced with\nmetal\nand especially\ntough."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 57,
+      "category": "Digimon profiles",
+      "english": [
+        "A wolf-like\nDigimon\nwith fur as\ntough as\nthe legendary\nrare\nmetal Mithril.\nThe\nblades on its\nshoulders\ncan slice\nanything.\nHighly\nintelligent,\nit faithfully\nfollows\nits master."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 58,
+      "category": "Digimon profiles",
+      "english": [
+        "An angelic\nDigimon\nwith six wings\nand\npure-white\nrobes. A\nperfectly good\nbeing,\nit is said to\nguide all\nDigimon to\nhappiness.\nIt is merciless\ntoward\nevil and\nattacks\nwithout\nhesitation."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 59,
+      "category": "Digimon profiles",
+      "english": [
+        "A carnivorous\nplant\nDigimon with\nlong,\nvine-like arms\nand a\nwide-open\nmouth. Its\nsweet scent\nlures\nsmall Digimon,\nwhich\nit catches with\nits\nvines. As it\ngrows,\nit is said to\nflower\nand bear fruit."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 60,
+      "category": "Digimon profiles",
+      "english": [
+        "An ogre-like\nDigimon\nwith a short\ntemper\nthat loves to\nfight.\nIt challenges\nfoes\nstronger than\nitself,\nso it is called\na\n\"Digimon\nHunter.\" Its\nbone club is a\ntrophy\nfrom defeating\nSkullGreymon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 61,
+      "category": "Digimon profiles",
+      "english": [
+        "A ghost Digimon\nformed from a\ncursed\nvirus program.\nIt can\ndestroy a\npossessed\ncomputer in an\ninstant.\nWhat lies\nbeneath its\nwhite cloth is\nunknown;\nits shadow is\nsaid to\nlead to a black\nhole."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 62,
+      "category": "Digimon profiles",
+      "english": [
+        "A golden-poop-s\nhaped\nDigimon said to\nhave\nbeen born when\ndata\nscraps suddenly\nmutated.\nChuumon clings\nto it and acts\nas its\nbrains, using\ncunning\ntricks to lead\nit into\ntrouble."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 63,
+      "category": "Digimon profiles",
+      "english": [
+        "A chicken-like\nDigimon that\nlived on\nland so long it\ncan no\nlonger fly. Its\ntwo\nlegs grew\npowerful,\nbut it is a\nbrawler\nthat dislikes\nbattles\nthat use too\nmuch\nenergy."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 64,
+      "category": "Digimon profiles",
+      "english": [
+        "Called the\n\"Lion\nKing of Beasts\"\nand\n\"Noble Hero,\"\nthis\nDigimon has a\nstrong\nsense of\njustice and\na firm will. It\ntrains\nits body every\nday and\nfights evil\nwith its\nsword,\nShishioumaru."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 65,
+      "category": "Digimon profiles",
+      "english": [
+        "A stag-beetle\nDigimon with\nhuge\npincers on its\nhead.\nIts hard shell\nprotects\na body with\ntremendous\npower, but it\nis\ndangerous and\ndriven\nonly by\ninstinct. It\nis hostile to\nKabuterimon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 66,
+      "category": "Digimon profiles",
+      "english": [
+        "A frog Digimon\nwith\na pleasant\nsinging\nvoice no one\nwould\nexpect from its\nlooks.\nThree holes in\nits\ntongue shape\nthe notes,\nwhile the horn\naround\nits neck\ncarries its\nsong."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 67,
+      "category": "Digimon profiles",
+      "english": [
+        "A small,\ncat-like\nDigimon. The\nHoly Ring\non its tail\nmarks it as\na holy Digimon;\nwithout\nit, it cannot\nuse its\ntrue power. Its\nclaws\ncopy\nSaberLeomon's\ndata to protect\nit.\nIt can Armor\nDigivolve\nwith a\nDigi-Egg."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 68,
+      "category": "Digimon profiles",
+      "english": [
+        "A wizard\nDigimon\nfrom another\nDigital\nWorld. It came\nhere\nto train and\nbecome\na great mage.\nVery\nshy, it never\nshows\nits true face."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 69,
+      "category": "Digimon profiles",
+      "english": [
+        "A giant cactus\nDigimon that\nstores\nnutrient data\nin its\nbody, letting\nit live\nfor a while\neven in\nbarren places.\nIt moves\nat its own pace\nand\nlooks relaxed,\nbut\ncan be\nhardworking."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 70,
+      "category": "Digimon profiles",
+      "english": [
+        "A machine\nDigimon\nwith excellent\ndefenses. An\nevil\nvirus infected\nit,\nerasing its\nemotions\nand leaving\nonly its\ndefense\nprogram. Virus\nDigimon exploit\nits\npower for their\nown\nends."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 71,
+      "category": "Digimon profiles",
+      "english": [
+        "An original\ndragon\nDigimon with\nimmense\npower. Its\nmuscular\narms and legs\ncan\ndestroy huge\nrocks\nwithout a\ntrace, but\nits strong\nsense of\njustice keeps\nit from\nusing that\npower\ncarelessly."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 72,
+      "category": "Digimon profiles",
+      "english": [
+        "A humanoid\ninsect\nDigimon covered\nby\na hard shell.\nCool\nand highly\nskilled\nat\nassassination,\nit\nuses speed and\nsharp\njudgment to\nstrike\nits foes' weak\npoints."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 73,
+      "category": "Digimon profiles",
+      "english": [
+        "A giant bird\nDigimon\nwreathed in\nblazing flames.\nIt is\nsaid to have\nbeen born\nfrom the\nFirewall that\nprotects the\nInternet.\nIt flies\nthrough the\nnetwork on huge\nwings."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 74,
+      "category": "Digimon profiles",
+      "english": [
+        "An armored\ndragon\nDigimon covered\nin\nhard skin.\nTough spikes\ngrow from its\nhead and\nbody, letting\nit deal\nheavy damage\nwhen it\ncharges.\nGentle, but\nbrave at heart."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 75,
+      "category": "Digimon profiles",
+      "english": [
+        "A hunter\nDigimon\nskilled at\ntracking\nits prey.\nDespite its\nappearance, it\nmoves\nquickly and\ncatches\nfoes precisely.\nIt can\njump high and\nfly. Its\nfavorite jeans\nare\ncustom-made."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 76,
+      "category": "Digimon profiles",
+      "english": [
+        "A crimson\ndragon\nDigimon with a\nwhite\nmane. It has\nthe\nviolent nature\ncommon\nto Virus\nDigimon, but\ncan grow into a\nhero\nthat fights for\njustice\ndepending on\nhow it\nis raised."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 77,
+      "category": "Digimon profiles",
+      "english": [
+        "A fox-like\nDigimon\nwith nine tails\ntipped\nwith blue\nflames. It is\nsaid to evolve\nfrom an\nexperienced\nRenamon.\nWith strong\nwillpower,\nit excels at\nmany\nmagical\ntechniques."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 78,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon that\nturned into a\ncocoon\nto store energy\nand\ngrow stronger\nthan\nKeramon. It\ncannot\nmove, but its\nhard\nskin withstands\nattacks. It\nstrikes\nfoes with the\ntentacles\non its back."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 79,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon\nshaped\nlike the\nlegendary\nholy beast\nShisa. It\ncan ward off\ndisaster\nand unleash\nimmense\npower against\nevil. It\nrisks its life\nto guard\nthe\nkind-hearted,\nbut\nusually relaxes\nin\nthe sunlight."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 80,
+      "category": "Digimon profiles",
+      "english": [
+        "A little-demon\nDigimon said to\nbe the\nancestor of\ndark\nDigimon.\nMischievous\nand a bit\ntwisted, it\nis close\nfriends with\nDemiDevimon,\nand they\noften go around\ncausing\ntrouble."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 81,
+      "category": "Digimon profiles",
+      "english": [
+        "A bird Digimon\nwith\na hawk-like\nform and\na huge horn on\nits\nhead. It flies\nat\nMach speed,\nspots\neven tiny prey,\nthen\ndives to attack\nwith\nits horn and\nbeak."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 82,
+      "category": "Digimon profiles",
+      "english": [
+        "A mutant\nDigimon\nthat looks like\na\npirate captain.\nIt\nsearches the\nNet Ocean\nfor the phantom\n\"White\nWhamon.\" A\nwarrior\nof the sea, it\nfaces\nrough waves\nwith a\nclaw and cannon\nfor\narms."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 83,
+      "category": "Digimon profiles",
+      "english": [
+        "A massive\ndragon\nDigimon so\nheavy that\nmost Digimon\nflee at\nthe sight of\nits shadow.\nA terrifying\nbeast in\nbattle, it also\nhas\na dragon's\nwisdom and\nis normally\nvery\ncalm."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 84,
+      "category": "Digimon profiles",
+      "english": [
+        "A cyborg\nDigimon\nmodified from a\nwild\nDigimon. Its\nathletic\nability is so\nhigh\nthat heavy\nChrome\nDigizoid armor\nrestrains its\npower."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 85,
+      "category": "Digimon profiles",
+      "english": [
+        "A legendary\nDigimon\nwith golden\nfur, said\nto defeat evil\ncomputer\nviruses. It\nrides a\ncloud-like\nobject at\nhigh speed\nthrough the\nnetwork, so it\nis\nrarely seen."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 86,
+      "category": "Digimon profiles",
+      "english": [
+        "A mutant space\nwarrior\nequipped with\na star-shaped\narmor\nsuit, gloves,\nand boots.\nIts eyes burn\nwith\nfighting\nspirit, and\nit can\ncommunicate its\nwill without\nspeaking.\nIt admires the\nhero\nLeomon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 87,
+      "category": "Digimon profiles",
+      "english": [
+        "An Invade-type\nDigimon related\nto\nNanimon. Its\nwhole\nbody is a bomb,\nand\nthe hair on its\nhead\nworks like a\nfuse.\nA\nsuper-dangerous\nbomb old man\nwith\nMAXIMUM threat\nlevel!"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 88,
+      "category": "Digimon profiles",
+      "english": [
+        "A mythical\nbeast\nDigimon with a\nunicorn's\nhorn and\nPegasus wings.\nIt flies\nthrough the\nnetwork and\npierces\nfoes with its\nhorn.\nWild Unimon are\nextremely\nviolent, so\napproach with\ncare."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 89,
+      "category": "Digimon profiles",
+      "english": [
+        "A black\ndinosaur\nDigimon said to\nhave\nformed when\nTyranomon\nwas corrupted\nby a\nmalicious\ncomputer\nvirus. Now\nviolent,\nit attacks\neverything\nit sees."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 90,
+      "category": "Digimon profiles",
+      "english": [
+        "A unicorn-like\nDigimon covered\nin\npure-white fur.\nIts\nskin is as\ntough as\nMithril and\nwithstands\nany cold. It\nemits\nintense heat\nfrom its\nhooves and can\nmelt\nice as it\nwalks."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 91,
+      "category": "Digimon profiles",
+      "english": [
+        "A bull-like\nDigimon\nwith powerful\ndark\nenergy. Its\ntough skin\nwithstands\nordinary\nattacks. A\nmighty\nweapon, the\nDemon Arm,\nis fused with\nits\nleft arm."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 92,
+      "category": "Digimon profiles",
+      "english": [
+        "A mysterious\ndragon\nDigimon thought\nto be\na Greymon\nsubspecies.\nIts horns,\nbody, and\nforelimbs have\ngrown\nmore powerful,\ngiving\nit a more\naggressive\nappearance."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 93,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon\nevolved\nfrom Gaomon.\nIts build\ngrew larger,\nand the\nclaws once\nprotected\nby gloves\nmatured. It\nusually walks\non four\nlegs, but can\nrise\nlike a bear to\nattack\nother Digimon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 94,
+      "category": "Digimon profiles",
+      "english": [
+        "A living\nfossil: an\nancient giant\ndragon\nDigimon. Its\nwings\naren't suited\nfor\nflying, but\npowerful\nlegs let it run\nat\n200 km/h.\nExtremely\nviolent, it\nattacks\nanything that\nmoves.\nMetal in its\nwings\nadds to its\ndefense."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 95,
+      "category": "Digimon profiles",
+      "english": [
+        "A sickle-weasel\n-like\nDigimon with a\nblade\nfor a tail. Its\ntail\nblade lets it\ndefend\nagainst\nsurprise\nattacks from\nbehind,\nbut it\nsometimes\nfights with its\nown\ntail."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 96,
+      "category": "Digimon profiles",
+      "english": [
+        "A\nsunflower-like\nplant Digimon.\nSunlight\nmakes it\nenergetic\nand raises its\nattack\npower. On clear\ndays,\nit may flap the\nleaves\non its back and\nfly."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 97,
+      "category": "Digimon profiles",
+      "english": [
+        "A Digimon\nformed\nfrom the data\nof a\nmusic player\nand a\nlegendary\nkappa. It is\nalways cheerful\nand\nlistens to its\nfavorite\nmusic. It cries\nif\nits head disk\nis\nscratched."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 98,
+      "category": "Digimon profiles",
+      "english": [
+        "A sacred\nvampire\nwolf Digimon\nsaid to\nhave existed\nsince the\nDigital World's\ndawn.\nDigimon drained\nby\nSangloupmon\nlose all\ndata in their\nDigicore\nand die. It can\nbreak\nits body into\ndata\nto move."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    },
+    {
+      "archive": "MSG/MESPAK03.PAK",
+      "entry": 0,
+      "start": 99,
+      "category": "Digimon profiles",
+      "english": [
+        "A bird Digimon\nthat\ncan fly, but\nruns\nfaster on its\npowerful\nlegs. Several\nsteel\nfeathers are\nhidden\nunder its\nwings. It\nfavors speed in\nbattle."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Translated from the original Japanese profile. Western species and move spellings follow the project's official English Digimon reference list where named; general terminology uses Digi-Egg, Armor Digivolution, Digital Hazard, and Digicore."
+    }
+  ]
+}

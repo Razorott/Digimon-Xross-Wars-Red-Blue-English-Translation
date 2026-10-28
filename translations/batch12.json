@@ -1,0 +1,4712 @@
+{
+  "description": "Reviewed story, NPC, quests, DigiFarm, Digimon names, battle moves and source-pattern DigiXross effects.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Be careful.\nThey're\nwaiting for\nyou, Taiki."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "Be careful.\nThey're\nwaiting for\nyou, Taiki."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Get\nback!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Get\nback!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "A Weapon\nDigimon?\nNot a legendary\nweapon...?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "A Weapon\nDigimon?\nNot a legendary\nweapon...?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh!? Y-yes,\nbut... why?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh!? Y-yes,\nbut... why?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "After them!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "After them!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "Now... connect\nLost Space...\nBreak the\nseal...\nThe legendary\nweapon... The\nlegendary\nDigimon\nshall be\nmine..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Now... connect\nLost Space...\nBreak the\nseal...\nThe legendary\nweapon... The\nlegendary\nDigimon\nshall be\nmine..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey... Doesn't\nLord Zeed\nMillenniummon\nseem\nstrange? He's\ntalking in\nbroken\nphrases,\nmuttering\nnonsense, and\nbreaking the\nseal\nwithout telling\nthe leaders. Is\nhe all right?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey... Doesn't\nLord Zeed\nMillenniummon\nseem\nstrange? He's\ntalking in\nbroken\nphrases,\nmuttering\nnonsense, and\nbreaking the\nseal\nwithout telling\nthe leaders. Is\nhe all right?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "It's Lord Zeed\nMillenniummon.\nHe'll be fine.\nOnce we have\nthe\nlegendary\nweapon,\nROG will rule\neverything! All\nour work will\nfinally pay\noff."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "It's Lord Zeed\nMillenniummon.\nHe'll be fine.\nOnce we have\nthe\nlegendary\nweapon,\nROG will rule\neverything! All\nour work will\nfinally pay\noff."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "So that's Zeed\nMillenniummon."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "So that's Zeed\nMillenniummon."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "Zeed\nMillenniummon.\nHe's trying to\nbreak the seal!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "Zeed\nMillenniummon.\nHe's trying to\nbreak the seal!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "We made it just\nin time!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "We made it just\nin time!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "I know that!\nZeed\nMillenniummon\nis trying to\nbreak\nthe seal at\nEarth\nFort, right!?\nSo\nwhere's the\nlegendary\nweapon!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "I know that!\nZeed\nMillenniummon\nis trying to\nbreak\nthe seal at\nEarth\nFort, right!?\nSo\nwhere's the\nlegendary\nweapon!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "A Weapon\nDigimon!?\nA Digimon that\nturns into a\nweapon!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "A Weapon\nDigimon!?\nA Digimon that\nturns into a\nweapon!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "A Weapon\nDigimon..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "A Weapon\nDigimon..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "All right,\nTaiki,\nSpadamon! Let's\ngo! It's the\nfinal\nshowdown with\nROG!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "All right,\nTaiki,\nSpadamon! Let's\ngo! It's the\nfinal\nshowdown with\nROG!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "We can't lose!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "We can't lose!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Shoutmon!\nSpadamon!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Shoutmon!\nSpadamon!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? M-me?\nWait!\nUm... uh...!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? M-me?\nWait!\nUm... uh...!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "Before they\nspot\nus! Three...\ntwo...\none... go!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Before they\nspot\nus! Three...\ntwo...\none... go!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "W-wait, you\nguys!\nChoco... wait!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "W-wait, you\nguys!\nChoco... wait!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "...Spadamon,\nthis\nis no time to\ntrip\nover your\nwords..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "...Spadamon,\nthis\nis no time to\ntrip\nover your\nwords..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "G-g-g...\nSp-Spadamon...!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "G-g-g...\nSp-Spadamon...!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "It's coming!\nTaiki, it's up\nto you!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "It's coming!\nTaiki, it's up\nto you!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon...\nXros\nHeart...\ndelete!!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon...\nXros\nHeart...\ndelete!!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG is\nfinished!\nGive up on\nbreaking\nthe Weapon\nDigimon's seal!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG is\nfinished!\nGive up on\nbreaking\nthe Weapon\nDigimon's seal!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "G-g-g... Spa...\nSpadamon..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "G-g-g... Spa...\nSpadamon..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "What's with\nhim?\nDid the shock\nscramble him?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "What's with\nhim?\nDid the shock\nscramble him?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "Whoa! Why is he\nhere too!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Whoa! Why is he\nhere too!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "So that shadow\nerasing the ROG\nleaders wasn't\nZeed\nMillenniummon\nafter all!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "So that shadow\nerasing the ROG\nleaders wasn't\nZeed\nMillenniummon\nafter all!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "Then who was\nthat shadow!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "Then who was\nthat shadow!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "G-g-g... Spa...\nSpadamon... The\nlegendary...\nDigimon...\nshall\nbe mine...!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "G-g-g... Spa...\nSpadamon... The\nlegendary...\nDigimon...\nshall\nbe mine...!"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "He's completely\nbroken. I\nthought\nhe'd last\nlonger.\nNo matter...\nHis\nhatred data\ngives\nme everything I\nneed..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "He's completely\nbroken. I\nthought\nhe'd last\nlonger.\nNo matter...\nHis\nhatred data\ngives\nme everything I\nneed..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Even Zeed\nMillenniummon!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "Even Zeed\nMillenniummon!?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Who is that\nguy?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Who is that\nguy?"
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "Everything is\nin\nplace. Now I\nmust\nfind the Omega\nArea\nin Lost Space.\nThen Armamon\nwill be mine..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "Everything is\nin\nplace. Now I\nmust\nfind the Omega\nArea\nin Lost Space.\nThen Armamon\nwill be mine..."
+      ],
+      "sources": [],
+      "review_note": "Scene translation from original Japanese; Taiki and other human names retain original forms."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 26,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Give it to Leomon at\nKnuckle Coast East."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 27,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Tentomon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 28,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tentomon's Tasty Gift"
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 29,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Deliver Tentomon's\ngift to Leomon."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 30,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Cool Dorulumon\nis in the party."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 31,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Palmon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 32,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Piedmon in\nDark Tunnel."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 33,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Palmon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 34,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Unpredictable?\nDefeat Piedmon!"
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 35,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Catch that prankster\nPiedmon and teach\nhim a lesson."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 36,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Funky Starmon\nis in the party."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 38,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Zudomon at\nKnuckle Coast West."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 40,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Smooth Skin with\nthe Super Shaver"
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 41,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Borrow the sharp\nSuper Shaver."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 42,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Terriermon is in\nthe expedition team."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 44,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Drimogemon at\nKnuckle Coast West."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 46,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Smooth Skin with\nthe Miracle Shaver"
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 47,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Borrow the sharp\nMiracle Shaver."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 48,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Agumon is in the\nexpedition team."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 49,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Giromon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 50,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Datamon L\nin Fort Yard."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 51,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to TD Ballmon\nin Fort Yard."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 52,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Fight the Mamemon\ngroup in Fort Yard."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 53,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Giromon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 54,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Showdown!?\nThe Mamemon Gang!"
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 55,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Scout the Mamemon\ngang before the\nfinal showdown."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 56,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Palmon is on\nthe DigiFarm."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 57,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Mamemon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 58,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Mametyrramon\nin Fort Yard."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 59,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to MetalMamemon\nin Fort Yard."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 60,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Fight Giromon's\ngroup in Fort Yard."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 61,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Mamemon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 62,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Showdown!?\nThe Giromon Gang!"
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 63,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Scout the Giromon\ngang before the\nfinal showdown."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 64,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tentomon is on\nthe DigiFarm."
+      ],
+      "sources": [],
+      "review_note": "Quest or menu text from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't do\nthis!\nWhoever thought\nit\nup, come out!\nThis\nis torture, not\ntraining!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hey, a\nbookshelf!\nMaybe I'll read\nfor a change."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "Reading made me\nsmarter! Nice!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "I read it, but\nI\ndidn't\nunderstand\na thing!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why is there a\nstudy desk\nhere?\nIs studying\npart\nof training\ntoo?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "I forced myself\nto study, and\nmy\nINT went up!\nAny\nmore and my\nhead\nmight explode!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "Studying isn't\ntraining! This\nis torture!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "I know this! A\nmagic circle!\nI'll get some\namazing power!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! My head\nfeels so clear!\nDid my INT\nreally\ngo up that\nmuch?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened.\nI don't believe\nin magic\nanymore."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "Side-to-side\njumps?\nFine, I'll do\nit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was easy!\nMy SPD went up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "All that effort\nfor nothing...\nWhat a letdown!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "A trampoline!\nI love bouncing\non these\nthings!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "Bounce, bounce!\nMy SPD went up!\nBounce, bounce!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "Bounce, bounce!\nWait... was\nthat\nmy Achilles\ntendon\nthat just\nsnapped?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "A running\nwheel?\nYou want me to\nrun inside it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "High-speed\nrunning\nboosted my SPD\na lot!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's cramped,\nand\nit makes me\ndizzy!\nI can't do\nthis!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Digimon\nkeychain?\nLooks fun! I'll\ngive it a try."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was so fun\nI\nlost track of\ntime!\nMy friendship\nwent up a bit."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "Fun, but hard.\nI'm a little\nfrustrated."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "A cell phone?\nI'll send Taiki\na message!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "Taiki replied!\nMy friendship\nwent up quite a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "No reply from\nTaiki...\nBummer."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "Taiki left his\ndigital camera.\nI'll take a\nphoto\nof myself!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 471,
+      "category": "Digimon names",
+      "english": [
+        "SN Greymon"
+      ],
+      "sources": [],
+      "review_note": "Game-specific abbreviation retained; expansion unresolved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4246,
+      "category": "Digimon names",
+      "english": [
+        "SN Greymon"
+      ],
+      "sources": [],
+      "review_note": "Game-specific abbreviation retained; expansion unresolved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 562,
+      "category": "Digimon names",
+      "english": [
+        "Greymon O"
+      ],
+      "sources": [],
+      "review_note": "Game-specific O suffix retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4490,
+      "category": "Digimon names",
+      "english": [
+        "Greymon O"
+      ],
+      "sources": [],
+      "review_note": "Game-specific O suffix retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 563,
+      "category": "Digimon names",
+      "english": [
+        "SkullKnightmon BR"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official species stem; BR is a game-specific suffix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4491,
+      "category": "Digimon names",
+      "english": [
+        "SkullKnightmon BR"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official species stem; BR is a game-specific suffix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 220,
+      "category": "Digimon names",
+      "english": [
+        "PawnChessmon WH"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official species stem; WH is a game-specific suffix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 264,
+      "category": "Digimon names",
+      "english": [
+        "Starmon L"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official species stem; L is a game-specific suffix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 358,
+      "category": "Digimon names",
+      "english": [
+        "SP Starmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official species stem; SP is a game-specific suffix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 643,
+      "category": "Digimon names",
+      "english": [
+        "Kogure"
+      ],
+      "sources": [],
+      "review_note": "Human name romanized from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 644,
+      "category": "Digimon names",
+      "english": [
+        "Kou"
+      ],
+      "sources": [],
+      "review_note": "Human name romanized from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 645,
+      "category": "Digimon names",
+      "english": [
+        "Sayo"
+      ],
+      "sources": [],
+      "review_note": "Human name romanized from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 646,
+      "category": "Digimon names",
+      "english": [
+        "Uno"
+      ],
+      "sources": [],
+      "review_note": "Human name romanized from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 647,
+      "category": "Digimon names",
+      "english": [
+        "Dos"
+      ],
+      "sources": [],
+      "review_note": "Human name romanized from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 648,
+      "category": "Digimon names",
+      "english": [
+        "Tres"
+      ],
+      "sources": [],
+      "review_note": "Human name romanized from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 649,
+      "category": "Digimon names",
+      "english": [
+        "Referee"
+      ],
+      "sources": [],
+      "review_note": "NPC role label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4078,
+      "category": "Digimon names",
+      "english": [
+        "Calumon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4079,
+      "category": "Digimon names",
+      "english": [
+        "Calumon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4087,
+      "category": "Digimon names",
+      "english": [
+        "Kabuterimon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4088,
+      "category": "Digimon names",
+      "english": [
+        "Kabuterimon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4114,
+      "category": "Digimon names",
+      "english": [
+        "Leomon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4115,
+      "category": "Digimon names",
+      "english": [
+        "Leomon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4201,
+      "category": "Digimon names",
+      "english": [
+        "Gallantmon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4202,
+      "category": "Digimon names",
+      "english": [
+        "Gallantmon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4207,
+      "category": "Digimon names",
+      "english": [
+        "Piedmon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4208,
+      "category": "Digimon names",
+      "english": [
+        "Piedmon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4218,
+      "category": "Digimon names",
+      "english": [
+        "Machinedramon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4219,
+      "category": "Digimon names",
+      "english": [
+        "Machinedramon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4234,
+      "category": "Digimon names",
+      "english": [
+        "AncientVolcanomon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4235,
+      "category": "Digimon names",
+      "english": [
+        "AncientVolcanomon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4259,
+      "category": "Digimon names",
+      "english": [
+        "Susanoomon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4260,
+      "category": "Digimon names",
+      "english": [
+        "Susanoomon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4276,
+      "category": "Digimon names",
+      "english": [
+        "Shoutmon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4277,
+      "category": "Digimon names",
+      "english": [
+        "Shoutmon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4288,
+      "category": "Digimon names",
+      "english": [
+        "Beelzemon▼"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4289,
+      "category": "Digimon names",
+      "english": [
+        "Beelzemon▲"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official Western species name; arrow preserved."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4297,
+      "category": "Digimon names",
+      "english": [
+        "DigiTent"
+      ],
+      "sources": [],
+      "review_note": "Game item name translated from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4298,
+      "category": "Digimon names",
+      "english": [
+        "Sky Passport"
+      ],
+      "sources": [],
+      "review_note": "Game item name translated from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4299,
+      "category": "Digimon names",
+      "english": [
+        "Code Crown"
+      ],
+      "sources": [],
+      "review_note": "Game item name translated from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1296,
+      "category": "Battle moves",
+      "english": [
+        "Ultimate Guard"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2572,
+      "category": "Battle moves",
+      "english": [
+        "Ultimate Guard"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1297,
+      "category": "Battle moves",
+      "english": [
+        "Chrono Force"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2573,
+      "category": "Battle moves",
+      "english": [
+        "Chrono Force"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1299,
+      "category": "Battle moves",
+      "english": [
+        "Crimson Whip"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2575,
+      "category": "Battle moves",
+      "english": [
+        "Crimson Whip"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1301,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Eye"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2577,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Eye"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1303,
+      "category": "Battle moves",
+      "english": [
+        "Deadly Sickle"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2579,
+      "category": "Battle moves",
+      "english": [
+        "Deadly Sickle"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1308,
+      "category": "Battle moves",
+      "english": [
+        "High Mega Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2584,
+      "category": "Battle moves",
+      "english": [
+        "High Mega Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1309,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact spelling appears in the licensed English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2585,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact spelling appears in the licensed English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1311,
+      "category": "Battle moves",
+      "english": [
+        "Charm Whip"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2587,
+      "category": "Battle moves",
+      "english": [
+        "Charm Whip"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1314,
+      "category": "Battle moves",
+      "english": [
+        "Giga Volt Shot"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2590,
+      "category": "Battle moves",
+      "english": [
+        "Giga Volt Shot"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1315,
+      "category": "Battle moves",
+      "english": [
+        "Blue Prominence"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2591,
+      "category": "Battle moves",
+      "english": [
+        "Blue Prominence"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1316,
+      "category": "Battle moves",
+      "english": [
+        "Burning Ray"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2592,
+      "category": "Battle moves",
+      "english": [
+        "Burning Ray"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1318,
+      "category": "Battle moves",
+      "english": [
+        "Terror Fang"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2594,
+      "category": "Battle moves",
+      "english": [
+        "Terror Fang"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1319,
+      "category": "Battle moves",
+      "english": [
+        "Hell Squeeze"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2595,
+      "category": "Battle moves",
+      "english": [
+        "Hell Squeeze"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1320,
+      "category": "Battle moves",
+      "english": [
+        "Blade Claw"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2596,
+      "category": "Battle moves",
+      "english": [
+        "Blade Claw"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1328,
+      "category": "Battle moves",
+      "english": [
+        "Crusher Punch"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2604,
+      "category": "Battle moves",
+      "english": [
+        "Crusher Punch"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1329,
+      "category": "Battle moves",
+      "english": [
+        "Worm Wheel"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2605,
+      "category": "Battle moves",
+      "english": [
+        "Worm Wheel"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1333,
+      "category": "Battle moves",
+      "english": [
+        "Death Blast"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2609,
+      "category": "Battle moves",
+      "english": [
+        "Death Blast"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1336,
+      "category": "Battle moves",
+      "english": [
+        "Hell Crusher"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2612,
+      "category": "Battle moves",
+      "english": [
+        "Hell Crusher"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1340,
+      "category": "Battle moves",
+      "english": [
+        "Shadow Nail"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2616,
+      "category": "Battle moves",
+      "english": [
+        "Shadow Nail"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1398,
+      "category": "Battle moves",
+      "english": [
+        "Northern Cross Bomber"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2329,
+      "category": "Battle moves",
+      "english": [
+        "Northern Cross Bomber"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1875,
+      "category": "Battle moves",
+      "english": [
+        "Bishop Cross"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3151,
+      "category": "Battle moves",
+      "english": [
+        "Bishop Cross"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2674,
+      "category": "Battle moves",
+      "english": [
+        "N Cross Bomber"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3605,
+      "category": "Battle moves",
+      "english": [
+        "N Cross Bomber"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1721,
+      "category": "Battle moves",
+      "english": [
+        "Grace Cross Freezer"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2203,
+      "category": "Battle moves",
+      "english": [
+        "Cross Red and Blue"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2997,
+      "category": "Battle moves",
+      "english": [
+        "G Cross Freezer"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3479,
+      "category": "Battle moves",
+      "english": [
+        "Cross R&B"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western move match not verified."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Susanoomon\nattacks. Extra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Susanoomon\nattacks. Extra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Beelzemon\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Beelzemon\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Greymon L\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Tyrannomon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Devimon attacks.\nExtra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Airdramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Garurumon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Angemon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Bakemon attacks.\nMay cause instant KO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Gekomon attacks.\nMay lower DEF."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Gatomon attacks.\nMay cause blindness."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: ExVeemon attacks.\nMay lower ATK."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Stingmon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Ankylomon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Gargomon attacks.\nExtra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Growlmon attacks.\nMay lower SPD."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Kyubimon attacks.\nMay cause instant KO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Kurisarimon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Seasarmon\nattacks. May lower INT."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Aquilamon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Dorugamon\nattacks. May lower ATK."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Raptordramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Hanumon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Minotaurmon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Gaogamon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Seadramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shellmon attacks.\nMay paralyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: IceDevimon\nattacks. May paralyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Rukamon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Tankmon attacks.\nExtra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Mushamon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Flaremon attacks.\nMay lower DEF."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Lekismon attacks.\nMay cause sleep."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Buraimon attacks.\nExtra fighting damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Agunimon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MetalGreymon L\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Monzaemon\nattacks. May cause sleep."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Megadramon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Angewomon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MegaSeadramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: WereGarurumon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Myotismon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: LadyDevimon\nattacks. May cause\nblindness."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Blossomon\nattacks. May lower DEF."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Lillymon attacks.\nExtra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MagnaAngemon\nattacks. May cause instant\nKO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Paildramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Dinobeemon\nattacks. May paralyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MegaloGrowmon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Rapidmon attacks.\nExtra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Taomon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Infermon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Pandamon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MarinDevimon\nattacks. May poison."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Karatenmon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Kyukimon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Sinduramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Dorugremon\nattacks. Extra fighting\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Chimairamon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Silphymon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Whamon attacks.\nExtra water damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Insekimon\nattacks. Extra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Gigadramon\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: RizeGreymon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MachGaogamon\nattacks. Extra fighting\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Chirinmon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Kabukimon\nattacks. May confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Cherrymon\nattacks. May confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Lucemon FDM\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table. Description-only abbreviation of Lucemon Falldown Mode."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Phantomon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 24,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Vajramon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: AeroVeedramon\nattacks. Extra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: GrapLeomon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Yatagaramon\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: RookChessmon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Flaremon attacks.\nExtra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Crescemon\nattacks. May confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Magnamon attacks.\nExtra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Argomon\n(Ultimate) attacks. May\nparalyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shakkoumon\nattacks. May lower INT."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: SkullBaluchimon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Grademon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Wisemon attacks.\nMay cause instant KO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Mermaimon\nattacks. May confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Butenmon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Bastemon attacks.\nMay drain HP."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Cerberumon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross:\nHerculesKabuterimon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: SaberLeomon\nattacks. May poison."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MetalEtemon\nattacks. May confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MagnaAngemon\nattacks. May confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: GigaSeadramon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Creepymon\nattacks. May cause instant\nKO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Phoenixmon\nattacks. Extra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Puppetmon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Rosemon attacks.\nMay confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: WarGreymon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MetalGarurumon\nattacks. May paralyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: VenomMyotismon\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Imperialdramon DM\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Seraphimon\nattacks. May lower INT."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: HiAndromon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Devitamamon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Cherubimon\n(Virtue) attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MegaGargomon\nattacks. May lower SPD."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Sakuyamon\nattacks. Extra water damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Diaboromon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Neptunmon\nattacks. May poison."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Boltmon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: PrinceMamemon\nattacks. Extra electric\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Ophanimon\nattacks. May paralyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Zanbamon attacks.\nMay poison."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Anubimon attacks.\nExtra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Cannondramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Eaglemon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: DORUgoramon\nattacks. May lower INT."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Beelzemon L\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: BanchoLeomon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Darkdramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Goldramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MetalSeadramon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Valkyrimon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Justimon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Vikemon attacks.\nMay confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: SkullMammothmon\nattacks. May paralyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: GranKuwagamon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Pharaohmon\nattacks. Greatly raises\nMelodize chance."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Alphamon attacks.\nMay lower DEF."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Magnadramon\nattacks. May lower INT."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Millenniummon\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Megidramon\nattacks. May cause instant\nKO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Kentaurosmon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: SN Greymon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MirageGaogamon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: JumboGamemon\nattacks. May lower DEF."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Ravemon attacks.\nExtra water damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Chronomon HM\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table. Description-only abbreviation of Chronomon: Holy Mode."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Lilithmon L\nattacks. May cause instant\nKO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Apollomon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Dianamon attacks.\nMay confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Lotusmon attacks.\nGreatly raises Melodize\nchance."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Minervamon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Leopardmon\nattacks. May cause instant\nKO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Mercurymon\nattacks. Extra fighting\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Gaiomon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: GranDracmon\nattacks. Extra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: AncientKazemon\nattacks. May poison."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: AncientGarurumon\nattacks. Greatly raises\nMelodize chance."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: A. Megatheriummon\nattacks. May paralyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table. Description-only abbreviation of AncientMegatheriummon."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: AncientGreymon\nattacks. May lower DEF."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: AncientMermaimon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: AncientWisemon\nattacks. May confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: AncientSphinxmon\nattacks. May cause instant\nKO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: AncientTroymon\nattacks. May lower SPD."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: AncientBeetlemon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: UlforceVeedramon\nattacks. Extra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Craniamon\nattacks. Extra electric\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: TigerVespamon\nattacks. Extra electric\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Examon attacks.\nExtra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: DaiPenmon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Omnimon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Imperialdramon FM\nattacks. May cause instant\nKO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table. Description-only abbreviation of Imperialdramon Fighter Mode."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Imperialdramon PM\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table. Description-only abbreviation of Imperialdramon Paladin Mode."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Gallantmon CM\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table. Description-only abbreviation of Gallantmon Crimson Mode."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Armageddemon\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: BE Myotismon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Apocalymon\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: ZeedMillenniummon\nattacks. May cause instant\nKO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: ChaosGallantmon\nattacks. May poison."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Millenniummon\nattacks. May confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Valdurmon\nattacks. Extra light damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: ShineGreymon BM\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: ShineGreymon RM\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MirageGaogamon BM\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Ravemon BM\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Rosemon BM\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Chaosmon attacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Azulongmon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Baihumon attacks.\nMay poison."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Zhuqiaomon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Ebonwumon\nattacks. May confuse."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Aegisdramon\nattacks. Extra water damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Chaosdramon\nattacks. Extra electric\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Dorulu Cannon\nattacks. May lower SPD."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon X2\nattacks. Extra electric\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Star Sword\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Jet Sparrow\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon X4\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Greymon attacks.\nMay paralyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: MetalGreymon\nattacks. May poison."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: SkullKnightmon\nattacks. May cause instant\nKO."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: DarkKnightmon\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon X5\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon X4B\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon X3\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Spadamon attacks.\nMay paralyze."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon X3GM\nattacks."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon X3SD\nattacks. Extra dark damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon X4S\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: GreyKnightsmon\nattacks. Extra fighting\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross: Shoutmon X5S\nattacks. Extra fire damage."
+      ],
+      "sources": [],
+      "review_note": "Exact Japanese DigiXross attack/effect pattern; species name from reviewed game name table."
+    }
+  ]
+}

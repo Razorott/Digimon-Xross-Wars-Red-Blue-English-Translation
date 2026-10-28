@@ -1,0 +1,4193 @@
+{
+  "description": "Area map labels, battle moves and effects, DigiFarm reports, HQ NPC dialogue, and quest prompts.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2205,
+      "category": "Battle moves",
+      "english": [
+        "Hell Incinerate"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3481,
+      "category": "Battle moves",
+      "english": [
+        "Hell Incinerate"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2206,
+      "category": "Battle moves",
+      "english": [
+        "Death Destroyer"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3482,
+      "category": "Battle moves",
+      "english": [
+        "Death Destroyer"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2208,
+      "category": "Battle moves",
+      "english": [
+        "Space Chakram"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3484,
+      "category": "Battle moves",
+      "english": [
+        "Space Chakram"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2209,
+      "category": "Battle moves",
+      "english": [
+        "Helios Slasher"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3485,
+      "category": "Battle moves",
+      "english": [
+        "Helios Slasher"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2228,
+      "category": "Battle moves",
+      "english": [
+        "Guilty Claw"
+      ],
+      "sources": [
+        "https://dro.gameking.com/News/PatchNoteView.aspx?idx=1315"
+      ],
+      "review_note": "Guilty Claw is used as a Western Digimon attack name in the licensed English Digimon RPG update; the Japanese attack text is ギルティクロー. This is a name match, not evidence that this game used the same localization."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3504,
+      "category": "Battle moves",
+      "english": [
+        "Guilty Claw"
+      ],
+      "sources": [
+        "https://dro.gameking.com/News/PatchNoteView.aspx?idx=1315"
+      ],
+      "review_note": "Guilty Claw is used as a Western Digimon attack name in the licensed English Digimon RPG update; the Japanese attack text is ギルティクロー. This is a name match, not evidence that this game used the same localization."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2229,
+      "category": "Battle moves",
+      "english": [
+        "HP Single"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3505,
+      "category": "Battle moves",
+      "english": [
+        "HP Single"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2230,
+      "category": "Battle moves",
+      "english": [
+        "HP Line"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3506,
+      "category": "Battle moves",
+      "english": [
+        "HP Line"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2231,
+      "category": "Battle moves",
+      "english": [
+        "MP Single"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3507,
+      "category": "Battle moves",
+      "english": [
+        "MP Single"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2232,
+      "category": "Battle moves",
+      "english": [
+        "MP Line"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3508,
+      "category": "Battle moves",
+      "english": [
+        "MP Line"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2233,
+      "category": "Battle moves",
+      "english": [
+        "Cure Single"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3509,
+      "category": "Battle moves",
+      "english": [
+        "Cure Single"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2234,
+      "category": "Battle moves",
+      "english": [
+        "Cure Line"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3510,
+      "category": "Battle moves",
+      "english": [
+        "Cure Line"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2235,
+      "category": "Battle moves",
+      "english": [
+        "Full Recovery"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3511,
+      "category": "Battle moves",
+      "english": [
+        "Full Recovery"
+      ],
+      "sources": [],
+      "review_note": "Direct working labels for single-target or line-target recovery actions; confirm targeting in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2089,
+      "category": "Battle moves",
+      "english": [
+        "Mega Flame Explosion"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2244,
+      "category": "Battle moves",
+      "english": [
+        "Mega Flame Explosion"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2106,
+      "category": "Battle moves",
+      "english": [
+        "Phantom Pain Legacy"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2389,
+      "category": "Battle moves",
+      "english": [
+        "Phantom Pain Legacy"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2461,
+      "category": "Battle moves",
+      "english": [
+        "Flame Pillar"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3737,
+      "category": "Battle moves",
+      "english": [
+        "Flame Pillar"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2462,
+      "category": "Battle moves",
+      "english": [
+        "Volcano Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3738,
+      "category": "Battle moves",
+      "english": [
+        "Volcano Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2463,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Drago Magma"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3739,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Drago Magma"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2464,
+      "category": "Battle moves",
+      "english": [
+        "Raging Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English move-name match in the English Digimon World: Dawn/Dusk list: Raging Flame."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3740,
+      "category": "Battle moves",
+      "english": [
+        "Raging Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English move-name match in the English Digimon World: Dawn/Dusk list: Raging Flame."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2465,
+      "category": "Battle moves",
+      "english": [
+        "Pressure Aqua"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3741,
+      "category": "Battle moves",
+      "english": [
+        "Pressure Aqua"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2466,
+      "category": "Battle moves",
+      "english": [
+        "Icicle Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3742,
+      "category": "Battle moves",
+      "english": [
+        "Icicle Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2467,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Hard Rain"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3743,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Hard Rain"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2468,
+      "category": "Battle moves",
+      "english": [
+        "Raging Blizzard"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3744,
+      "category": "Battle moves",
+      "english": [
+        "Raging Blizzard"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2469,
+      "category": "Battle moves",
+      "english": [
+        "Magnet Wave"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3745,
+      "category": "Battle moves",
+      "english": [
+        "Magnet Wave"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2470,
+      "category": "Battle moves",
+      "english": [
+        "Spark Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3746,
+      "category": "Battle moves",
+      "english": [
+        "Spark Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2471,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Magnet Power"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3747,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Magnet Power"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2472,
+      "category": "Battle moves",
+      "english": [
+        "Raging Lightning"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3748,
+      "category": "Battle moves",
+      "english": [
+        "Raging Lightning"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2473,
+      "category": "Battle moves",
+      "english": [
+        "Rising Laser"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3749,
+      "category": "Battle moves",
+      "english": [
+        "Rising Laser"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2474,
+      "category": "Battle moves",
+      "english": [
+        "Shining Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3750,
+      "category": "Battle moves",
+      "english": [
+        "Shining Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2518,
+      "category": "Battle moves",
+      "english": [
+        "A.R.C. Blizzard"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3651,
+      "category": "Battle moves",
+      "english": [
+        "A.R.C. Blizzard"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2558,
+      "category": "Battle moves",
+      "english": [
+        "Starlight EX"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English move-name match in the English Digimon World: Dawn/Dusk list: Starlight EX."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3617,
+      "category": "Battle moves",
+      "english": [
+        "Starlight EX"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English move-name match in the English Digimon World: Dawn/Dusk list: Starlight EX."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2646,
+      "category": "Battle moves",
+      "english": [
+        "Dark Spider Dance"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3706,
+      "category": "Battle moves",
+      "english": [
+        "Dark Spider Dance"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Battle label translated from the Japanese source and checked against the English Digimon World: Dawn/Dusk move-name list. No exact match was found unless this note says otherwise; treat these as working renderings pending battle-effect review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "No special ability."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Can automatically break\nboulders blocking the\npath."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Can automatically cut down\ntrees blocking the path."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Can automatically melt ice\nblocking the path."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Can dig at Dig Points and\ntravel underground."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Can dive at Dive Points\nand travel underwater."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Raises allies' Attack and\nDefense."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slams an impassioned punch\ninto the enemy. May also\ncause Confusion."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swings a McField\nmicrophone like a\nmartial-arts weapon. A\none-of-a-kind performance\ntechnique."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shot Arms. May drain the\ntarget's HP."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Claw & Fang. May put the\ntarget to sleep."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Enlarges the drill on its\ntail and whips up a giant\ntornado that sweeps away\nall enemies."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Meteor Squall. May lower\nthe target's Attack."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges straight at the\nenemy."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a highly acidic\nbubble at the target. May\nalso inflict Poison\ndamage."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an arrow of water\nfrozen by a breath of\nabsolute zero."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires countless ice arrows\nat nearby enemies."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows a little blizzard\nthat freezes nearby\nenemies."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes nearby enemies in\na bitter blizzard. May\nalso cause Confusion."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes nearby enemies in\nan absolute-zero storm.\nGreatly increases the\nMelodize chance."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a clear water bubble\nat the target. May put it\nto sleep."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows a mysterious bubble\nfilled with Digivolution\nenergy. May put the target\nto sleep."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a violent whirlpool\nat the target."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a high-speed\nwhirlpool at the target."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a rock-crushing\nwhirlpool at the target."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a powerful, surging\nwave at the target."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Summons a raging tidal\nwave that engulfs nearby\nenemies."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Summons a legendary tidal\nwave that engulfs nearby\nenemies."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices the target with a\nlight-wreathed vacuum\nblade."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Somersaults at light speed\nand charges the enemy.\nGreatly increases the\nMelodize chance."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a sound-wave orb\nwrapped in light at the\ntarget."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls sound-wave orbs\nwrapped in light at nearby\nenemies. May also cause\nConfusion."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Creates a huge typhoon and\nunleashes it on nearby\nenemies."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Creates a small typhoon\nand unleashes it on nearby\nenemies."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Creates a gigantic typhoon\nand unleashes it on nearby\nenemies."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices the target with a\nrazor-sharp vacuum blade.\nMay lower its Speed."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts nearby enemies with a\ncrescent-shaped shock\nwave. May lower their\nSpeed."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spins at light speed and\nshreds the target with its\nclaws."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires orbs of light energy\nfrom both arms."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a massive ball of\nfire that scorches the\ntarget."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a ball of fire using\nthe embers surrounding its\nbody."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a ball of fire that\nerupts into a blazing\npillar."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a ball of fire that\nerupts into a scorching\npillar."
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Japanese ability-effect description translated directly. Official attack names are preserved where established; effect wording remains subject to active battle review."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm... That was not much\nfun."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is that, a high-jump\nsetup? Can I jump over it?\nI will give it a try!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yes! I did it! That was\nfun! I think I gained a\nlittle EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "I could not make it. What\na shame..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is that a diving board? I\njust jump from here,\nright...?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whew! I nailed it! That\nfelt great! I gained lots\nof EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "Never mind! This is scary!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this an old record\nplayer? I wonder if it\nstill works..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "That is a nice song! I\nlike it. I gained a little\nEXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "It is broken. Aw, what a\nshame!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "That is a Holy Bell,\nright? I will ring it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow... What a lovely\nsound! It feels so nice...\nI gained some EXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh? It will not ring at\nall. Is it broken?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this Stonehenge? Maybe\nsomething good will happen\nif I walk between the\nstones...?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I feel so strong! I\ngained a lot of EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing happened. I am a\nlittle disappointed..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "I wonder what is inside\nthis..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! Is this Dark\nMedicine?! I gained a\nlittle EXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "It... It is creepy. I\nthink I will stop."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this? It looks\ncreepy... A cursed box? I\nwill take a look!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "Amazing! This is the power\nof darkness! I gained some\nEXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh? The lid will not\nopen. Never mind!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "Could this be a Dark\nTower? I will investigate!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow! The power of darkness\nis surging through me! I\ngained a ton of EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing happened... Maybe\nthis is not a Dark Tower?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh? What is that?\nSomething around here\nsmells so warm and\ncomforting..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "Th-this is Taiki's scent!\nI hope we can play\ntogether next time he\nvisits... Our Friendship\nwent up a little!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "It has been so peaceful\nand happy lately... It is\nall thanks to Taiki,\nright? He is such a great\nTamer!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "Taiki, th-thanks for\neverything... I hope you\nheard me... Our Friendship\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yay! I found 100 DigiBits!\nI will send them to Taiki\nright away. He will be\nhappy!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "I found 500 DigiBits! I\nwill send them to Taiki\nright away. He will be so\nhappy!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow! 1,000 DigiBits?! I\nwill send them to Taiki.\nHe will be thrilled!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hey! There are wild\nberries here. I will try\none!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wild berries are\ndelicious! I gained a\ndecent amount of EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "These berries do not taste\ngood. What a letdown..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "That branch looks sturdy!\nMaybe I will climb it."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "Climbing trees is\nexciting! I gained a\nlittle EXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm... Climbing trees is\nnot as fun as I thought."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this... A tree\nstump? What am I supposed\nto do with it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "This training is unusual,\nbut it is not bad. I\ngained a decent amount of\nEXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "I got a splinter when I\nbumped into the stump..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "That tree is oozing tasty\nsap. I wonder what it\ntastes like..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "It is really sweet and\ntasty! I gained a lot of\nEXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh! This tastes awful!\nAnd it was called \"Tasty\nSap\"...!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text. EXP and Friendship use the game's established status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! A circus tent! I\nwill master my performance\nskills here!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "I feel like I have been\nreborn as a superstar\nperformer! And I gained a\nton of EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "I could not learn\nanything. They made me\nclean the whole time..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! A mini-shower!\nPerfect timing. I am going\nto cool off!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "The water is so cold! It\nfeels amazing! I gained a\nlittle EXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! This water is\nfreezing!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini fishing pond! There\nare fish everywhere! I am\ngoing to catch a bunch!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yes! Fish on! I got a\ntasty-looking fish and\nsome EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did not catch anything.\nWhat a letdown!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "A huge waterfall! I will\ntrain under it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I just had a\nbrilliant idea! I do not\nknow what it is, but it is\namazing! My EXP shot up,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "Brr! The water is\nfreezing... and it hurts!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this? It smells\nwonderful! Is it this\nflower?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "This nectar is sweet and\ndelicious! I gained a\nlittle EXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "A smell will not fill my\nstomach!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity/result text; preserves the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks! ROG\nfled. You saved\nus! Hope they\nstay gone so\npeace returns.\nOthers need\nhelp, Taiki.\nCheck Sky\nFort's Quest\nMonitor!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Best shop in\nRoundabout City\nPenguinmon's!\nOnly one here!"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=EX11-014&search=true"
+      ],
+      "review_note": "Penguinmon is the official English card spelling for Japanese ペンモン. The shop/location wording is translated from this game's Japanese text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to our\nRoundabout City\nDigiFarm Shop!\nYeah! Need you!\nBomber!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to our\nRoundabout City\nDigiFarm Shop!\nYeah! Need you!\nBomber!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Tower's back...\nThank you! You\nsaved us!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki,\nSpadamon,\nthanks! Need\nthe Spider Nest\nRuins key? No\nkey, sorry!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Skull City's\nPenguinmon runs\nthe Skull Shop!\nNo poison for\nsale!"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=EX11-014&search=true"
+      ],
+      "review_note": "Penguinmon is the official English card spelling for Japanese ペンモン. The shop/location wording is translated from this game's Japanese text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "You came to\nsave us, Taiki!\nThis icy Zone\nis full of joy!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "You came to\nsave us, Taiki!\nThis icy Zone\nis full of joy!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks for\nsaving me!\nPlease help the\nothers, too.\nCheck their\nwishes on the\nQuest Monitor.\nI'm counting on\nyou!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Didn't expect\nto return!\nThanks, Taiki!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Didn't expect\nto return!\nThanks, Taiki!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! You\nsaved me! Ask\nif you need\nanything.\nCrystal\nVolcano? Too\nhot for me! How\nwould I know?!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm Tentomon,\nyour tent\nexpert! Know\nthe save\nterminal and\nhealing bed?\nNow we have the\nDigiLab and\nDigiFarm PCs!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "Need DigiLab\nand DigiFarm? I\nhad them\nbrought in! Put\nthem to good\nuse. Keep it\nup!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Penguinmon's is\nSky Fort's top\nshop! No rivals\nhere..."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=EX11-014&search=true"
+      ],
+      "review_note": "Penguinmon is the official English card spelling for Japanese ペンモン. The shop/location wording is translated from this game's Japanese text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Windmill raid?\nWhere have I\nheard that\nstory..."
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "Let's go! Our\nfriends wait!\nThey believe in\nyou, Taiki!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, it's\nweird... Sis\nsaid Pipimon\ncan't come!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "Bad feeling...\nStay alert!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue translated from the Japanese game script. Human names remain Taiki and other original Japanese names; established DigiLab/DigiFarm terms are retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 495,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to MarineDevimon\nin the Front Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=EX8-061&search=true"
+      ],
+      "review_note": "Quest objective translated from the Japanese text. Digimon spelling follows the English card/game name; Tokona Coast is the established English rendering used for this Japan-only game."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 499,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to MarineDevimon\nin the Front Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=EX8-061&search=true"
+      ],
+      "review_note": "Quest objective translated from the Japanese text. Digimon spelling follows the English card/game name; Tokona Coast is the established English rendering used for this Japan-only game."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 504,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Divermon\nin the Front Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT15-028&search=true"
+      ],
+      "review_note": "Quest objective translated from the Japanese text. Digimon spelling follows the English card/game name; Tokona Coast is the established English rendering used for this Japan-only game."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 508,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Divermon\nin the Front Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT15-028&search=true"
+      ],
+      "review_note": "Quest objective translated from the Japanese text. Digimon spelling follows the English card/game name; Tokona Coast is the established English rendering used for this Japan-only game."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 0,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Central Room"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 2,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sky Garden B"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 3,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Commander Room"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 4,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sky Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 5,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Prison"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 6,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Front Room"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 7,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Main Yard"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 8,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Canyon Yard 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 9,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Canyon Yard 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 10,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Canyon Yard 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 11,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Grass Yard 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 12,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Grass Yard 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 13,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Grass Yard 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 14,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "West Knuckle City Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 15,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "West Knuckle City"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 17,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Knuckle Coast West 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 18,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Knuckle Coast West 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 19,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "East Knuckle City Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 20,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "East Knuckle City"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 22,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Knuckle Coast East 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 23,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Knuckle Coast East 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 24,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Knuckle Coast East 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 25,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Roundabout West Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 26,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Roundabout Amazon West 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 27,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Roundabout Amazon West 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 28,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Roundabout Amazon West 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 29,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Roundabout Amazon West 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 30,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Roundabout City Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 31,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Roundabout City"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 33,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Roundabout Amazon East 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 34,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Roundabout Amazon East 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 35,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space East 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 36,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space East 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 37,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space East 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 38,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space East 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 39,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull City Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 40,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull City"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 42,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull Iceberg West 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 43,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull Iceberg West 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 44,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull Iceberg West 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 45,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull East Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 46,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull Iceberg East 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 47,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull Iceberg East 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 48,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull Iceberg East 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 49,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull Iceberg East 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 51,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest West Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 52,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest Ruins West 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 53,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest Ruins West 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 54,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest Ruins West 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 55,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest Ruins West 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 56,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest Passage"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 57,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest City Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 58,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest City"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 60,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest Ruins East 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 61,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest Ruins East 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 62,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spider Nest Ruins East 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 63,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus North Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 64,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus Desert North 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 65,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus Desert North 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 66,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus Desert North 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 67,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus Desert North 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 69,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus City Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 70,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus City"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 72,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus Desert South 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 73,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus Desert South 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 74,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus Desert South 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 75,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Flower Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 76,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Flower Meadow 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 77,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Flower Meadow 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 78,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Flower Meadow 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 79,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Flower Meadow 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 80,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Flower Meadow 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 81,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Dark Tunnel 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 82,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Dark Tunnel 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 83,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Dark Tunnel 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 84,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Dark Tunnel 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 86,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 87,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 89,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 95,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal West Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 96,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano West 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 97,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano West 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 98,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano West 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 99,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano West 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 100,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano West 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 101,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano Underground"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 102,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Earth Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 103,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Earth Fort"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 104,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano East 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 105,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano East 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 106,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano East 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 107,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano East 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 108,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Volcano East 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 109,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Mine Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 110,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Mine 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 111,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Mine 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 112,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Mine 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 113,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Mine 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 114,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Mine 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 115,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Cave 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 116,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Cave 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 117,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Cave 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 118,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Crystal Cave 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 119,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth North Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 120,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley North 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 121,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley North 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 122,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley North 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 123,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley North 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 124,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley North 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 126,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth South Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 127,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley South 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 128,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley South 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 129,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley South 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 130,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley South 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 131,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Valley South 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 132,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost North Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 134,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space North 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 135,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space North 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 136,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space North 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 137,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space North 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 138,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space North 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 139,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space North 6"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 141,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost South Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 142,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space South 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 143,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space South 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 144,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space South 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 145,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space South 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 146,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space South 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 147,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space South 6"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 148,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital North Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 149,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space North 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 150,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space North 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 151,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space North 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 152,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space North 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 153,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space North 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 154,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space North 6"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 155,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space North 7"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 156,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space North 8"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 157,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital South Port"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 158,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space South 1"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 159,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space South 2"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 160,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space South 3"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 161,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space South 4"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 162,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space South 5"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 163,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space South 6"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 164,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Digital Space South 7"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 165,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "DigiColosseum Lobby"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 166,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Spectator Seats"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red"
+      ],
+      "review_note": "Map/area label translated directly from the Japanese game text. This game did not receive an official Western release; established English location spellings were cross-checked against the community game reference, and remaining labels are transparent working renderings."
+    }
+  ]
+}

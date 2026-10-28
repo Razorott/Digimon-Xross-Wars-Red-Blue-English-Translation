@@ -1,0 +1,1897 @@
+{
+  "description": "Translate the remaining shy and robotic DigiFarm reactions, activity reports, and rewards.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "A scale...? I'm\ntrying to lose\nweight\nright now..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "I weigh less\nthan\nbefore! My diet\nworked! My Max\nHP\nwent up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, no... I've\ngained too much\nweight!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "A belt\nmachine...\nI'll use it to\nget in shape..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was a good\nworkout... My\nMax HP\nwent up a bit."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't stop\nshaking...\nMaybe I overdid\nit...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "A treadmill...\nI'll run a\nlittle\nto lose\nweight..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whew... I lost\na little\nweight...\nMy Max HP went\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ouch! I got a\ncramp in my\nleg..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "A crystal\nball...\nIt's so\nbeautiful...\nI feel like\nit's\npulling me in!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "It flashed... I\nthink I saw\nsomething...\nMy Max MP went\nup a little..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "But nothing\nhappened...\nMaybe it's just\na\ndecoration...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "There's\nsomething\nhere...\nLet's take a\nlook...\nOh, it's a\ntarot card!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can feel a\nmagical\npower...\nMy Max MP went\nup a bit."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "But how do I\nuse it?\nI'm not sure..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "A pyramid...\nSince I'm here,\nI'll look\ninside..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "I felt a\npowerful,\nmysterious\nenergy!\nMy Max MP went\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's so dark\ninside...\nI can't see a\nthing..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "A punching\nbag...\nI'm not very\nfond\nof practicing\nattacks..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "I got carried\naway\nand tried so\nhard...\nHow\nembarrassing!\nMy Attack went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "I knew it... I\ndon't like\nanything\nso rough..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "A training\ntree...\nI wonder if a\nDigimon\nlike me can do\nthis..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "That went\nbetter\nthan I\nexpected!\nMy Attack went\nup quite a bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't do\nthis...\nI'm not good at\nit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "A huge rock...\nI could never\nmove\nsomething that\nbig..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh...? It moved\nmore easily\nthan I\nexpected... My\nAttack\nwent up a lot!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "I... I can't do\nit...\nIt won't\nbudge..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "I-is this a\npunching\nmachine? I need\nto\ncatch the\npunch...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "It hurt, but I\nmanaged to\nendure it...\nMy Defense went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "It still hurts!\nPlease stop!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "A training\ncannon...\nD-do I have to\ncatch\nthe ball?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whew... I\nmanaged\nto catch it...\nMy\nDefense went up\na bit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "Aah! It hurts\ntoo\nmuch! I can't\ntake it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "O-okay... I\njust\nhave to catch\nthis?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm glad... I\ncaught\nit! My Defense\nwent\nway up..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm sorry... I\nreally can't do\nit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "A bookshelf...?\nI rarely get to\nread here..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's wonderful\nto\nread in\npeace... A\nreal treat for\nthe mind!\nI feel wiser,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't focus\ntoday...\nThe words won't\nstay in my\nhead..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "A study desk...\nI'll sit down\nand\nstudy for a\nwhile."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "I remembered\nmore\nthan I thought!\nStudying\nwent well, and\nmy\nWisdom went up."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Oh, dear...\nWhy do I get\nsleepy\nwhenever I sit\nat\na desk?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "A magic\ncircle...\nIs it used for\na spell?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "I don't know if\nit's\nmagic or my\nimagination,\nbut I feel much\nwiser!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "It looks like\nsomething\nshould happen,\nbut\nnothing does..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "Side-to-side\njumps...\nI'll give it a\ntry!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm actually\ngood\nat this kind of\nthing!\nMy Speed went\nup a little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "My body's too\nheavy...\nI can't jump\nwell..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "A trampoline...\nI'll play on it\nfor a little\nwhile!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "Floating in the\nair\nfeels\nwonderful! My\nSpeed went up\nquite\na bit, too!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "W-what should I\ndo?\nI'm too heavy\nto jump..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "A running\nwheel...\nI'll get inside\nand run!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whew... That\nwas\ngreat exercise!\nMy\nSpeed went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm sorry...\nI'm\ntoo tired to\nmove..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "A ring of\nfire...\nIt's a little\nscary,\nbut I'll try..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whew... I did\nit!\nMy EXP went up\na bit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't do\nthis!\nThere's no\nway..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Fire Road...\nDo I really\nhave\nto cross it...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whew... It was\nhot,\nbut I endured\nit.\nMy EXP went up\na little..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "Aah! It's so\nhot!\nI can't stand\nit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "Fireworks...\nIt'd\nbe a shame to\nwaste\nthem. I'll\nlaunch one!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "How beautiful!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "Did I fail...?\nI'm too scared\nto\nget any\ncloser..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "This ball is\nhuge...\nDo you want me\nto\nclimb on top of\nit?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's fun when\nyou\nkeep your\nbalance...\nMy EXP went up\na little..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "I-I can't stop\nit\nwobbling! It's\nso dangerous!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "A tightrope...\nI'm not\nconfident,\nbut I'll try..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! My\nEXP\nwent up a\nbit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "I-I'm still\nscared...\nI'm sorry..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "A circus\ntent...\nI'll go in and\nlearn\na trick..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "They praised my\nact!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm sorry... I\ndon't\nthink I have\nany talent..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini\nshower...\nI'm so happy! I\nlove showers!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ahh, that feels\nnice!\nI feel\nrefreshed...\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "But taking a\nshower\noutside is\nembarrassing..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini fishing\npond...\nI wonder if I\ncan\ncatch a\nfish...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "I caught one!\nI'm so happy!\nMy\nEXP went up a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "I didn't catch\none...\nI guess I can't\ndo it..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "A big\nwaterfall...\nI'll train my\nspirit\nunder it..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "I focused and\ncalmed my\nmind...\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't... It\nhurts\ntoo much!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "That smells\nlovely...\nIt must be\ncoming\nfrom this\nflower..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "The more I\nlook,\nthe more\nbeautiful\nit seems... My\nEXP\nwent up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "A caterpillar?!\nNo! Stay away!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "A tree house...\nIt looks\nlovely. I've\nalways dreamed\nof\nliving in a\nplace like\nthis!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "This house is\ntruly\nwonderful! My\nEXP\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "Living here is\nreally\ninconvenient..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "A computer...\nI'll try\nconnecting\nto the\nInternet!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "There's so much\ninteresting\ninformation!\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "A-a virus got\nin!\nThis is bad!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "A solar\npanel...\nI think it\nturns\nsunlight into\npower..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can feel\nelectricity\ncoming from it!\nMy\nEXP went up a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "Aah! My body's\nparalyzed!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "A pinball\nmachine...\nI'm not very\ngood\nat games..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "I think I'm\ngetting\nthe hang of it!\nMy\nEXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "I failed...\nGame over..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "A birdhouse...\nI'll take a\npeek\ninside to see\nif\nthere's a\nbird..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "A baby bird was\nasleep inside.\nSo cute!\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "There was\nnothing\ninside... Too\nbad..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "A running high\njump...\nI can't jump\nthat high..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! I\nmanaged\nto jump! My EXP\nwent up a bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "I couldn't do\nit...\nWhat a shame..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "A diving\nboard...\nA-am I really\nsupposed\nto jump from\nhere?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "I was scared to\ndeath,\nbut I found the\ncourage!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "S-sorry... I\ncan't\ndo it after\nall!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "I think this is\ncalled\na phonograph...\nIt\nlooks very\nold..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "What a lovely\ntone...\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "It doesn't seem\nto\nwork... Too\nbad..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Holy Bell...\nIt's so\nbeautiful!\nI'd like to\nring it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's just as\nbeautiful\nas I\nimagined... My\nEXP went up a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "It won't\nring...\nHow disappointi\nng..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "Stonehenge...\nI think I'm\nsupposed\nto walk between\nthose stones..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "I feel a\npowerful,\nholy energy! My\nEXP\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nThat's too\nbad..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "S-something's\nboiling...!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "A dark potion!\nMy\nEXP went up a\nlittle..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't stand\nthis\nsmell! I can't\ndo it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "I sense\nsomething\nominous...\nCould this\nbe a cursed\nbox?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "Aah! Such\npowerful\ndark energy...\nMy EXP\nwent up a bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "The lid won't\nopen...\nThat's too\nbad..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "Could this be a\nDark Tower?\nI'll\nget closer and\nlook..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "A powerful dark\nenergy is\ninside me!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nI must have\nbeen\nimagining it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "100 Bits! I'll\nsend them to\nTaiki right\naway!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "500 Bits!\nAmazing!\nI'll send them\nto\nTaiki right\naway!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't believe\nit!\n1,000 Bits!\nI'll\nsend them to\nTaiki!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wild\nstrawberries!\nThey look\ntasty.\nI'll try one..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "Sweet and\ndelicious!\nMy EXP went up\na bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's too\nsour...\nI can't eat\nit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "Looks like I\ncan\nclimb this\ntree..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! I\nclimbed\nit! My EXP went\nup\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm sorry...\nI'm\ntired..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's a tree\nstump,\nright...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "It feels so\nnice,\nand it's just\nthe\nright firmness!\nMy\nEXP went up a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "The bark feels\nsoft,\nbut bumping\ninto it\nreally hurts..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "There's some\ntasty\ntree sap...\nI'll\ntaste a little."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's delicious!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "I-it's bitter!\nIt doesn't\ntaste good!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh...? A\nscale...?\nI'll try\nweighing\nmyself..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "Weight control\nsuccessful! Max\nHP\nincreased a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "This weight is\nbad...\nI've gained too\nmuch..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "A belt\nmachine...?\nI'll use it to\nget in shape..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whew... That\nwas\na good workout.\nMax HP went up\na fair bit."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "W-what...? My\nbody\nwon't stop\nshaking!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "A treadmill...\nI'll try\nrunning\nfor a while."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whew... That\nwas\ntough, but my\nMax HP\nwent way up."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ouch... I\noverdid it\nand twisted my\nankle..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "A crystal\nball...?\nIt's quite\nbeautiful."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh?! I saw\nsomething... My\nMax MP\nwent up a\nlittle."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "It is\nbeautiful,\nbut that's all\nit is."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why is there a\ntarot card\nhere...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "I sense magical\npower... My Max\nMP\nwent up a bit."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "I don't know\nhow to\nuse tarot\ncards..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "A pyramid...\nI've\nalways wondered\nwhat's\ninside..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "What was that\nstrange\npower?! My Max\nMP\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "I don't feel\nany\npyramid\npower... It's\nso dark inside.\nI can't\nsee a thing."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "A punching bag!\nJust looking at\nit\nmakes me want\nto\npunch it..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "I got carried\naway...\nMy Attack went\nup\na little, at\nleast."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "The punching\nbag\ndoesn't fight\nback.\nIt's useful\ntraining,\nbut not enough\nalone."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "A training\ntree...?\nHow am I\nsupposed\nto use this\nthing?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "It went better\nthan expected!\nMy\nAttack went up\na fair bit."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "I don't get\nit...\nHow do you\ntrain\nwith a thing\nlike this?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "A giant rock...\nIs\nmoving it the\ntraining?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "It moved more\neasily\nthan I thought!\nMy\nAttack went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "It won't move\nat all..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "A punching\nmachine...?\nI just have to\ncatch\nthat punch..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ouch... That\nhurt,\nbut I endured\nit.\nMy Defense went\nup\na little..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "Aah! It hurts!\nNo way! I\ncan't!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "A training\ncannon...?\nDo I have to\ncatch\nthat ball?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh... That\nhurt...\nI caught it,\nthough.\nMy Defense went\nup\na bit."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is\nimpossible...\nI'll break\nbefore my\nDefense\nimproves..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "I just have to\ncatch\nthis iron ball,\nright?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm text; shy voice or machine-like narration preserved, with lines wrapped to the 15-character story-text budget."
+    }
+  ]
+}

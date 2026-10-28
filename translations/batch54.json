@@ -1,0 +1,395 @@
+{
+  "description": "Translate the opening Team Cute scene and directions for the Chibickmon search.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Big sis? Do you\nmean Akari?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I don't\nthink I've ever\ncalled Akari\nthat. Besides,\nshe's in the\nCommander Room\nright now. It\nmust be someone\nthey met in\nthis Zone."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "We asked around\nto see if\nanyone had\nspotted\nChibickmon.\nSomeone said\nthey saw it\nnear East\nKnuckle City,\nbut it\ndisappeared\nsoon after, so\nwe don't know\nwhere it went."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "East Knuckle\nCity...? You\nmean near East\nKnuckle Coast?\nThat's close to\nwhere we fought\nPukumon."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "All right,\nbrother! Let's\ngo find\nChibickmon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "You left it to\nme?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "L-left it to...\nme?! Huh?! Hey,\nwasn't I\nsupposed to go\nfirst?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "Without that\nlittle one, the\nPickmons are a\nmess... Leave\nit to us! We'll\nfind it right\naway!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "Come on, Taiki!\nWe have to save\nChibickmon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait a minute,\nTaiki! If\nyou're going to\nEast Knuckle\nCoast, take\nthis!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "What... What\nkind of key is\nthis?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "It's the key to\nthe gate near\nEast Knuckle\nCity. Past that\ngate is\nTwisting\nAmazon. If you\ncan't find\nChibickmon at\nEast Knuckle\nCoast, will you\nsearch the\nneighboring\nTwisting\nAmazon, too?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Twisting\nAmazon, huh?\nGot it. We'll\nlook there,\ntoo."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "What the heck?!\nWe just came\nthrough here!\nWe're going\nround and round\nin the same\nplace!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Big sis, round\nand round!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "That's why you\nshould call me\nLady\nMinervamon! And\nsince you've\njoined Team\nCute, you have\nto... add\n'meow' before\nand after you\nspeak! You\nunderstand?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Meow! Yes,\nmeow!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Aaaah! There\nthey are!\nChibickmon...\nand who are\nthose guys?\nWhat are they\ndoing?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "Um... don't ask\nme... But they\nlook like\nthey're having\nfun. Maybe\nthey're not bad\nDigimon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, you!\nDangerous bad\nboys are\ncoming! Hurry\nup and run!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "D-danger...\nmeow? Bad\nboy...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Shut up! Stand\nup! And hurry\nup!!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "M-meow! Yes,\nmeow!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "Ah! They got\naway..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Let's chase\nthem, Taiki!\nWe'll catch up\nin no time!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "The whirlpools\nhere are\none-way. Once\nyou enter one,\nyou can't\nreturn through\nthe whirlpool\nyou came from.\nBe careful!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "We can hide\nhere for a\nlittle while..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "...We can hide\nhere!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "Round and\nround... round\nand round...\nmeow?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "If there's a\nhole, I have to\nhop in! Let's\nskedaddle,\nmeow! You\nunderstand?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Character names, zone names, and Team Cute follow the project style."
+    }
+  ]
+}

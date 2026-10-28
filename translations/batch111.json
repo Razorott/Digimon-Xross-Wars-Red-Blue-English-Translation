@@ -1,0 +1,4 @@
+{
+  "description": "Copyedit all 77 Digidex descriptions with apostrophes into readable sentences accepted by the game renderer, and join authored hyphenated words split by old narrow wrapping.",
+  "blocks": []
+}

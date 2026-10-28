@@ -1,0 +1,395 @@
+{
+  "description": "Translate the next scene of story dialogue after Spadamon is rescued.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "We’re with you!\nWe’ll fight by\nyour side!\nLet’s go!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon!! I’m\nglad you’re\nsafe!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Ba... Badamon!\nBada-mooon!!\nThank goodness!\nI thought you\nwere dead!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Don’t say\nsomething so\nawful! You got\naway from those\nROG guys too,\nSpadamon! And\nwho are these\nDigimon...? Um,\nwho are you?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "We’re Xros\nHeart! We came\nfrom another\nZone. Spadamon\nsaid he wanted\nto save you, so\nwe decided to\nhelp!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... So\nthat’s what\nhappened. Thank\nyou so much!\nYou’re an\namazing team!\nI’m glad you\nwere here to\nprotect\nSpadamon. If\nROG had caught\nhim, things\nwould have been\nmuch, much\nworse!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Worse...? Wait,\nthat guy we\njust beat said\nall of ROG was\nlooking for\nSpadamon...\nWhat does that\nmean?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "I... I don’t\nknow either!\nI’ve actually\nlost my\nmemories... I\ncan’t remember\nanything from\nbefore I\nstarted living\nwith Patamon.\nMaybe I know\nthe secret of\nthis Zone...\nH-hey, I’m only\njoking!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, hey, hey!\nAre you okay?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "But... ROG\nsounds like a\npretty big\norganization.\nIt can’t be for\nnothing if\nthey’re\nsearching with\nthis many\npeople.\nSpadamon, you\nreally don’t\nremember\nanything?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "B-but I really\ndon’t\nremember...\nEveryone says\nI’ll remember\nnaturally once\nI get stronger,\nbut I’ve been\nrunning away\nall this time,\nso I never get\nstronger...\nHeh!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Grrr! I’ve had\nenough! Taiki\nand I will\ntoughen you up,\nwhether you\nlike it or not!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Ha ha! I can’t\ntell if you’re\nstrong or weak.\nBut the voice\nthat called us\nhere was real.\nI could feel\nhow badly you\nwanted to save\nyour friends!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, right! We\ncan talk later!\nThose ROG guys\nstarted up the\nDigiLab\nsystem...\nThey’re going\nto run a fusion\nexperiment in\nthe Central\nRoom next door!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm? What do\nyou mean,\nfusion? Is it\nDigiXross?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "...DigiXross?\nNo, the DigiLab\ncombines\nDigimon to make\nthem even\nstronger! It’s\na really useful\nsystem when\nit’s used\nproperly. But\nthose guys\ndon’t know how\nit works...\nThey’ll force\nyour\nsquare-shaped\nfriend into the\nexperiment!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "I’m coming with\nyou, too! Let’s\nhurry to the\nCentral Room!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "Why’d they\nbring such a\nhuge lump here?\nHe’s heavy,\nbig, and looks\nslow. Stubborn\nand hard to\nhandle, too.\nAnd besides,\nour\npersonalities\nkind of\noverlap..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "How do they?!\nWe’re not even\none micron\nalike!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, shut up,\nall of you!\nHurry up and\ncarry him over\nto that\nmachine! I’m\ngoing to absorb\nhis power and\nbulk! No one’s\never calling me\na chicken\nagain!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey... There\nare two\nmachines here.\nWhich one is\nit?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "W-which one...?\nHow should I\nknow? The\ndatabase only\nsays it’s a\nmachine here.\nAlmost all the\nDigimon ran\noff, so we\ncan’t ask them.\nMaybe we should\ncatch that\nSpadamon and\nsqueeze the\nanswer out of\nhim...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Idiot! If you\nfind him, hand\nhim over to\nLord\nMinotaurmon!\nFigure this out\nyourselves.\nThink of a\nclue!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "I think it’s a\nsecret system\nfound only in\nthis Zone. It\nmixes Digimon\ntogether and\nmakes them a\nlot stronger."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "If you touch\nthe switch in\nfront of the\nmachine... it\nlights up with\na flash and\ngoes beep-boop!\nThat’s what I\nheard."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "...So which of\nthese two looks\nlike that\nmachine?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "They both kind\nof look like\nit... Actually,\nneither one\nreally does."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "What’s with all\nthis ‘flash’\nand ‘beep-boop’\nstuff? Are you\nmessing with\nme? That’s not\na clue at all!\nHow am I\nsupposed to\ntell? Whatever,\njust try one!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "You’re talking\nlike it’s\nsomeone else’s\nproblem! What\nif you mess\nwith it and\ncombine them\nthe wrong way?\nIf you’re so\nsure, you two\ntry it! One’s\nsquishy and\none’s\nrock-hard. Put\nthem together\nand divide by\ntwo, and you’ll\nget a nice,\nsoft result!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "You’re the one\ntalking\nnonsense,\nbirdbrain! Keep\nspouting that\ngarbage and\nI’ll pluck that\ncrest right off\nyour head!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Dialogue translated directly from the Japanese scene; character names and DigiLab/DigiXross terminology follow project style."
+    }
+  ]
+}

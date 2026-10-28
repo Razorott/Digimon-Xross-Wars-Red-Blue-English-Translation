@@ -1,0 +1,2151 @@
+{
+  "description": "Airport route menus, battle techniques and effect descriptions, DigiFarm reactions, and NPC mission dialogue.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2053,
+      "category": "Battle moves",
+      "english": [
+        "Feather Cutter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3329,
+      "category": "Battle moves",
+      "english": [
+        "Feather Cutter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2055,
+      "category": "Battle moves",
+      "english": [
+        "Cyber Nail"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3331,
+      "category": "Battle moves",
+      "english": [
+        "Cyber Nail"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2058,
+      "category": "Battle moves",
+      "english": [
+        "Machine Gun Arm"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3334,
+      "category": "Battle moves",
+      "english": [
+        "Machine Gun Arm"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2061,
+      "category": "Battle moves",
+      "english": [
+        "Elemental Bolt"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3337,
+      "category": "Battle moves",
+      "english": [
+        "Elemental Bolt"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2062,
+      "category": "Battle moves",
+      "english": [
+        "Power Guillotine"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3338,
+      "category": "Battle moves",
+      "english": [
+        "Power Guillotine"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2063,
+      "category": "Battle moves",
+      "english": [
+        "Ion Blaster"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3339,
+      "category": "Battle moves",
+      "english": [
+        "Ion Blaster"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2065,
+      "category": "Battle moves",
+      "english": [
+        "Double Cutter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3341,
+      "category": "Battle moves",
+      "english": [
+        "Double Cutter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2066,
+      "category": "Battle moves",
+      "english": [
+        "Mame Bite 1000"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3342,
+      "category": "Battle moves",
+      "english": [
+        "Mame Bite 1000"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2067,
+      "category": "Battle moves",
+      "english": [
+        "Hell Howling"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3343,
+      "category": "Battle moves",
+      "english": [
+        "Hell Howling"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2068,
+      "category": "Battle moves",
+      "english": [
+        "Falcon Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3344,
+      "category": "Battle moves",
+      "english": [
+        "Falcon Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2069,
+      "category": "Battle moves",
+      "english": [
+        "Corona Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3345,
+      "category": "Battle moves",
+      "english": [
+        "Corona Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2070,
+      "category": "Battle moves",
+      "english": [
+        "Strike Uppercut"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3346,
+      "category": "Battle moves",
+      "english": [
+        "Strike Uppercut"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2071,
+      "category": "Battle moves",
+      "english": [
+        "Brute Force"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3347,
+      "category": "Battle moves",
+      "english": [
+        "Brute Force"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2072,
+      "category": "Battle moves",
+      "english": [
+        "Cocoon Attack"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3348,
+      "category": "Battle moves",
+      "english": [
+        "Cocoon Attack"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2073,
+      "category": "Battle moves",
+      "english": [
+        "Maelstrom"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3349,
+      "category": "Battle moves",
+      "english": [
+        "Maelstrom"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2075,
+      "category": "Battle moves",
+      "english": [
+        "Darkness Love"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3351,
+      "category": "Battle moves",
+      "english": [
+        "Darkness Love"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2076,
+      "category": "Battle moves",
+      "english": [
+        "Black Mind"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3352,
+      "category": "Battle moves",
+      "english": [
+        "Black Mind"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2077,
+      "category": "Battle moves",
+      "english": [
+        "Cross Slash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3353,
+      "category": "Battle moves",
+      "english": [
+        "Cross Slash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2078,
+      "category": "Battle moves",
+      "english": [
+        "Engacho Kick"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3354,
+      "category": "Battle moves",
+      "english": [
+        "Engacho Kick"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2080,
+      "category": "Battle moves",
+      "english": [
+        "Needle Spray"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Needle Spray appears in the licensed English Digimon World: Dawn/Dusk move-list extraction. The Japanese technique spelling also directly corresponds; recheck the exact Digimon association during playthrough QA."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3356,
+      "category": "Battle moves",
+      "english": [
+        "Needle Spray"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Needle Spray appears in the licensed English Digimon World: Dawn/Dusk move-list extraction. The Japanese technique spelling also directly corresponds; recheck the exact Digimon association during playthrough QA."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2081,
+      "category": "Battle moves",
+      "english": [
+        "Fox Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2250,
+      "category": "Battle moves",
+      "english": [
+        "Fox Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2083,
+      "category": "Battle moves",
+      "english": [
+        "Dragon's Roar"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522025&search=true"
+      ],
+      "review_note": "Exact English spelling confirmed in Bandai’s official English Digimon Card Game card list for ドラゴンズロア (Dragon’s Roar). This is a franchise naming cross-check, not proof that the card and game effects are identical."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3359,
+      "category": "Battle moves",
+      "english": [
+        "Dragon's Roar"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522025&search=true"
+      ],
+      "review_note": "Exact English spelling confirmed in Bandai’s official English Digimon Card Game card list for ドラゴンズロア (Dragon’s Roar). This is a franchise naming cross-check, not proof that the card and game effects are identical."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2086,
+      "category": "Battle moves",
+      "english": [
+        "Giga Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3362,
+      "category": "Battle moves",
+      "english": [
+        "Giga Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2091,
+      "category": "Battle moves",
+      "english": [
+        "Mach Jab"
+      ],
+      "sources": [
+        "https://d1vtv52f4vjbmu.cloudfront.net/manuals/dwno/PS4-DWNO_manual_GBQS_WEB.pdf"
+      ],
+      "review_note": "Mach Jab is the English name used in Bandai Namco’s official Digimon World: Next Order manual. No exact Dawn/Dusk match was established for this source string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3367,
+      "category": "Battle moves",
+      "english": [
+        "Mach Jab"
+      ],
+      "sources": [
+        "https://d1vtv52f4vjbmu.cloudfront.net/manuals/dwno/PS4-DWNO_manual_GBQS_WEB.pdf"
+      ],
+      "review_note": "Mach Jab is the English name used in Bandai Namco’s official Digimon World: Next Order manual. No exact Dawn/Dusk match was established for this source string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2092,
+      "category": "Battle moves",
+      "english": [
+        "Horn Impulse"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3368,
+      "category": "Battle moves",
+      "english": [
+        "Horn Impulse"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2093,
+      "category": "Battle moves",
+      "english": [
+        "Red Eye"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3369,
+      "category": "Battle moves",
+      "english": [
+        "Red Eye"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2095,
+      "category": "Battle moves",
+      "english": [
+        "Charge"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Charge is also present in the licensed English Digimon World: Dawn/Dusk move-list extraction; this is a common move label, so keep the specific Japanese association provisional."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3371,
+      "category": "Battle moves",
+      "english": [
+        "Charge"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Charge is also present in the licensed English Digimon World: Dawn/Dusk move-list extraction; this is a common move label, so keep the specific Japanese association provisional."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2096,
+      "category": "Battle moves",
+      "english": [
+        "Lightning Dash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3372,
+      "category": "Battle moves",
+      "english": [
+        "Lightning Dash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2097,
+      "category": "Battle moves",
+      "english": [
+        "Magnet Beam"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3373,
+      "category": "Battle moves",
+      "english": [
+        "Magnet Beam"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2098,
+      "category": "Battle moves",
+      "english": [
+        "Falling Star"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3374,
+      "category": "Battle moves",
+      "english": [
+        "Falling Star"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2099,
+      "category": "Battle moves",
+      "english": [
+        "Thousand Whip"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3375,
+      "category": "Battle moves",
+      "english": [
+        "Thousand Whip"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2100,
+      "category": "Battle moves",
+      "english": [
+        "Whiteout"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3376,
+      "category": "Battle moves",
+      "english": [
+        "Whiteout"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2101,
+      "category": "Battle moves",
+      "english": [
+        "Rigid Block"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3377,
+      "category": "Battle moves",
+      "english": [
+        "Rigid Block"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2102,
+      "category": "Battle moves",
+      "english": [
+        "Magma Ball"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3378,
+      "category": "Battle moves",
+      "english": [
+        "Magma Ball"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2103,
+      "category": "Battle moves",
+      "english": [
+        "Giga Destroyer Legacy"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2281,
+      "category": "Battle moves",
+      "english": [
+        "Giga Destroyer Legacy"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2105,
+      "category": "Battle moves",
+      "english": [
+        "Sledge Dash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3381,
+      "category": "Battle moves",
+      "english": [
+        "Sledge Dash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional direct English rendering of the Japanese move name. Checked against the English Dawn/Dusk move-list extraction; no exact game-name match was confirmed for this string."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 0,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Resident Digimon"
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 1,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Travel to this area?"
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 4,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose an airport\nfor your destination!"
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 5,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Lost N Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 6,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Lost S Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 7,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sky Port!\nFort Yard is to the\nsouth."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 8,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Stealth N Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 9,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Stealth S Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 10,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Digital N Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 11,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Digital S Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 12,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Crystal Mine\nPort.\nCrystal Cave is east."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 13,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Crystal W Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 14,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Flower Port!\nDarkness Tunnel is east."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 15,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Earth Port!\nCrystal Cave is north."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 16,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at W. Knuckle City\nPort."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 17,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Skull City Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 18,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Port!\nTokona Sea is north."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 19,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Guruguru W Port!\nDarkness Tunnel is west."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 20,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at E. Knuckle City\nPort."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 21,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Skull E Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 22,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Kumonos W Port!\nDigital Space E is south."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 23,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Guruguru City Port!\nDigital Space E is north."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 24,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Kumonos City\nPort."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 25,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Land at Papyrus N Port."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 26,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus City Port!\nGuruguru Amazon E is\nwest."
+      ],
+      "sources": [],
+      "review_note": "Airport selection and route help. Location names reuse the established area labels (Lost Space, Sky Fort, Stealth Valley, Digital Space, Crystal Mine, Crystal Cave, Flower Plains, Knuckle Coast, Skull Glacier, Tokona, Guruguru, Kumonos, and Papyrus)."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh? There's a huge\nwaterfall here.\nMaybe I'll train for a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yay! The waterfall\ntraining\nreally boosted my EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "No, it's too cold...\nI want to stop training!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? Something smells so\nnice.\nOh! It must be this\nflower!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "That sweet scent feels so\nnice!\nI think I gained a little\nEXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "A caterpillar! Nooo!\nI hate caterpillars!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is a treehouse,\nright?\nI like it! I'll live\nhere!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's so peaceful here!\nI gained a lot of EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nope. There's no food\nhere!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is that a computer?\nCan I get online with it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! It works!\nI gained knowledge and\nEXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm... How do you turn\nthis computer on?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's a solar panel,\nright?\nI wonder how it works..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! Electricity is\nflowing\nthrough me! I gained EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yikes! That stings!\nI hate electricity!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's a pinball machine,\nright?\nLet's try it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yes! A perfect score!\nI gained a lot of EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was terrible...\nMaybe I'm bad at this?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a birdhouse?\nI'll take a look!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "I feel like a little bird\nnow!\nI gained a little EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm object reaction or activity result. Existing Japanese line breaks are preserved; English is kept to short readable lines."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Escape is much more likely\nto succeed."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Escape is slightly more\nlikely to fail."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Paralysis is more likely to\ntake hold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Paralysis is much more\nlikely to take hold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sleep is more likely to set\nin."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sleep is much more likely to\nset in."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Confusion is more likely to\ntake hold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Confusion is much more\nlikely to take hold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Darkness is more likely to\ntake hold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Darkness is much more likely\nto take hold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "HP Drain is more likely to\nsucceed."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "HP Drain is much more likely\nto succeed."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "MP Drain is more likely to\nsucceed."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "MP Drain is much more likely\nto succeed."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Poison is more likely to\ntake hold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Poison is much more likely\nto take hold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Curse is more likely to take\nhold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Curse is much more likely to\ntake hold."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "In battle only:\nHP recovery is slightly\ngreater."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "In battle only:\nHP recovery is moderately\ngreater."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "In battle only:\nHP recovery is much greater."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "HP Drain restores more HP."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "HP Drain restores much more\nHP."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "MP Drain restores more MP."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "MP Drain restores much more\nMP."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Poison deals slightly more\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Poison deals moderately more\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Poison deals much more\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "In battle only:\nMove MP cost is slightly\nlower."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "In battle only:\nMove MP cost is much lower."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Health Down lasts longer."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Health Down lasts much\nlonger."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Enemies are slightly easier\nto Melodize."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Enemies are moderately\neasier to Melodize."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Enemies are much easier to\nMelodize."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Battle rewards:\nMore likely to get an item."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Battle rewards:\nMuch more likely to get an\nitem."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Battle rewards:\nEarn slightly more bit."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Battle rewards:\nEarn moderately more bit."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Battle rewards:\nEarn much more bit."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Battle rewards:\nEarn slightly more EXP."
+      ],
+      "sources": [],
+      "review_note": "Battle trait/equipment effect description. Terminology follows the project’s established Escape, status, Drain, Melodize, Health Down, and EXP labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Taiki!\nNow we can use\nthe airport\nagain. Here\nis your\nreward!♪"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Taiki!\nNow we can use\nthe airport\nagain. Here\nis your\nreward!♪"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell Biyomon to\ngather\nthe others\nright away!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell Biyomon to\ngather\nthe others\nright away!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "I heard a scary\nrumor from\nKnuckle Coast:\na slimy monster\nwith raw,\npeeling skin...\nWait, never\nmind!\nThanks for the\nshaver.\nI will... keep\nit safe."
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "I heard a scary\nrumor from\nKnuckle Coast:\na slimy monster\nwith raw,\npeeling skin...\nWait, never\nmind!\nThanks for the\nshaver.\nI will... keep\nit safe."
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "...Togemon\nasked you?\nI understand\nhow it feels.\nYou can borrow\nthe shaver,\nif you really\nwant...\nBut when it is\nall smooth,\nwill it still\nbe...\nNever mind.\nTake it.\nYou can keep\nit."
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "...Togemon\nasked you?\nI understand\nhow it feels.\nYou can borrow\nthe shaver,\nif you really\nwant...\nBut when it is\nall smooth,\nwill it still\nbe...\nNever mind.\nTake it.\nYou can keep\nit."
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "It is all part\nof the\nexperience.\nTell Togemon...\ngood luck!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "It is all part\nof the\nexperience.\nTell Togemon...\ngood luck!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "A fake version\nof me is said\nto appear east\nof Knuckle\nCoast.\nFind it for me!\nThat creep\nreally gives me\nthe shivers!\nPlease, do it\nfor real!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "A fake version\nof me is said\nto appear east\nof Knuckle\nCoast.\nFind it for me!\nThat creep\nreally gives me\nthe shivers!\nPlease, do it\nfor real!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Hurry and find\nmy fake\neast of Knuckle\nCoast!\nThen rough it\nup for me!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Hurry and find\nmy fake\neast of Knuckle\nCoast!\nThen rough it\nup for me!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome! If you\nhave a\nmeteorite, I\ncan appraise\nit."
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome! If you\nhave a\nmeteorite, I\ncan appraise\nit."
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "A meteorite, is\nit? Let's\nsee...\nHmm... I\nunderstand now.\nIt looks like a\nmeteorite, but\nit isn't made\nof stone, so\nit doesn't\ncount. I'm\nsorry,\nbut this is\nspace squid\npoop.\nIt's smelly, so\nplease take it\nback with you!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "A meteorite, is\nit? Let's\nsee...\nHmm... I\nunderstand now.\nIt looks like a\nmeteorite, but\nit isn't made\nof stone, so\nit doesn't\ncount. I'm\nsorry,\nbut this is\nspace squid\npoop.\nIt's smelly, so\nplease take it\nback with you!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "I would like to\njoin your team!\nIf you are\ninterested,\ncome talk to\nme!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "I would like to\njoin your team!\nIf you are\ninterested,\ncome talk to\nme!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "I have a very\ntough mission\nfor you! Find\nPiedmon and\nanswer his\nquiz. Get every\nquestion right\nand all is\nwell.\nBut if you\nfail...\nWho knows what\nwill happen!\nStart at\nKnuckle Coast.\nHead there now!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "I have a very\ntough mission\nfor you! Find\nPiedmon and\nanswer his\nquiz. Get every\nquestion right\nand all is\nwell.\nBut if you\nfail...\nWho knows what\nwill happen!\nStart at\nKnuckle Coast.\nHead there now!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Find Piedmon\nand take his\nquiz!\nFirst, you have\nto find him.\nThat is where\nit all begins!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "Find Piedmon\nand take his\nquiz!\nFirst, you have\nto find him.\nThat is where\nit all begins!"
+      ],
+      "sources": [],
+      "review_note": "NPC dialogue or mission instruction from the original Japanese; character and area names follow the established project glossary."
+    }
+  ]
+}

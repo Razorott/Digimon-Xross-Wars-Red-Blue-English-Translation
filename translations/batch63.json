@@ -1,0 +1,1162 @@
+{
+  "description": "Farm Island and character dialogue: Shoutmon's banter, quizzes, field-skill tips, farm-goods reactions, and the General's quiz.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Things I can't stand? Being ignored! Especially when I'm holding the mic. If you tune me out, I lose it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "You ask if I'm ever down? Sure, of course! I'm sensitive! What do I do? Nothing, really. By the time I notice, I'm already over it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Someone told me to keep it down while I was singing... I was really getting into it, too... That's cold, man!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "I tried to blow out a candle with a mighty shout, but I inhaled instead and burned my mouth... Yeah, I know I messed up. Can't quite figure out where it all went wrong, though."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "Whoa-oh-oh! Awooo... My shout left you spellbound, huh...? Your eyes rolled way back in your head for a sec. Did you pass out?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Listen to my shout! ...What, you don't want to? Okay, how about this: I'll listen to your mighty shout first. That fair? Huh? You don't want that either?! Don't be so selfish!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Listen! I did it! I finally pulled it off! I started by shattering a glass with my voice... and now I've managed to crack Chrome Digizoid! ...Hey, why are you running? Hear me out!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! It's boring here. Put me in the party and let me fight! Come on, Taiki, please!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh? You mean I can quit my job?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Got it! Just call me whenever!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Okay! I'll get back to work, then!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "You want me to work? Anytime!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Whoa... This is amazing! It's so good! I feel strength welling up inside me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks for the DigiNoir! I feel a lot better now."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Doesn't taste that good..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Um... Sorry, but I'm stuffed right now..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm ^2, a ^0-species, ^1-type Digimon! I'm so happy to be on Farm Island! I'll train hard and get stronger!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Quick question: What's the one thing Mammothmon can't stand?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "Heat!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Cold!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "That's right! Heat is the one thing he's weak to. He was buried in ice for ages... I couldn't take that!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Nope! Not even close! Taiki, how could you miss such an easy one? I'm so disappointed! Boo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Quick answer: Which can't fly, Biyomon or Patamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "They can both fly!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Neither of them can fly!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Hee-hee, correct! Nice work, Taiki! It was a trick question, and you got it right away! Between you and me, though, they fly so slowly it's hard to say they can fly at all."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Bzzt! Wrong! You thought you beat the trick question, but you fell for it! Patamon and Biyomon are slower in the air than they are on foot. You could say they just float!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Answer this one: What is WarGreymon's armor made of?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "Calcium!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding! Correct! But if you'd said Chrome Digizoid, I'd have marked you wrong!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "Sure, calcium... Like that's true! I'm so disappointed. Did you really think that would be funny?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! What's MarineAngemon's special move?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.fandom.com/wiki/Digimon_World_Dawn_and_Dusk/Attacks",
+        "https://digimon.fandom.com/wiki/MarineAngemon"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. MarineAngemon's Ocean Love follows its established English move name in Dawn/Dusk."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Ocean Love!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.fandom.com/wiki/Digimon_World_Dawn_and_Dusk/Attacks",
+        "https://digimon.fandom.com/wiki/MarineAngemon"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. MarineAngemon's Ocean Love follows its established English move name in Dawn/Dusk."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "Holy Flame!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.fandom.com/wiki/Digimon_World_Dawn_and_Dusk/Attacks",
+        "https://digimon.fandom.com/wiki/MarineAngemon"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. MarineAngemon's Ocean Love follows its established English move name in Dawn/Dusk."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Yay, correct! Nice one, Taiki! I almost feel like Ocean Love hit me - my eyes are turning into hearts!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.fandom.com/wiki/Digimon_World_Dawn_and_Dusk/Attacks",
+        "https://digimon.fandom.com/wiki/MarineAngemon"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. MarineAngemon's Ocean Love follows its established English move name in Dawn/Dusk."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Bzzt! Wrong! That special move belongs to a different Digimon. I'll let you guess who!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! When you choose a partner Digimon, what matters most to you?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Their personality!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Their looks!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, really? I see... So that's how it is... I knew it... Hee-hee-hee..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Whaaat?! ...Well, looks do matter a little... But hearing you say it so plainly kind of hurts..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "So far, you've played this game for ^0 hours and ^1 minutes. Let's keep adventuring together!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Every Digimon has an attribute it's weak against. For example, Phantom Beast Digimon are weak to the Dark attribute. Keep matchups in mind or you could lose!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Every Digimon has an attribute it's strong against. For example, Beast Digimon are strong against the Fighting attribute. Use matchups to make battles easier!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "My field skill is Rock Breaking! I can smash rocks blocking the path!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "My field skill is Ice Melting! I can melt the ice blocking the path!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "My field skill is Tree Chopping! I can chop down trees blocking the path!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "My field skill is Digging! I can use underground tunnels to reach other places!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "My field skill is Diving! I can use underwater tunnels to reach other places!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't have any field skills, but I'll do my best in battle!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "The new Farm Goods seem to affect our HP and MP. I can't wait to see what they do!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "The new Farm Goods seem to affect our EXP. I can't wait to see what they do!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "The new Farm Goods seem to affect our Attack. I can't wait to see what they do!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "The new Farm Goods seem to affect our Wisdom. I can't wait to see what they do!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "The new Farm Goods seem to affect our Speed. I can't wait to see what they do!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "The new Farm Goods seem to affect our Defense. I can't wait to see what they do!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "The new Farm Goods seem to help make equipment. I can't wait to see what we can build!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "We need Farm Goods to get stronger. Taiki, could you place some for us?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki. Answer me this: What's the name of Hangyomon's spear?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://wikimon.net/Hangyomon",
+        "https://gamefaqs.gamespot.com/ps/562323-digimon-world-3/faqs/79264/normal-equipment"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. Hangyomon's weapon is Torrent in the reference profile and the older English Digimon World 3 equipment list."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "Torrent!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://wikimon.net/Hangyomon",
+        "https://gamefaqs.gamespot.com/ps/562323-digimon-world-3/faqs/79264/normal-equipment"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. Hangyomon's weapon is Torrent in the reference profile and the older English Digimon World 3 equipment list."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Hangyomon Spear!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://wikimon.net/Hangyomon",
+        "https://gamefaqs.gamespot.com/ps/562323-digimon-world-3/faqs/79264/normal-equipment"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. Hangyomon's weapon is Torrent in the reference profile and the older English Digimon World 3 equipment list."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Correct. For a General, you know a surprising amount. I'll even praise you for it... just this once!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://wikimon.net/Hangyomon",
+        "https://gamefaqs.gamespot.com/ps/562323-digimon-world-3/faqs/79264/normal-equipment"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. Hangyomon's weapon is Torrent in the reference profile and the older English Digimon World 3 equipment list."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "Just as I thought - you're so predictable. And wrong. You thought Hangyomon's spear would be called Hangyomon Spear? I knew you'd think that. I'm disappointed."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://wikimon.net/Hangyomon",
+        "https://gamefaqs.gamespot.com/ps/562323-digimon-world-3/faqs/79264/normal-equipment"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. Hangyomon's weapon is Torrent in the reference profile and the older English Digimon World 3 equipment list."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki. Answer me this: What is Unimon's horn made of?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Mithril!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "That's right! It was easy, wasn't it?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Wrong. Your answer, your aim, your attitude - everything is half-baked. Don't pretend you know things. Go wash your face and try again. There might not be a next time."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki. Answer me this: Which Digimon uses the poisonous ink attack called Calligraphy Ink?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Gesomon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Correct. Anyone should know that much, especially a General like you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "No, that's wrong. Squid ink and octopus ink look alike, but they're different - like 'cute' and 'adorable.' Similar, but not the same!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki. Airdramon's special move Spinning Needle creates what when it beats its wings?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.fandom.com/wiki/Digimon_World_Dawn_and_Dusk/Attacks",
+        "https://digimon.fandom.com/wiki/Airdramon"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. Airdramon's Spinning Needle follows its established English move name."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "A slicing gust!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.fandom.com/wiki/Digimon_World_Dawn_and_Dusk/Attacks",
+        "https://digimon.fandom.com/wiki/Airdramon"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. Airdramon's Spinning Needle follows its established English move name."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "A cloud of dust!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.fandom.com/wiki/Digimon_World_Dawn_and_Dusk/Attacks",
+        "https://digimon.fandom.com/wiki/Airdramon"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. Airdramon's Spinning Needle follows its established English move name."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "That's right. There's no punchline. A compliment from me is reward enough, isn't it?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.fandom.com/wiki/Digimon_World_Dawn_and_Dusk/Attacks",
+        "https://digimon.fandom.com/wiki/Airdramon"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained. Airdramon's Spinning Needle follows its established English move name."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Wrong - and that's not even the main problem. You answered without thinking about my question... You're the worst."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki. When you choose a partner, what do you care about?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Their looks!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Their personality!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... That's quite a claim. If you can really judge someone just by their looks, I might actually respect you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh... What a boring answer. You think you can easily understand how someone feels? If so, you're pretty naive!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "^P has played this game for ^0 hours and ^1 minutes so far. That's not enough. Not nearly enough! Keep playing with us, got it?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Do you know a Digimon's weak attribute? For example, Plant Digimon are weak to the Fire attribute. Think about matchups or you'll lose!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "Do you know a Digimon's strong attribute? For example, Phantom Beast Digimon are strong against the Fire attribute. Think before you send them into battle!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "My field skill is Rock Breaking! I can smash even the most annoying rocks blocking the way!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "My field skill is Ice Melting! I can melt all that annoying ice in one go!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "My field skill is Tree Chopping! I can chop down those annoying trees in one clean swing!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation; in-game substitutions are retained."
+    }
+  ]
+}

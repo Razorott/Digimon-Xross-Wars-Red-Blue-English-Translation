@@ -1,0 +1,1921 @@
+{
+  "description": "Crystal Volcano/MegaGargomon and stone-tablet/copying side quests; DigiFarm reports; official-name DigiMemory gift tickets; fourteen battle moves; and facility/map labels. The previous 229 localized graphic states are retained.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I lost.\nI got careless.\nDon't ask\nwhether I would\nhave won\notherwise!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I lost.\nI got careless.\nDon't ask\nwhether I would\nhave won\notherwise!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Darn that giant\nMegaGargomon!\nHe won't escape\nfrom Crystal\nVolcano!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Darn that giant\nMegaGargomon!\nHe won't escape\nfrom Crystal\nVolcano!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I lost.\nI\nunderestimated\nhim. Let's not\ndiscuss whether\nthat would have\nchanged\nanything."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I lost.\nI\nunderestimated\nhim. Let's not\ndiscuss whether\nthat would have\nchanged\nanything."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Grrr,\nMegaGargomon!\nI'll corner and\nfinish him at\nCrystal\nVolcano!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Grrr,\nMegaGargomon!\nI'll corner and\nfinish him at\nCrystal\nVolcano!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I lost.\nHe really was\nas strong as\nthe rumors\nsaid."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I lost.\nHe really was\nas strong as\nthe rumors\nsaid."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh no... If\nMegaGargomon\nescapes Crystal\nVolcano, we'll\nnever catch\nhim..."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh no... If\nMegaGargomon\nescapes Crystal\nVolcano, we'll\nnever catch\nhim..."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I almost\nhad him! Don't\nask what\nwould've\nhappened. You\nknow better!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I almost\nhad him! Don't\nask what\nwould've\nhappened. You\nknow better!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "Aaagh!\nMegaGargomon!\nI'll never let\nhim escape\nCrystal\nVolcano!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "Aaagh!\nMegaGargomon!\nI'll never let\nhim escape\nCrystal\nVolcano!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I lost.\nBut he's\nfinished! I\ncornered him in\nCrystal Cave..."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "Please...\nfinish\nMegaGargomon in\nCrystal\nCave...!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "You came to\nfinish me?\n...Me? At the\nMame-Mame and\nGira-Gira\nGangs' request?\nI haven't even\nlost to them!\nI'm not losing\nto those little\nrunts!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "Well... I lost,\nI'll admit it.\nBut I didn't\nlose to those\nlittle guys!\nRemember that!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "Well... I lost,\nI'll admit it.\nBut I didn't\nlose to those\nlittle guys!\nRemember that!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't care\nwho won. I\nstepped on\nthose little\ntwerps by\naccident! Tell\nthem I'm sorry.\nThey were too\nsmall to see."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't care\nwho won. I\nstepped on\nthose little\ntwerps by\naccident! Tell\nthem I'm sorry.\nThey were too\nsmall to see."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "I can't forgive\nMegaGargomon!\nThat big guy\ndoes whatever\nhe wants! The\nMame-Mame Gang\nis back, and\nwe're teaming\nup with the\nGira-Gira Gang\nto take him\ndown! Taiki,\nhelp us! Meet\nour friends at\nCrystal\nVolcano!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Everyone else\nis already at\nCrystal\nVolcano! Go\njoin them and\nbe their\nbodyguard,\nTaiki!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Taiki!\nHere's your\nreward! The\nGira-Gira and\nMame-Mame Gangs\nhave fought for\nages, but we're\nreally alike.\nTogether, no\none can stop\nus!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Want to recruit\nme? If you do,\njust say the\nword!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... I lost.\nBut he's\nfinished! I\ncornered him in\nCrystal Cave..."
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Please...\nfinish\nMegaGargomon in\nCrystal\nCave...!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "You came to\nfinish me?\n...Me? At the\nGira-Gira and\nMame-Mame\nGangs' request?\nI haven't even\nlost to them!\nI'm not losing\nto those little\nrunts!"
+      ],
+      "sources": [],
+      "review_note": "Optional side mission about MegaGargomon and two rival tiny-Digimon gangs. MegaGargomon follows Bandai English spelling; Crystal Cave and Crystal Volcano match earlier translated quest labels. Gang names are working transliterations that preserve the original joke."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "I found a\nsuspicious\nstone tablet in\nKumonos\nUnderground\nPassage... It\nlooked so\ncreepy that I\nwas afraid to\ntouch it. But I\ncan't stop\nthinking about\nit. Could you\ninvestigate it\nfor me?"
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Please\ninvestigate the\nsuspicious\ntablet in\nKumonos\nUnderground\nPassage. It\nshould be easy\nto spot..."
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks for\nchecking the\ntablet! Its\nguardian spoke?\nIt said, 'Do\nnot break the\nseal. Do not\nwake the\nsleeper.' What\nseal? Who's\nsleeping?\nAnyway, here's\nyour reward."
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Taiki!\nI'll research\nthat strange\ntablet and see\nwhat I can\nfind."
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "I found more\nstrange\ntablets! One in\nPapyrus Cave\nand another\nbeneath Crystal\nVolcano. A\ntablet spirit\nappeared, so I\nran away! Could\nyou investigate\nthem too?"
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "The strange\ntablets are in\nPapyrus Cave\nand beneath\nCrystal\nVolcano. Please\ncheck them out!"
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Taiki!\nHere's your\nreward. That\ntablet guardian\nseemed\nfurious...\nMaybe it hates\nbeing woken up,\nor maybe\nsomeone did\nsomething to\nanger it..."
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "I think we'll\nlearn more if\nwe keep\nresearching.\nI'll contact\nyou if I find\nanything!"
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "I found another\nstrange tablet\nin Stealth\nCave! This\ntime, it really\nfeels like\nsomething is\nthere! Could\nyou investigate\nit for me?"
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Please\ninvestigate the\ntablet in\nStealth Cave!\nThis one seems\nreally\ndangerous, so\nbe careful!"
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Taiki!\nWhat happened?\n...Oh,\nAncientWisemon\nangered the\ntablet\nguardian. It\nplanned to\nrevive the\nAncient Digimon\nand take over\nthe world? No\nwonder the\nguardian was\nfurious! And\nyou got a Score\nas thanks for\nhelping?\nAmazing! This\nwill become\nShoutmon ×3 SD.\nI'll tune it\nfor you...\nDone!"
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Please accept a\nreward from me,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "The mystery\nthat worried me\nis finally\nsolved. Now I\ncan relax.\nThanks, Taiki!"
+      ],
+      "sources": [],
+      "review_note": "Optional stone-tablet investigation quest. AncientWisemon uses the reviewed Western Digimon name; Shoutmon x3 SD is preserved as a DigiXross form label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "I've been\ngetting strange\nreports from\nDigital Space.\nWhen I went to\ninvestigate, I\nmet Parrotmon.\nIt was looking\nfor you, Taiki.\nCould you go\nsee what it\nwants?"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Parrotmon is\nlooking for\nyou, Taiki.\nPlease meet it\nin East Digital\nSpace!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "That wasn't\nParrotmon?! It\nwas some kind\nof copy? And\nthere are more\nand more of\nthem? Something\nstrange is\nhappening in\nDigital\nSpace...\nAnyway, here's\nyour reward!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll let you\nknow if\nanything\nhappens, Taiki.\nPlease help us\nagain!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Something\nstrange is\nhappening all\nover this Zone.\nData use is\nincreasing at\nan abnormal\nrate. Remember\nthe fake\nParrotmon? East\nDigital Space\nis acting\nstrangely.\nCould you\ninvestigate?"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Data use is\ngrowing at an\nalarming rate\nin East Digital\nSpace. Please\nfind out what's\nhappening!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "A Digimon is\ncopying itself\nand\nmultiplying?!\nThat sounds\ndangerous...\nBut why would\nit do that?\nAnyway, please\ntake your\nreward!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "There are\nstrange Digimon\neverywhere, but\nnone of them\nthink about the\nconsequences...\nI'll\ninvestigate a\nlittle more and\nask for your\nhelp if I need\nit."
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "There's an\nemergency in\nNorth Lost\nSpace! Data use\nis\nskyrocketing.\nIf this\ncontinues,\nDigimon will\nget hurt.\nTaiki, please\nstop whatever\nis causing\nthis!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "The disturbance\nis in North\nLost Space. We\ndon't know\nwhat's behind\nit, but please\nstop it!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "The culprit was\nKuramon? I'm\nrelieved, but a\nlittle\ndisappointed. I\nexpected\nsomething more\ndangerous. I'll\nprocess the\ndata you\nbrought back...\nDone! This is\nShoutmon ×3 GM!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "And please\naccept a reward\nfrom me, too!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Taiki!\nI knew I could\ncount on you!"
+      ],
+      "sources": [],
+      "review_note": "Optional investigation quest about copying Parrotmon and runaway data growth. Parrotmon and Kuramon use the established Western names; Digital Space, North Lost Space, and the two Shoutmon ×3 forms follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2025,
+      "category": "Battle moves",
+      "english": [
+        "Eight-Fist Barrage"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working name from the game guide: a flurry of powerful palm strikes against nearby foes. No exact Western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3301,
+      "category": "Battle moves",
+      "english": [
+        "Eight-Fist Barrage"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working name from the game guide: a flurry of powerful palm strikes against nearby foes. No exact Western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2054,
+      "category": "Battle moves",
+      "english": [
+        "Dordeen"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Retains the game guide romanization. The attack is a fiery shock wave that lowers Speed; no exact Western title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3330,
+      "category": "Battle moves",
+      "english": [
+        "Dordeen"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Retains the game guide romanization. The attack is a fiery shock wave that lowers Speed; no exact Western title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2057,
+      "category": "Battle moves",
+      "english": [
+        "Old Man Blast Punch"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working rendering that keeps the oyaji (old man) wordplay; the guide describes an explosive punch with bonus fire damage."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3333,
+      "category": "Battle moves",
+      "english": [
+        "Old Man Blast Punch"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working rendering that keeps the oyaji (old man) wordplay; the guide describes an explosive punch with bonus fire damage."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2074,
+      "category": "Battle moves",
+      "english": [
+        "Poison Cobweb"
+      ],
+      "sources": [
+        "https://wikimon.net/Dokugumon"
+      ],
+      "review_note": "Established English dub alias for Dokugumon's matching Arachno Batoto web attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3350,
+      "category": "Battle moves",
+      "english": [
+        "Poison Cobweb"
+      ],
+      "sources": [
+        "https://wikimon.net/Dokugumon"
+      ],
+      "review_note": "Established English dub alias for Dokugumon's matching Arachno Batoto web attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2082,
+      "category": "Battle moves",
+      "english": [
+        "Sub Vulcan"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working romanization. The game guide describes firing both hand-mounted Vulcan cannons at nearby foes."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3358,
+      "category": "Battle moves",
+      "english": [
+        "Sub Vulcan"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working romanization. The game guide describes firing both hand-mounted Vulcan cannons at nearby foes."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2087,
+      "category": "Battle moves",
+      "english": [
+        "Treasure Mallet"
+      ],
+      "sources": [
+        "https://wikimon.net/Caturamon"
+      ],
+      "review_note": "Established English translation for Caturamon's Bǎo Chuí, the same Treasure Mallet named by this game move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3363,
+      "category": "Battle moves",
+      "english": [
+        "Treasure Mallet"
+      ],
+      "sources": [
+        "https://wikimon.net/Caturamon"
+      ],
+      "review_note": "Established English translation for Caturamon's Bǎo Chuí, the same Treasure Mallet named by this game move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2088,
+      "category": "Battle moves",
+      "english": [
+        "Howl of Power"
+      ],
+      "sources": [
+        "https://wikimon.net/Caturamon"
+      ],
+      "review_note": "English dub name listed for Caturamon's matching Śwabhojana attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3364,
+      "category": "Battle moves",
+      "english": [
+        "Howl of Power"
+      ],
+      "sources": [
+        "https://wikimon.net/Caturamon"
+      ],
+      "review_note": "English dub name listed for Caturamon's matching Śwabhojana attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2090,
+      "category": "Battle moves",
+      "english": [
+        "Blinding Light"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation based on the guide description: light from earrings blinds nearby foes and lowers Wisdom."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3366,
+      "category": "Battle moves",
+      "english": [
+        "Blinding Light"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation based on the guide description: light from earrings blinds nearby foes and lowers Wisdom."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2170,
+      "category": "Battle moves",
+      "english": [
+        "Rostrum"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working romanization retained as a move name; the guide describes dragging nearby foes underwater and swallowing them."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3446,
+      "category": "Battle moves",
+      "english": [
+        "Rostrum"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working romanization retained as a move name; the guide describes dragging nearby foes underwater and swallowing them."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2174,
+      "category": "Battle moves",
+      "english": [
+        "King of Locker"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working romanization retained because the game guide marks this move entry as placeholder text, leaving the intended meaning unclear."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3450,
+      "category": "Battle moves",
+      "english": [
+        "King of Locker"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working romanization retained because the game guide marks this move entry as placeholder text, leaving the intended meaning unclear."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2189,
+      "category": "Battle moves",
+      "english": [
+        "Break Locker"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working romanization. The guide describes swinging a microphone to strike nearby foes; no exact Western title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3465,
+      "category": "Battle moves",
+      "english": [
+        "Break Locker"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working romanization. The guide describes swinging a microphone to strike nearby foes; no exact Western title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2649,
+      "category": "Battle moves",
+      "english": [
+        "FTemptation"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English move spelling reused from the licensed Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3619,
+      "category": "Battle moves",
+      "english": [
+        "FTemptation"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English move spelling reused from the licensed Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2672,
+      "category": "Battle moves",
+      "english": [
+        "E Nirvana"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working rendering of the game-specific label; no matching Dawn/Dusk or Western title was found."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3604,
+      "category": "Battle moves",
+      "english": [
+        "E Nirvana"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working rendering of the game-specific label; no matching Dawn/Dusk or Western title was found."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2673,
+      "category": "Battle moves",
+      "english": [
+        "EXT Jihad"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working rendering of the game-specific label; no matching Dawn/Dusk or Western title was found."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3599,
+      "category": "Battle moves",
+      "english": [
+        "EXT Jihad"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working rendering of the game-specific label; no matching Dawn/Dusk or Western title was found."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! How was that? Easy!\nMy body, spirit, and EXP\nare all fired up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "N-no! It's too hot! I'm\ngoing to get roasted!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "Fire Road?! It's so hot!\nDo I have to cross it?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "I endured the heat!\nSuccess! My EXP went up a\nfair bit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, way too hot! No way\nI can do this!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "Fireworks! Let me launch\nthem with a bang!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, huge! That was\nawesome! My EXP shot up\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing's launching! Is\nthe gunpowder damp, or am\nI a dud?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, this ball is huge!\nI'll roll around on it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is fun! Feels great!\nMy EXP went up a little!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why are all of you\nspinning, too?! Wait... am\nI dizzy?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, tightrope walking!\nI've always wanted to try\nit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! Easier than I\nthought! My EXP went up a\nfair bit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, I fell! That really\nhurt!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese source. EXP, Speed, and other stat labels follow the project’s established English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nFrigimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Frigimon (ユキダルモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nRukamon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://p-bandai.com/us/contents/div/2030/images/Digimon%20Pendulum%20Color_Web%20manual_EN%20%281%29.pdf"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Rukamon (ルカモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nAgunimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Agunimon (アグニモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nMetalGreymon L\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: MetalGreymon L (ＭＥグレイモンＬ)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nSkullGreymon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: SkullGreymon (スカルグレイモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nAngewomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Angewomon (エンジェウーモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nTylomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Tylomon (ティロモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nLadyDevimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: LadyDevimon (レディーデビモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nGarudamon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Garudamon (ガルダモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nMegaKabuterimon (Red)\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: MegaKabuterimon (Red) (ＡカブテリモンＲ)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nTaomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Taomon (タオモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nParrotmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Parrotmon (パロットモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nPandamon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Pandamon (パンダモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nSinduramon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Sinduramon (シンドゥーラモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nWhamon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Whamon (ホエーモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nChirinmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Chirinmon (チィリンモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nCherrymon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Cherrymon (ジュレイモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nEXTyrannomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: EXTyrannomon (ＥＸティラノモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nFlamedramon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Flamedramon (フレイドラモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nBastemon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Bastemon (バステモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nCerberumon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Cerberumon (ケルベロモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nBlueMeramon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: BlueMeramon (ブルーメラモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nScorpiomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Scorpiomon (スコピオモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nNefertimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Nefertimon (ネフェルティモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nCaturamon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Caturamon (チャツラモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nGallantmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Gallantmon (デュークモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nBanchoLeomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: BanchoLeomon (ＢＡＮレオモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nGoldramon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Goldramon (ゴッドドラモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nValkyrimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Valkyrimon (ヴァルキリモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nPharaohmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Pharaohmon (ファラオモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nSpinomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Spinomon (スピノモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nAncientVolcanomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: AncientVolcanomon (Ａボルケーモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nDaiPenmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: DaiPenmon (ダイペンモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nPlatinumNumemon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: PlatinumNumemon (プラチナヌメモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nDinorexmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Dinorexmon (ディノレクスモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nChaosdramon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Chaosdramon (カオスドラモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nOgudomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Ogudomon (オグドモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nMonitamon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Monitamon (モニタモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nDondokomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Dondokomon (ドンドコモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nBombmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Bombmon (ボムモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nShoutmon B\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Shoutmon B (シャウトモンＢ)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nGreymon O\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Greymon O (グレイモンＯ)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nSkullKnightmon BR\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: SkullKnightmon BR (ＳナイトモンＢＲ)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nMadLeomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: MadLeomon (マッドレオモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nTactimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Tactimon (タクティモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nBlastmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Blastmon (ブラストモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nGaossmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Gaossmon (ガオスモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nTroopmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Troopmon (トループモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nChikurimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Chikurimon (チクリモン)."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 42,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nChibickmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "DigiMemory gift ticket. The Digimon’s full Western spelling comes from the reviewed display-name table; game-only form suffixes are retained. The listed name is used as the recipient. Recipient: Chibickmon (チビックモン)."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 1,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Airport"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 2,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "DigiLab"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 3,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "DigiFarm"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 4,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Quest Monitor"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 5,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tent Point"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 7,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "ATM"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 8,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Item Shop"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 23,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Switch Gate"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 24,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Treasure"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 25,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Enemy Box"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 26,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Enemy Box G"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 27,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skill Points"
+      ],
+      "sources": [],
+      "review_note": "Map/facility label translated from the Japanese UI string; established project casing is used for named facilities."
+    }
+  ]
+}

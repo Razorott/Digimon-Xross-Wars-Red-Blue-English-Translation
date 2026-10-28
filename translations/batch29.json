@@ -1,0 +1,2019 @@
+{
+  "description": "Piedmon quiz and rumor side quests; Farm Island shop, item descriptions, DigiFarm reports, and battle moves/effects.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! You\nfinished\nalready?! That\nis\nsurprising... I\nasked you to do\nit, so maybe I\nshould not say\nthis, but... I\ndoubt anyone\nelse would\nstick with\nPiedmon's quiz\nall the way to\nthe end!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! You\nfinished\nalready?! That\nis\nsurprising... I\nasked you to do\nit, so maybe I\nshould not say\nthis, but... I\ndoubt anyone\nelse would\nstick with\nPiedmon's quiz\nall the way to\nthe end!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, by the\nway... Want to\nrecruit me? If\nyou do, come\ntalk to me\nanytime!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, by the\nway... Want to\nrecruit me? If\nyou do, come\ntalk to me\nanytime!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "You found yours\ntruly, Piedmon!\nHa ha! Welcome\nto Question 1\nof my special\nDigimon quiz!\nWhat is\nWhamon's\nsignature move?"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "Dull Week"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Say that again!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "Say that again!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "Yesss! The\nanswer is Tidal\nWave! That\ntsunami is so\nhuge it is\nbarely even\nfunny! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "Yesss! The\nanswer is Tidal\nWave! That\ntsunami is so\nhuge it is\nbarely even\nfunny! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Next up is\nQuestion 2!\nThink you can\nget it right? I\nwill be waiting\nat Flower\nMeadow!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "Next up is\nQuestion 2!\nThink you can\nget it right? I\nwill be waiting\nat Flower\nMeadow!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "Look for me\nnext at Flower\nMeadow!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "Look for me\nnext at Flower\nMeadow!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "You found me\nagain! Ha ha!\nIt is time for\nQuestion 2 of\nPiedmon's\nspecial Digimon\nquiz! What is\nMamemon's\nsignature move?"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "Spicy Bomb"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "Yesss! The\nanswer is\nSmiley Bomb! It\nwill knock you\nout before you\ncan even smile!\nHa ha!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Yesss! The\nanswer is\nSmiley Bomb! It\nwill knock you\nout before you\ncan even smile!\nHa ha!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "Next up is\nQuestion 3!\nThink you can\nget it right? I\nwill be waiting\nin the east of\nDigital Space!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Next up is\nQuestion 3!\nThink you can\nget it right? I\nwill be waiting\nin the east of\nDigital Space!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "Look for me\nnext in the\neast of Digital\nSpace!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "Look for me\nnext in the\neast of Digital\nSpace!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "You found me\nagain! Ha ha!\nIt is time for\nQuestion 3 of\nPiedmon's\nspecial Digimon\nquiz! What is\nMonzaemon's\nsignature move?"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "Lovely Couple"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Yesss! The\nanswer is\nLovely Attack!\nAfter being hit\nby that thing,\nyou feel\nanything but\nlove. More like\nhate... or\ndeath! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "Next up is\nQuestion 4!\nThink you can\nget it right? I\nwill be waiting\nin the north of\nPapyrus Desert!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Next up is\nQuestion 4!\nThink you can\nget it right? I\nwill be waiting\nin the north of\nPapyrus Desert!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "Look for me\nnext in the\nnorth of\nPapyrus Desert!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "Look for me\nnext in the\nnorth of\nPapyrus Desert!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "You found me\nagain! Ha ha!\nIt is time for\nQuestion 4 of\nPiedmon's\nspecial Digimon\nquiz! What is\nOctomon's\nsignature move?"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Big Ink Ranch"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "Yesss! The\nanswer is\nSpurting Ink!\nIt will leave\nyou fed up and\nfeeling awful!\nHa ha!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "Yesss! The\nanswer is\nSpurting Ink!\nIt will leave\nyou fed up and\nfeeling awful!\nHa ha!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "Yay!\nCongratulations!\nThat is the end\nof my special\nquiz for you!\nReport your\nresults to\nMyotismon in\nPapyrus City!\nGot it? Ha ha!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "That is the end\nof my special\nquiz for you!\nReport your\nresults to\nMyotismon in\nPapyrus City!"
+      ],
+      "sources": [],
+      "review_note": "Optional quiz dialogue translated from the Japanese ROM. Digimon names follow the verified English glossary; Tidal Wave, Smiley Bomb, Lovely Attack, and Spurting Ink match Western game move names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "There is\nsomeone\nspreading nasty\nrumors about\nBuraimon, who\nlives in your\nDigiFarm! Find\nout who it is\nand teach them\na lesson!\nAngewomon has a\nlead. She is in\nthe east of\nSkull Iceberg,\nso go ask her!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "Someone is\nspreading nasty\nrumors about\nBuraimon! Find\nthem and teach\nthem a lesson!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Buraimon's good\nname is safe\nnow. Thank you!\nPlease take\nyour reward."
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Would you like\nto recruit me?\nIf you are\ninterested,\ncome talk to\nme."
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "Would you like\nto recruit me?\nIf you are\ninterested,\ncome talk to\nme."
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "I found out who\nis spreading\nthe rumors\nabout Buraimon:\nSinduramon in\nPapyrus Desert!\nHurry over\nthere and teach\nhim a lesson!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Sinduramon was\nthe one\nspreading those\nnasty rumors!\nHurry to\nPapyrus Desert\nand teach him a\nlesson!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Sinduramon was\nthe one\nspreading those\nnasty rumors!\nHurry to\nPapyrus Desert\nand teach him a\nlesson!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Buraimon has\nathlete's foot!\nBuraimon has\nathlete's foot!\nDon't get close\nor you will\ncatch it! Run!\nHide! Evacuate!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "I... I am\nsorry... I\ncould not stand\nseeing everyone\nlike\nBuraimon... I\nwill not do it\nagain. Please\nforgive me..."
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "I will stop\nspreading weird\nrumors... I\nwill apologize\nto Buraimon and\nask them to\nforgive me."
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "There is\nsomeone\nspreading nasty\nrumors about\nthe\nMagnaAngemon in\nyour DigiFarm!\nFind out who it\nis and teach\nthem a lesson!\nAngewomon has a\nlead. She is in\nthe east of\nSkull Iceberg,\nso go ask her!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "Someone is\nspreading nasty\nrumors about\nthe\nMagnaAngemon!\nFind them and\nteach them a\nlesson!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "The\nMagnaAngemon's\ngood name is\nsafe now. Thank\nyou! Please\ntake your\nreward."
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "I found out who\nis spreading\nthe rumors\nabout the\nMagnaAngemon:\nSinduramon in\nPapyrus Desert!\nHurry over\nthere and teach\nhim a lesson!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "The\nMagnaAngemon\nhas athlete's\nfoot! The\nMagnaAngemon\nhas athlete's\nfoot! Don't get\nclose or you\nwill catch it!\nRun! Hide!\nEvacuate!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "I... I am\nsorry... I\ncould not stand\nseeing everyone\nlike the\nMagnaAngemon...\nI will not do\nit again.\nPlease forgive\nme..."
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "I will stop\nspreading weird\nrumors... I\nwill apologize\nto the\nMagnaAngemon\nand ask them to\nforgive me."
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm rumor quest translated from the Japanese ROM. Buraimon, MagnaAngemon, Angewomon, and Sinduramon use their Western spellings recorded in the sourced glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 31,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Upgraded ^0 to MAX."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 32,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Upgraded ^0 to Lv.^1."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 33,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Welcome to the Item Shop!\nWe have everything you\nneed!"
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 34,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Welcome to the Farm Goods\nand Board Shop! Want to\nupgrade Farm Island? You\nare in the right place!"
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 35,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose what you want to\nbuy."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 36,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose what you want to\nsell."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 37,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose equipment to buy."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 38,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose consumables to buy."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 39,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose Farm Goods to buy."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 40,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose a farm for a\nTerrain Board upgrade."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 41,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose equipment to sell."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 42,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose consumables to\nsell."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 43,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose Farm Goods to sell."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 44,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose a Farm Island for a\nTerrain Board upgrade."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 45,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose the Terrain Board\nto upgrade."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 46,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose a Farm Island for a\nBGM Board upgrade."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 47,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose the BGM Board to\nupgrade."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 48,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You do not have any\nequipment."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 49,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You do not have any\nconsumables."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 51,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You do not have enough\nDigiBits to buy that."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 52,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You already have 99 of\nthat item.\nYou cannot buy any more!"
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 53,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Special items cannot be\nsold."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 54,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "This Terrain Board is at\nmax level.\nIt cannot be upgraded\nfurther."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 55,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "This BGM Board is at max\nlevel.\nIt cannot be upgraded\nfurther."
+      ],
+      "sources": [],
+      "review_note": "Shop and Farm Island interface prompt translated directly from Japanese. DigiBits, Terrain Board, and BGM Board use the project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fully restores one\nDigimon's HP and MP and\ncures Health Down."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures Paralysis on one\nDigimon."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures Sleep on one\nDigimon."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures Confusion on one\nDigimon."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures Darkness on one\nDigimon."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures Health Down on one\nDigimon."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures Health Down for one\nhorizontal row of Digimon."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures Unable to Act on one\nDigimon."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures Unable to Act and\nfully restores one\nDigimon's HP."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Warps your party back to\nyour Fort."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "A completely useless\nshell. Sells for a low\nprice."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "An empty shell with no\nreal use. Sells for a low\nprice."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "An empty shell with no\nreal use. Sells for a fair\nprice."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "An empty shell with no\nreal use. Sells for a high\nprice."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "A quirky Numemon ornament.\nSells for a low price."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "A Patamon ornament. Sells\nfor a high price."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "An Impmon ornament. Sells\nfor a very high price."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "An Agumon ornament. Sells\nfor a very high price."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "A coin found by the\nExpedition Team. Sells for\na low price."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "A coin found by the\nExpedition Team. Sells for\na high price."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "A coin found by the\nExpedition Team. Sells for\na very high price."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "A coin found by the\nExpedition Team. Sells for\nan incredible price."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Data that drifts in from\nnowhere. It has no known\nuse."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes one Digimon\nCheerful."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes one Digimon Clingy."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes one Digimon Wild."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes one Digimon Cool."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes one Digimon Selfish."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes one Digimon Demure."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes one Digimon\nRobot-like."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes one Digimon Funky."
+      ],
+      "sources": [],
+      "review_note": "Item effect and flavor description translated from Japanese; terminology is kept consistent with battle status labels and the Digimon glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, a scale! Let us see\nhow much I weigh!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, I am at my ideal\nweight! My max HP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "Uh-oh! I am too heavy! An\noverweight Wild is just a\nsweaty pig!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, a belt machine! That\nlooks fun! I will try it\nright now!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "This shaking feels great!\nMy max HP went up some!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "Th-this shaking will not\nstop... Now I am itchy all\nover!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, a treadmill! I will\nrun as far as I can!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was a good run! My\nmax HP went up a lot!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "Running like this feels...\nweird."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this? A crystal\nball? It is clear and\nempty inside!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, it really glowed! My\nmax MP went up a little!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this supposed to be\nfun? This is boring!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "Something is here! I will\ninvestigate! Is this a\ntarot card?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, magical power is\nflowing into me! My max MP\nwent up some!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this? I do not\nfeel a thing. This is\nboring!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, a pyramid! I have\nalways dreamed of going\ninside one!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from Japanese while preserving the enthusiastic Wild Digimon voice."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2033,
+      "category": "Battle moves",
+      "english": [
+        "Rolling Upper"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3309,
+      "category": "Battle moves",
+      "english": [
+        "Rolling Upper"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2037,
+      "category": "Battle moves",
+      "english": [
+        "Pawn Buckler"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3313,
+      "category": "Battle moves",
+      "english": [
+        "Pawn Buckler"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2038,
+      "category": "Battle moves",
+      "english": [
+        "Smash Hit"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3314,
+      "category": "Battle moves",
+      "english": [
+        "Smash Hit"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2039,
+      "category": "Battle moves",
+      "english": [
+        "Stun Shock"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3315,
+      "category": "Battle moves",
+      "english": [
+        "Stun Shock"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2040,
+      "category": "Battle moves",
+      "english": [
+        "Corona Knuckle"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3316,
+      "category": "Battle moves",
+      "english": [
+        "Corona Knuckle"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2041,
+      "category": "Battle moves",
+      "english": [
+        "Tear Shot"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3317,
+      "category": "Battle moves",
+      "english": [
+        "Tear Shot"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2043,
+      "category": "Battle moves",
+      "english": [
+        "Bouncy Tackle"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3319,
+      "category": "Battle moves",
+      "english": [
+        "Bouncy Tackle"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2044,
+      "category": "Battle moves",
+      "english": [
+        "Little Ice Arrow"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3320,
+      "category": "Battle moves",
+      "english": [
+        "Little Ice Arrow"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2045,
+      "category": "Battle moves",
+      "english": [
+        "Laser Javelin"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3321,
+      "category": "Battle moves",
+      "english": [
+        "Laser Javelin"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2046,
+      "category": "Battle moves",
+      "english": [
+        "Hammer Boomerang"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3322,
+      "category": "Battle moves",
+      "english": [
+        "Hammer Boomerang"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2047,
+      "category": "Battle moves",
+      "english": [
+        "Lop Rush"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3323,
+      "category": "Battle moves",
+      "english": [
+        "Lop Rush"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2048,
+      "category": "Battle moves",
+      "english": [
+        "Hydro Bomb"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3324,
+      "category": "Battle moves",
+      "english": [
+        "Hydro Bomb"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2049,
+      "category": "Battle moves",
+      "english": [
+        "Pointer Arrow"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3325,
+      "category": "Battle moves",
+      "english": [
+        "Pointer Arrow"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2050,
+      "category": "Battle moves",
+      "english": [
+        "Double Backhand"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3326,
+      "category": "Battle moves",
+      "english": [
+        "Double Backhand"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2051,
+      "category": "Battle moves",
+      "english": [
+        "Glide Horn"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3327,
+      "category": "Battle moves",
+      "english": [
+        "Glide Horn"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2052,
+      "category": "Battle moves",
+      "english": [
+        "Triple Star"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3328,
+      "category": "Battle moves",
+      "english": [
+        "Triple Star"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working English rendering of a Japanese Xros Wars battle move. The same-game technique reference confirms the source name and effect; no exact Western game name was found for this move."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Extends an electric arm to\npierce the target. May\ndrain its MP."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a solar beam. May\nparalyze the target."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches nearby enemies\nwith electric arm spikes."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gathers electricity in its\nhorn and fires a plasma\norb."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a rock with all its\nmight."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes the target with\nsharp, electrified\npincers."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Wraps the target in sticky\nelectric thread. May lower\nits Speed."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes the target with\nelectrified claws."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes the target with\nred claws filled with dark\npower."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits the target with a\npowerful punch."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dark feathers slash nearby\nenemies."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires powerful missiles\nthat scorch the target.\nAdds Fire damage."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies the target with\nholy bullets."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby enemies with\na powerful cannon. May\nlower Attack."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stops time and\nelectrically disassembles\nnearby enemies. May cause\nParalysis."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Electrically disintegrates\nnearby enemies with a\npulse laser."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a compressed air\nbullet from its mouth."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stuns the target with a\nheart-shaped kiss. May\ncause Confusion."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated directly from Japanese and cross-checked against the same-game technique guide. Names and effects remain distinct: the sentence describes the move behavior, not a new attack title."
+    }
+  ]
+}

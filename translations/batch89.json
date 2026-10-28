@@ -1,0 +1,1048 @@
+{
+  "description": "Translate party/bank messages, recruitment responses, service counter, and recovery dialogue in MESPAK02 entry 14.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "DeadlyAxemon joined your team."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?card_no=EX10-027&search=true"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved. DeadlyAxemon follows the official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "Greymon joined your team."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "MailBirdramon joined your team."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "All right. I'm counting on you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "Okay!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Understood. Let's work together."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll show you what I can do."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "Got it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll burn them all to ashes!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Understood. I'll lend you a hand."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Dorumon was added to the party!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon was added to the party!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Beelzemon was added to the party!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "SkullKnightmon was added to the party!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "DeadlyAxemon was added to the party!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?card_no=EX10-027&search=true"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved. DeadlyAxemon follows the official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Greymon was added to the party!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "MailBirdramon was added to the party!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Dorumon was sent to the DigiBank!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon was sent to the DigiBank!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Beelzemon was sent to the DigiBank!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "SkullKnightmon was sent to the DigiBank!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "DeadlyAxemon was sent to the DigiBank!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?card_no=EX10-027&search=true"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved. DeadlyAxemon follows the official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Greymon was sent to the DigiBank!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "MailBirdramon was sent to the DigiBank!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hmm, all right."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "...Oh, that's too bad."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hmm, that's fine."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "...A foolish choice."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "...Understood."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "You're not going to recruit me?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hmph."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "^0 was added to the party!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "^0 was sent to the DigiBank!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Want to make me your ally?♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you make me your ally?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "You're really going to recruit me?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me join you?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you make me one of your friends?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "You're going to let me join, right?♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you recruit me?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you sure you want me as an ally...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you going to make me your ally?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "You're going to recruit me?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Want me to join you?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Would you let me join you?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Want to make me your ally?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm counting on you!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "I look forward to working with you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, okay. See you around!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "...All right, then. Bye!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... That's too bad."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh... Well, it can't be helped!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm. So be it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, that's disappointing!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Okay, see you later!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Understood."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, show me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "No, don't show me."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Activate the DigiLab?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Activate the DigiFarm?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "Will this work if I turn on the power...? ...No, it won't start. The switch is on... Is there no energy supply?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "...It won't power on. ...Is there not enough energy?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, are you all right? Don't push yourself!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "That's right! Fight smart, not hard, and win! You can do it, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, leave it to me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you okay, Taiki?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "You were having a pretty bad nightmare. Did you have a rough dream?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "Sorry, everyone. I'm okay now!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Be careful! Don't overdo it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "If you have any questions, ask us or Patamon. We're counting on you, Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Hang in there, Taiki...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "We're counting on you, General! We know we can rely on you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm all right now! I won't lose this time!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! This is the Service Counter. Want to use a Summon Ticket from the Reload Challenge to call a Digimon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, summon one."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "No, don't summon one."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "Come back when you get another Summon Ticket!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "Lord Numemon wants to give you an item!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "Want an item?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, hello! I'll give you an item!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Party and DigiBank status messages, recruit responses, service counter, and recovery dialogue. Dynamic party-name token ^0 is preserved."
+    }
+  ]
+}

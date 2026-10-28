@@ -1,0 +1,2007 @@
+{
+  "description": "Translate the earnest and theatrical DigiFarm Digimon reports, including training, facility, friendship, and Bits events.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Holy Bell, I\nthink...\nSince it's\nhere,\nI'll ring it\nonce."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "What a clear,\nbeautiful\nsound...\nMy EXP went up\na bit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "It didn't ring\nat all!\nWhat a\nletdown..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's\nStonehenge...\nLooks\ninteresting.\nMaybe I'll go\ncheck it out..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! Holy\npower\nis surging up!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's just some\nruins...\nHow boring..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's this?\nI'll taste it\nand find out..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh! This is a\ndark potion! My\nEXP\nwent up a\nlittle..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh! That\ntastes\nawful... I feel\nsick..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's this...?\nI sense\nsomething\nominous... A\ncursed\nbox, maybe..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "Urrgh... That's\na\npowerful dark\nenergy...\nMy EXP went up\na bit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "The lid won't\nopen...\nGuess I'll give\nup..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "Could that be\na Dark Tower?\nI'll go take a\nlook!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "D-dark power is\nsurging through\nme...\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nThat was a\nwasted trip."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's that?\nThere's\na calm, gentle\nscent\ncoming from\nover\nthat way..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "Heh, I see...\nIt's\nTaiki's scent.\nWhen\nTaiki comes\nback,\nI'll hang out\nwith him.\nMy Friendship\nwent up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's peaceful\nagain\ntoday... Now\nthat I\nthink about it,\nwe can\nlive here\nsafely\nthanks to\nTaiki.\nI want to thank\nhim."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "Taiki, you're\nthe\nbest Tamer!\nWe're\nall grateful to\nyou!\nI hope you\nheard that.\nMy Friendship\nwent\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "100 Bits...\nI'll\nsend them to\nTaiki\nright away. I\nhope\nthey help him\nout..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "500 Bits...\nI'll\nsend them to\nTaiki\nright away. I\nhope\nhe's happy..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, 1,000\nBits!\nI'll send them\nto\nTaiki right\naway.\nI'm sure he'll\nbe glad!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "These look like\nwild\nstrawberries...\nI'll try one..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "Sweet and\ntasty!\nMy EXP went up\na bit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "This tastes\nawful!\nI can't eat it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "Looks like I\ncan\nclimb the tree\nhere..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was easy!\nMy EXP went up\na little..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "My hand's\nnumb...\nI can't do\nthis..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "What a huge\nstump...\nWhat am I\nsupposed\nto do with it?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "I just played\naround,\nbut my EXP\nstill\nwent up a\nbit...\nThe tree's\nfeel, smell,\nand result are\nsoothing."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nI didn't expect\nmuch\nfrom a stump\nanyway."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "Could this be\nsome\ntasty tree\nsap...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "That sap was\ntasty!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "Even if it\ntastes\ngood, it's\nstill just\ntree sap..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "A scale? I\ndon't\nneed to weigh\nmyself.\nI always keep\nmy\nfigure perfect!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "There! The\nperfect\nnumber, of\ncourse!\nMy Max HP went\nup\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh?! Th-this\ncan't\nbe right... The\nscale\nmust be broken!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "A treadmill?\nMaybe\nI'll try it for\na little\nwhile..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hee-hee! My\nfigure\nlooks even\nbetter now!\nMy Max HP went\nup\na bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "W-what is\nthis?!\nI can't stop\nshaking!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "A treadmill?\nWhy\nshould I have\nto run?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "I've lost\nweight!\nThat's fine by\nme!\nMy Max HP went\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm too tired\nto\nmove! I hate\nthis!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "A crystal ball?\nIt's bright,\nclear,\nand pretty..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "What was that?\nIt lit up,\nright?!\nMy Max MP went\nup\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "If nothing\nshows up,\nit's just a\nglass ball."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh! A tarot\ncard!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this? I\ncan\nfeel a\nmysterious\npower... My Max\nMP\nwent up a bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "I don't care\nabout\nfate or\nfortunes.\nI'm destined to\nbe\nhappy, after\nall!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is a\npyramid...\nSo I just go\ninside?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "Pyramid power\nmade\nme stronger! My\nMax MP\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's damp and\ndark!\nThis place is\nawful!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "A punching\nbag...?\nI hate doing\nuncivilized\nthings!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "That actually\nfelt\npretty good! My\nAttack\nwent up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "I hate this\nsweaty\nthing! It's not\nsuitable for\nme!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "A training\ntree...?\nFine. I'll do\nit,\nall right...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is getting\nkind of fun! My\nAttack\nwent up quite a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "My body hurts!\nThis is the\nworst!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's with\nthis\nhuge rock?!\nDon't\nexpect me to\nmove it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "It moved so\neasily!\nI'm amazing! My\nAttack\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "See? I knew I\ncouldn't do it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is that a\npunching\nmachine? I have\nto\nstop what's\ncoming?\nHow tiresome..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "You think this\ncan\nhurt me? My\nDefense\nwent up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "That hurt! What\nare you doing?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "A training\ncannon?\nThat looks\ndangerous.\nDo I really\nhave\nto do this?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is\nnothing!\nMy Defense went\nup a bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was\ndangerous!\nHow rude!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "You want me to\ncatch that?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "There! I did\nit!\nMy Defense went\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "Taiki, how\ncould\nyou do that to\nme?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "A bookshelf...\nMaybe I'll read\na little\nbook..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "Reading is\nnice.\nIt calmed me\ndown,\nand my Wisdom\nwent up."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "Not today... I\ncan't\nconcentrate\nat all."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "A study\ndesk...?\nDo you expect\nme\nto study here?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "My Wisdom went\nup\na bit. Though\nI'm\nalready so\nsmart..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why should\nsomeone\nso perfect and\nlovely\nhave to study?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "A magic circle?\nThat's just a\nsuperstition..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "My mind feels\nsharper and\nsharper...\nMy Wisdom is\nrising!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "See? Nothing\nhappened.\nIt's just a\nsilly\nsuperstition."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "Side-to-side\njumps?\nFine, I'll do\nit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wasn't that\nelegant?\nMy Speed went\nup\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, no! I\ntwisted\nmy ankle! Don't\nmake\nme do such dull\nexercise again!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "A\ntrampoline...?\nI'll show you\nmy\nbrilliant\ntechnique!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "Perfect! That\nwas\nflawless! My\nSpeed\nwent up a bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "I twisted my\nankle!\nThis is the\nworst!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "A running\nwheel?\nWhat am I meant\nto do?\nOh, run inside\nit?\nFine, I'll do\nit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was better\nexercise than I\nexpected! My\nSpeed\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is\nridiculous!\nI'm not doing\nit again!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Digimon\nkeychain!\nThat looks fun.\nLet\nme try it, too!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is so much\nfun!\nIt's the best!\nMy\nFriendship went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is hard!\nIt's so much\nfun,\nthough..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "A cell phone!\nI'll\nsend Taiki a\nmessage.\nYou'd better be\ngrateful!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "He replied! Of\ncourse\nhe did! My\nFriendship\nwent up quite a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "Taiki didn't\nreply?\nHe's the worst!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "A digital\ncamera...\nTaiki left it\nhere.\nI'll let him\ntake\none picture of\nme!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "Perfect! My\nbeauty\nlooks flawless!\nMy\nFriendship went\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "This camera\nmust\nbe broken!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wait... You\ndon't\nexpect me to\njump\nthrough this\nring\nof fire, do\nyou?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! That\nwas\neasy for me! My\nEXP\nwent up a fair\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "No! I hate\nthis!\nI don't want to\ndo it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "This Fire\nRoad...\nYou expect me\nto\nwalk across it?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "How was that?\nEasy!\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ow! That's\nawful!\nThis is the\nworst!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "Fireworks... Do\nyou\nwant me to\nlaunch them?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "They're as\nbeautiful\nas I am! My EXP\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "They didn't\nlaunch?\nHow disappointi\nng..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's this\nhuge ball?\nYou want me to\nride\non it?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "Easy! My EXP\nwent\nup a little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't stay\non!\nI've had\nenough!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is that\ntightrope\nwalking? So I\njust\nwalk across\nit...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "Did you see my\ngraceful\nbalance?\nMy EXP went up\na bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "That rope is\ntoo high,\ntoo thin, and\ntoo\nwobbly!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "A circus tent?\nI\ntrain here?\nI'll be\na star\nanywhere!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "Everyone's\ncharmed\nby me! My EXP\nwent\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "W-what was that\ntraining?! It\nwas\nway too hard!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini shower!\nThis is\nperfect.\nI'll take a\nquick\nshower..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ahh, refreshed!\nThat feels\nwonderful!\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "C-cold! What is\nthis?!\nI'm going to\nfreeze!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini fishing\npond?\nThat'll be a\nnice\nway to pass the\ntime..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "Even the fish\ncan't\nresist my\ncharm! My\nEXP went up a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "No bites...\nThis is\nso boring!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "A huge\nwaterfall\nout here... Am\nI\nsupposed to\ntrain\nhere?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "I feel so\nrefreshed!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh! My hair's\na complete\nmess!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "That smells\nlovely...\nThe scent must\nbe\ncoming from\nthat flower."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "It looks and\nsmells\nwonderful, just\nlike me!\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "A caterpillar!\nThat's\ndisgusting!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "A tree house!\nIt's lovely! A\nplace\nfit for me to\nlive!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "Just as I\nthought,\nit's the\nperfect place!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's less\nconvenient\nthan I\nexpected...\nHow\ndisappointing!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "A computer!\nMaybe\nI'll look\naround\non the\nInternet..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "I found some\nuseful\ninformation!\nAnd my\nEXP went up a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "How do you even\nturn this thing\non?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "A solar\npanel...?\nHmm... And what\nexactly is this\nsupposed to do?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is it charging\nme\nwith\nelectricity?!\nMy EXP went up\na bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "W-wait! I'm\ngetting\nshocked! Turn\nit off!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "A pinball\nmachine?\nI'll play to\npass\nthe time..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is more\nfun\nthan I\nexpected!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's fun\nabout this?\nI don't get\nit..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "A birdhouse...?\nI love pretty\nbirds!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "I saw a\nbeautiful\nbird, just like\nme!\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "There was\nnothing\nthere... Oh\nwell."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "A running high\njump?\nYou think I\ncan't\njump that high?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "My jump charmed\neveryone! My\nEXP\nwent up a bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "That didn't\ncount!\nThe bar was too\nhigh!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "A diving\nboard...?\n...Fine! You\nwant\nme to jump,\nright?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "I-I wasn't\nscared!\nMy EXP went way\nup,\nthat's all!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "I-I'll stop for\ntoday!\nI-I'm not\nscared!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "A\nphonograph...?\nIt's so old.\nDoes\nit even work?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wonderful! You\ncan\nmake it my\ntheme song.\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "It won't\nwork...\nIt's just\ndecoration."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Holy Bell! If\nI\nring it, it'll\nmake\na beautiful\nsound!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "Such a holy,\nbeautiful\nsound...\nMy EXP went up\na bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "It didn't\nring...\nHow can that\nbe?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "Stonehenge,\nhuh?\nWhat happens if\nI walk between\nthose stones?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "Holy power is\nrising up! My\nEXP\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nWhat a letdown!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh! What is\nthis?\nThe worst!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "A dark potion?!\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's enough!\nLet's get out\nof here!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's that...?\nSomething feels\nodd...\nIs that a\ncursed box?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can feel\nit...\nThe power of\ndarkness!\nMy EXP went up\na bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "This box won't\nopen!\nI'll have to\nleave it..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Dark Tower?!\nFine, I'll\ninspect it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's definitely\na\nDark Tower! My\nEXP\nwent way up..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "I don't feel\nanything.\nThat's kind of\nboring..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's that? A\nsweet,\nlovely scent is\ncoming\nfrom over\nthere..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's Taiki's\nscent!\nWhen he comes\nback,\nI'll keep him\ncompany.\nMy Friendship\nwent up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "I've been so\nhappy\nlately! That's\nonly\nnatural, of\ncourse...\nBut Taiki's\nbeen\nworking hard,\ntoo.\nI'll praise him\nthis\nonce, as a\nspecial treat!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "Taiki, you're\ndoing\npretty well!\nKeep it up\nand keep\nserving me!\nYou heard me,\nright?\nMy Friendship\nwent\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "100 Bits! I'll\nsend\nthem to Taiki\nright\naway. He'll be\ngrateful to me!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "500 Bits! Lucky\nme!\nI'll send them\nto\nTaiki. He'll\nrespect\nme even more!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "1,000 Bits! How\nwonderful! I'll\nsend\nthem to Taiki.\nMaybe\nhe'll worship\nme!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wild\nstrawberries!\nThey look\ndelicious.\nI'll try one!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was tasty!\nIt passes my\ntest!\nMy EXP went up\na bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh! So sour!\nWhy\nwould you feed\nme\nthat?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "Looks like I\ncould\nclimb this\ntree..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's nice being\nup high! My EXP\nwent up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "Don't make me\ndo\nsomething so\ncrude!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a tree\nstump?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "It brought out\nmy\nstrength! My\nEXP\nwent up a bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "I bumped into a\nstump\nand nothing\nhappened...\nNo story, no\nexcitement!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm report; translated in the speaker's distinct voice and wrapped to the 15-character story line budget."
+    }
+  ]
+}

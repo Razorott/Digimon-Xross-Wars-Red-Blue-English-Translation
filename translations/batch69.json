@@ -1,0 +1,655 @@
+{
+  "description": "Translate the IceDevimon, Arukenimon, and Pharaohmon story sequence in MESPAK02 entry 7.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Fine! Then I'll beat you by force!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Guh...! How could I lose to brats like you...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "IceDevimon! Lies won't help you! If you don't understand that, you'll never beat us!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Heh... Hahahahaha! Is that so?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "What did you say?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Lies and cheating... Sometimes they can be a source of power, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "Exactly... Just as light casts a shadow, even shining strength needs darkness..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "W-will I really be reborn as the strongest...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes... Your 'cunning' data is essential to the new being. Bring everything together in the Omega Area!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Ah... Ahh...! A-a-aah...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "The Omega Area...? What is that?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Will we learn everything if we go to Earth Fort...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, Shoutmon! Let's hurry to Earth Fort! The Omega Area... Something about that name sounds really bad..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Sounds bad...? How bad? Like when a teacher's about to scold you?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "...I don't know. When I remembered the name Dynasmon, my heart felt warm... But the Omega Area... That name fills me with fear. It's cold and unknown..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "...I'm sure the key to Spadamon's memories is there, too. Let's hurry to Earth Fort!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Heh heh... Boys, you've finally made it here."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "You're Arukenimon...! You controlled Sparrowmon back then!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon was a special gift from Lord Zeed Millenniummon... I haven't forgotten that humiliation!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't talk about our friend like she's an object!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "Heh heh heh... Is that what you call your burning friendship?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh, you make me sick! If you're going to use junk data anyway, you might as well let Lord Zeed Millenniummon use it. She was being controlled, so she probably didn't feel a thing!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Arukenimon... You're awful!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Next, you'll be a present for my lord! What color ribbon should I tie around your shredded bodies? Pink, perhaps? How exciting! I'll put you out of your misery soon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "You...!! I'll never forgive you! Never, ever, ever! I won't forgive you!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "S-she's scary..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG, the legendary weapon, everything! I'll offer it all to Lord Zeed Millenniummon!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "H-hey, Arukenimon...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "No matter how many times I crush it, Elestou Zone rises again! Cursed Dynasmon...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "Dynasmon...? You know that name?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Heh heh heh... I know why Spadamon lost his memories!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "What?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "And the reason is...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Arukenimon, I admire your cruelty, but your loose tongue is your greatest flaw..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "N-no...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Damn it, Zeed Millenniummon! He erased her to shut her up!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Dynasmon, the legendary warrior who wielded the legendary weapon and managed Capacitor Tower... Is he connected to my memories...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "The legendary ancient weapon... Dynasmon, who could wield it... Spadamon's memories... And the Omega Area... I don't understand... But right now, we must not break the seal on the legendary weapon! That's all I know! Let's hurry to Earth Fort!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "I never thought we'd meet again! No need for introductions, I am Pharaohmon! I am ROG's Shining Leader, Pharaohmon the Grave!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh...? Isn't that Anubismon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Doesn't he need a pyramid to transform?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "Then this should be easy!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "How disappointing that you didn't notice I was holding back! Now I'll show you my true power... and the great calamity I can unleash!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "Grrr...! This is so frustrating! How can Pharaohmon lose to a bunch of upstart kids with no titles after fighting so hard?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "We're Team Xros Heart! We just can't leave people suffering right in front of us!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Xros Heart... It's like a heart burning with passion..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "...Ah, yes. I haven't lost yet."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "That's right, Pharaohmon. This is only the beginning. If you join with us, you will have nothing to fear. No worries, doubts, or pain. Give me your 'obsession' now..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Very well... Take it all! Crush us to pieces and turn us into the strongest being!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Xros Heart...! We will rise again! And when we do, we'll crush you for good!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Canonical Digimon names, established zone names, and the project's ROG terminology are retained."
+    }
+  ]
+}

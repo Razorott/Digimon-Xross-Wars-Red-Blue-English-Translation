@@ -1,0 +1,980 @@
+{
+  "description": "Translate the DigiColosseum introduction and Bronze through Platinum Master setup in MESPAK02 entry 15.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "All right. Here's an item for you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "DaiPenmon did it! Here's your item~"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "I have no choice... I'll give you an item, then."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Yay, an item! An item!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Be grateful, and use it carefully, nume!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't you dare treat it carelessly!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Please take good care of it. Well then, goodbye!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "You'll take good care of it, right?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "DaiPenmon did it! Here's your item~"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't you dare treat it carelessly!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care of it!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki! Big news! That portal over there connects to the DigiColosseum!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "The DigiColosseum? What's that?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "It's a legendary battle arena in the Colosseum Zone! They say a portal only appears in peaceful Zones, but it never appeared in Elestou Zone... Now that you brought peace here, the portal has opened!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Wow! That's amazing! What do you do there?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "You battle the heroes who saved the Digital World! It's ranked, so you can test your strength. Raise your rank and earn a title and prizes! Those prizes are only available there! I can't wait! Let's go!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to the DigiColosseum!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "This is the DigiColosseum...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, indeed! This is the DigiColosseum! A historic arena etched with countless battles! It has always stood at the heart of the Digital World, transcending time and space... This is the legendary DigiColosseum!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "...It's that amazing? I had no idea..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "The DigiColosseum was born with the Digital World, and some say it will perish with it. In a sense, the DigiColosseum is the Digital World itself. Only chosen Digimon may enter!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "...Huh?! But, as you can see, I'm not a Digimon..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "You're here to support Digimon in battle, aren't you? Team leaders, Tamers, Breeders, Generals... Whatever you call yourselves, you're very welcome here!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "I get that this place has a great history, but what are my Digimon and I supposed to do here?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "This is a battle arena for Digimon who have mastered their skills. Form a team and test your strength against others!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "First, talk to Minomon at the counter. It will recommend a tournament for your rank. Just enter that tournament and you're ready to go!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "Do I need anything to enter? I don't have much money..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "All you need is strength and skill you've trained, plus the courage and friendship you've built with your partner. No special qualifications,and no money,are needed!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "I see..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "After you enter, talk to Knightmon. Then you can pass through the portal in the back. As a challenger, you'll enter the battle arena and fight the great Masters! Win against the team led by each rank's Master, and your entry rank will rise one step at a time!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "If you beat the top-ranked Legend Master, you'll become a new Legend Master yourself! Whoa, that's so coooool!▼"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Once you actually enter, though, you'll see that it's more like a dream than reality. Take it one step at a time."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Got it. I'll give it a try! Thanks for all the help!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello! This is the DWM Tournament Entry Counter, where we measure each Digimon's strength!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "DWM...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "DWM stands for Digital World Master! It's a measure of Digimon battle strength! There are five Master ranks: Bronze, Silver, Gold, Platinum, and Legend! Fight the Masters in a tournament, and if you win, you'll be recognized as a Master of that rank! Get it?♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "If you want to enter, just talk to me! I'll be waiting!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, you're the Legend Master! The greatest and strongest Master in all of DWM!▼"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "The peace of the Digital World rests on your shoulders! Woo-hoo! So cool! I'm falling for you!▼"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh? You're already entered. Do you want to cancel your entry?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, cancel it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "No, keep my entry."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "Okay! I'll cancel it for you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Then enter again whenever you feel like it! I'll be waiting!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "Talk to Knightmon at the lower right. Then you can use the portal to enter the battle arena!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "Good luck!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "You're entering the Bronze Master Tournament, right?♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "Okay! You're entered! Talk to Knightmon at the lower right. Then you can use the portal to enter the battle arena!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "You're entering the Silver Master Tournament, right?♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "You're entering the Gold Master Tournament, right?♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "You're entering the Platinum Master Tournament, right?♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "You're entering the Legend Master Tournament, right? Amazing! I can't believe it!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome, Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "How do you know my name...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "This is the DigiColosseum, the heart of the Digital World! A place that selects and tests those with the strength to shape its future! I know everything about anyone strong enough to make it here: your name, face, personality, partner, hobbies, skills, habits, how you sleep, what you like and hate... Everything!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "Knowing that much about me is kind of creepy... Anyway, what do you do here?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "This is the reward counter for victors! Talk to me each time you win through a tournament. I'll give you a prize worthy of your results: a special item fit for young heroes who protect the Digital World's future!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm expecting great things from you! Now go, Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "Hurry and become a Bronze Master, Taiki Kudo! I've already prepared a special reward for you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "You've finally become a Bronze Master, Taiki Kudo! Congratulations! Well done! As promised, here's your special reward!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\nLH Slasher"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\nTifaret"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Surely you aren't satisfied with being a Bronze Master! Next is the Silver Master! Go, Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Hurry and become a Silver Master, Taiki Kudo! Of course, I've prepared a special reward!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "You've become a Silver Master?! Congratulations! As expected! As promised, here's your special reward!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\nSodom & Gomorrah"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\nPurge Shine"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "Silver Master is only a stepping stone. Next is Gold Master! Go, Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "Hurry and become a Gold Master, Taiki Kudo! I've had your special reward ready for ages!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "You've become a Gold Master?! You're making great progress! As promised, here's your special reward!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\nClaiomh Solais"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\nScale Mail"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "Becoming a Gold Master was practically a given. Next is Platinum Master,that's where the real challenge begins! Go, Taiki Kudo. Show me your strength!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "Hurry and become a Platinum Master, Taiki Kudo! A special reward is waiting for you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "You've become a Platinum Master?! Congratulations! That's incredible! As promised, here's your special reward!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DigiColosseum lore, entry and rank logic, and the first four tournament reward tiers. Equipment names follow the existing reviewed item glossary."
+    }
+  ]
+}

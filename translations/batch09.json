@@ -1,0 +1,2752 @@
+{
+  "description": "Digimon names, Dawn/Dusk-aligned battle moves, missions, story and DigiFarm dialogue, equipment, and battle descriptions.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 295,
+      "category": "Digimon names",
+      "english": [
+        "ThunderBallmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 304,
+      "category": "Digimon names",
+      "english": [
+        "KnightChessmon W"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "W abbreviates the White variant to fit the name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 307,
+      "category": "Digimon names",
+      "english": [
+        "Strikedramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 311,
+      "category": "Digimon names",
+      "english": [
+        "MetalGreymon L"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "L is retained as the game form suffix; the game does not expand it in this field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4168,
+      "category": "Digimon names",
+      "english": [
+        "MetalGreymon L"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "L is retained as the game form suffix; the game does not expand it in this field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4452,
+      "category": "Digimon names",
+      "english": [
+        "MetalGreymon L"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "L is retained as the game form suffix; the game does not expand it in this field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 334,
+      "category": "Digimon names",
+      "english": [
+        "MegaKabuterimon (Red)"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Uses the Western species name; Red is this game-specific color form."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4458,
+      "category": "Digimon names",
+      "english": [
+        "MegaKabuterimon (Red)"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Uses the Western species name; Red is this game-specific color form."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 335,
+      "category": "Digimon names",
+      "english": [
+        "Nanomon L"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "L is retained as the game form suffix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 336,
+      "category": "Digimon names",
+      "english": [
+        "Cyberdramon L"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "L is retained as the game form suffix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 411,
+      "category": "Digimon names",
+      "english": [
+        "HerculesKabuterimon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4241,
+      "category": "Digimon names",
+      "english": [
+        "HerculesKabuterimon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 414,
+      "category": "Digimon names",
+      "english": [
+        "MagnaAngemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4243,
+      "category": "Digimon names",
+      "english": [
+        "MagnaAngemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 424,
+      "category": "Digimon names",
+      "english": [
+        "VenomMyotismon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4249,
+      "category": "Digimon names",
+      "english": [
+        "VenomMyotismon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 425,
+      "category": "Digimon names",
+      "english": [
+        "Imperialdramon DM"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Compact display form of the official Imperialdramon: Dragon Mode name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4242,
+      "category": "Digimon names",
+      "english": [
+        "Imperialdramon DM"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Compact display form of the official Imperialdramon: Dragon Mode name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 458,
+      "category": "Digimon names",
+      "english": [
+        "MetalSeadramon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "ME is the game abbreviation for Metal in this species label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4244,
+      "category": "Digimon names",
+      "english": [
+        "MetalSeadramon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "ME is the game abbreviation for Metal in this species label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 462,
+      "category": "Digimon names",
+      "english": [
+        "BlackWarGreymon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 472,
+      "category": "Digimon names",
+      "english": [
+        "MirageGaogamon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4245,
+      "category": "Digimon names",
+      "english": [
+        "MirageGaogamon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 475,
+      "category": "Digimon names",
+      "english": [
+        "QueenChessmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 482,
+      "category": "Digimon names",
+      "english": [
+        "Argomon (Mega)"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 519,
+      "category": "Digimon names",
+      "english": [
+        "ShineGreymon BM"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "BM is the standard Burst Mode abbreviation used to fit this narrow field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4272,
+      "category": "Digimon names",
+      "english": [
+        "ShineGreymon BM"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "BM is the standard Burst Mode abbreviation used to fit this narrow field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 522,
+      "category": "Digimon names",
+      "english": [
+        "Ravemon BM"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "BM is the standard Burst Mode abbreviation used to fit this narrow field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4264,
+      "category": "Digimon names",
+      "english": [
+        "Ravemon BM"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "BM is the standard Burst Mode abbreviation used to fit this narrow field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 523,
+      "category": "Digimon names",
+      "english": [
+        "Rosemon BM"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "BM is the standard Burst Mode abbreviation used to fit this narrow field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4265,
+      "category": "Digimon names",
+      "english": [
+        "Rosemon BM"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "BM is the standard Burst Mode abbreviation used to fit this narrow field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 553,
+      "category": "Digimon names",
+      "english": [
+        "Monitamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4486,
+      "category": "Digimon names",
+      "english": [
+        "Monitamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 555,
+      "category": "Digimon names",
+      "english": [
+        "Bombmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4488,
+      "category": "Digimon names",
+      "english": [
+        "Bombmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 571,
+      "category": "Digimon names",
+      "english": [
+        "GreyKnightsmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Game fusion name; romanization follows the Xros Wars spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4291,
+      "category": "Digimon names",
+      "english": [
+        "GreyKnightsmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Game fusion name; romanization follows the Xros Wars spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 701,
+      "category": "Digimon names",
+      "english": [
+        "Greymon (Legend)"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Legend is a game-specific form label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 737,
+      "category": "Digimon names",
+      "english": [
+        "Starmon (Legend)"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Legend is a game-specific form label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1292,
+      "category": "Battle moves",
+      "english": [
+        "Soulful Kick"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2568,
+      "category": "Battle moves",
+      "english": [
+        "Soulful Kick"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1295,
+      "category": "Battle moves",
+      "english": [
+        "Blazing Power"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matches the English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2571,
+      "category": "Battle moves",
+      "english": [
+        "Blazing Power"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matches the English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1304,
+      "category": "Battle moves",
+      "english": [
+        "Thunder"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2580,
+      "category": "Battle moves",
+      "english": [
+        "Thunder"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1305,
+      "category": "Battle moves",
+      "english": [
+        "Air Thunder"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2581,
+      "category": "Battle moves",
+      "english": [
+        "Air Thunder"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1307,
+      "category": "Battle moves",
+      "english": [
+        "Double Blaster"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2583,
+      "category": "Battle moves",
+      "english": [
+        "Double Blaster"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1312,
+      "category": "Battle moves",
+      "english": [
+        "Drain Whipping"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Uses the Dawn/Dusk release spelling for this matching attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2588,
+      "category": "Battle moves",
+      "english": [
+        "Drain Whipping"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Uses the Dawn/Dusk release spelling for this matching attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1317,
+      "category": "Battle moves",
+      "english": [
+        "Cross Cutter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2593,
+      "category": "Battle moves",
+      "english": [
+        "Cross Cutter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1321,
+      "category": "Battle moves",
+      "english": [
+        "Sharp Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2597,
+      "category": "Battle moves",
+      "english": [
+        "Sharp Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1322,
+      "category": "Battle moves",
+      "english": [
+        "Gale Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matches the Dawn/Dusk move-list name Gale Claw."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2598,
+      "category": "Battle moves",
+      "english": [
+        "Gale Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matches the Dawn/Dusk move-list name Gale Claw."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1323,
+      "category": "Battle moves",
+      "english": [
+        "Royal Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2599,
+      "category": "Battle moves",
+      "english": [
+        "Royal Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1330,
+      "category": "Battle moves",
+      "english": [
+        "Middle Tackle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2606,
+      "category": "Battle moves",
+      "english": [
+        "Middle Tackle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1331,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Tackle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2607,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Tackle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1332,
+      "category": "Battle moves",
+      "english": [
+        "Dark Blast"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2608,
+      "category": "Battle moves",
+      "english": [
+        "Dark Blast"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1334,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Blast"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2610,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Blast"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1335,
+      "category": "Battle moves",
+      "english": [
+        "Dark Crusher"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2611,
+      "category": "Battle moves",
+      "english": [
+        "Dark Crusher"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1337,
+      "category": "Battle moves",
+      "english": [
+        "01 Crusher"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2613,
+      "category": "Battle moves",
+      "english": [
+        "01 Crusher"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1338,
+      "category": "Battle moves",
+      "english": [
+        "Death Cannon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2614,
+      "category": "Battle moves",
+      "english": [
+        "Death Cannon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1344,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Slash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2620,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Slash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1347,
+      "category": "Battle moves",
+      "english": [
+        "Light Mandala"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2623,
+      "category": "Battle moves",
+      "english": [
+        "Light Mandala"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1348,
+      "category": "Battle moves",
+      "english": [
+        "Pyramid Power"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2624,
+      "category": "Battle moves",
+      "english": [
+        "Pyramid Power"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1493,
+      "category": "Battle moves",
+      "english": [
+        "Genocide A"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Uses the Dawn/Dusk release spelling for the corresponding Genocide attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2094,
+      "category": "Battle moves",
+      "english": [
+        "Genocide A"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Uses the Dawn/Dusk release spelling for the corresponding Genocide attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2283,
+      "category": "Battle moves",
+      "english": [
+        "Genocide A"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Uses the Dawn/Dusk release spelling for the corresponding Genocide attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1726,
+      "category": "Battle moves",
+      "english": [
+        "Behemoth"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering; direct Dawn/Dusk match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3002,
+      "category": "Battle moves",
+      "english": [
+        "Behemoth"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering; direct Dawn/Dusk match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1854,
+      "category": "Battle moves",
+      "english": [
+        "Puyavaha"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2302,
+      "category": "Battle moves",
+      "english": [
+        "Puyavaha"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3130,
+      "category": "Battle moves",
+      "english": [
+        "Puyavaha"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3578,
+      "category": "Battle moves",
+      "english": [
+        "Puyavaha"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2693,
+      "category": "Battle moves",
+      "english": [
+        "Pandemonium F"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3563,
+      "category": "Battle moves",
+      "english": [
+        "Pandemonium F"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3695,
+      "category": "Battle moves",
+      "english": [
+        "Pandemonium F"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2696,
+      "category": "Battle moves",
+      "english": [
+        "FIN Elysion"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3630,
+      "category": "Battle moves",
+      "english": [
+        "FIN Elysion"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3631,
+      "category": "Battle moves",
+      "english": [
+        "FIN Elysion"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3827,
+      "category": "Items and equipment",
+      "english": [
+        "Leviamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3834,
+      "category": "Items and equipment",
+      "english": [
+        "MetalGarurumon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3836,
+      "category": "Items and equipment",
+      "english": [
+        "Darkdramon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3839,
+      "category": "Items and equipment",
+      "english": [
+        "WarGreymon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3840,
+      "category": "Items and equipment",
+      "english": [
+        "Examon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3841,
+      "category": "Items and equipment",
+      "english": [
+        "Omnimon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Uses the established Western name Omnimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3867,
+      "category": "Items and equipment",
+      "english": [
+        "Chick Tachi"
+      ],
+      "sources": [],
+      "review_note": "Working item name; literal rendering, pending a direct Western match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3869,
+      "category": "Items and equipment",
+      "english": [
+        "Shishiomaru"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact spelling in the English Dawn/Dusk move and item-name list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3871,
+      "category": "Items and equipment",
+      "english": [
+        "Shiratorimaru"
+      ],
+      "sources": [],
+      "review_note": "Romanized working item name; direct Western localization not found."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3873,
+      "category": "Items and equipment",
+      "english": [
+        "Irataka Sword"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; the Japanese proper name is retained in romanized form."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3917,
+      "category": "Items and equipment",
+      "english": [
+        "Blue Sword"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3918,
+      "category": "Items and equipment",
+      "english": [
+        "Twilight Axe"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3920,
+      "category": "Items and equipment",
+      "english": [
+        "Omega Blade"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matches the English Dawn/Dusk move and item-name list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3921,
+      "category": "Items and equipment",
+      "english": [
+        "LH Slasher"
+      ],
+      "sources": [],
+      "review_note": "Abbreviation retained because the game does not expand LH."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3922,
+      "category": "Items and equipment",
+      "english": [
+        "O-Armz Orochi"
+      ],
+      "sources": [],
+      "review_note": "Game-style romanization retained for this named weapon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3923,
+      "category": "Items and equipment",
+      "english": [
+        "Sodom & Gomorrah"
+      ],
+      "sources": [],
+      "review_note": "Named after the established biblical proper names."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3924,
+      "category": "Items and equipment",
+      "english": [
+        "King's Bite"
+      ],
+      "sources": [],
+      "review_note": "Working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3925,
+      "category": "Items and equipment",
+      "english": [
+        "Claiomh Solais"
+      ],
+      "sources": [],
+      "review_note": "Traditional weapon name romanized; direct game localization not found."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3927,
+      "category": "Items and equipment",
+      "english": [
+        "Royal M Star"
+      ],
+      "sources": [],
+      "review_note": "The game abbreviation M is retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3928,
+      "category": "Items and equipment",
+      "english": [
+        "Thorn Whip"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3946,
+      "category": "Items and equipment",
+      "english": [
+        "Brai's Parasol"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of the named umbrella."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3950,
+      "category": "Items and equipment",
+      "english": [
+        "Topknot Helmet"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3952,
+      "category": "Items and equipment",
+      "english": [
+        "MameTyrano Helmet"
+      ],
+      "sources": [],
+      "review_note": "Working name based on the game term."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3953,
+      "category": "Items and equipment",
+      "english": [
+        "Matador Cloak"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3956,
+      "category": "Items and equipment",
+      "english": [
+        "ChickCrow Suit"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of the game-specific suit name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3957,
+      "category": "Items and equipment",
+      "english": [
+        "Mantis Shrimp Shield"
+      ],
+      "sources": [],
+      "review_note": "Literal rendering of the Japanese item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3958,
+      "category": "Items and equipment",
+      "english": [
+        "Mekanorimon Suit"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3959,
+      "category": "Items and equipment",
+      "english": [
+        "Metal Plate"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3960,
+      "category": "Items and equipment",
+      "english": [
+        "Raptor Armor"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3962,
+      "category": "Items and equipment",
+      "english": [
+        "Monkey Suit"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3963,
+      "category": "Items and equipment",
+      "english": [
+        "Beam Shield"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3964,
+      "category": "Items and equipment",
+      "english": [
+        "Wetsuit"
+      ],
+      "sources": [],
+      "review_note": "Standard English spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3965,
+      "category": "Items and equipment",
+      "english": [
+        "Sindura Plate"
+      ],
+      "sources": [],
+      "review_note": "Proper name retained in romanized form."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3966,
+      "category": "Items and equipment",
+      "english": [
+        "Kudamon Earring"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/pdf/products_BT01-03_list1.pdf",
+        "https://digimon.net/reference_en/detail.php?directory_name=kudamon"
+      ],
+      "review_note": "Literal working item name from クダピアス (Kuda Pierce); Kudamon is verified as the Western species name. The English Digimon Reference Book describes Kudamon's left-ear earring, but no official Western game item title was found."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3967,
+      "category": "Items and equipment",
+      "english": [
+        "Dracomon Mask"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3968,
+      "category": "Items and equipment",
+      "english": [
+        "Bomber Sunglasses"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of the item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3969,
+      "category": "Items and equipment",
+      "english": [
+        "Fox Mask"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3970,
+      "category": "Items and equipment",
+      "english": [
+        "WereGaruru Pants"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Uses the game name stem; this item label is a pun."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3971,
+      "category": "Items and equipment",
+      "english": [
+        "EX Costume"
+      ],
+      "sources": [],
+      "review_note": "Compact rendering for the narrow equipment field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3972,
+      "category": "Items and equipment",
+      "english": [
+        "Face Veil"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3975,
+      "category": "Items and equipment",
+      "english": [
+        "Death Helm"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3976,
+      "category": "Items and equipment",
+      "english": [
+        "Alpha Cloak"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3977,
+      "category": "Items and equipment",
+      "english": [
+        "Prince Crown"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3978,
+      "category": "Items and equipment",
+      "english": [
+        "King Cloak"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3983,
+      "category": "Items and equipment",
+      "english": [
+        "Gaia's Armor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of the named armor."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3984,
+      "category": "Items and equipment",
+      "english": [
+        "Xros Armor"
+      ],
+      "sources": [],
+      "review_note": "Uses the project spelling for Xros terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3985,
+      "category": "Items and equipment",
+      "english": [
+        "Pharaoh Shield"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3986,
+      "category": "Items and equipment",
+      "english": [
+        "Seraph Armor"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3987,
+      "category": "Items and equipment",
+      "english": [
+        "Phoenix Suit"
+      ],
+      "sources": [],
+      "review_note": "Uses the established English name for Houou."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3990,
+      "category": "Items and equipment",
+      "english": [
+        "Brave Shield"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3991,
+      "category": "Items and equipment",
+      "english": [
+        "Aegis"
+      ],
+      "sources": [],
+      "review_note": "Standard English rendering of the mythological name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3992,
+      "category": "Items and equipment",
+      "english": [
+        "Cute Scarf"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3994,
+      "category": "Items and equipment",
+      "english": [
+        "Sakuyamon Mask"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3995,
+      "category": "Items and equipment",
+      "english": [
+        "Raven Mask"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3997,
+      "category": "Items and equipment",
+      "english": [
+        "Diana Mask"
+      ],
+      "sources": [],
+      "review_note": "Proper name retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3998,
+      "category": "Items and equipment",
+      "english": [
+        "Pile Bunker"
+      ],
+      "sources": [],
+      "review_note": "Standard equipment term."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3999,
+      "category": "Items and equipment",
+      "english": [
+        "Apocalypse Chain"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of the item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4001,
+      "category": "Items and equipment",
+      "english": [
+        "Holy Ring"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4005,
+      "category": "Items and equipment",
+      "english": [
+        "V Bracelet"
+      ],
+      "sources": [],
+      "review_note": "The game prefix V is retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4006,
+      "category": "Items and equipment",
+      "english": [
+        "Twirl Earrings"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of the item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4007,
+      "category": "Items and equipment",
+      "english": [
+        "Treasure Arm"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4008,
+      "category": "Items and equipment",
+      "english": [
+        "Gorgon"
+      ],
+      "sources": [],
+      "review_note": "Standard English mythological name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4010,
+      "category": "Items and equipment",
+      "english": [
+        "Niflheim"
+      ],
+      "sources": [],
+      "review_note": "Standard romanization of the mythological name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4011,
+      "category": "Items and equipment",
+      "english": [
+        "Magic Box"
+      ],
+      "sources": [],
+      "review_note": "Literal working item name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4012,
+      "category": "Items and equipment",
+      "english": [
+        "Scale Mail"
+      ],
+      "sources": [],
+      "review_note": "Standard English equipment term."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4013,
+      "category": "Items and equipment",
+      "english": [
+        "Avalon"
+      ],
+      "sources": [],
+      "review_note": "Standard English mythological name."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 266,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet Giromon's friend at\nCrystal Volcano West."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 267,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet Giromon's friend at\nCrystal Volcano West."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 268,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet Mamemon's friend at\nCrystal Volcano East."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 269,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet Mamemon's friend at\nCrystal Volcano East."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 271,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find MegaGargomon in\nCrystal Cave."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 283,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find MegaGargomon in\nCrystal Cave."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 274,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Help the little Digimon\nteam beat the big guys!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 286,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Help the little Digimon\nteam beat the big guys!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 303,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Cherubimon (Vice)\nin Digital Space East."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 305,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Cherubimon (Vice)\nin Digital Space East."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 346,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Test your strength in\nTokona Sea."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 353,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Test your strength in\nTokona Sea."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 348,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "VS\nTEAM CUTE?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 355,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "VS\nTEAM CUTE?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 375,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find ?????? in\nLost Space North."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 384,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find ?????? in\nLost Space North."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 394,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Take on an ultra-tough\ntraining opponent!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 401,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Take on an ultra-tough\ntraining opponent!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 405,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet Piedmon in\nDigital Space South 2."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 417,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet Piedmon in\nDigital Space South 2."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 411,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Piedmon's Digimon\nQuiz 2"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 423,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Piedmon's Digimon\nQuiz 2"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Mmm... Give it\nto me!!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "Mmm... Give it\nto me!!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Mmm... Give it\nto me!!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "An item...?\n...Tch."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "An item...?\n...Tch."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "An item...?\n...Tch."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care\nof it.\nGoodbye!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care\nof it.\nGoodbye!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care\nof it.\nGoodbye!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmph! Take it\nand\nget out of my\nsight!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmph! Take it\nand\nget out of my\nsight!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmph! Take it\nand\nget out of my\nsight!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "To climb a\nladder or\nclimb back\ndown, stand\nnear it and\npress A."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "To climb a\nladder or\nclimb back\ndown, stand\nnear it and\npress A."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "To climb a\nladder or\nclimb back\ndown, stand\nnear it and\npress A."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 24,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "Chrome Digizoid"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Standard English Digimon material name."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "Chrome Digizoid"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Standard English Digimon material name."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Chrome Digizoid"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Standard English Digimon material name."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "You who touch\nmy seal,\nyou who awaken\ndisaster...\nYou disturb our\nancient sleep\nand rouse our\nwrath...\nShow me your\nresolve!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "You who touch\nmy seal,\nyou who awaken\ndisaster...\nYou disturb our\nancient sleep\nand rouse our\nwrath...\nShow me your\nresolve!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "You who touch\nmy seal,\nyou who awaken\ndisaster...\nYou disturb our\nancient sleep\nand rouse our\nwrath...\nShow me your\nresolve!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "...Do not break\nthe seal.\nDo not wake us\nfrom sleep..."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "...Do not break\nthe seal.\nDo not wake us\nfrom sleep..."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "...Do not break\nthe seal.\nDo not wake us\nfrom sleep..."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slight Health Down resist."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "High Health Down resist."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Immune to Health Down."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party: low Health Down res."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party resists Health Down"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Resist enemy HP drain."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "High enemy HP drain resist."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Immune to enemy HP drain."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party: low HP drain resist"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party resists HP drain"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Weak to enemy HP drain"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Resist enemy MP drain."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "High enemy MP drain resist."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Immune to enemy MP drain."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party: low MP drain resist"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party resists MP drain"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "This feels pretty good!\nMy Max HP went up\nquite a bit, too! ♪"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "Running in place\nstarts to feel pointless..."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? Is this a crystal\nball? It is pretty, but\nwhat is it for...? "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "...My Max MP went up\na little. And, as much\nas I hate to admit it,\nI saw a flash... Was that\nmy future?!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "I thought I saw\nsomething... It was\nmy upside-down face!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this?\nA tarot card...?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! My Max MP went up!\nIs this the power\nof magic?!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "Magic is nonsense...\nJust superstition...\n...Whoa! My stomach!\nIs this magic payback?!"
+      ],
+      "sources": [],
+      "review_note": ""
+    }
+  ]
+}

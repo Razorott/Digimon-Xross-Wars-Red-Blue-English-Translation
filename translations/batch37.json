@@ -1,0 +1,3943 @@
+{
+  "description": "Translate the remaining shop, equipment, communications, route, and battle-trait UI text.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 425,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Party includes an A-Troiamon\nwith the Affectionate trait."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 10,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Unused 0"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 11,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Unused 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 12,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Unused 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 13,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool IN 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 14,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool IN 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 15,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool IN 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 16,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool IN 4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 17,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool IN 5"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 18,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool OUT 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 19,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool OUT 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 20,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool OUT 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 21,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool OUT 4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 22,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Whirlpool OUT 5"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 28,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "K Tunnel 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 29,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "K Tunnel 4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 30,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "F Grassland 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 31,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "G Amazon West 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 32,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "C Cave 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 33,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "C Cave 4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 34,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "C Mountain 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 35,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "C Volcano East 5"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 36,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "K Underground Passage"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 37,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "K Ruins West 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 38,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "K Ruins West 4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 40,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "P Desert North 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 41,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "P Desert North 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 42,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "C Volcano Underground"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 43,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "C Volcano West 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 44,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "C Volcano West 4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 46,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "S Valley North 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 47,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "S Valley North 5"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 48,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Underground TBD 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 49,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Underground TBD 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 50,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Underground TBD 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 53,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "D Icefield West 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 56,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "D Icefield East 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 57,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "D Icefield East 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 63,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Underwater TBD 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 64,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Underwater TBD 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 65,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Underwater TBD 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 66,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "D Space East 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 67,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "G Amazon East 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 68,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "K Ruins West 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 69,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "D Space East 4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 71,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "L Space South 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 72,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "L Space South 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 73,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "L Space South 4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 74,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "L Space North 1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 75,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "L Space North 2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 76,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "L Space North 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 77,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "L Space North 4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 78,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "L Space North 5"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 79,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "L Space North 6"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 84,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Warp TBD 3"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 85,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Boulder"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 86,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Great Tree"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 87,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Ice"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 88,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Technique TBD"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 0,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Weapon Novice"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 1,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Weapon Disciple"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 2,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Weapon Adept"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 3,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Weapon Master"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 4,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Weapon Artisan"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 5,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Armor Novice"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 6,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Armor Disciple"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 7,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Armor Adept"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 8,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Armor Master"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 10,
+      "start": 9,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Armor Artisan"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 0,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates an ordinary\nweapon at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 1,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates a decent\nweapon at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 2,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates a good\nweapon at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 3,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates a fine\nweapon at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 4,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates an excellent\nweapon at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 5,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates ordinary\narmor at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 6,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates decent\narmor at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 7,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates good\narmor at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 8,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates fine\narmor at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 11,
+      "start": 9,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Creates excellent\narmor at random."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 0,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Iron Dumbbell"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 1,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Iron Dumbbell"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 2,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Iron Dumbbell"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 3,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Circle"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 4,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Circle"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 5,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Circle"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 6,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Glove"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 7,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Glove"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 8,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Glove"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 9,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Shield"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 10,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Shield"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 11,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Shield"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 12,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Watch"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 13,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Watch"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 14,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Watch"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 15,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Textbook"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 16,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Textbook"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 17,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Textbook"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 18,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Torch"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 19,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Torch"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 20,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Torch"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 21,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Whip"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 22,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Whip"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 23,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Whip"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 24,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Saint"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 25,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Saint"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 26,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Saint"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 27,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Black Mist"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 28,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Black Mist"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 29,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Black Mist"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 30,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Stun Gun"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 31,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Stun Gun"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 32,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Stun Gun"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 33,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Pistol"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 34,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Pistol"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 35,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Pistol"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 36,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Tornado"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 37,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Tornado"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 38,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Tornado"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 39,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Fan"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 40,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Fan"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 41,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Fan"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 42,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Mega Watering Can"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 43,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Giga Watering Can"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 12,
+      "start": 44,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tera Watering Can"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 0,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises Max HP a little.\n(Max. 5000)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 1,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises Max HP some.\n(Max. 7000)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 2,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises Max HP a lot.\n(Max. 9999)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 3,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises Max MP a little.\n(Max. 5000)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 4,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises Max MP some.\n(Max. 7000)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 5,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises Max MP a lot.\n(Max. 9999)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 6,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises ATK a little.\n(Max. 500)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 7,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises ATK some.\n(Max. 700)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 8,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises ATK a lot.\n(Max. 1000)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 9,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises DEF a little.\n(Max. 500)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 10,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises DEF some.\n(Max. 700)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 11,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises DEF a lot.\n(Max. 1000)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 12,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises SPD a little.\n(Max. 500)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 13,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises SPD some.\n(Max. 700)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 14,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises SPD a lot.\n(Max. 1000)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 15,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises INT a little.\n(Max. 500)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 16,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises INT some.\n(Max. 700)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 17,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Raises INT a lot.\n(Max. 1000)"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 18,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A little more EXP.\nMythical Beasts get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 19,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Some more EXP.\nMythical Beasts get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 20,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A lot more EXP.\nMythical Beasts get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 21,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A little more EXP.\nBeast Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 22,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Some more EXP.\nBeast Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 23,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A lot more EXP.\nBeast Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 24,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A little more EXP.\nAngel Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 25,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Some more EXP.\nAngel Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 26,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A lot more EXP.\nAngel Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 27,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A little more EXP.\nDemon Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 28,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Some more EXP.\nDemon Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 29,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A lot more EXP.\nDemon Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 30,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A little more EXP.\nMachine Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 31,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Some more EXP.\nMachine Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 32,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A lot more EXP.\nMachine Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 33,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A little more EXP.\nAquatic Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 34,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Some more EXP.\nAquatic Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 35,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A lot more EXP.\nAquatic Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 36,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A little more EXP.\nBird Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 37,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Some more EXP.\nBird Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 38,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A lot more EXP.\nBird Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 39,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A little more EXP.\nInsect Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 40,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Some more EXP.\nInsect Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 41,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A lot more EXP.\nInsect Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 42,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A little more EXP.\nPlant Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 43,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Some more EXP.\nPlant Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 13,
+      "start": 44,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A lot more EXP.\nPlant Digimon get 2x EXP."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 0,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Buy equipment"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 1,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Buy consumables"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 4,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sell equipment"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 5,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sell consumables"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 6,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sell farm goods"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 12,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Upgrade terrain board"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 13,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Upgrade music board"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 15,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "How many ^0?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 17,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "How many ^0 to sell?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 19,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Buy ^1 ^0?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 20,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Yes, buy it"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 22,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sell ^1 ^0?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 23,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Yes, sell it"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 25,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Bought ^1 ^0."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 26,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sold ^1 ^0."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 27,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Upgrade ^0 to max?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 28,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Upgrade ^0 to Lv. ^1?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 29,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Yes, upgrade it"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 56,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Digimon has it equipped;\nnone left to sell!"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 57,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "It's set on a DigiFarm; none\nleft to sell!"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 58,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Not enough Bits to upgrade!"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 60,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Price"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 62,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "x"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 1,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Your user name"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 2,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Close the\nCommunication Box?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 5,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A user name is required\nfor the Communication Box.\nChoose one."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 6,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Use '^0' as\nyour user name?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 9,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose an option."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 10,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Trade Melodies"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 11,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Send DigiScores"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 12,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Receive DigiScores"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 13,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Change User Name"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 14,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Trade a Melody with friends.\nYour Melodies leave\nyour collection."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 15,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Share your DigiScores\nwith nearby friends."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 16,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Get a friend's DigiScore.\nProgress may prevent\nsome score transfers."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 17,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Change your user name"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 18,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Not ready yet."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 19,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You have no Melodies\nto trade!"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 20,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You have no DigiScores\nto send!"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 21,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose a connection method."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 22,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Wait for a friend"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 23,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find a friend"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 24,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Use DS Wireless to let\na friend connect to your DS."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 25,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Connect to a friend's DS\nwith DS Wireless."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 26,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Max. / ATK / INT / SPD / DEF"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 27,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lv. ^0 / ^1 / ^2 / ^3 / ^4"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 28,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lv. -- / ---- / ----\n---- / ----"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 30,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose the Melody\nyou want to give."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 32,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Reorder menu"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 37,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You can't give away\nthat Melody yet."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 38,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "^0 can't receive\nthat Melody yet."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 39,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "^0 can't receive\nany more of that Melody."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 40,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "How many ^0\nwill you give?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 41,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You can give up to ^1."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 42,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Give ^1 ^0?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 43,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Yes, give it"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 45,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "^0 is choosing.\nPlease wait."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 46,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Trade with these settings?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 49,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Trading Melodies...\nSaving.\nDo not turn off the power."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 50,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Melody traded!\nContinue trading?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 51,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Yes, continue"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 52,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "No, finish"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 53,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Continue trading"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 54,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Finish trading"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 55,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "^0 ended the trade.\nClosing the trade."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 56,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Owned Scores"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 65,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Choose a DigiScore to send.\nYou can't send a score\nthe other player owns."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 66,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "This DigiScore can't\nbe sent yet."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 67,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Send this DigiScore?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 68,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Send this DigiScore?\n\n[!] The other player may be\nunable to receive it,\ndepending\non their game progress."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 69,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Yes, send this DigiScore"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 71,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sending DigiScore...\n^0"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 72,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sending item...\n^0 x^1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 73,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sending Melody...\n^0 x^1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 74,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Searching for DigiScores\nyou can receive..."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 75,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Searching for DigiScores\nyou can receive...\nIf it fails, go back\nand try again."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 76,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Received a DigiScore\nfrom ^0!\n^1"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 77,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Received an item\nfrom ^0!\n^1 x^2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 78,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Received a Melody\nfrom ^0!\n^1 x^2"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 79,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You already received\n^1 from ^0."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 80,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You already received\n^1 x^2 from ^0."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 81,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You already received\n^1 x^2 from ^0."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 82,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Start DS Wireless?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 85,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "DS Wireless is unavailable."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 86,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "An error occurred.\nTurn off the power, then\nretry."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 87,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Searching for a partner..."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 88,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Waiting for a partner..."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 89,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Found ^0!\nStart connecting?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 92,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Waiting for a response.\nPlease wait."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 93,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Waiting for their decision.\nPlease wait."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 94,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Please wait."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 95,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "!!!!!! COMMUNICATION ERROR\n!!!!!!\nConnection lost."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 96,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "COMMUNICATION ERROR\nCould not connect to\nother player."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 97,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Other player disconnected.\nEnding communication."
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 98,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "End DS Wireless?"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 101,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "User Name"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 104,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "You"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 105,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Other Player"
+      ],
+      "sources": [],
+      "review_note": "UI copy translated from the Japanese game strings. Existing control substitutions are preserved; equipment tiers, stat caps, Bits, DigiScore, Melody, and DS Wireless wording are kept consistent."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 177,
+      "category": "Common labels and traits",
+      "english": [
+        "Dummy Name"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 178,
+      "category": "Common labels and traits",
+      "english": [
+        "????"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1098,
+      "category": "Common labels and traits",
+      "english": [
+        "---------"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1099,
+      "category": "Common labels and traits",
+      "english": [
+        "None"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1141,
+      "category": "Common labels and traits",
+      "english": [
+        "Shuffle Dodge"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1142,
+      "category": "Common labels and traits",
+      "english": [
+        "Shuffle Parry"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1143,
+      "category": "Common labels and traits",
+      "english": [
+        "Shuffle Resist"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1144,
+      "category": "Common labels and traits",
+      "english": [
+        "Shuffle Block"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1145,
+      "category": "Common labels and traits",
+      "english": [
+        "Shuffle Reflect"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1146,
+      "category": "Common labels and traits",
+      "english": [
+        "Shuffle Weakness"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1147,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Dodge"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1148,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Parry"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1149,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Resist"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1150,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Block"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1151,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Reflect"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1152,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Weakness"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1153,
+      "category": "Common labels and traits",
+      "english": [
+        "Curse Dodge"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1154,
+      "category": "Common labels and traits",
+      "english": [
+        "Curse Parry"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1155,
+      "category": "Common labels and traits",
+      "english": [
+        "Curse Resist"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1156,
+      "category": "Common labels and traits",
+      "english": [
+        "Curse Block"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1157,
+      "category": "Common labels and traits",
+      "english": [
+        "Curse Reflect"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1158,
+      "category": "Common labels and traits",
+      "english": [
+        "Protection"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1159,
+      "category": "Common labels and traits",
+      "english": [
+        "Guardian Talisman"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1160,
+      "category": "Common labels and traits",
+      "english": [
+        "Ward Charm"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1161,
+      "category": "Common labels and traits",
+      "english": [
+        "INT Reflect"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1162,
+      "category": "Common labels and traits",
+      "english": [
+        "INT Barrier"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1163,
+      "category": "Common labels and traits",
+      "english": [
+        "Dodge"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1164,
+      "category": "Common labels and traits",
+      "english": [
+        "Evasive Dance"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1165,
+      "category": "Common labels and traits",
+      "english": [
+        "Evasion Weakness"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1166,
+      "category": "Common labels and traits",
+      "english": [
+        "Watchful Eye"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1167,
+      "category": "Common labels and traits",
+      "english": [
+        "Mind's Eye"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1168,
+      "category": "Common labels and traits",
+      "english": [
+        "Accuracy Weakness"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1169,
+      "category": "Common labels and traits",
+      "english": [
+        "Critical Hit"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1170,
+      "category": "Common labels and traits",
+      "english": [
+        "High Critical"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1171,
+      "category": "Common labels and traits",
+      "english": [
+        "Critical Weakness"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1172,
+      "category": "Common labels and traits",
+      "english": [
+        "Escape Artist"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1173,
+      "category": "Common labels and traits",
+      "english": [
+        "Run to Win"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1174,
+      "category": "Common labels and traits",
+      "english": [
+        "Fleeing Weakness"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1175,
+      "category": "Common labels and traits",
+      "english": [
+        "Paralysis Adept"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1176,
+      "category": "Common labels and traits",
+      "english": [
+        "Paralysis Master"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1177,
+      "category": "Common labels and traits",
+      "english": [
+        "Sleep Adept"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1178,
+      "category": "Common labels and traits",
+      "english": [
+        "Sleep Master"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1179,
+      "category": "Common labels and traits",
+      "english": [
+        "Confusion Adept"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1180,
+      "category": "Common labels and traits",
+      "english": [
+        "Confusion Master"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1181,
+      "category": "Common labels and traits",
+      "english": [
+        "Darkness Adept"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1182,
+      "category": "Common labels and traits",
+      "english": [
+        "Darkness Master"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1183,
+      "category": "Common labels and traits",
+      "english": [
+        "HP Drain Knowledge"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1184,
+      "category": "Common labels and traits",
+      "english": [
+        "HP Drain Spell"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1185,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Drain Knowledge"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1186,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Drain Spell"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1187,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Knowledge"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1188,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Spell"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1189,
+      "category": "Common labels and traits",
+      "english": [
+        "Curse Knowledge"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1190,
+      "category": "Common labels and traits",
+      "english": [
+        "Curse Spell"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1191,
+      "category": "Common labels and traits",
+      "english": [
+        "Healing Hand"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1192,
+      "category": "Common labels and traits",
+      "english": [
+        "Healing Wave"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1193,
+      "category": "Common labels and traits",
+      "english": [
+        "Healing Aura"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1194,
+      "category": "Common labels and traits",
+      "english": [
+        "HP Drainer"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1195,
+      "category": "Common labels and traits",
+      "english": [
+        "Life Eater"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1196,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Drainer"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1197,
+      "category": "Common labels and traits",
+      "english": [
+        "Mind Eater"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1198,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Touch"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1199,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Sea"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1200,
+      "category": "Common labels and traits",
+      "english": [
+        "Poison Prison"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1201,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Saver"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1202,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Super Saver"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1203,
+      "category": "Common labels and traits",
+      "english": [
+        "Skill User"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1204,
+      "category": "Common labels and traits",
+      "english": [
+        "Skill Master"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1205,
+      "category": "Common labels and traits",
+      "english": [
+        "Melody Heart"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1206,
+      "category": "Common labels and traits",
+      "english": [
+        "Melody Soul"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1207,
+      "category": "Common labels and traits",
+      "english": [
+        "Soul Singer"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1208,
+      "category": "Common labels and traits",
+      "english": [
+        "Item Lover"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1209,
+      "category": "Common labels and traits",
+      "english": [
+        "Collector"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1210,
+      "category": "Common labels and traits",
+      "english": [
+        "Money Lover"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1211,
+      "category": "Common labels and traits",
+      "english": [
+        "Rich"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1212,
+      "category": "Common labels and traits",
+      "english": [
+        "Tycoon"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1213,
+      "category": "Common labels and traits",
+      "english": [
+        "Lucky"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1214,
+      "category": "Common labels and traits",
+      "english": [
+        "Mega Lucky"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1215,
+      "category": "Common labels and traits",
+      "english": [
+        "Seven Lucky Gods"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1216,
+      "category": "Common labels and traits",
+      "english": [
+        "D-Entelecheia"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1217,
+      "category": "Common labels and traits",
+      "english": [
+        "Explorer"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1218,
+      "category": "Common labels and traits",
+      "english": [
+        "Explorer Leader"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1219,
+      "category": "Common labels and traits",
+      "english": [
+        "Exploration Weakness"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1220,
+      "category": "Common labels and traits",
+      "english": [
+        "Blacksmith Apprentice"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1221,
+      "category": "Common labels and traits",
+      "english": [
+        "Master Blacksmith"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1222,
+      "category": "Common labels and traits",
+      "english": [
+        "Work Weakness"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1223,
+      "category": "Common labels and traits",
+      "english": [
+        "Test Skill 1 L"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1224,
+      "category": "Common labels and traits",
+      "english": [
+        "Test Skill 2 L"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1225,
+      "category": "Common labels and traits",
+      "english": [
+        "Test Skill 3 L"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1226,
+      "category": "Common labels and traits",
+      "english": [
+        "Test Skill 4 L"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1227,
+      "category": "Common labels and traits",
+      "english": [
+        "Test Skill 5 L"
+      ],
+      "sources": [],
+      "review_note": "Common trait and resistance label translated to match the game's existing HP, MP, ATK, INT, SPD, DEF, and status terminology."
+    }
+  ]
+}

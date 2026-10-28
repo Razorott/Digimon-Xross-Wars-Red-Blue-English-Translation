@@ -1,0 +1,999 @@
+{
+  "description": "Translate the RookChessmon and Garbagemon Capacitor Tower encounters in MESPAK02 entry 9.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... There has to be a way to drive him away..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "I know! Hit him with a phrase that really stings! That might make him leave!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "A way to drive squid away? Wh-what does that even mean?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "Here I go... Take this!!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "Now, Spadamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Y-your... Your mom is seafood!!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "Gwaaah!!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "We did it!!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "All right!!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "...Wait. That worked?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "Well, we beat him, so it worked!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "How did he know my secret weakness, something I'd never told anyone...? Barbamon is terrifying..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "No... Maybe he just guessed from your looks? I hear squid makes cats sick."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon does look kind of like a cat, so..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm not a cat!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "Come on! Let's move on to the next one!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Checkmate!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Careful! It's a Shadow Guard!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm RookChessmon, the Lazy Elite in Lord Barbamon's Shadow Guard, sent to protect this Capacitor Tower! ...Right?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "Damn, what a ridiculous guy!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "Is he plotting something...?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "You're in checkmate, with no moves left! You know you'll lose, so why fight? ...Right?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "Uh... Checkmate? No moves left...? What does that mean?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "You don't get it, do you? I'll never lose! And if I never lose, you can't beat me! ...Right?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Um... What?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Stay alert, Spadamon... Here he comes!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "How about that? Checkmate!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Sorry, but you can't take the King. No matter what, I'm only a Rook... Right?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm aiming to be the Digimon King! I'm not losing to a Rook!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "That's a tall order... The real King is Lord Barbamon, who commands the Legendary Weapon Digimon... Right?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "We won't let that happen!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "Jumping off a cliff without seeing what's ahead is stupid. Apologize to Lord Barbamon while you can! ...Right?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Even if you say that, I'm not changing my mind!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "If we really reach checkmate, you'll suffer much worse than this! I'll go be absorbed by Lord Barbamon now... Right?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Wait..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon treats us like pawns!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "He doesn't get it... I'm the one who's going to become Digimon King someday! ...Right?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "You caught his catchphrase...!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "Um... Anyway, I'll switch the tower back now."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "All right! This tower's mode has been switched!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm...?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "What's wrong?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, were those all the Capacitor Towers we've seen? Weren't there more somewhere?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Now that you mention it... When we defeated Pharaohmon in Papyrus Desert, he said the same thing. Spadamon said there were seven towers, not six."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "Didn't he just count wrong?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "...Maybe?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Then count them with DigiNoir! First there's Sky Fort, then Knuckle Coast... Ah, I'm getting hungry..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "Hahaha... Let's keep moving for now."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "When we get back to Sky Fort, let's ask Patamon and the others. They might know something."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "One little garbage!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "Two little garbage!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "Three little garbage!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "The three of us jingle together! We're the Heavy-Smell Elite in Lord Barbamon's Shadow Guard, sent to protect this Capacitor Tower... We are the Garbagemons!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "A Shadow Guard...! Is that the leader trio, or is one of them the real one?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "W-wait! More importantly... They smell awful!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Grimy garbage is filthy garbage!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Dirty garbage is odious garbage!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "Messy garbage is smelly garbage!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "Frumpy, stinky chunk of garbage!!!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't understand a word they're saying!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "D-don't move, you guys... The smell is coming this way..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "You'll understand in a second, grubby!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "We'll knock some sense into you with our stink!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "That smell will seep deep into your memories!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "Wh-what the heck is that...?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't understand a word, but their strength and stench are coming through loud and clear!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "Take that! You're paralyzed!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "What's wrong, Taiki? You're talking funny."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "Looks like he's holding his nose because they stink..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "Laugh at garbage and Lord Barbamon will cry!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Garbage piles up into Lord Barbamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Continuous scene translation. RookChessmon's checkmate and rook wordplay and the Garbagemons' intentionally absurd chant are adapted to preserve the original jokes."
+    }
+  ]
+}

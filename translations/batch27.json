@@ -1,0 +1,1477 @@
+{
+  "description": "Battle techniques and the Sky Fort reveal/report scene.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2114,
+      "category": "Battle moves",
+      "english": [
+        "Fire Punch"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3390,
+      "category": "Battle moves",
+      "english": [
+        "Fire Punch"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2115,
+      "category": "Battle moves",
+      "english": [
+        "Ice Pellet"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3391,
+      "category": "Battle moves",
+      "english": [
+        "Ice Pellet"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2116,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Kick"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3392,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Kick"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2117,
+      "category": "Battle moves",
+      "english": [
+        "Divine Ray"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3393,
+      "category": "Battle moves",
+      "english": [
+        "Divine Ray"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2118,
+      "category": "Battle moves",
+      "english": [
+        "Shadow Punch"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3394,
+      "category": "Battle moves",
+      "english": [
+        "Shadow Punch"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2119,
+      "category": "Battle moves",
+      "english": [
+        "Battle Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3395,
+      "category": "Battle moves",
+      "english": [
+        "Battle Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2120,
+      "category": "Battle moves",
+      "english": [
+        "Fire Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3396,
+      "category": "Battle moves",
+      "english": [
+        "Fire Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2121,
+      "category": "Battle moves",
+      "english": [
+        "Ice Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3397,
+      "category": "Battle moves",
+      "english": [
+        "Ice Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2122,
+      "category": "Battle moves",
+      "english": [
+        "Electric Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3398,
+      "category": "Battle moves",
+      "english": [
+        "Electric Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2123,
+      "category": "Battle moves",
+      "english": [
+        "Light Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3399,
+      "category": "Battle moves",
+      "english": [
+        "Light Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2124,
+      "category": "Battle moves",
+      "english": [
+        "Dark Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3400,
+      "category": "Battle moves",
+      "english": [
+        "Dark Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2125,
+      "category": "Battle moves",
+      "english": [
+        "Spirit Fist"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2126,
+      "category": "Battle moves",
+      "english": [
+        "Fire Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "The exact English label Fire Breath appears in the English Digimon World: Dawn/Dusk move-name extraction and directly matches ほのおのいき. The specific Digimon association still needs in-game review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3402,
+      "category": "Battle moves",
+      "english": [
+        "Fire Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "The exact English label Fire Breath appears in the English Digimon World: Dawn/Dusk move-name extraction and directly matches ほのおのいき. The specific Digimon association still needs in-game review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2127,
+      "category": "Battle moves",
+      "english": [
+        "Ice Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3403,
+      "category": "Battle moves",
+      "english": [
+        "Ice Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2128,
+      "category": "Battle moves",
+      "english": [
+        "Electric Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3404,
+      "category": "Battle moves",
+      "english": [
+        "Electric Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2129,
+      "category": "Battle moves",
+      "english": [
+        "Light Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3405,
+      "category": "Battle moves",
+      "english": [
+        "Light Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2130,
+      "category": "Battle moves",
+      "english": [
+        "Dark Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3406,
+      "category": "Battle moves",
+      "english": [
+        "Dark Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2131,
+      "category": "Battle moves",
+      "english": [
+        "Spirit Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3407,
+      "category": "Battle moves",
+      "english": [
+        "Spirit Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2132,
+      "category": "Battle moves",
+      "english": [
+        "Mini Fire Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2133,
+      "category": "Battle moves",
+      "english": [
+        "Fire Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2134,
+      "category": "Battle moves",
+      "english": [
+        "Mega Fire Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2135,
+      "category": "Battle moves",
+      "english": [
+        "Giga Fire Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2136,
+      "category": "Battle moves",
+      "english": [
+        "Tera Fire Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2137,
+      "category": "Battle moves",
+      "english": [
+        "Mini Ice Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2138,
+      "category": "Battle moves",
+      "english": [
+        "Ice Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2139,
+      "category": "Battle moves",
+      "english": [
+        "Mega Ice Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2140,
+      "category": "Battle moves",
+      "english": [
+        "Giga Ice Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2141,
+      "category": "Battle moves",
+      "english": [
+        "Tera Ice Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2142,
+      "category": "Battle moves",
+      "english": [
+        "Mini Thunder Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2143,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2144,
+      "category": "Battle moves",
+      "english": [
+        "Mega Thunder Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2145,
+      "category": "Battle moves",
+      "english": [
+        "Giga Thunder Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2146,
+      "category": "Battle moves",
+      "english": [
+        "Tera Thunder Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2147,
+      "category": "Battle moves",
+      "english": [
+        "Mini Divine Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2148,
+      "category": "Battle moves",
+      "english": [
+        "Divine Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2149,
+      "category": "Battle moves",
+      "english": [
+        "Mega Divine Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2150,
+      "category": "Battle moves",
+      "english": [
+        "Giga Divine Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2151,
+      "category": "Battle moves",
+      "english": [
+        "Tera Divine Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2152,
+      "category": "Battle moves",
+      "english": [
+        "Mini Shadow Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2153,
+      "category": "Battle moves",
+      "english": [
+        "Shadow Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2154,
+      "category": "Battle moves",
+      "english": [
+        "Mega Shadow Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2155,
+      "category": "Battle moves",
+      "english": [
+        "Giga Shadow Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2156,
+      "category": "Battle moves",
+      "english": [
+        "Tera Shadow Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2157,
+      "category": "Battle moves",
+      "english": [
+        "Mini Battle Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2158,
+      "category": "Battle moves",
+      "english": [
+        "Battle Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2159,
+      "category": "Battle moves",
+      "english": [
+        "Mega Battle Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2160,
+      "category": "Battle moves",
+      "english": [
+        "Giga Battle Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2161,
+      "category": "Battle moves",
+      "english": [
+        "Tera Battle Resolve"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2162,
+      "category": "Battle moves",
+      "english": [
+        "Sun Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3438,
+      "category": "Battle moves",
+      "english": [
+        "Sun Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2163,
+      "category": "Battle moves",
+      "english": [
+        "Wild Cure"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3439,
+      "category": "Battle moves",
+      "english": [
+        "Wild Cure"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2164,
+      "category": "Battle moves",
+      "english": [
+        "Infinite Slap"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3440,
+      "category": "Battle moves",
+      "english": [
+        "Infinite Slap"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2165,
+      "category": "Battle moves",
+      "english": [
+        "Light of Heaven"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3441,
+      "category": "Battle moves",
+      "english": [
+        "Light of Heaven"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2166,
+      "category": "Battle moves",
+      "english": [
+        "Mini Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3442,
+      "category": "Battle moves",
+      "english": [
+        "Mini Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2167,
+      "category": "Battle moves",
+      "english": [
+        "Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3443,
+      "category": "Battle moves",
+      "english": [
+        "Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2168,
+      "category": "Battle moves",
+      "english": [
+        "Mega Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3444,
+      "category": "Battle moves",
+      "english": [
+        "Mega Heal Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2169,
+      "category": "Battle moves",
+      "english": [
+        "Cure Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3445,
+      "category": "Battle moves",
+      "english": [
+        "Cure Light"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2177,
+      "category": "Battle moves",
+      "english": [
+        "Soul Majesty"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3453,
+      "category": "Battle moves",
+      "english": [
+        "Soul Majesty"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2178,
+      "category": "Battle moves",
+      "english": [
+        "Sugar Pound"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3454,
+      "category": "Battle moves",
+      "english": [
+        "Sugar Pound"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2179,
+      "category": "Battle moves",
+      "english": [
+        "Blue Brave"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3455,
+      "category": "Battle moves",
+      "english": [
+        "Blue Brave"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2183,
+      "category": "Battle moves",
+      "english": [
+        "Azure Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3459,
+      "category": "Battle moves",
+      "english": [
+        "Azure Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2186,
+      "category": "Battle moves",
+      "english": [
+        "Twilight Dance"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3462,
+      "category": "Battle moves",
+      "english": [
+        "Twilight Dance"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2188,
+      "category": "Battle moves",
+      "english": [
+        "Soul Arbalest"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3464,
+      "category": "Battle moves",
+      "english": [
+        "Soul Arbalest"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2190,
+      "category": "Battle moves",
+      "english": [
+        "Megalo Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3466,
+      "category": "Battle moves",
+      "english": [
+        "Megalo Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2191,
+      "category": "Battle moves",
+      "english": [
+        "Blaster Tail II"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3467,
+      "category": "Battle moves",
+      "english": [
+        "Blaster Tail II"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2195,
+      "category": "Battle moves",
+      "english": [
+        "Gear Spin Needle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3471,
+      "category": "Battle moves",
+      "english": [
+        "Gear Spin Needle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2196,
+      "category": "Battle moves",
+      "english": [
+        "Wild Burning"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3472,
+      "category": "Battle moves",
+      "english": [
+        "Wild Burning"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2197,
+      "category": "Battle moves",
+      "english": [
+        "Brilliance Dagger"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3473,
+      "category": "Battle moves",
+      "english": [
+        "Brilliance Dagger"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2199,
+      "category": "Battle moves",
+      "english": [
+        "Victory Spear"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3475,
+      "category": "Battle moves",
+      "english": [
+        "Victory Spear"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2200,
+      "category": "Battle moves",
+      "english": [
+        "Acid Typhoon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3476,
+      "category": "Battle moves",
+      "english": [
+        "Acid Typhoon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2202,
+      "category": "Battle moves",
+      "english": [
+        "Blaze Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3478,
+      "category": "Battle moves",
+      "english": [
+        "Blaze Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Direct working rendering of the Japanese technique name. Checked against the English Dawn/Dusk move-name extraction; no exact Western-game match was confirmed for this entry. Review the specific move effect and Digimon association in battle."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "G-g-g-g...!\nNo one can stop\nus!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story sequence: the enemy swarm vanishes, the group discovers its true form, and Taiki returns to report to Veemon. Original names and established area names are retained. Lines are kept within the 15-column story renderer limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Where did\nthey go?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story sequence: the enemy swarm vanishes, the group discovers its true form, and Taiki returns to report to Veemon. Original names and established area names are retained. Lines are kept within the 15-column story renderer limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, no way!\nIs this what\nthose\nDigimon really\nare?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story sequence: the enemy swarm vanishes, the group discovers its true form, and Taiki returns to report to Veemon. Original names and established area names are retained. Lines are kept within the 15-column story renderer limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm so sorry!\nNever again!\nTake my loot!\nForgive me!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story sequence: the enemy swarm vanishes, the group discovers its true form, and Taiki returns to report to Veemon. Original names and established area names are retained. Lines are kept within the 15-column story renderer limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "Too small now.\nNo more\ntrouble.\nTell Veemon at\nSky Fort!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story sequence: the enemy swarm vanishes, the group discovers its true form, and Taiki returns to report to Veemon. Original names and established area names are retained. Lines are kept within the 15-column story renderer limit."
+    }
+  ]
+}

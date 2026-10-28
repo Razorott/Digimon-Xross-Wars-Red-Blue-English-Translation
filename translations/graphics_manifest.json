@@ -1,0 +1,1553 @@
+[
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 33,
+    "bank": 0,
+    "english": "Digimon Story Super Xros Wars RED"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 34,
+    "bank": 0,
+    "english": "Digimon Story Super Xros Wars BLUE"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 16,
+    "english": "DigiFusion"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 17,
+    "english": "Jogress Up"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 18,
+    "english": "Melody Play"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 19,
+    "english": "Digimon List"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 20,
+    "english": "DigiFusion"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 21,
+    "english": "DigiFusion"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 22,
+    "english": "DigiFusion"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 23,
+    "english": "Jogress Up"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 24,
+    "english": "Jogress Up"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 25,
+    "english": "Jogress Up"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 26,
+    "english": "Melody Play"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 27,
+    "english": "Melody Play"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 28,
+    "english": "Melody Play"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 29,
+    "english": "Digimon List"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 30,
+    "english": "Digimon List"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 124,
+    "bank": 31,
+    "english": "Digimon List"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1987,
+    "bank": 1,
+    "english": "Start Battle"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1987,
+    "bank": 3,
+    "english": "Start Battle"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1987,
+    "bank": 5,
+    "english": "Start Battle"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1987,
+    "bank": 6,
+    "english": "All Tactics"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1987,
+    "bank": 7,
+    "english": "All Tactics"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1987,
+    "bank": 8,
+    "english": "All Tactics"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 21,
+    "english": "Command"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 22,
+    "english": "Command"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 23,
+    "english": "Special"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 24,
+    "english": "Special"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 25,
+    "english": "DigiXross"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 26,
+    "english": "DigiXross"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 27,
+    "english": "Item"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 28,
+    "english": "Item"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 29,
+    "english": "Tactics"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 30,
+    "english": "Tactics"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 31,
+    "english": "Wait"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1971,
+    "bank": 32,
+    "english": "Wait"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1987,
+    "bank": 10,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1987,
+    "bank": 11,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1993,
+    "bank": 0,
+    "english": "Let's go, everyone!!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1993,
+    "bank": 1,
+    "english": "Let's go, everyone!!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1993,
+    "bank": 2,
+    "english": "Keep it up! / Almost there!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1993,
+    "bank": 3,
+    "english": "Keep it up! / Almost there!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1993,
+    "bank": 4,
+    "english": "DigiXross!!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1993,
+    "bank": 5,
+    "english": "DigiXross!!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1993,
+    "bank": 6,
+    "english": "DigiXross!!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1993,
+    "bank": 7,
+    "english": "Let's retreat / for now!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 1993,
+    "bank": 8,
+    "english": "Let's retreat / for now!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 106,
+    "bank": 0,
+    "english": "Command"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 127,
+    "bank": 1,
+    "english": "Level Up"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 127,
+    "bank": 2,
+    "english": "Job"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 127,
+    "bank": 6,
+    "english": "DigiFusion Requirements"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 138,
+    "bank": 0,
+    "english": "Recruiting!!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 138,
+    "bank": 1,
+    "english": "Recruiting!!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 138,
+    "bank": 2,
+    "english": "Recruiting!!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 39,
+    "bank": 0,
+    "english": "English copyright attribution"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 40,
+    "bank": 0,
+    "english": "English copyright attribution"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 228,
+    "bank": 3,
+    "english": "Please wait. Do not power off."
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 227,
+    "bank": 0,
+    "english": "Down!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 227,
+    "bank": 1,
+    "english": "Defeated!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 38,
+    "bank": 0,
+    "english": "Title menu"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 38,
+    "bank": 1,
+    "english": "Title menu"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 38,
+    "bank": 2,
+    "english": "Title menu"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 38,
+    "bank": 3,
+    "english": "Title menu"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 38,
+    "bank": 4,
+    "english": "Title menu"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 0,
+    "english": "Cancel"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 1,
+    "english": "Cancel"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 2,
+    "english": "Species"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 3,
+    "english": "Species"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 4,
+    "english": "Retry"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 5,
+    "english": "Retry"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 6,
+    "english": "OK"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 7,
+    "english": "OK"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 8,
+    "english": "Auto"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 42,
+    "bank": 9,
+    "english": "Auto"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 196,
+    "bank": 1,
+    "english": "Stats"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 196,
+    "bank": 2,
+    "english": "Moves"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 196,
+    "bank": 3,
+    "english": "Equip"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 196,
+    "bank": 4,
+    "english": "Formation"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 196,
+    "bank": 5,
+    "english": "Items"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 196,
+    "bank": 6,
+    "english": "Map"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 196,
+    "bank": 7,
+    "english": "Info"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 198,
+    "bank": 1,
+    "english": "Stats"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 198,
+    "bank": 2,
+    "english": "Moves"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 198,
+    "bank": 3,
+    "english": "Equip"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 198,
+    "bank": 4,
+    "english": "Formation"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 198,
+    "bank": 5,
+    "english": "Items"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 198,
+    "bank": 6,
+    "english": "Map"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 198,
+    "bank": 7,
+    "english": "Info"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 110,
+    "bank": 0,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 110,
+    "bank": 1,
+    "english": "OK"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 110,
+    "bank": 2,
+    "english": "Next"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 110,
+    "bank": 3,
+    "english": "Finish"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 110,
+    "bank": 4,
+    "english": "Finish"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 147,
+    "bank": 1,
+    "english": "OK"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 147,
+    "bank": 2,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 147,
+    "bank": 3,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 194,
+    "bank": 0,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 196,
+    "bank": 8,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 198,
+    "bank": 8,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 47,
+    "bank": 0,
+    "english": "World Map"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 47,
+    "bank": 1,
+    "english": "World Map"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 75,
+    "bank": 0,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 75,
+    "bank": 1,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 75,
+    "bank": 2,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 75,
+    "bank": 3,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 75,
+    "bank": 4,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 75,
+    "bank": 5,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 76,
+    "bank": 0,
+    "english": "Move"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 76,
+    "bank": 1,
+    "english": "Move"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 76,
+    "bank": 2,
+    "english": "Move"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 76,
+    "bank": 3,
+    "english": "Move"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 76,
+    "bank": 4,
+    "english": "Move"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 76,
+    "bank": 5,
+    "english": "Move"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 77,
+    "bank": 0,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 77,
+    "bank": 1,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 77,
+    "bank": 2,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 77,
+    "bank": 3,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 77,
+    "bank": 4,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 77,
+    "bank": 5,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 78,
+    "bank": 0,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 78,
+    "bank": 1,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 78,
+    "bank": 2,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 78,
+    "bank": 3,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 78,
+    "bank": 4,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 78,
+    "bank": 5,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 104,
+    "bank": 0,
+    "english": "DigiFarm"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 105,
+    "bank": 0,
+    "english": "Farm Island"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 111,
+    "bank": 0,
+    "english": "Digimon Growth"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 112,
+    "bank": 0,
+    "english": "Live Event Start"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 113,
+    "bank": 0,
+    "english": "Send Expedition"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 114,
+    "bank": 0,
+    "english": "Change Traits"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 115,
+    "bank": 0,
+    "english": "Assign Job"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 140,
+    "bank": 0,
+    "english": "Live Event Report"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 141,
+    "bank": 0,
+    "english": "Job Report"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 142,
+    "bank": 0,
+    "english": "Expedition Report"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 143,
+    "bank": 0,
+    "english": "Level Up Report"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 35,
+    "bank": 0,
+    "english": "Trial Version"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 36,
+    "bank": 0,
+    "english": "Blue Flare"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 36,
+    "bank": 1,
+    "english": "Twilight"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 36,
+    "bank": 2,
+    "english": "Blue Flare / Twilight"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 36,
+    "bank": 3,
+    "english": "Blue Flare / Twilight"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 74,
+    "bank": 0,
+    "english": "Farm Settings"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 86,
+    "bank": 0,
+    "english": "Switch Camera"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 96,
+    "bank": 0,
+    "english": "Party"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 97,
+    "bank": 0,
+    "english": "DigiBank"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 98,
+    "bank": 0,
+    "english": "Expedition"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 84,
+    "bank": 0,
+    "english": "Train"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 84,
+    "bank": 1,
+    "english": "Train"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 85,
+    "bank": 0,
+    "english": "Job"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 85,
+    "bank": 1,
+    "english": "Job"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 116,
+    "bank": 0,
+    "english": "Sort"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 117,
+    "bank": 0,
+    "english": "EXP"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 118,
+    "bank": 0,
+    "english": "Found Items"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 119,
+    "bank": 0,
+    "english": "Crafted Gear"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 120,
+    "bank": 0,
+    "english": "Stats Up"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 125,
+    "bank": 0,
+    "english": "Switch"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 126,
+    "bank": 0,
+    "english": "Stats"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 131,
+    "bank": 0,
+    "english": "DigiLevel Up"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 131,
+    "bank": 1,
+    "english": "DigiLevel Up"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 132,
+    "bank": 0,
+    "english": "Fusion Breed"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 132,
+    "bank": 1,
+    "english": "Fusion Breed"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 213,
+    "bank": 0,
+    "english": "Sort"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 220,
+    "bank": 0,
+    "english": "Remove"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 16,
+    "english": "Play Info"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 17,
+    "english": "Quests"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 18,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 19,
+    "english": "DigiDex"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 20,
+    "english": "Play Info"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 21,
+    "english": "Play Info"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 22,
+    "english": "Play Info"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 23,
+    "english": "Quests"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 24,
+    "english": "Quests"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 25,
+    "english": "Quests"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 26,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 27,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 28,
+    "english": "Digimon"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 29,
+    "english": "DigiDex"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 30,
+    "english": "DigiDex"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 221,
+    "bank": 31,
+    "english": "DigiDex"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 0,
+    "english": "Left"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 1,
+    "english": "Owned"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 2,
+    "english": "Price"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 3,
+    "english": "Level"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 4,
+    "english": "Best"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 5,
+    "english": "Group"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 6,
+    "english": "Found Items"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 7,
+    "english": "EXP"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 8,
+    "english": "Event Result"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 9,
+    "english": "Crafted Gear"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2217,
+    "bank": 10,
+    "english": "Stat Changes"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 0,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 1,
+    "english": "Sort"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 2,
+    "english": "OK"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 3,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 4,
+    "english": "Sort"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 5,
+    "english": "OK"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 6,
+    "english": "Get EXP"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 7,
+    "english": "Found Items"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 8,
+    "english": "Next"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 9,
+    "english": "Finish"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 10,
+    "english": "To Stage"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 11,
+    "english": "Map"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2218,
+    "bank": 12,
+    "english": "Digimon List"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2224,
+    "bank": 0,
+    "english": "Digimon List"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2242,
+    "bank": 0,
+    "english": "QUEST CLEAR!"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2242,
+    "bank": 1,
+    "english": "Requirements"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2231,
+    "bank": 14,
+    "english": "Back"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2231,
+    "bank": 16,
+    "english": "OK"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 2,
+    "english": "Stats"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 3,
+    "english": "Moves"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 4,
+    "english": "DigiXross"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 5,
+    "english": "Trait"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 6,
+    "english": "Param"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 7,
+    "english": "Stats"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 8,
+    "english": "Moves"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 9,
+    "english": "DigiXross"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 10,
+    "english": "Trait"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2234,
+    "bank": 11,
+    "english": "Param"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2235,
+    "bank": 0,
+    "english": "Live Event Report"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2235,
+    "bank": 1,
+    "english": "Job Report"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2235,
+    "bank": 2,
+    "english": "Expedition Report"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2235,
+    "bank": 3,
+    "english": "Digimon Growth"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2244,
+    "bank": 0,
+    "english": "Quest Progress"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2245,
+    "bank": 0,
+    "english": "Item Shop"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2246,
+    "bank": 0,
+    "english": "Farm Shop"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2249,
+    "bank": 0,
+    "english": "Yes"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2249,
+    "bank": 1,
+    "english": "Yes"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2249,
+    "bank": 2,
+    "english": "No"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2249,
+    "bank": 3,
+    "english": "No"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2250,
+    "bank": 0,
+    "english": "DigiBit Bank"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2250,
+    "bank": 1,
+    "english": "Withdraw"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2250,
+    "bank": 2,
+    "english": "Deposit"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 2250,
+    "bank": 3,
+    "english": "ATM Close"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 127,
+    "bank": 0,
+    "english": "Cancel"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 148,
+    "bank": 1,
+    "english": "Secret Password"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 148,
+    "bank": 2,
+    "english": "Digimon Reload"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 148,
+    "bank": 3,
+    "english": "Secret Password"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 148,
+    "bank": 4,
+    "english": "Secret Password"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 148,
+    "bank": 5,
+    "english": "Digimon Reload"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 148,
+    "bank": 6,
+    "english": "Digimon Reload"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 149,
+    "bank": 1,
+    "english": "Preparing"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 149,
+    "bank": 2,
+    "english": "Preparing"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 149,
+    "bank": 3,
+    "english": "Preparing"
+  },
+  {
+    "archive": "SPR_NCGR.PAK + SPR_NCER.PAK",
+    "entry": 149,
+    "bank": 4,
+    "english": "Preparing"
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 33,
+    "english": [
+      "I'm Taiki Kudo!",
+      "A middle school student",
+      "from Koto, Tokyo."
+    ]
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 34,
+    "english": [
+      "One day, I heard a voice",
+      "calling for help.",
+      "Following that voice..."
+    ]
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 35,
+    "english": [
+      "My friends and I were",
+      "sent to another world:",
+      "the Digital World!"
+    ]
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 36,
+    "english": [
+      "There, we met creatures",
+      "made of digital data,",
+      "known as Digimon."
+    ]
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 37,
+    "english": [
+      "A hotheaded troublemaker",
+      "who dreams of becoming",
+      "the King of the Digimon:",
+      "Shoutmon!"
+    ]
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 38,
+    "english": [
+      "A powerful fighter",
+      "you can always count on:",
+      "Ballistamon!"
+    ]
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 39,
+    "english": [
+      "A wandering spirit",
+      "who loves his freedom:",
+      "Dorulumon!"
+    ]
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 40,
+    "english": [
+      "In the Digital World,",
+      "mighty Digimon we had",
+      "never seen awaited us."
+    ]
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 41,
+    "english": [
+      "And now, our",
+      "new adventure",
+      "was about to begin..."
+    ]
+  },
+  {
+    "archive": "BG_NCGR.PAK + BG_NSCR.PAK",
+    "entry": 23,
+    "english": "DIGIMON XROS WARS"
+  }
+]

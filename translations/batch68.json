@@ -1,0 +1,642 @@
+{
+  "description": "Translate the Pukumon and Minervamon story scene in MESPAK02 entry 7, including the ROG reveal and Nene's rescue arc.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Pukuku! We meet again~!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "You! You're the one from Knuckle Coast!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "I, Pukumon the Prickle, ROG's Splash Leader, will show you the difference in our strength~!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "Pukumon! Stop this! The black shadow will absorb you too if you keep this up!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "You people are hilarious~! Did you think a clever Digimon like me wouldn't notice that shadow? Pukuku!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Then why...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "That shadow will absorb all of ROG! That's why you people are in our way!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "...Pukuku! That one stung a little."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "Give up already!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "You don't understand why I'm here, do you? Did you think I was fighting at random? I've reported everything about how you fight..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Pukumon, well done..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Now hand over your 'wisdom' to me..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "As you command, our Dark Emperor! Pukuku!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "What is ROG...? Aren't you afraid you'll disappear?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "A boss who sacrifices allies is no good at all!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Minotaurmon is 'Power,' and Pukumon is 'Wisdom'...? What did that shadow mean?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Maybe they are the keys to the seal."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "They said they were reporting on how we fight, too... They must be sending stronger foes after us!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "No matter who we face, we won't lose! Let's move on!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, you guys~! We meet again~!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "You're the one who kidnapped Chibickmon! And you took Dorulumon and Cutemon hostage, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Kidnap? Such a rude word for an ugly bunch~!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Who are you calling ugly, you... Grr! Now I'm mad!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "Minervamon... tell me something."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "If you like cute things, couldn't everyone live together in peace without invading zones? Why take over zones in a way that makes everyone suffer?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Minervamon... if you like cute things... Maybe you and Akari would get along! Chibickmon likes you, too. I just can't believe you're a bad guy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "You guys may be ugly, but you say the sweetest things~! A dreamy goof like you isn't so bad~!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "...What did you say?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "Everyone has things they have to do. You can't just do whatever you want, can you? I don't know how sweet your real life is, but mine is bitter and heavy, dirty and dark! That's why I can appreciate cute things. You get it?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "Minervamon!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "If you won't come over here, then I'll come to you~!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "Ouch... Good job, you guys! My Lil' Bits got beaten~! Hehe... hehehehe~!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "How can you laugh like that?! There's something wrong with you! You're completely crazy!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Ha-ha! That's right! Of course I'm crazy~! And? What's it to you? Ah-ha~?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Minervamon can't be a good guy! She's just making fun of us and playing around!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "The rule of TEAM CUTE!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "When we're down, we laugh! When things get tough, we laugh them off! That's what we all promised, together with the precious friends we lost in battle. Looking at you guys reminds me of those days..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Minervamon, have you grown fond of this boy...? Still, I'll take your Agility data."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "...Well, it was our first promise, right? Guess I have to give it to you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't worry. All your friends, with you at their center, will be absorbed into one."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "The 'Legendary Ancient Weapon'...? ROG is crazier than me for gathering data for that! Someday these ugly guys will beat you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeeeeah! Yahoooo~!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "...What was with her?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "She called us ugly right to the end... Damn, Taiki! I'm so frustrated!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, Shoutmon. I'm frustrated, too. I won't let her do whatever she wants anymore!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "That's the boss of Skull Glacier! Watch out, he's a lying crook! He tried to use Sparrowmon as a hostage even though he hadn't captured her!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... So that's the trick... Ha-ha-ha! You fools don't know, do you? ROG has Sparrowmon! If you want her back, admit defeat now!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hey, you're the one who doesn't know! We already rescued Sparrowmon, and she's doing just fine!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "W-what?! So that's what happened?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct dialogue translation with continuous scene context. Original character names and established western Digimon spellings are retained; the term Pukumon is confirmed by Bandai's English Digimon Encyclopedia."
+    }
+  ]
+}

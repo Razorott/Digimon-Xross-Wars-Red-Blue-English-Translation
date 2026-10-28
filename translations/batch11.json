@@ -1,0 +1,2349 @@
+{
+  "description": "Reviewed story, NPC, quests, farm, battle moves, names and equipment.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "This is the\nKumonos Ruins."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "This is the\nKumonos Ruins."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon and I\nwere searching\naround here.\nThat\nPass-whatever\nexplosion\nmust've\nblown us away!\nWho knew\nSpadamon\nhad that power?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon and I\nwere searching\naround here.\nThat\nPass-whatever\nexplosion\nmust've\nblown us away!\nWho knew\nSpadamon\nhad that power?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "Y-yeah... I was\ndesperate then.\nI don't know\nhow\nI did it. It\nfelt\nlike the power\nI\nhad when I\nstarted\nthe Capacitor\nTower.\nWhy is that...?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Y-yeah... I was\ndesperate then.\nI don't know\nhow\nI did it. It\nfelt\nlike the power\nI\nhad when I\nstarted\nthe Capacitor\nTower.\nWhy is that...?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "I see. But why\nare they after\nthe legendary\nancient weapon?\nAnd Spadamon's\npower... Is it\nlinked to the\nCapacitor\nTower's\ncaretaker?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "I see. But why\nare they after\nthe legendary\nancient weapon?\nAnd Spadamon's\npower... Is it\nlinked to the\nCapacitor\nTower's\ncaretaker?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, I\ndon't\nget all this,\nbut\nyou're still\nyou.\nDon't worry so\nmuch about it."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, I\ndon't\nget all this,\nbut\nyou're still\nyou.\nDon't worry so\nmuch about it."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah... Wait,\nis Sparrowmon\none\nof your\nfriends?\nIf he's\ncaptive,\nhe may be at\nSkull Glacier\nahead of us."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah... Wait,\nis Sparrowmon\none\nof your\nfriends?\nIf he's\ncaptive,\nhe may be at\nSkull Glacier\nahead of us."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Why do you\nthink\nhe's at Skull\nGlacier?\nWait...\nHas Sparrowmon\nalready become\na skull?!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "Why do you\nthink\nhe's at Skull\nGlacier?\nWait...\nHas Sparrowmon\nalready become\na skull?!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Ahaha... I\ndon't\nthink you need\nto\nworry about\nthat."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Ahaha... I\ndon't\nthink you need\nto\nworry about\nthat."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "That's not what\nI\nmeant! The ROG\nleader at Skull\nGlacier is\nreally\nterrifying. I\nwouldn't go\nnear\nhim without\nyou!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "That's not what\nI\nmeant! The ROG\nleader at Skull\nGlacier is\nreally\nterrifying. I\nwouldn't go\nnear\nhim without\nyou!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "A terrifying\nDigimon... I'm\nworried about\nSparrowmon.\nCome\non, Shoutmon,\nSpadamon. Let's\ngo to Skull\nGlacier now."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "A terrifying\nDigimon... I'm\nworried about\nSparrowmon.\nCome\non, Shoutmon,\nSpadamon. Let's\ngo to Skull\nGlacier now."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "I am\nIceDevimon,\nROG's Freeze\nLeader!\nIceDevimon\nthe Blizzard!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "I am\nIceDevimon,\nROG's Freeze\nLeader!\nIceDevimon\nthe Blizzard!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "What does that\nmean?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "What does that\nmean?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG's Digimon\nleaders are all\ngathering at\nCrystal\nVolcano,\nwhere Earth\nFort\nis!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG's Digimon\nleaders are all\ngathering at\nCrystal\nVolcano,\nwhere Earth\nFort\nis!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "What are they\ngathering for?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "What are they\ngathering for?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "It seems Earth\nFort is run by\nROG's strongest\nboss, Zeed\nMillenniummon!\nThe leaders\nguard\nit closely.\nMaybe\nhe ordered them\nto gather\nthere."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "It seems Earth\nFort is run by\nROG's strongest\nboss, Zeed\nMillenniummon!\nThe leaders\nguard\nit closely.\nMaybe\nhe ordered them\nto gather\nthere."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "So he's the\nboss\nof the bad\nguys!\nLet's charge\nin!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "So he's the\nboss\nof the bad\nguys!\nLet's charge\nin!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "But something's\nwrong. If they\ndon't want to\nbe\nfound, why\ngather\nso openly? This\nmust be a trap\nto\ncapture\nSpadamon!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "But something's\nwrong. If they\ndon't want to\nbe\nfound, why\ngather\nso openly? This\nmust be a trap\nto\ncapture\nSpadamon!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "You're right.\nIt\nwould be risky\nto\nenter enemy\nground\nnow. Let's\nlearn\nmore first..."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "You're right.\nIt\nwould be risky\nto\nenter enemy\nground\nnow. Let's\nlearn\nmore first..."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "No. We go now."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "No. We go now."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Remember what\nAnubismon said\nin Papyrus\nDesert?\nThey found the\nseal on the\nlegendary\nancient\nweapon. If ROG\nreally found\nit,\nthey'll try to\nbreak the seal\nright away."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Remember what\nAnubismon said\nin Papyrus\nDesert?\nThey found the\nseal on the\nlegendary\nancient\nweapon. If ROG\nreally found\nit,\nthey'll try to\nbreak the seal\nright away."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "So the seal is\nat Earth Fort?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "So the seal is\nat Earth Fort?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "...Spadamon,\nyou've grown so\nstrong since we\nmet. I need to\nfind some way\nto\nhelp, too! I'll\ntalk strategy\nwith\nCutemon in the\nCommand Room."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "...Spadamon,\nyou've grown so\nstrong since we\nmet. I need to\nfind some way\nto\nhelp, too! I'll\ntalk strategy\nwith\nCutemon in the\nCommand Room."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "H-hey, wait!\nNo getting a\nhead start!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "H-hey, wait!\nNo getting a\nhead start!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "Crystal\nVolcano,\nthen! Come on,\nTaiki! We can't\nlet ROG use the\nancient weapon!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Crystal\nVolcano,\nthen! Come on,\nTaiki! We can't\nlet ROG use the\nancient weapon!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 6,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Right! Let's\ngo!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "Right! Let's\ngo!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 50,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull Seabed"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 55,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Skull Seabed"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 68,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus Cave"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 39,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Papyrus Cave"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 85,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea 1"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 51,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea 1"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 88,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea 4"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 54,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea 4"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 91,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Coast 2"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 62,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Coast 2"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 92,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea G1"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 58,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea G1"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 93,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea G2"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 59,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea G2"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 94,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea G3"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 60,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Sea G3"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 125,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Cavern"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 45,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stealth Cavern"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 6,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Link Box"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 0,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Link Box"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 9,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Colosseum"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 83,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Colosseum"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 70,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space South 1"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 80,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Lost Space South 1"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 2,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Buy Farm Goods"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 11,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Buy Farm Goods"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 7,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Buy Items"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 9,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Buy Items"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 16,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Total: ^0"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 18,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Total: ^0"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 83,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Yes, begin."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 90,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Yes, begin."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 84,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "No, not yet."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 91,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "No, not yet."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 18,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Terriermon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 19,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Catch Devimon in\nDigital Space East."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 20,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find the memory in\nFort Yard."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 21,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Terriermon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 22,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Recover the\nDevelopment Memory!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 23,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Recover Terriermon's\nDevelopment Memory\nfrom Devimon."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 24,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Ballistamon, the\nRobot, is in the party."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 25,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Tentomon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, a pyramid.\nI'll rest\ninside..."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "I feel\nrefreshed!\nMy max MP went\nup.\nIs this what\nthey\ncall pyramid\npower?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "I suddenly feel\nawful... Is\nthis\nnegative\npyramid\npower or what?!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hey, a punching\nbag! Let's give\nit a few hits!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha! How was\nthat?\nMy strength\nwent\nway up. Feels\ngreat!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha! How was\nthat?\n...Ow! I\ntwisted\nmy wrist. This\nis the worst!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a\ntraining\nlog? I guess\nI'm\nsupposed to ram\ninto it..."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "See that? My\nstrength shot\nup!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "Will doing such\nboring work\nreally\nmake me\nstronger?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "A giant\nboulder!\nI just have to\npush it, right?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, I got a\nlot\nstronger! That\nwas easier than\nI expected."
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "It won't budge!\nCan this thing\neven move?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hey, a punching\nmachine! I'll\ngive it all\nI've\ngot!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "Heh! Not bad,\nright? Looks\nlike\nmy defense\nrose!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "T-that's enough\nfor now!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "A training\ncannon?\nI have to take\nthe shot? Fine!\nBring it on!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "I took the hit!\nMy defense went\nup... But was\nthat worth it?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "You really\nfired\nit? You fool!\nNo way I could\nstand that!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's with\nthis\niron ball?\nTaking\na hit from that\ncounts as\ntraining?"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "I held it off!\nMy defense\nrose,\nand I feel\nbraver!"
+      ],
+      "sources": [],
+      "review_note": "Translated from the original game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 385,
+      "category": "Digimon names",
+      "english": [
+        "Shaujinmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "Official English card spelling; Japanese romanization Shawujinmon differs."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 858,
+      "category": "Digimon names",
+      "english": [
+        "Shaujinmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "Official English card spelling; Japanese romanization Shawujinmon differs."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 393,
+      "category": "Digimon names",
+      "english": [
+        "Prairiemon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=prairiemon"
+      ],
+      "review_note": "Official English Digimon Encyclopedia spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 866,
+      "category": "Digimon names",
+      "english": [
+        "Prairiemon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=prairiemon"
+      ],
+      "review_note": "Official English Digimon Encyclopedia spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 452,
+      "category": "Digimon names",
+      "english": [
+        "Beelzemon L"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official species name; L is the game-specific form suffix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4212,
+      "category": "Digimon names",
+      "english": [
+        "Beelzemon L"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official species name; L is the game-specific form suffix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 464,
+      "category": "Digimon names",
+      "english": [
+        "GranKuwagamon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4240,
+      "category": "Digimon names",
+      "english": [
+        "GranKuwagamon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 489,
+      "category": "Digimon names",
+      "english": [
+        "AncientKazemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Japanese AncientIrismon has the Western name AncientKazemon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4228,
+      "category": "Digimon names",
+      "english": [
+        "AncientKazemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Japanese AncientIrismon has the Western name AncientKazemon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 491,
+      "category": "Digimon names",
+      "english": [
+        "AncientMegatheriummon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4237,
+      "category": "Digimon names",
+      "english": [
+        "AncientMegatheriummon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 493,
+      "category": "Digimon names",
+      "english": [
+        "AncientMermaimon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4236,
+      "category": "Digimon names",
+      "english": [
+        "AncientMermaimon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 494,
+      "category": "Digimon names",
+      "english": [
+        "AncientWisemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4238,
+      "category": "Digimon names",
+      "english": [
+        "AncientWisemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 495,
+      "category": "Digimon names",
+      "english": [
+        "AncientSphinxmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4231,
+      "category": "Digimon names",
+      "english": [
+        "AncientSphinxmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 496,
+      "category": "Digimon names",
+      "english": [
+        "AncientTroymon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4232,
+      "category": "Digimon names",
+      "english": [
+        "AncientTroymon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 497,
+      "category": "Digimon names",
+      "english": [
+        "AncientBeetlemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4233,
+      "category": "Digimon names",
+      "english": [
+        "AncientBeetlemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 498,
+      "category": "Digimon names",
+      "english": [
+        "AncientVolcanomon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4480,
+      "category": "Digimon names",
+      "english": [
+        "AncientVolcanomon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1232,
+      "category": "Battle moves",
+      "english": [
+        "Claw & Fang"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2508,
+      "category": "Battle moves",
+      "english": [
+        "Claw & Fang"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1234,
+      "category": "Battle moves",
+      "english": [
+        "Shooting Ore"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2510,
+      "category": "Battle moves",
+      "english": [
+        "Shooting Ore"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1236,
+      "category": "Battle moves",
+      "english": [
+        "Xros Four"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2512,
+      "category": "Battle moves",
+      "english": [
+        "Xros Four"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1238,
+      "category": "Battle moves",
+      "english": [
+        "Acid Bubbles"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2514,
+      "category": "Battle moves",
+      "english": [
+        "Acid Bubbles"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1239,
+      "category": "Battle moves",
+      "english": [
+        "Ice Arrow"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2515,
+      "category": "Battle moves",
+      "english": [
+        "Ice Arrow"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1240,
+      "category": "Battle moves",
+      "english": [
+        "Ice Arrow Barrage"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2516,
+      "category": "Battle moves",
+      "english": [
+        "Ice Arrow Barrage"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1242,
+      "category": "Battle moves",
+      "english": [
+        "Arctic Blizzard"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2375,
+      "category": "Battle moves",
+      "english": [
+        "Arctic Blizzard"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1243,
+      "category": "Battle moves",
+      "english": [
+        "Great Blizzard"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2519,
+      "category": "Battle moves",
+      "english": [
+        "Great Blizzard"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1244,
+      "category": "Battle moves",
+      "english": [
+        "Tear Bubble"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2520,
+      "category": "Battle moves",
+      "english": [
+        "Tear Bubble"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1245,
+      "category": "Battle moves",
+      "english": [
+        "Rainbow Bubbles"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2521,
+      "category": "Battle moves",
+      "english": [
+        "Rainbow Bubbles"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1252,
+      "category": "Battle moves",
+      "english": [
+        "Wind Sickle"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2528,
+      "category": "Battle moves",
+      "english": [
+        "Wind Sickle"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1257,
+      "category": "Battle moves",
+      "english": [
+        "Small Tornado"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Corresponds to the English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2533,
+      "category": "Battle moves",
+      "english": [
+        "Small Tornado"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Corresponds to the English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1263,
+      "category": "Battle moves",
+      "english": [
+        "Giga Flame"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2539,
+      "category": "Battle moves",
+      "english": [
+        "Giga Flame"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1264,
+      "category": "Battle moves",
+      "english": [
+        "Lingering Flame"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2540,
+      "category": "Battle moves",
+      "english": [
+        "Lingering Flame"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1267,
+      "category": "Battle moves",
+      "english": [
+        "GeomgmNapalm"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Corresponds to the English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2543,
+      "category": "Battle moves",
+      "english": [
+        "GeomgmNapalm"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Corresponds to the English Dawn/Dusk move-list spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1275,
+      "category": "Battle moves",
+      "english": [
+        "Gatling Missile"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2551,
+      "category": "Battle moves",
+      "english": [
+        "Gatling Missile"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1280,
+      "category": "Battle moves",
+      "english": [
+        "Shine Laser"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2556,
+      "category": "Battle moves",
+      "english": [
+        "Shine Laser"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1282,
+      "category": "Battle moves",
+      "english": [
+        "Starlight Explosion"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2341,
+      "category": "Battle moves",
+      "english": [
+        "Starlight Explosion"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1284,
+      "category": "Battle moves",
+      "english": [
+        "Holy Cross"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2560,
+      "category": "Battle moves",
+      "english": [
+        "Holy Cross"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1285,
+      "category": "Battle moves",
+      "english": [
+        "Shine Cross"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2561,
+      "category": "Battle moves",
+      "english": [
+        "Shine Cross"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1286,
+      "category": "Battle moves",
+      "english": [
+        "Silence Hug"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2562,
+      "category": "Battle moves",
+      "english": [
+        "Silence Hug"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1287,
+      "category": "Battle moves",
+      "english": [
+        "Holy Knuckle"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2563,
+      "category": "Battle moves",
+      "english": [
+        "Holy Knuckle"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1288,
+      "category": "Battle moves",
+      "english": [
+        "Dark Thunder"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2564,
+      "category": "Battle moves",
+      "english": [
+        "Dark Thunder"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1289,
+      "category": "Battle moves",
+      "english": [
+        "Gravity Ball"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2565,
+      "category": "Battle moves",
+      "english": [
+        "Gravity Ball"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1290,
+      "category": "Battle moves",
+      "english": [
+        "Double Edge"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2566,
+      "category": "Battle moves",
+      "english": [
+        "Double Edge"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1291,
+      "category": "Battle moves",
+      "english": [
+        "Solar Hammer"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2567,
+      "category": "Battle moves",
+      "english": [
+        "Solar Hammer"
+      ],
+      "sources": [],
+      "review_note": "Working translation; no exact Dawn/Dusk match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3883,
+      "category": "Items and equipment",
+      "english": [
+        "Excalibur"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3884,
+      "category": "Items and equipment",
+      "english": [
+        "Berserk Sword"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3885,
+      "category": "Items and equipment",
+      "english": [
+        "Greydalfar"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3886,
+      "category": "Items and equipment",
+      "english": [
+        "Mjolnir"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3887,
+      "category": "Items and equipment",
+      "english": [
+        "GeoGrey Sword"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3888,
+      "category": "Items and equipment",
+      "english": [
+        "Kakikaki-kun"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3889,
+      "category": "Items and equipment",
+      "english": [
+        "King Stick"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3890,
+      "category": "Items and equipment",
+      "english": [
+        "Corona B Sword"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3891,
+      "category": "Items and equipment",
+      "english": [
+        "Queen Stick"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3892,
+      "category": "Items and equipment",
+      "english": [
+        "Berenjena"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3893,
+      "category": "Items and equipment",
+      "english": [
+        "Garuru Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3894,
+      "category": "Items and equipment",
+      "english": [
+        "P-Tron Laser"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3895,
+      "category": "Items and equipment",
+      "english": [
+        "Dramon Killer"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3896,
+      "category": "Items and equipment",
+      "english": [
+        "Nazar Nail"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3898,
+      "category": "Items and equipment",
+      "english": [
+        "GST Lance"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3899,
+      "category": "Items and equipment",
+      "english": [
+        "Ryuzanmaru"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3900,
+      "category": "Items and equipment",
+      "english": [
+        "Ambrosius"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3902,
+      "category": "Items and equipment",
+      "english": [
+        "Olympia"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3903,
+      "category": "Items and equipment",
+      "english": [
+        "Gungnir"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3904,
+      "category": "Items and equipment",
+      "english": [
+        "Muspelheim"
+      ],
+      "sources": [],
+      "review_note": "Working item rendering; Western item name not verified."
+    }
+  ]
+}

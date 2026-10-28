@@ -1,0 +1,382 @@
+{
+  "description": "Translate the Sky Fortress travel preparation and Pukumon confrontation.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG might be\nthere, so we'd\nbetter get\nready."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "You may have\nnoticed, but\nPenmon in the\nCentral Room\nseems to sell\nhealing and\nequipment\nitems! We'll\nkeep helping\nPatamon here!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "Be careful,\nTaiki. Don't\npush yourself\ntoo hard! If\nyour HP or MP\ngets low\noutside, look\nfor a Tent\nPoint and rest\nin the healing\nbed inside.\nYou'll feel\nbetter!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "To travel, go\nto the Skyport\nat the back of\nthe Commander\nRoom and ride\nwith the\nDigimon Flight\nTeam."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "All right,\nTaiki! Let's\ngo! We'll ride\nwith the\nDigimon Flight\nTeam and fly,\nfly, fly!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "I didn't know\nyou liked\nflying so much,\nbrother..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "I do not like\nit..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "But this is\nkind of\nexciting! All\nright, let's\ngo!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "You're not from\nthe Elestou\nZone...! You\nmust be with\nROG! Were you\nwaiting for\nus...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, Spadamon,\nkeeper of the\nElestou Zone's\nsecrets. You\nshould have\nstayed hidden.\nComing here to\nbe captured is\nso pitifully\ncomical... How\nfoolish!\nPukuku!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "That's exactly\nwhat Lord\nPukumon says!\nThere's no way\nthis fool knows\nthe secret of\nthe Legendary\nAncient\nWeapons... He\ndoesn't look\nlike he knows a\nthing!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "But if this\nweak little\nSpadamon really\ndoes know the\nsecret, we'll\njust grab him\nright away!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "...These fish\nare flapping\ntheir mouths\nlike they own\nthe place."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Grr... Those\nguys make me so\nmad! I'm not\nweak anymore!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "Pukumon! What\nis ROG after?\nWhy are you\ntrying to\ncapture\nSpadamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG's goal?\nPukuku! Isn't\nit obvious?\nWorld\ndomination!\nOnce we find\nthe Legendary\nAncient\nWeapons, ROG\nwill rule the\nworld as we\nplease!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "Magnificent!\nWhat a rousing\nspeech! Just as\nexpected of our\nLord Pukumon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG's Splash\nLeader, Lord\nPukumon the\nPrickle!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Pukuku!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "World\ndomination...?\nYou torment the\nDigimon of this\nZone for that?\nI won't let you\nget away with\nit!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll soon shut\nthat insolent\nmouth of yours!\nPukuku!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "How could I,\nLord Pukumon,\nlose to a bunch\nlike you...?\nThis is\nhilarious!\nPukuku!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "What's so\nfunny?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "...Spadamon\nwill never give\nup! Everything\nis for our ROG\nleader, Lord ZD\nMillenniummon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "...I remember!\nThe Legendary\nAncient Weapons\nare said to\nhave terrifying\npower: in an\nangel's hands,\nthey save the\nworld; in a\ndemon's, they\ndestroy it... I\nthought that\nwas just an old\nElestou Zone\nlegend, but ROG\ncame here to\nfind those\nweapons!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "Destroy the\nworld...? No...\nThat can't\nbe... But why\nwould Spadamon\nknow such an\nimportant\nsecret?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Maybe there's\nbeen some\nmistake. A huge\nsecret like\nthat wouldn't\nbe known by a\nweak-looking\nguy like\nSpadamon...\nIt'd be someone\nkingly, like\nme!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "...Huh? Did I\nsay something\nweird?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "Ha ha ha... He\ndoesn't mean\nany harm..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story, item-shop, and travel dialogue translated directly from Japanese; named features follow the project glossary."
+    }
+  ]
+}

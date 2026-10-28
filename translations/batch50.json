@@ -1,0 +1,395 @@
+{
+  "description": "Translate the Sky Fortress briefing and search for the Digimon Flight Team.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "It's okay. The\nshaking is\nreal. The Sky\nFortress is\nflying toward a\nplace called\nthe Energy\nContinent."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? This\nisland moves?\nThat scared\nme... So,\nwhat's the\nEnergy\nContinent like?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "It's the\nlargest\nlandmass, right\nin the middle\nof this Zone.\nDigimon from\nother Zones\nseem to think\nthe Energy\nContinent is\nthe Elestou\nZone. Most of\nROG's main\nforces have\ngone there,\ntoo. There\nshould be lots\nof our allies\nthere, but we\ndon't know if\nthey're safe or\nwhere they are\nnow."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... So\nthere are\nallies there.\nWe should find\nthem soon. How\nlong until we\nreach the\nEnergy\nContinent?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "Well..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Patamon will\nexplain in the\nCentral Room\nnext door. He's\nbeen waiting\nfor you to wake\nup."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Ha ha... Sorry.\nLooks like I\ndid it again."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "It's fine,\nTaiki. I need\nyou to stay\nhealthy. And it\nseems there's\nnot much to do\nwhile the\nisland is\nflying, so I\nwanted to make\nsure you were\nin top shape\nfirst. That's\nall... I'm\ncounting on\nyou, you know!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, leave it\nto me! Thanks\nas always,\nAkari!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Taiki\nand Akari,\nhuh...?\n...Never mind.\nI'll go tell\nPatamon. Come\non, everyone!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "All right,\nlet's get\ngoing!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait, Taiki!\nWhat are you\ndoing? The ROG\nboss isn't this\nway!\nBallistamon\nsaid he's in\nthe back of the\nroom we were\njust in. Let's\nhurry in there\nand beat him!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "Good morning,\nTaiki. Sorry to\nask so soon,\nbut there's\nsomething I\nreally need you\nall to do."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, I heard.\nLeave it to us!\nWe'll land on\nthe Energy\nContinent and\nfind our\nallies. If most\nof ROG is\nthere, too, we\ncan't just\nleave them\nalone. We'll\nhead out right\naway!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't get so\nworked up that\nyou collapse\nagain. You\nalways say you\ncan't leave\npeople in\ntrouble, but\nyou're the one\nI worry about\nmost!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll be\ncareful.\nThanks, Akari."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "So... how do we\nget to the\nEnergy\nContinent?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "We're heading\nthere now,\nright? Can't we\njust land when\nwe get there?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "The Sky\nFortress can\nfly close to\nthe continent,\nbut it can't\nland directly\non the ground.\nWe've never\ntried, but we'd\nprobably crash\nand break it."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "Then how have\nyou been\ngetting there\nuntil now?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "I've got it,\nbrother! We fly\nway up high,\nthen jump down\nfrom there..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "...Only Starmon\nand Pickmon can\ndo that."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Darn it! If\nSparrowmon were\nhere, we could\nfly with\nDigiXross!\nWhere did it\ngo?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Um, in our\nElestou Zone,\nwe travel to\nother islands\nby having a\nflying Digimon\nFlight Team\ncarry us!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "But they hid\nsomewhere when\nROG attacked.\nCan you find\nout where they\nare?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Got it,\nPatamon. So...\ndo you have any\nclues?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "All I know is\nthey're\nsomewhere on\nthe Sky\nFortress. For\nnow, I'll give\nyou a detailed\nmap of it. You\ncan view it by\nopening Map on\nyour Cross\nLoader."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "Key item\nobtained!\nMap 01"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Key item\nobtained!\nMap 02"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "We should stay\nhere on the Sky\nFortress and\nhelp Patamon\nand the others.\nIf it's machine\nrepairs, leave\nit to the\nswordsman\nZenjiro!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue and key-item notifications translated directly from Japanese; zone and feature names follow the project glossary."
+    }
+  ]
+}

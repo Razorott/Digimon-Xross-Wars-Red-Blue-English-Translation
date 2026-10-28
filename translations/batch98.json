@@ -1,0 +1,1091 @@
+{
+  "description": "Opening and first-story dialogue in Blue and Red.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, everyone! Nice to meet you! Thanks for starting up the Digimon Battle Review Board!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "The anime hasn't even started yet, and you're already such devoted fans!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Before we begin, let me introduce my friends!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "They're tiny, but there are lots of them. The Starmons are a lively bunch!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=starmons"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "When they gather together, they become the mighty Star Sword!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=shoutmonx4k"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "And Taiki's rival has been acting strangely, too."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "There's Kiriha Aonuma, the cool and mysterious boy, for better or worse. And there's Nene Amano, a girl who's mysterious in all sorts of ways. Which one you face depends on the version you play! To uncover Kiriha's secret, play Blue Flare. To solve Nene's mystery, play Twilight!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait, isn't Zenjiro a rival too?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "No... The enemy captured him along with us."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Besides, no one would buy a Zenjiro version!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Now, in the strange world of Elestou Zone... our adventure together is about to begin!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "We did it!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "You sure did! That's our Taiki! I knew I picked the right General!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Heh... Not bad! But that was just a warm-up. I only pretended to be weak so I could gauge your strength!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "You got knocked clear across the room..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Quiet, you little weakling! You have no idea how frightening I am when I get serious. I'll show you right now!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "That is an astonishing amount of sore-loser talk..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm used to stubborn foes. If you won't give up, we'll beat you as many times as it takes!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon! Thank goodness you're safe!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=spadamon"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm sorry I'm late. I left everyone behind and hid by myself this whole time. I'm sorry."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "What are you talking about? You did nothing wrong! If they had captured you, this Zone would have been finished!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "What do you mean?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon isn't an ordinary Digimon. He's a Weapon Digimon, the guardian of this Zone. He has tremendous power hidden within him. We can't let the villains take him!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=spadamon"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon is a god?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=spadamon"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "N-no, nothing so grand! I was made to protect this Zone, but I can't defeat the invaders myself. All I can do is find allies, bring them together, and guide them. That's all."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "That reminds me. Where are our friends?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "I think they were taken to the Central Room. Be careful, though. The Digimon in there is frightening... in a way."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "...I've got to ask. What do you mean, 'in a way'?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "I peeked in there once. He was laughing happily, then suddenly got very angry, and finally started crying. But when I looked closer... he was talking to himself the whole time."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Frightening... or just dangerous?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "You're the boss, aren't you?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "...Who are you? Who gave you permission to come in here? Get out!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "We're not leaving. You are! This place belongs to us: this room, this fort, and this entire Zone! We won't hand any of it over!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Ah, I remember you. The coward who abandoned his friends and fled. Now you've come back with a few pitiful allies. What do you intend to do this time?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "Isn't it obvious? We're going to knock you villains down!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "And take back our friends and this Zone!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "Pathetic fools. Die regretting your own stupidity."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "We've heard that line before. Enjoy sounding tough while you can. Nobody who's talked to us like that has come out unscathed!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "Your scheme ends here! Give up and get out of this Zone!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "...I see. You truly are extraordinary fools."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "...What is he talking about?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks to all of you defeating that Digimon, one of the seals suppressing my power has come undone. Thank you, everyone."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "So that's the power of the Weapon Digimon who protects Elestou Zone... If we break the other seals, can Spadamon regain his power?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=spadamon"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "What's this? Something's written on it... 'Commander Room Save PC: Preparing'...?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "This looks like one of those machines at a bank..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "I think so. You can deposit BIT! Maybe I'll put some in... Oh, right. I don't have any BIT."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "What's this?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "This is the Sky Port, the Digimon Air Corps' airfield. They fly in and out from here. Switch on that console over there..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "...and an Airport Gate opens, letting you travel to other airports. Elestou Zone has Fort Island, home of Sky Fort; volcanic Crystal Island; mountainous Hyde Island; and the vast Energy Continent stretching north and south."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "Once an Airport Gate is open, you can go anywhere. Just talk to a member of the Digimon Air Corps, and they'll fly you to any airport in no time!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "Amazing!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "But there's a problem right now, so I can't open the Airport Gate. Sorry, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... That's too bad."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "Is this an airfield?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes. The Digimon Air Corps uses it. It's called the Sky Port, the airport at Sky Fort."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "If you switch on that console..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "...the Airport Gate opens, and you can travel to other airports. Elestou Zone has Fort Island, home of Sky Fort; volcanic Crystal Island; mountainous Hyde Island; and the vast Energy Continent stretching north and south."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "You can reach any airport in Elestou Zone from here. Once you've opened the airport's gate, just talk to a member of the Digimon Air Corps."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "That's amazing! Now we can finally go rescue the Digimon who were taken away!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki... Do you really think I can save my friends?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "Of course you can! We're all with you. Everything will be all right!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "What's this? It says... 'DigiTent Save PC: Preparing'...?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, everyone! Nice to meet you!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice to meet you too!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "Before we begin, let me introduce my friends!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "They're tiny, but there are lots of them! The Pickmons are a lively bunch!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=pickmon"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "When they combine with Starmon, they become the powerful Star Sword!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=shoutmonx4k"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "I-I don't know anything about that! If it existed, I'd have driven you out long ago!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "...True. If it existed, we'd have found it. Everything we've discovered has been a disappointment. You useless liars have served your purpose! I'll throw you all out and see whether you can fly!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Stop!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "L-leave Patamon alone!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Your voice is cracking so badly I can barely understand you! The biggest spoiled brat in this Zone has the nerve to act tough? You only came back now, after leaving your friends behind. Who was the coward who ran away?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "Never mind. Now that you've come back, I can hand you over to Lord Minotarumon. For some reason, all of ROG has been looking for you. When Lord Minotarumon sees what I can do, I'll become a ROG officer! Yahoo!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "W-what should I do? They're after me after all! I want to run... but I have to save Patamon! Shoutmon! Taiki! What should I do?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Come on! Make up your mind! Don't worry. You've got a General on your side!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "To perform a DigiXross, choose the Fusion command. First, learn the combination move. Then gather the Digimon it needs and put them in your party!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "Use the Tactics command for auto-battle! Full Power selects your strongest move and a target it can defeat. Conserve uses only physical moves, without spending MP. Guard puts all your effort into defense. Escape focuses entirely on getting away. If even one Digimon escapes, you can avoid the battle!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Opening and early-story lines translated from the Japanese ROM. Original human names and the requested DigiXross spelling are retained. The build wraps story text at 15 columns."
+    }
+  ]
+}

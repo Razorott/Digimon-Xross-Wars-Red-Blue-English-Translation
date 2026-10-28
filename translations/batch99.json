@@ -1,0 +1,761 @@
+{
+  "description": "Postgame town NPCs and tournament reactions, part one.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "I heard you were amazing at the DigiColosseum. Legend Master? A living legend already?! Isn't that a bit early at your age? Anyway, well done! That's our Taiki! Someday, let's have a serious match, you and me!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Legend Master! Huh? What does that even mean? Are you a legend now? What are we going to do, Taiki?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, Taiki! Going to the DigiColosseum? Pipimon wants to come too! Take me with you!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Bronze Master! Congratulations, Taiki! But keep going to the DigiColosseum. Pipimon wants to come too! Take me!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Silver Master! Congratulations, Taiki! But there's still more DigiColosseum to see. Pipimon wants to come too!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Gold Master! Congratulations, Taiki! Keep going to the DigiColosseum. Pipimon wants to come too!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Platinum Master! Congratulations, Taiki! There's just a little more DigiColosseum to go. Take Pipimon too!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Legend Master! Congratulations, Taiki! Your trips to the DigiColosseum are over now? No more outings there for Pipimon either?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "You've already decided to go to the DigiColosseum, right? The opposing teams are waiting, and they're supposed to represent the whole Digital World. You've got to go, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Bronze Master first! Let's get on to the next one. Why the surprised look? That was only a warm-up! I expected nothing less from Taiki. Xros Heart can do a lot more than this!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "Silver Master at last! We're right behind you, so keep pushing!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Gold Master at last! Now we're getting close to the top of the tournament!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Platinum Master! You did it, Taiki! But... maybe we've done it now? Above Gold, the opposing team said the challengers aren't ordinary Digimon. Are they incredibly strong, or did they mean something else? Let's find out!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "You're finally a Legend Master, Taiki! You're at the very top of the DWM Tournament! What do we do now? ...Nothing, I guess. Nothing left to do!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's Item Shop in West Knuckle City! Twice the city, twice the shopping!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome back to West Knuckle City's Farm Shop! A good party starts with a good Farm. That's the basics, Bomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "I hear you saved Elestou Zone from destruction. Taiki, thank you. Truly, thank you!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "You became a Bronze Master? Excellent work! I don't really know how impressive it is. I've only heard rumors about the DigiColosseum and its tournaments. But I'll celebrate your great achievement all the same. Congratulations, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "You became a Silver Master? Congratulations! A battle among the Digital World's greatest... I can hardly imagine it."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "You became a Gold Master? Splendid! Gold sounds like it must be the highest rank... Oh, Platinum is higher still? There's always someone above you, isn't there?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "So you've become a Platinum Master, Taiki? Bronze, Silver, Gold, then Platinum... You must be afraid of nothing now. ...You were less afraid when you had nothing to lose? I suppose that may be true."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Legend Master? Taiki, you're a legend now. But to us, you've been one ever since you saved this Zone."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's Item Shop in East Knuckle City! Come see our excellent goods!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome back to East Knuckle City's Farm Shop! A good party starts with a good Farm. That's the basics, Bomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, it's the saviors of Elestou Zone! We could call you the EZ Saviors for short! ...It doesn't make sense? Yeah, I thought so too. Hey, EZ Saviors! ...Still not catching on?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Bronze Master! No surprise there. Where does that rank from the top? Fifth? Then the real contest is just beginning. Keep pushing!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Silver Master! I knew you could do it. Fourth from the top, right? You've still got a long way to go, but I'm sure you can make it!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Gold Master? Of course! You could make Gold or even Mithril. What's next, Chrondigizoid Master? That doesn't exist? Platinum Master? ...Sounds a little ordinary, doesn't it?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Platinum Master? I thought it was possible, but you're incredible! That's the second-highest rank in the Digital World, right? Only Legend remains. You're practically at the top already! You're so cool!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "You became a Legend Master?! Congratulations, but... isn't that a rank for old fossils about to retire? It's hard to call a kid in a T-shirt and shorts a legend. Not that shorts have anything to do with strength!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's Item Shop in Roundabout City! Round and round, come shop around!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome back to Roundabout City's Farm Shop! A good party starts with a good Farm. That's the basics, Bomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "I heard about your fierce battle with ROG, kuwa. They said you became a star in Lost Space... but you look like a very soft and lively star to me, kuwa."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "Bronze Master? Wonderful, kuwa! Speaking of bronze, I made a bronze statue to thank you. That's all? Well, yes, kuwa. I put it in front of Sky Fort, but it fell off. It's probably at the bottom of the sea by now, kuwa."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "Silver Master? Congratulations, kuwa! You're getting close to the top. But stopping now would feel terrible. You've come this far, so aim for first place, kuwa!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "Gold Master? Wonderful, kuwa! Now you're at the top and have no regrets. What? Two more ranks? Platinum and Legend? You still have a long way to go, kuwa."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "Platinum Master? Congratulations, kuwa! Only Legend remains. But someone who saw a Legend match said, 'They're monsters!' That's a strange thing for a Digimon to say, kuwa."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Legend Master at last, kuwa! We've already decided what to do: now that you're a legend, we'll make another statue!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's Item Shop in Skull City! Skull shop till you drop!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome back to Skull City's Farm Shop! A good party starts with a good Farm. That's the basics, Bomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "So you really did save Elestou Zone! I'm amazed and grateful. You actually did it!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "You're already a Bronze Master? I knew you were strong, but wow. Keep aiming higher!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "You're a Silver Master now? There's still Gold above Silver, isn't there? The world is full of amazing people."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "You're a Gold Master? Gold sounds like the top, but there are still Platinum and Legend ranks? It might be a long road ahead."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Platinum Master! I couldn't make it to the DigiColosseum, but I was cheering for you with all my might from here. Congratulations!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Legend Master... Somehow it doesn't quite fit you. I don't mean you're weak. I always thought a legend was something from the past. Your legend is still being written, isn't it?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "You protected this Zone's peace? I knew you would be our saviors! Thank you, Taiki, and thank you, everyone!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Bronze Master? Congratulations! Bronze is actually my favorite Master rank. The higher ranks may be more polished, but nothing beats the challengers' energy at Bronze! And maybe I like the elderly champion too."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Silver Master? You're a veteran now. Many challengers reach Silver but never get higher. Some grow bored, others lose heart. Tournament watchers call them 'silver veterans.' It's a little sad, isn't it?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Gold Master? Then you'll be fine. Anyone who can reach Gold can reach Platinum and Legend too, if they put in enough time and effort."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Platinum Master? Congratulations! You're among the top three percent in the Digital World. Becoming a Legend Master is another matter, but you're already one of the strongest in this Zone."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Legend Master? Ha ha, congratulations! Do you know the DigiColosseum's old superstition? Half the teams granted Legend status split up soon after. But your team will be fine... right?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's Item Shop in Kumonos City! Come browse the Kumonos Shop!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome back to Kumonos City's Farm Shop! A good party starts with a good Farm. That's the basics, Bomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Postgame NPC and tournament-rank dialogue. Game rank names, location names, and Digimon names follow the existing project glossary. Story text is wrapped to 15 columns by the build."
+    }
+  ]
+}

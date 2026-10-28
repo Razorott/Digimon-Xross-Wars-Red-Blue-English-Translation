@@ -1,0 +1,1160 @@
+{
+  "description": "Sky Fort story and rescue scenes; Western Pirates/Mermaimon side-mission dialogue; 25 DigiFarm reports; equipment effect descriptions; and 15 battle move names. The status-screen carousel lettering was restyled with a bold face, dark outline, and offset shadow; existing localized graphic states remain included.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? ...Who are\nyou?!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "Well, yeah. No\npoint asking.\nThey really do\nseem to be in\ntrouble. Let's\nhurry and help!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "Stop right\nthere!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Back away!\nDon't come any\ncloser!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "...Huh?\nKiriha?!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait, Kiriha!\nWhat's going\non?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "Sorry, but I'm\nnot handing\nthis Digimon\nover. It's the\nkey I need to\nreach new\nheights."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "...What's going\non?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "Something's\nwrong. What\nhappened to\nKiriha? I\nthought\nbecoming\nTaiki's rival\nhad softened\nhim up... but\nhe's back to\nbeing cold and\nscary!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't care\nwhat you think\nof me. Stay\nhere and watch."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Now, come\nquietly. I\ndon't want to\nget rough."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Tch... Of all\nthe times...\nWe'll have to\npull back for\nnow..."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "What's wrong\nwith you? We're\nnot safe at\nall!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "Akari's here,\ntoo. Those\nshady guys\ncalling\nthemselves ROG\ncaptured all of\nus."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "So... my dream\nwasn't that far\noff?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "Where are\nShoutmon and\nthe others?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "They must've\ntaken them\nsomewhere while\nwe were\nunconscious.\nBallistamon and\nDorulumon are\ngone, and so is\nCutemon."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "They took\nalmost\neveryone. What\nare we going to\ndo now?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "If anything,\nwe're the ones\nwho need\nrescuing right\nnow."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, you\nreally want to\nhelp everyone,\ndon't you? I\nguess that's\none of your\nbest\nqualities..."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "The voice I\nheard on the\nway here said\nsomething like\nthat, too. It\nsaid I had to\nsave everyone.\nI guess it\nstruck a chord,\nand I couldn't\njust walk\naway..."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh! That\nDigimon from\nearlier... They\ncaught you\nhere?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "Aaaah! You're\nthe Digimon\nfrom before!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "D-don't shout!\nThe ROG guys\nwill hear you!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, wait! More\nimportantly,\nwhy are you\nhere?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "I came to save\nmy friend\nPatamon... but\nhe doesn't seem\nto be here. I'm\nSpadamon. Who\nare you?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm Taiki Kudo.\nThis is Akari\nand Zenjiro."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "We're the\nStarmon and..."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "...the\nPickmons! Nice\nto meet you!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Those idiots...\nWhy did they\ninstall such a\ncomplicated\ndoor? It won't\nbudge no matter\nwhat I try! It\nlooks flimsy,\nbut it's\nprotected by a\nhigh-security\nblock. I'm the\nonly one who\ncan let the\nothers in or\nout, after\nall..."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "I doubt you'll\nescape, but\ndon't try\nanything funny!\nResist again,\nand you and\nyour friends\nwill pay for\nit!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Shoutmon!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Wake up,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hey, Taiki!\nWe've got\ntrouble! They\ntook\nBallistamon\nsomewhere! They\nsaid they'd put\nthe Digimon\nthrough some\nkind of\nmachine... If\nwe want our\nfriends back,\nwe have to hand\nover this\n'Sparda-something'!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "...Spadamon.\nThat's me."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, hey! You're\nthat Digimon\nfrom before...\nDidn't you run\naway?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "I had no\nchoice! I...\nI'm weak... ROG\nsuddenly\nattacked Sky\nFort, and I was\nsupposed to\nescape with\neveryone\nelse... But\nPatamon stayed\nbehind to\ndefend it. He's\nmy best friend,\nand... he's way\ntoo brave. I\ntold him to\nrun, but he\nkept fighting\nto the end...\nIf this goes\non, ROG will\ncapture\nPatamon, too!\nYou're strong,\nright?! Please,\nhelp me!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "Of course,\nSpadamon! We're\nXros Heart! Our\nteam is full of\nDigimon with\nfiery hearts!\nWell... we're a\nfew members\nshort right\nnow... but we\ncan't leave you\nin trouble!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "That's Taiki\nfor you! That's\nwhat I wanted\nto hear!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "Now, how do we\nget through\nthis door?\nSpadamon, can\nyou do\nsomething?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Easy! This used\nto belong to us\nbefore ROG took\nit."
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "All right,\nlet's go! We'll\nbeat those guys\nso badly\nthey'll never\nforget it!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "Shoutmon and\nSpadamon joined\nthe team!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "They say an\nincredible\npower is hidden\nin this Zone!\nWhere could it\nbe? What is it?"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "I... I don't\nknow! How could\nI know? If\nsomething like\nthat existed,\nyou'd have\ndriven us out\nalready!"
+      ],
+      "sources": [],
+      "review_note": "Main story dialogue around the Sky Fort rescue. Character names follow the project glossary; Sky Fort, ROG, and Xros Heart follow established project wording. Text is wrapped to the 15-cell story line limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "Remember\nMermaimon, the\nboss of the\nWestern\nPirates? She\ngot captured by\nsomeone really\ndangerous! This\nlooks bad...\nno, really bad!\nWe thought\nabout going to\nsave her\nourselves, but\nthere's no way\nwe can win.\nYou're our only\nhope! Please\nsave our\nprecious\nfriend!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "Please save\nMermaimon,\nwho's being\nheld at Tokona\nCoast!\nHangyomon is\ntrying to stop\nthem from\ntaking her\naway, but the\npower\ndifference is\ntoo great. He\nprobably can't\nhold out much\nlonger!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "You rescued\nMermaimon?\nThat's a\nrelief! But...\num... didn't\nshe give you\nsome treasure?\nIt's pirate\ncustom to give\nsomething to\nthe one who\nsaves your\nlife. Sorry to\nsend you back\nand forth, but\ncome see me\nagain after she\ngives you the\ntreasure."
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "Looks like\nMermaimon gave\nyou some\ntreasure. We\nPirates want to\nthank you\nagain. Thanks\nso much! You\nreally saved\nus! In return\nfor that\ntreasure, I'll\ngive you a\nMelody!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "Please take a\nreward from us,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "For some\nreason,\neveryone hates\nand makes fun\nof us... But\nyou're the only\none who's\nalways treated\nus fairly and\nlistened to us.\nThanks, Taiki.\nYou're a good\nguy."
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Mermaimon was\ndragged into\nthe sea!\nP-please, save\nher!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Mermaimon was\ndragged into\nthe sea!\nP-please, save\nher!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "She was dragged\nin from here,\nso she should\nbe in Tokona\nSea by now.\nPlease hurry\nand save\nMermaimon!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "She was dragged\nin from here,\nso she should\nbe in Tokona\nSea by now.\nPlease hurry\nand save\nMermaimon!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Find four\ntreasures in\nTokona Sea and\nTokona Coast.\nI'll give you\none of them as\na thank-you!\nBut I won't be\nhere forever,\nso find them\nsoon, okay? My\nlittle surprise\nwill disappear\nif you wait too\nlong!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Find four\ntreasures in\nTokona Sea and\nTokona Coast.\nI'll give you\none of them as\na thank-you!\nBut I won't be\nhere forever,\nso find them\nsoon, okay? My\nlittle surprise\nwill disappear\nif you wait too\nlong!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, you chose\nthat one?\nHehe... That's\nso like you.\nNow show it to\nmy friend\nMarineDevimon!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Take the Fire\nCrown?"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Take the Fire\nCrown?"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "Take the Snow\nCrown?"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Take the Snow\nCrown?"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Take the Saint\nCrown?"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Take the Saint\nCrown?"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Take the Dark\nCrown?"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "Take the Dark\nCrown?"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "Gyo-gyaaah?!\nRemember\nMermaimon, boss\nof the Western\nPirates? She\nwas captured by\nsomeone really\ndangerous! This\nlooks bad...\nno, really bad!\nWe remaining\nPirates wanted\nto rescue her,\nbut there's no\nway we can win.\nYou're our only\nhope! Please\nsave our\nprecious\nfriend!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Please save\nMermaimon at\nTokona Coast!\nMarineDevimon\nis trying to\nstop them from\ntaking her\naway, but the\npower\ndifference is\ntoo great. He\nprobably can't\nhold out much\nlonger!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Gyo-gyaaah?!\nYou rescued\nMermaimon?\nThat's a\nrelief! But...\num... didn't\nshe give you\nsome treasure?\nIt's pirate\ncustom to give\nsomething to\nthe one who\nsaves your\nlife. Sorry to\nsend you back\nand forth, but\ncome see me\nagain after she\ngives you the\ntreasure."
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Gyo-gyaaah! Did\nMermaimon give\nyou some\ntreasure? Good!\nWe Pirates want\nto thank you.\nThanks so much!\nYou really\nsaved us! In\nreturn for that\ntreasure, we'll\ngive you a\nMelody!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Then please\ntake a reward\nfrom us, too!"
+      ],
+      "sources": [],
+      "review_note": "Optional Western Pirates rescue mission. Mermaimon, Hangyomon, and MarineDevimon follow the reviewed Digimon-name glossary; Tokona Coast/Sea and Melody match existing game terminology. Wrapped to the story text cell limit."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! A treehouse! This\nlooks fun! It's my house\nnow! I just decided!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! Being surrounded by\nnature isn't bad! I got a\nlot of EXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! It looks cool, but\nit's so inconvenient!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's this?! A computer!\nI want to try it out!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "Using a computer is so\nmuch fun! I discovered a\nwhole new world, and my\nEXP went up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, I know this! It's a\nsolar panel! I'll go take\na closer look!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! It's sending\nelectricity! My EXP is\ncrackling upward!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! That tingles! Yikes,\nI can see my bones!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I found a pinball\nmachine! That looks\nawesome! I'm gonna try it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "Look at that high score!\nI'm a genius! I got a ton\nof EXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why can't I win?! Is this\nthing broken?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's this? A birdhouse!\nWhat's inside? I'll go in\nand see!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I feel like a little\nbird! I got a little more\nEXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "There's nothing inside!\nIt's cramped, smelly, and\nboring!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "I get it! This is a\nrunning high jump! Easy!\nWatch me fly!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! That was easy! I\njumped, and my EXP jumped\nway up, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "What was that?! Only the\nbar flew!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! A diving board!\nThis'll be easy! I'll soar\nlike a bird!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "I flew! I really flew!\nJust like a bird! My EXP\nfloated right up, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! Sure, I'm a bird,\nbut I'm a total chicken!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's this?! A record\nplayer?! It looks ancient!\nDoes it still work?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "I like this sound! I love\nit! I got a little more\nEXP, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "It won't work at all! It's\njust junk!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's this? A holy...\nbell...? Now that I know\nits name, I still don't\nknow what it does!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What's this warm,\nfuzzy feeling?! My EXP\nwent up, too! Is this what\nit feels like to be holy?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report. Shoutmon’s emphatic voice and EXP terminology are retained; lines are wrapped for the farm report box."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Battle rewards grant a\nfair amount more EXP."
+      ],
+      "sources": [],
+      "review_note": "Equipment effect description translated from the Japanese item data. Battle EXP, exploration mission success, and job success rates follow the visible gameplay effect."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Battle rewards grant much\nmore EXP."
+      ],
+      "sources": [],
+      "review_note": "Equipment effect description translated from the Japanese item data. Battle EXP, exploration mission success, and job success rates follow the visible gameplay effect."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Battle rewards grant\nvastly more EXP."
+      ],
+      "sources": [],
+      "review_note": "Equipment effect description translated from the Japanese item data. Battle EXP, exploration mission success, and job success rates follow the visible gameplay effect."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Exploration missions are\nmore likely to succeed."
+      ],
+      "sources": [],
+      "review_note": "Equipment effect description translated from the Japanese item data. Battle EXP, exploration mission success, and job success rates follow the visible gameplay effect."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Exploration missions are\nmuch more likely to\nsucceed."
+      ],
+      "sources": [],
+      "review_note": "Equipment effect description translated from the Japanese item data. Battle EXP, exploration mission success, and job success rates follow the visible gameplay effect."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Exploration missions are\nmore likely to fail."
+      ],
+      "sources": [],
+      "review_note": "Equipment effect description translated from the Japanese item data. Battle EXP, exploration mission success, and job success rates follow the visible gameplay effect."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Jobs are more likely to\nsucceed."
+      ],
+      "sources": [],
+      "review_note": "Equipment effect description translated from the Japanese item data. Battle EXP, exploration mission success, and job success rates follow the visible gameplay effect."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Jobs are much more likely\nto succeed."
+      ],
+      "sources": [],
+      "review_note": "Equipment effect description translated from the Japanese item data. Battle EXP, exploration mission success, and job success rates follow the visible gameplay effect."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 2,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Jobs are more likely to\nfail."
+      ],
+      "sources": [],
+      "review_note": "Equipment effect description translated from the Japanese item data. Battle EXP, exploration mission success, and job success rates follow the visible gameplay effect."
+    }
+  ]
+}

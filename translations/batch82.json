@@ -1,0 +1,226 @@
+{
+  "description": "Translate the Garbagemons' final exchange, the tower-count clue, and Dynasmon's first appearance in MESPAK02 entry 9.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "All things come around... Lord Barbamon Reincarbage!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "We won't let Barbamon have his way!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Garbagemons! We won't lose to Barbamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Uh... That area over there smells bad, too..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "This tower is back in Normal Mode now, too."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Once we reclaim all the Capacitor Towers... the protective field will disappear, right?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "...Probably not."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait, Spadamon! Why are you saying that all of a sudden?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "We restored the Capacitor Towers the right way... But I feel like I'm forgetting something important..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "Something important...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "There are six Capacitor Towers... But what about the Capacitor System? ...I can't think straight. What's happening to me?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "...Spadamon, I'm sure we'll understand once we keep going."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Mmm... Gimme!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "Were you the one who called us...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "That's right, Taiki Kudo... I am Dynasmon, who was supposed to protect this Zone..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "...Supposed to?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "I was a warrior who led the Weapon Digimon into battle. I was meant to defend this Zone from invasion... But all I managed to protect... was this tiny memory."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The scene first questions the six-tower count, then reveals Dynasmon and his role as protector. The line about a tiny memory is kept deliberately mysterious, matching the following story reveal."
+    }
+  ]
+}

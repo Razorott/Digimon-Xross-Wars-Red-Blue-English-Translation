@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "format": "UPS1",
+  "wireless_battle": false,
+  "patches": {
+    "blue": {
+      "file": "Digimon_Super_Xros_Wars_Blue_English_v1.0.ups",
+      "source_sha256": "dc9dd0cf0e13b2e017ee5606343fb9198bbb5a95c2c926896a4bcaf4060f929a",
+      "target_sha256": "82377231b4877d82d37ee68bb5128a557b206cd2eed234cfff4008383a8db5f2",
+      "patch_sha256": "bded10027ed7825f526f0e412741180698211612c48df4d889d3c29bf31d26c9",
+      "patch_bytes": 20246423,
+      "target_bytes": 67108864,
+      "round_trip": "passed"
+    },
+    "red": {
+      "file": "Digimon_Super_Xros_Wars_Red_English_v1.0.ups",
+      "source_sha256": "8cdef262651828658a22b62c94ea0fc3e9509b09ede80de564d347eb4302cc94",
+      "target_sha256": "d99fa555f32da4c6c6447d6a026c0fd7d0eae3ec43ba74b1b76b47c8c5c7da43",
+      "patch_sha256": "18d6808741994b4885ea1bdd63260497649bfc405e5f820c3e0fab557c280097",
+      "patch_bytes": 20164006,
+      "target_bytes": 67108864,
+      "round_trip": "passed"
+    }
+  }
+}

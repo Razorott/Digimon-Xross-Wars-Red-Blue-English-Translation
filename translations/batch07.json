@@ -1,0 +1,7700 @@
+{
+  "description": "Title logo safety-margin correction; more Digimon names, researched and review-marked battle moves, DigiFarm reports, quest/menu text, dialogue, and DigiXross descriptions.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 227,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 246,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 289,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 301,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 310,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 319,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 328,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 336,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 344,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 351,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 358,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 365,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 380,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 389,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 396,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 403,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 415,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 427,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n7 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 23,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, you found me!\nYou got me, Cutemon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2217,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2218,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2219,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2220,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2221,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2222,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3493,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3494,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3495,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3496,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3497,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3498,
+      "category": "Battle moves",
+      "english": [
+        "Sword of Meteor"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "To check accepted Quests,\nopen Information on the\nXros Loader, then choose\nQuest Info. To cancel a\nQuest, select it again.\nYou can only cancel one\nyou have already accepted."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Buzzz! Wrong! That's a\n5,000-bit fine! Just\nkidding! You thought I\nwas serious? Well, jokes\naside, I really will do it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "...Or I would, but you\ndon't have enough bits!\nBoo, how boring!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1229,
+      "category": "Battle moves",
+      "english": [
+        "Rowdy Rocker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of a Xros Wars move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1913,
+      "category": "Battle moves",
+      "english": [
+        "Rowdy Rocker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of a Xros Wars move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2439,
+      "category": "Battle moves",
+      "english": [
+        "Rowdy Rocker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of a Xros Wars move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2440,
+      "category": "Battle moves",
+      "english": [
+        "Rowdy Rocker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of a Xros Wars move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2505,
+      "category": "Battle moves",
+      "english": [
+        "Rowdy Rocker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of a Xros Wars move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3189,
+      "category": "Battle moves",
+      "english": [
+        "Rowdy Rocker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of a Xros Wars move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3715,
+      "category": "Battle moves",
+      "english": [
+        "Rowdy Rocker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of a Xros Wars move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3716,
+      "category": "Battle moves",
+      "english": [
+        "Rowdy Rocker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of a Xros Wars move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max HP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max HP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max HP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max HP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max HP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max HP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max HP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max HP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max MP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max MP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max MP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max MP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max MP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max MP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max MP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "Max MP increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "Attack increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "Attack increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "Attack increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "Attack increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "Attack increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "Attack increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "Attack increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "Attack increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "Defense increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "Defense increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "Defense increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "Defense increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "Defense increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "Defense increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "Defense increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "Defense increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "Speed increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "Speed increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "Speed increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "Speed increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "Speed increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "Speed increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "Speed increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "Speed increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "Friendship increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "Friendship increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "Friendship increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "Friendship increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "Friendship increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "Friendship increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "Friendship increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "Friendship increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wisdom increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wisdom increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wisdom increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wisdom increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wisdom increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wisdom increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wisdom increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wisdom increased!\n^6 to ^7"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Nooo! Wrong! That's a\n3,000-bit fine! Think\nI'm joking? I'll really\ntake it from your funds!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "Nooo! Wrong! That's a\n3,000-bit fine! Think\nI'm joking? I'll really\ntake it from your funds!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "Nooo! Wrong! That's a\n3,000-bit fine! Think\nI'm joking? I'll really\ntake it from your funds!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Nooo! Wrong! That's a\n3,000-bit fine! Think\nI'm joking? I'll really\ntake it from your funds!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "Nooo! Wrong! That's a\n3,000-bit fine! Think\nI'm joking? I'll really\ntake it from your funds!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "Nooo! Wrong! That's a\n3,000-bit fine! Think\nI'm joking? I'll really\ntake it from your funds!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Nooo! Wrong! That's a\n3,000-bit fine! Think\nI'm joking? I'll really\ntake it from your funds!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Nooo! Wrong! That's a\n3,000-bit fine! Think\nI'm joking? I'll really\ntake it from your funds!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? I really was going\nto take it, but you don't\nhave enough bits. Lucky\nescape! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? I really was going\nto take it, but you don't\nhave enough bits. Lucky\nescape! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? I really was going\nto take it, but you don't\nhave enough bits. Lucky\nescape! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? I really was going\nto take it, but you don't\nhave enough bits. Lucky\nescape! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? I really was going\nto take it, but you don't\nhave enough bits. Lucky\nescape! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? I really was going\nto take it, but you don't\nhave enough bits. Lucky\nescape! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? I really was going\nto take it, but you don't\nhave enough bits. Lucky\nescape! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? I really was going\nto take it, but you don't\nhave enough bits. Lucky\nescape! Ha ha!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 16,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Capacitor Tower"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 21,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Capacitor Tower"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 32,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Capacitor Tower"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 41,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Capacitor Tower"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 59,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Capacitor Tower"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 71,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Capacitor Tower"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 0,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Capacitor Tower"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1427,
+      "category": "Battle moves",
+      "english": [
+        "Infinity Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2346,
+      "category": "Battle moves",
+      "english": [
+        "Infinity Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2347,
+      "category": "Battle moves",
+      "english": [
+        "Infinity Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2703,
+      "category": "Battle moves",
+      "english": [
+        "Infinity Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3622,
+      "category": "Battle moves",
+      "english": [
+        "Infinity Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3623,
+      "category": "Battle moves",
+      "english": [
+        "Infinity Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1447,
+      "category": "Battle moves",
+      "english": [
+        "Supernova"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2407,
+      "category": "Battle moves",
+      "english": [
+        "Supernova"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2408,
+      "category": "Battle moves",
+      "english": [
+        "Supernova"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2723,
+      "category": "Battle moves",
+      "english": [
+        "Supernova"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3683,
+      "category": "Battle moves",
+      "english": [
+        "Supernova"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3684,
+      "category": "Battle moves",
+      "english": [
+        "Supernova"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1540,
+      "category": "Battle moves",
+      "english": [
+        "Ama-no-Habakiri"
+      ],
+      "sources": [],
+      "review_note": "Retains the Japanese mythological weapon name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2423,
+      "category": "Battle moves",
+      "english": [
+        "Ama-no-Habakiri"
+      ],
+      "sources": [],
+      "review_note": "Retains the Japanese mythological weapon name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2424,
+      "category": "Battle moves",
+      "english": [
+        "Ama-no-Habakiri"
+      ],
+      "sources": [],
+      "review_note": "Retains the Japanese mythological weapon name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2816,
+      "category": "Battle moves",
+      "english": [
+        "Ama-no-Habakiri"
+      ],
+      "sources": [],
+      "review_note": "Retains the Japanese mythological weapon name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3699,
+      "category": "Battle moves",
+      "english": [
+        "Ama-no-Habakiri"
+      ],
+      "sources": [],
+      "review_note": "Retains the Japanese mythological weapon name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3700,
+      "category": "Battle moves",
+      "english": [
+        "Ama-no-Habakiri"
+      ],
+      "sources": [],
+      "review_note": "Retains the Japanese mythological weapon name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1650,
+      "category": "Battle moves",
+      "english": [
+        "Mega Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2248,
+      "category": "Battle moves",
+      "english": [
+        "Mega Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2249,
+      "category": "Battle moves",
+      "english": [
+        "Mega Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2926,
+      "category": "Battle moves",
+      "english": [
+        "Mega Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3524,
+      "category": "Battle moves",
+      "english": [
+        "Mega Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3525,
+      "category": "Battle moves",
+      "english": [
+        "Mega Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2107,
+      "category": "Battle moves",
+      "english": [
+        "Keter Flare"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; spelling needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2242,
+      "category": "Battle moves",
+      "english": [
+        "Keter Flare"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; spelling needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2243,
+      "category": "Battle moves",
+      "english": [
+        "Keter Flare"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; spelling needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3383,
+      "category": "Battle moves",
+      "english": [
+        "Keter Flare"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; spelling needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3518,
+      "category": "Battle moves",
+      "english": [
+        "Keter Flare"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; spelling needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3519,
+      "category": "Battle moves",
+      "english": [
+        "Keter Flare"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; spelling needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3914,
+      "category": "Items and equipment",
+      "english": [
+        "Delete"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3915,
+      "category": "Items and equipment",
+      "english": [
+        "Delete"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3916,
+      "category": "Items and equipment",
+      "english": [
+        "Delete"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4002,
+      "category": "Items and equipment",
+      "english": [
+        "Delete"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4003,
+      "category": "Items and equipment",
+      "english": [
+        "Delete"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4004,
+      "category": "Items and equipment",
+      "english": [
+        "Delete"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 138,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet the manager,\nLadyDevimon, in Spiderweb\nRuins West"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 248,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet the manager,\nLadyDevimon, in Spiderweb\nRuins West"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 257,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet the manager,\nLadyDevimon, in Spiderweb\nRuins West"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 291,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet the manager,\nLadyDevimon, in Spiderweb\nRuins West"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 476,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet the manager,\nLadyDevimon, in Spiderweb\nRuins West"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 486,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet the manager,\nLadyDevimon, in Spiderweb\nRuins West"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sword of Meteor\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sword of Meteor\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sword of Meteor\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sword of Meteor\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sword of Meteor\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sword of Meteor\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Searching for Digimon\nwho need help! Hmm...\nPing! Found one! A new\nQuest has appeared on\nthe Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Searching for Digimon\nwho need help! Hmm...\nPing! Found one! A new\nQuest has appeared on\nthe Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "Searching for Digimon\nwho need help! Hmm...\nPing! Found one! A new\nQuest has appeared on\nthe Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Searching for Digimon\nwho need help! Hmm...\nPing! Found one! A new\nQuest has appeared on\nthe Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Searching for Digimon\nwho need help! Hmm...\nPing! Found one! A new\nQuest has appeared on\nthe Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Searching for Digimon\nwho need help! Hmm...\nPing! Found one! A new\nQuest has appeared on\nthe Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "A new Quest has appeared\non the Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "A new Quest has appeared\non the Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "A new Quest has appeared\non the Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "A new Quest has appeared\non the Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "A new Quest has appeared\non the Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 19,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "A new Quest has appeared\non the Quest Monitor!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's\nbrand-new Item Shop!\nWe've restocked with\nstronger, newer goods!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's\nbrand-new Item Shop!\nWe've restocked with\nstronger, newer goods!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's\nbrand-new Item Shop!\nWe've restocked with\nstronger, newer goods!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's\nbrand-new Item Shop!\nWe've restocked with\nstronger, newer goods!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's\nbrand-new Item Shop!\nWe've restocked with\nstronger, newer goods!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Penguinmon's\nbrand-new Item Shop!\nWe've restocked with\nstronger, newer goods!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 474,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n25 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 484,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n25 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 494,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n25 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 503,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n25 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 512,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n25 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Please, count on me."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Please, count on me."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Please, count on me."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Please, count on me."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Please, count on me."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm counting on you!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm counting on you!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm counting on you!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm counting on you!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm counting on you!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1231,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Speaker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this Xros Wars move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1915,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Speaker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this Xros Wars move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2507,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Speaker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this Xros Wars move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3191,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Speaker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this Xros Wars move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1233,
+      "category": "Battle moves",
+      "english": [
+        "Dorulu Tornado"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; preserves Dorulumon-derived move terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1918,
+      "category": "Battle moves",
+      "english": [
+        "Dorulu Tornado"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; preserves Dorulumon-derived move terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2509,
+      "category": "Battle moves",
+      "english": [
+        "Dorulu Tornado"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; preserves Dorulumon-derived move terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3194,
+      "category": "Battle moves",
+      "english": [
+        "Dorulu Tornado"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; preserves Dorulumon-derived move terminology."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1394,
+      "category": "Battle moves",
+      "english": [
+        "Cross Blade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2327,
+      "category": "Battle moves",
+      "english": [
+        "Cross Blade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2670,
+      "category": "Battle moves",
+      "english": [
+        "Cross Blade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3603,
+      "category": "Battle moves",
+      "english": [
+        "Cross Blade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; no Dawn/Dusk title match confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1402,
+      "category": "Battle moves",
+      "english": [
+        "Omega Burst"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2401,
+      "category": "Battle moves",
+      "english": [
+        "Omega Burst"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2678,
+      "category": "Battle moves",
+      "english": [
+        "Omega Burst"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3677,
+      "category": "Battle moves",
+      "english": [
+        "Omega Burst"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1412,
+      "category": "Battle moves",
+      "english": [
+        "Laplace's Demon"
+      ],
+      "sources": [],
+      "review_note": "Standard rendering of the named concept; move localization not independently verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2403,
+      "category": "Battle moves",
+      "english": [
+        "Laplace's Demon"
+      ],
+      "sources": [],
+      "review_note": "Standard rendering of the named concept; move localization not independently verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2688,
+      "category": "Battle moves",
+      "english": [
+        "Laplace's Demon"
+      ],
+      "sources": [],
+      "review_note": "Standard rendering of the named concept; move localization not independently verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3679,
+      "category": "Battle moves",
+      "english": [
+        "Laplace's Demon"
+      ],
+      "sources": [],
+      "review_note": "Standard rendering of the named concept; move localization not independently verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1422,
+      "category": "Battle moves",
+      "english": [
+        "Necro Eclipse"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2404,
+      "category": "Battle moves",
+      "english": [
+        "Necro Eclipse"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2698,
+      "category": "Battle moves",
+      "english": [
+        "Necro Eclipse"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3680,
+      "category": "Battle moves",
+      "english": [
+        "Necro Eclipse"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1423,
+      "category": "Battle moves",
+      "english": [
+        "Izuna"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2357,
+      "category": "Battle moves",
+      "english": [
+        "Izuna"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2699,
+      "category": "Battle moves",
+      "english": [
+        "Izuna"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3633,
+      "category": "Battle moves",
+      "english": [
+        "Izuna"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1426,
+      "category": "Battle moves",
+      "english": [
+        "Terra Force"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matched to the English Dawn/Dusk attack title for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2344,
+      "category": "Battle moves",
+      "english": [
+        "Terra Force"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matched to the English Dawn/Dusk attack title for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2702,
+      "category": "Battle moves",
+      "english": [
+        "Terra Force"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matched to the English Dawn/Dusk attack title for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3620,
+      "category": "Battle moves",
+      "english": [
+        "Terra Force"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matched to the English Dawn/Dusk attack title for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1435,
+      "category": "Battle moves",
+      "english": [
+        "Bullet Hammer"
+      ],
+      "sources": [],
+      "review_note": "Literal working rendering; not changed to Bullet Punch without an exact Japanese move match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2342,
+      "category": "Battle moves",
+      "english": [
+        "Bullet Hammer"
+      ],
+      "sources": [],
+      "review_note": "Literal working rendering; not changed to Bullet Punch without an exact Japanese move match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2711,
+      "category": "Battle moves",
+      "english": [
+        "Bullet Hammer"
+      ],
+      "sources": [],
+      "review_note": "Literal working rendering; not changed to Bullet Punch without an exact Japanese move match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3618,
+      "category": "Battle moves",
+      "english": [
+        "Bullet Hammer"
+      ],
+      "sources": [],
+      "review_note": "Literal working rendering; not changed to Bullet Punch without an exact Japanese move match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1437,
+      "category": "Battle moves",
+      "english": [
+        "Giga Death"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; distinct from the source entry メガデス translated as Mega Death."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2415,
+      "category": "Battle moves",
+      "english": [
+        "Giga Death"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; distinct from the source entry メガデス translated as Mega Death."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2713,
+      "category": "Battle moves",
+      "english": [
+        "Giga Death"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; distinct from the source entry メガデス translated as Mega Death."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3691,
+      "category": "Battle moves",
+      "english": [
+        "Giga Death"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; distinct from the source entry メガデス translated as Mega Death."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1441,
+      "category": "Battle moves",
+      "english": [
+        "God Flame"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2371,
+      "category": "Battle moves",
+      "english": [
+        "God Flame"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2717,
+      "category": "Battle moves",
+      "english": [
+        "God Flame"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3647,
+      "category": "Battle moves",
+      "english": [
+        "God Flame"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1443,
+      "category": "Battle moves",
+      "english": [
+        "Surprise Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2405,
+      "category": "Battle moves",
+      "english": [
+        "Surprise Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2719,
+      "category": "Battle moves",
+      "english": [
+        "Surprise Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3681,
+      "category": "Battle moves",
+      "english": [
+        "Surprise Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1445,
+      "category": "Battle moves",
+      "english": [
+        "Terra Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2406,
+      "category": "Battle moves",
+      "english": [
+        "Terra Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2721,
+      "category": "Battle moves",
+      "english": [
+        "Terra Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3682,
+      "category": "Battle moves",
+      "english": [
+        "Terra Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1448,
+      "category": "Battle moves",
+      "english": [
+        "Giga Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2333,
+      "category": "Battle moves",
+      "english": [
+        "Giga Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2724,
+      "category": "Battle moves",
+      "english": [
+        "Giga Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3609,
+      "category": "Battle moves",
+      "english": [
+        "Giga Blaster"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1463,
+      "category": "Battle moves",
+      "english": [
+        "Cocytus Breath"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this mythological move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2345,
+      "category": "Battle moves",
+      "english": [
+        "Cocytus Breath"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this mythological move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2739,
+      "category": "Battle moves",
+      "english": [
+        "Cocytus Breath"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this mythological move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3621,
+      "category": "Battle moves",
+      "english": [
+        "Cocytus Breath"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this mythological move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1465,
+      "category": "Battle moves",
+      "english": [
+        "Fenrir Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2373,
+      "category": "Battle moves",
+      "english": [
+        "Fenrir Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2741,
+      "category": "Battle moves",
+      "english": [
+        "Fenrir Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3649,
+      "category": "Battle moves",
+      "english": [
+        "Fenrir Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1470,
+      "category": "Battle moves",
+      "english": [
+        "End Waltz"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2410,
+      "category": "Battle moves",
+      "english": [
+        "End Waltz"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2746,
+      "category": "Battle moves",
+      "english": [
+        "End Waltz"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3686,
+      "category": "Battle moves",
+      "english": [
+        "End Waltz"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1471,
+      "category": "Battle moves",
+      "english": [
+        "Judekka Prison"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; this spelling follows the Digimon move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2422,
+      "category": "Battle moves",
+      "english": [
+        "Judekka Prison"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; this spelling follows the Digimon move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2747,
+      "category": "Battle moves",
+      "english": [
+        "Judekka Prison"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; this spelling follows the Digimon move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3698,
+      "category": "Battle moves",
+      "english": [
+        "Judekka Prison"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; this spelling follows the Digimon move name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1472,
+      "category": "Battle moves",
+      "english": [
+        "Hell's Grenade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2297,
+      "category": "Battle moves",
+      "english": [
+        "Hell's Grenade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2748,
+      "category": "Battle moves",
+      "english": [
+        "Hell's Grenade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3573,
+      "category": "Battle moves",
+      "english": [
+        "Hell's Grenade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1488,
+      "category": "Battle moves",
+      "english": [
+        "Genocide Gear"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2308,
+      "category": "Battle moves",
+      "english": [
+        "Genocide Gear"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2764,
+      "category": "Battle moves",
+      "english": [
+        "Genocide Gear"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3584,
+      "category": "Battle moves",
+      "english": [
+        "Genocide Gear"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1491,
+      "category": "Battle moves",
+      "english": [
+        "Kongo"
+      ],
+      "sources": [],
+      "review_note": "Romanized pending a direct English localization source."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2434,
+      "category": "Battle moves",
+      "english": [
+        "Kongo"
+      ],
+      "sources": [],
+      "review_note": "Romanized pending a direct English localization source."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2767,
+      "category": "Battle moves",
+      "english": [
+        "Kongo"
+      ],
+      "sources": [],
+      "review_note": "Romanized pending a direct English localization source."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3710,
+      "category": "Battle moves",
+      "english": [
+        "Kongo"
+      ],
+      "sources": [],
+      "review_note": "Romanized pending a direct English localization source."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1495,
+      "category": "Battle moves",
+      "english": [
+        "Flower Cannon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matches Lillymon's Flower Cannon spelling in the English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2290,
+      "category": "Battle moves",
+      "english": [
+        "Flower Cannon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matches Lillymon's Flower Cannon spelling in the English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2771,
+      "category": "Battle moves",
+      "english": [
+        "Flower Cannon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matches Lillymon's Flower Cannon spelling in the English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3566,
+      "category": "Battle moves",
+      "english": [
+        "Flower Cannon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Matches Lillymon's Flower Cannon spelling in the English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1502,
+      "category": "Battle moves",
+      "english": [
+        "Hell Masquerade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2293,
+      "category": "Battle moves",
+      "english": [
+        "Hell Masquerade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2778,
+      "category": "Battle moves",
+      "english": [
+        "Hell Masquerade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3569,
+      "category": "Battle moves",
+      "english": [
+        "Hell Masquerade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1505,
+      "category": "Battle moves",
+      "english": [
+        "Shishi Juhazan"
+      ],
+      "sources": [],
+      "review_note": "Romanized pending a direct English localization source."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2318,
+      "category": "Battle moves",
+      "english": [
+        "Shishi Juhazan"
+      ],
+      "sources": [],
+      "review_note": "Romanized pending a direct English localization source."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2781,
+      "category": "Battle moves",
+      "english": [
+        "Shishi Juhazan"
+      ],
+      "sources": [],
+      "review_note": "Romanized pending a direct English localization source."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3594,
+      "category": "Battle moves",
+      "english": [
+        "Shishi Juhazan"
+      ],
+      "sources": [],
+      "review_note": "Romanized pending a direct English localization source."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1508,
+      "category": "Battle moves",
+      "english": [
+        "Shine Breaker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2437,
+      "category": "Battle moves",
+      "english": [
+        "Shine Breaker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2784,
+      "category": "Battle moves",
+      "english": [
+        "Shine Breaker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3713,
+      "category": "Battle moves",
+      "english": [
+        "Shine Breaker"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1511,
+      "category": "Battle moves",
+      "english": [
+        "Kaiser Nail"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2286,
+      "category": "Battle moves",
+      "english": [
+        "Kaiser Nail"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2787,
+      "category": "Battle moves",
+      "english": [
+        "Kaiser Nail"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3562,
+      "category": "Battle moves",
+      "english": [
+        "Kaiser Nail"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1518,
+      "category": "Battle moves",
+      "english": [
+        "Giga Destroyer"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2447,
+      "category": "Battle moves",
+      "english": [
+        "Giga Destroyer"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2794,
+      "category": "Battle moves",
+      "english": [
+        "Giga Destroyer"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3723,
+      "category": "Battle moves",
+      "english": [
+        "Giga Destroyer"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1526,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Javelin"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2285,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Javelin"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2802,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Javelin"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3561,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Javelin"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1533,
+      "category": "Battle moves",
+      "english": [
+        "GaogaTornado"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2310,
+      "category": "Battle moves",
+      "english": [
+        "GaogaTornado"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2809,
+      "category": "Battle moves",
+      "english": [
+        "GaogaTornado"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3586,
+      "category": "Battle moves",
+      "english": [
+        "GaogaTornado"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1537,
+      "category": "Battle moves",
+      "english": [
+        "Animal Nail"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2298,
+      "category": "Battle moves",
+      "english": [
+        "Animal Nail"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2813,
+      "category": "Battle moves",
+      "english": [
+        "Animal Nail"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3574,
+      "category": "Battle moves",
+      "english": [
+        "Animal Nail"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1554,
+      "category": "Battle moves",
+      "english": [
+        "Paradise Lost"
+      ],
+      "sources": [],
+      "review_note": "Established Digimon attack phrase; this game's localization still needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2314,
+      "category": "Battle moves",
+      "english": [
+        "Paradise Lost"
+      ],
+      "sources": [],
+      "review_note": "Established Digimon attack phrase; this game's localization still needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2830,
+      "category": "Battle moves",
+      "english": [
+        "Paradise Lost"
+      ],
+      "sources": [],
+      "review_note": "Established Digimon attack phrase; this game's localization still needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3590,
+      "category": "Battle moves",
+      "english": [
+        "Paradise Lost"
+      ],
+      "sources": [],
+      "review_note": "Established Digimon attack phrase; this game's localization still needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 388,
+      "category": "Digimon names",
+      "english": [
+        "RookChessmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 618,
+      "category": "Digimon names",
+      "english": [
+        "RookChessmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 861,
+      "category": "Digimon names",
+      "english": [
+        "RookChessmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4161,
+      "category": "Digimon names",
+      "english": [
+        "RookChessmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 506,
+      "category": "Digimon names",
+      "english": [
+        "DaiPenmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=daipenmon"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 979,
+      "category": "Digimon names",
+      "english": [
+        "DaiPenmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=daipenmon"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4196,
+      "category": "Digimon names",
+      "english": [
+        "DaiPenmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=daipenmon"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4481,
+      "category": "Digimon names",
+      "english": [
+        "DaiPenmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=daipenmon"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 530,
+      "category": "Digimon names",
+      "english": [
+        "Chaosdramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1003,
+      "category": "Digimon names",
+      "english": [
+        "Chaosdramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4255,
+      "category": "Digimon names",
+      "english": [
+        "Chaosdramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4484,
+      "category": "Digimon names",
+      "english": [
+        "Chaosdramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 545,
+      "category": "Digimon names",
+      "english": [
+        "Greymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "The game may use this for a Xros Wars-era individual; the species spelling is standard."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 596,
+      "category": "Digimon names",
+      "english": [
+        "Greymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "The game may use this for a Xros Wars-era individual; the species spelling is standard."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1018,
+      "category": "Digimon names",
+      "english": [
+        "Greymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "The game may use this for a Xros Wars-era individual; the species spelling is standard."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4275,
+      "category": "Digimon names",
+      "english": [
+        "Greymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "The game may use this for a Xros Wars-era individual; the species spelling is standard."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 183,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Piedmon and\nwin his quiz streak"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 192,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Piedmon and\nwin his quiz streak"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 412,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Piedmon and\nwin his quiz streak"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 424,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Piedmon and\nwin his quiz streak"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 228,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Veemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 234,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Veemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 240,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Veemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 247,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Veemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 437,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n16 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 446,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n16 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 455,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n16 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 466,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Complete at least\n16 Request Quests"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Restore one ally's HP\nwith a Life Drop."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Restore one ally's HP\nwith a Life Drop."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Restore one ally's HP\nwith a Life Drop."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Restore one ally's HP\nwith a Life Drop."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? What's this..."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? What's this..."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? What's this..."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? What could\nthis possibly be...?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? What could\nthis possibly be...?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? What could\nthis possibly be...?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What is this?!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What is this?!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What is this?!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Huh? What is this...?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Huh? What is this...?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 6,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Huh? What is this...?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, what could\nthat be over there...? "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, what could\nthat be over there...? "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 7,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, what could\nthat be over there...? "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, what could it be?\nA gentle, lovely scent\nis coming from around\nhere... how curious... "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, what could it be?\nA gentle, lovely scent\nis coming from around\nhere... how curious... "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, what could it be?\nA gentle, lovely scent\nis coming from around\nhere... how curious... "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is Taiki's scent!\nIf he comes back, I hope\nhe'll spend time with me!\nMy Friendship went up a bit!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is Taiki's scent!\nIf he comes back, I hope\nhe'll spend time with me!\nMy Friendship went up a bit!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is Taiki's scent!\nIf he comes back, I hope\nhe'll spend time with me!\nMy Friendship went up a bit!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "I always think about it...\nWe're happy here because\nof everything Taiki has\ndone for us! I should\nthank him...!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "I always think about it...\nWe're happy here because\nof everything Taiki has\ndone for us! I should\nthank him...!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "I always think about it...\nWe're happy here because\nof everything Taiki has\ndone for us! I should\nthank him...!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "Thank you as always,\nTaiki! We're so grateful!\nI wonder if he heard me...\nMy Friendship went up\nquite a bit!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "Thank you as always,\nTaiki! We're so grateful!\nI wonder if he heard me...\nMy Friendship went up\nquite a bit!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "Thank you as always,\nTaiki! We're so grateful!\nI wonder if he heard me...\nMy Friendship went up\nquite a bit!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "What on earth\ncould this be...? "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "What on earth\ncould this be...? "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 9,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "What on earth\ncould this be...? "
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 305,
+      "category": "Digimon names",
+      "english": [
+        "Flaremon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 778,
+      "category": "Digimon names",
+      "english": [
+        "Flaremon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4108,
+      "category": "Digimon names",
+      "english": [
+        "Flaremon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 306,
+      "category": "Digimon names",
+      "english": [
+        "Lekismon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 779,
+      "category": "Digimon names",
+      "english": [
+        "Lekismon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4116,
+      "category": "Digimon names",
+      "english": [
+        "Lekismon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 308,
+      "category": "Digimon names",
+      "english": [
+        "Buraimon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=buraimon"
+      ],
+      "review_note": "Use the current Reference Book spelling Buraimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 781,
+      "category": "Digimon names",
+      "english": [
+        "Buraimon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=buraimon"
+      ],
+      "review_note": "Use the current Reference Book spelling Buraimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4109,
+      "category": "Digimon names",
+      "english": [
+        "Buraimon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=buraimon"
+      ],
+      "review_note": "Use the current Reference Book spelling Buraimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 380,
+      "category": "Digimon names",
+      "english": [
+        "Vajramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 853,
+      "category": "Digimon names",
+      "english": [
+        "Vajramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4120,
+      "category": "Digimon names",
+      "english": [
+        "Vajramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 397,
+      "category": "Digimon names",
+      "english": [
+        "Argomon (Ultimate)"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Stage suffix expanded for readability."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 634,
+      "category": "Digimon names",
+      "english": [
+        "Argomon (Ultimate)"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Stage suffix expanded for readability."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4117,
+      "category": "Digimon names",
+      "english": [
+        "Argomon (Ultimate)"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Stage suffix expanded for readability."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 405,
+      "category": "Digimon names",
+      "english": [
+        "Butenmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 878,
+      "category": "Digimon names",
+      "english": [
+        "Butenmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4146,
+      "category": "Digimon names",
+      "english": [
+        "Butenmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 453,
+      "category": "Digimon names",
+      "english": [
+        "BanchoLeomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand BAN to the established species name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4239,
+      "category": "Digimon names",
+      "english": [
+        "BanchoLeomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand BAN to the established species name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4475,
+      "category": "Digimon names",
+      "english": [
+        "BanchoLeomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand BAN to the established species name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 500,
+      "category": "Digimon names",
+      "english": [
+        "Craniamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 973,
+      "category": "Digimon names",
+      "english": [
+        "Craniamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4180,
+      "category": "Digimon names",
+      "english": [
+        "Craniamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 501,
+      "category": "Digimon names",
+      "english": [
+        "Barbamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 622,
+      "category": "Digimon names",
+      "english": [
+        "Barbamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 974,
+      "category": "Digimon names",
+      "english": [
+        "Barbamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 502,
+      "category": "Digimon names",
+      "english": [
+        "TigerVespamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand TG to the established species name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 616,
+      "category": "Digimon names",
+      "english": [
+        "TigerVespamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand TG to the established species name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4247,
+      "category": "Digimon names",
+      "english": [
+        "TigerVespamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand TG to the established species name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 503,
+      "category": "Digimon names",
+      "english": [
+        "Dynasmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 621,
+      "category": "Digimon names",
+      "english": [
+        "Dynasmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 976,
+      "category": "Digimon names",
+      "english": [
+        "Dynasmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 505,
+      "category": "Digimon names",
+      "english": [
+        "Examon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 978,
+      "category": "Digimon names",
+      "english": [
+        "Examon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4175,
+      "category": "Digimon names",
+      "english": [
+        "Examon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 507,
+      "category": "Digimon names",
+      "english": [
+        "Omnimon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 980,
+      "category": "Digimon names",
+      "english": [
+        "Omnimon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4254,
+      "category": "Digimon names",
+      "english": [
+        "Omnimon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 511,
+      "category": "Digimon names",
+      "english": [
+        "Armageddemon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English Digimon name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 984,
+      "category": "Digimon names",
+      "english": [
+        "Armageddemon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English Digimon name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4250,
+      "category": "Digimon names",
+      "english": [
+        "Armageddemon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English Digimon name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 513,
+      "category": "Digimon names",
+      "english": [
+        "Apocalymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 986,
+      "category": "Digimon names",
+      "english": [
+        "Apocalymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4251,
+      "category": "Digimon names",
+      "english": [
+        "Apocalymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 514,
+      "category": "Digimon names",
+      "english": [
+        "ZeedMillenniummon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand ZD to the established form Zeed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 614,
+      "category": "Digimon names",
+      "english": [
+        "ZeedMillenniummon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand ZD to the established form Zeed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4274,
+      "category": "Digimon names",
+      "english": [
+        "ZeedMillenniummon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand ZD to the established form Zeed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 518,
+      "category": "Digimon names",
+      "english": [
+        "Valdurmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 991,
+      "category": "Digimon names",
+      "english": [
+        "Valdurmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4253,
+      "category": "Digimon names",
+      "english": [
+        "Valdurmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 524,
+      "category": "Digimon names",
+      "english": [
+        "Chaosmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 997,
+      "category": "Digimon names",
+      "english": [
+        "Chaosmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4256,
+      "category": "Digimon names",
+      "english": [
+        "Chaosmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 525,
+      "category": "Digimon names",
+      "english": [
+        "Azulongmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English name for the Four Sovereigns Digimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 998,
+      "category": "Digimon names",
+      "english": [
+        "Azulongmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English name for the Four Sovereigns Digimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4261,
+      "category": "Digimon names",
+      "english": [
+        "Azulongmon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English name for the Four Sovereigns Digimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 526,
+      "category": "Digimon names",
+      "english": [
+        "Baihumon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 999,
+      "category": "Digimon names",
+      "english": [
+        "Baihumon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4263,
+      "category": "Digimon names",
+      "english": [
+        "Baihumon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 527,
+      "category": "Digimon names",
+      "english": [
+        "Zhuqiaomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English name for the Four Sovereigns Digimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1000,
+      "category": "Digimon names",
+      "english": [
+        "Zhuqiaomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English name for the Four Sovereigns Digimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4258,
+      "category": "Digimon names",
+      "english": [
+        "Zhuqiaomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English name for the Four Sovereigns Digimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 528,
+      "category": "Digimon names",
+      "english": [
+        "Ebonwumon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English name for the Four Sovereigns Digimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1001,
+      "category": "Digimon names",
+      "english": [
+        "Ebonwumon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English name for the Four Sovereigns Digimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4257,
+      "category": "Digimon names",
+      "english": [
+        "Ebonwumon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Use the established English name for the Four Sovereigns Digimon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 529,
+      "category": "Digimon names",
+      "english": [
+        "Aegisdramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1002,
+      "category": "Digimon names",
+      "english": [
+        "Aegisdramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4252,
+      "category": "Digimon names",
+      "english": [
+        "Aegisdramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 532,
+      "category": "Digimon names",
+      "english": [
+        "Armamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 623,
+      "category": "Digimon names",
+      "english": [
+        "Armamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1005,
+      "category": "Digimon names",
+      "english": [
+        "Armamon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 547,
+      "category": "Digimon names",
+      "english": [
+        "MetalGreymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1020,
+      "category": "Digimon names",
+      "english": [
+        "MetalGreymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4290,
+      "category": "Digimon names",
+      "english": [
+        "MetalGreymon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4332,
+      "category": "Items and equipment",
+      "english": [
+        "Meteorite?"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of the item name; confirm from its in-game icon and effect."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4333,
+      "category": "Items and equipment",
+      "english": [
+        "Meteorite?"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of the item name; confirm from its in-game icon and effect."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4334,
+      "category": "Items and equipment",
+      "english": [
+        "Meteorite?"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of the item name; confirm from its in-game icon and effect."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 208,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Patamon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 214,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Patamon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 221,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Patamon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 210,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Patamon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 217,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Patamon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 223,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Patamon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 230,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Veemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 236,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Veemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 242,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Veemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 250,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to LadyDevimon"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 259,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to LadyDevimon"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 295,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to LadyDevimon"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 90,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Coast 1"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 52,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Coast 1"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 61,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Tokona Coast 1"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 133,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "System Omega"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 6,
+      "start": 140,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "System Omega"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 8,
+      "start": 82,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "System Omega"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 8,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sell Items"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 10,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sell Items"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 14,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sell Items"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 21,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "No, cancel."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 24,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "No, cancel."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 30,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "No, cancel."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Use this in battle and win\nto give the whole team EXP."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Use this in battle and win\nto give the whole team EXP."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Use this in battle and win\nto give the whole team EXP."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 8,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, it's a Digimon\nkey chain... It looks\ninteresting. I'll try it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, it's a Digimon\nkey chain... It looks\ninteresting. I'll try it!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 228,
+      "category": "Digimon names",
+      "english": [
+        "Greymon L"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "The L variant suffix is retained because its meaning is not established here."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4095,
+      "category": "Digimon names",
+      "english": [
+        "Greymon L"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "The L variant suffix is retained because its meaning is not established here."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 267,
+      "category": "Digimon names",
+      "english": [
+        "DarkTyrannomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand DK to the established species name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4447,
+      "category": "Digimon names",
+      "english": [
+        "DarkTyrannomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game shorthand DK to the established species name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 337,
+      "category": "Digimon names",
+      "english": [
+        "MagnaAngemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Use the established Western name; confirm the game-specific HL variant suffix before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4167,
+      "category": "Digimon names",
+      "english": [
+        "MagnaAngemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Use the established Western name; confirm the game-specific HL variant suffix before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 372,
+      "category": "Digimon names",
+      "english": [
+        "Lucemon Falldown Mode"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4162,
+      "category": "Digimon names",
+      "english": [
+        "Lucemon Falldown Mode"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 377,
+      "category": "Digimon names",
+      "english": [
+        "EXTyrannomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game form prefix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4466,
+      "category": "Digimon names",
+      "english": [
+        "EXTyrannomon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Expanded the game form prefix."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 378,
+      "category": "Digimon names",
+      "english": [
+        "Vermillimon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 851,
+      "category": "Digimon names",
+      "english": [
+        "Vermillimon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 399,
+      "category": "Digimon names",
+      "english": [
+        "WaruSeadramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 872,
+      "category": "Digimon names",
+      "english": [
+        "WaruSeadramon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 37,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Togemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 43,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Togemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 39,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Give it to Togemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 45,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Give it to Togemon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 71,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Frigimon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 77,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Frigimon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 72,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find the impostor at\nKnuckle Coast East"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 78,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find the impostor at\nKnuckle Coast East"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 73,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Frigimon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 79,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Frigimon in\nthe Front Room"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 74,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Defeat the fake Frigimon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 80,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Defeat the fake Frigimon!"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 75,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find and punish the\nfake Frigimon"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 81,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find and punish the\nfake Frigimon"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 110,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet BE Myotismon\nin Skull Seabed"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 116,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet BE Myotismon\nin Skull Seabed"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 112,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Can money get you\nout of anything?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 118,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Can money get you\nout of anything?"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Full Recovery\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Full Recovery\nDummy Text"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Calumon\nand attack, dealing extra\nwater damage."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Calumon\nand attack, dealing extra\nwater damage."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Kabuterimon\nand attack."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Kabuterimon\nand attack."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Leomon\nand attack."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Leomon\nand attack."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Piedmon\nand attack."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Piedmon\nand attack."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Machinedramon\nand attack, dealing extra\nelectric damage."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Machinedramon\nand attack, dealing extra\nelectric damage."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Gallantmon\nand attack. It may cause\ninstant death."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 25,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into Gallantmon\nand attack. It may cause\ninstant death."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into A. Volcanomon\nand attack, dealing extra\nfire damage."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 26,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiXross into A. Volcanomon\nand attack, dealing extra\nfire damage."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spear that more easily\ncauses Confusion.\nAttacks hit more often."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spear that more easily\ncauses Confusion.\nAttacks hit more often."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Katana that more easily\ninflicts Curse.\nCritical hits are likelier."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Katana that more easily\ninflicts Curse.\nCritical hits are likelier."
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call Slot\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 43,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Call Slot\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2475,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Wind"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2476,
+      "category": "Battle moves",
+      "english": [
+        "Rage Tornado"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2477,
+      "category": "Battle moves",
+      "english": [
+        "Darkness Eddy"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; spelling of the final word needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2478,
+      "category": "Battle moves",
+      "english": [
+        "Evil Data Bomb"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2479,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Gravity"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2480,
+      "category": "Battle moves",
+      "english": [
+        "Rage Demon Breath"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2481,
+      "category": "Battle moves",
+      "english": [
+        "Sonic Kick"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2482,
+      "category": "Battle moves",
+      "english": [
+        "Mega Knuckle Bomb"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2483,
+      "category": "Battle moves",
+      "english": [
+        "Heavy Giga Uppercut"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2484,
+      "category": "Battle moves",
+      "english": [
+        "Rage Grapple"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2485,
+      "category": "Battle moves",
+      "english": [
+        "Sword Masquerade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2486,
+      "category": "Battle moves",
+      "english": [
+        "Rainbow Hand"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2487,
+      "category": "Battle moves",
+      "english": [
+        "Malkuth Crystal"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2488,
+      "category": "Battle moves",
+      "english": [
+        "Hell & Thunder"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2489,
+      "category": "Battle moves",
+      "english": [
+        "Heaven & Break"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2490,
+      "category": "Battle moves",
+      "english": [
+        "Ice & Fire"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2491,
+      "category": "Battle moves",
+      "english": [
+        "Infinity Sword Rain"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2492,
+      "category": "Battle moves",
+      "english": [
+        "Omega Death Blade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2493,
+      "category": "Battle moves",
+      "english": [
+        "Data to Data"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2494,
+      "category": "Battle moves",
+      "english": [
+        "Tribe Lizard"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2495,
+      "category": "Battle moves",
+      "english": [
+        "Sigma Grapple"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2496,
+      "category": "Battle moves",
+      "english": [
+        "Omega Crusher"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 884,
+      "category": "Digimon names",
+      "english": [
+        "HerculesKabuterimon"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3751,
+      "category": "Items and equipment",
+      "english": [
+        "Heavy Wind"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3752,
+      "category": "Items and equipment",
+      "english": [
+        "Rage Tornado"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3753,
+      "category": "Items and equipment",
+      "english": [
+        "Darkness Eddy"
+      ],
+      "sources": [],
+      "review_note": "Working rendering; spelling of the final word needs a direct source check."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3754,
+      "category": "Items and equipment",
+      "english": [
+        "Evil Data Bomb"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3755,
+      "category": "Items and equipment",
+      "english": [
+        "Heavy Gravity"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3756,
+      "category": "Items and equipment",
+      "english": [
+        "Rage Demon Breath"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3757,
+      "category": "Items and equipment",
+      "english": [
+        "Sonic Kick"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3758,
+      "category": "Items and equipment",
+      "english": [
+        "Mega Knuckle Bomb"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3759,
+      "category": "Items and equipment",
+      "english": [
+        "Heavy Giga Uppercut"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3760,
+      "category": "Items and equipment",
+      "english": [
+        "Rage Grapple"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3761,
+      "category": "Items and equipment",
+      "english": [
+        "Sword Masquerade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3762,
+      "category": "Items and equipment",
+      "english": [
+        "Rainbow Hand"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3763,
+      "category": "Items and equipment",
+      "english": [
+        "Malkuth Crystal"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3764,
+      "category": "Items and equipment",
+      "english": [
+        "Hell & Thunder"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3765,
+      "category": "Items and equipment",
+      "english": [
+        "Heaven & Break"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3766,
+      "category": "Items and equipment",
+      "english": [
+        "Ice & Fire"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3767,
+      "category": "Items and equipment",
+      "english": [
+        "Infinity Sword Rain"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3768,
+      "category": "Items and equipment",
+      "english": [
+        "Omega Death Blade"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3769,
+      "category": "Items and equipment",
+      "english": [
+        "Data to Data"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3770,
+      "category": "Items and equipment",
+      "english": [
+        "Tribe Lizard"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3771,
+      "category": "Items and equipment",
+      "english": [
+        "Sigma Grapple"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3772,
+      "category": "Items and equipment",
+      "english": [
+        "Omega Crusher"
+      ],
+      "sources": [],
+      "review_note": "Working rendering of this move name; cross-game match not confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3926,
+      "category": "Items and equipment",
+      "english": [
+        "Fenrir Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "HP Recovery\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "MP Recovery\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Paralysis Recovery\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sleep Recovery\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Confusion Recovery\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blindness Recovery\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Status Recovery\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Full Recovery\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Revival\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gate Disk\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiMemory\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Temporary Shelter\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Temporary Armor\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Goods Test\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Score Test 0\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Score Test 1\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Score Test 2\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Score Test 3\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Score Test 4\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Score Test 5\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Score Test 6\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Score Test 7\nDescription"
+      ],
+      "sources": [],
+      "review_note": ""
+    }
+  ]
+}

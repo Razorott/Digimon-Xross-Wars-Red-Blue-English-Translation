@@ -1,0 +1,885 @@
+{
+  "description": "DigiFarm reactions and HQ/side-quest objectives. Digimon names use established English franchise spellings; abbreviation suffixes in the source are preserved.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh? Wild strawberries..."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "This branch looks like it's\nasking me to climb it..."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! I climbed\nthe tree! I got EXP\nfor reaching the top!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "The moment I climbed up,\nmy mood took a nosedive...\nWhat was the point of\nclimbing that tree?"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh! There's a huge rock!\nI just have to push it\nand move it, right?"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was easy!\nI feel much stronger now!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "It won't budge...\nMaybe this was impossible\nfrom the start."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "This looks like\na punching machine."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "Piece of cake!\nI feel a little tougher!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "W-Wait... Stop!\nI give up...!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, a training cannon!\nAll right, let's train!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "I held out to the end!\nI feel a bit tougher now!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "O-Ow! I hate\nthis training!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's a wrecking ball...\nI just have to catch it,\nright?"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "That wasn't so bad.\nI feel much tougher now!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "N-No way!\nI can't do that!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "These are books, right?\nI hope there are some\nfun ones in here!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "There are lots of fun\nbooks! I feel a little\nsmarter now!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "Aw... They're all hard\nbooks. What a letdown!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is that a study desk?\nI hate studying, but\nI guess I'll try it."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hehe! I got a lot done.\nI feel a bit smarter now!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nope... I'm getting\nsleepy..."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's a magic circle,\nright? Is it for casting\na spell or something?"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "My mind feels so clear!\nMaybe I'm a genius now!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh? Nothing happened.\nI guess it failed..."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "Those are side-to-side\njumps, right? Let's try!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was easy!\nI feel a little faster!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huff, huff... I'm tired.\nI'm done!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "A trampoline! That\nlooks fun. I'll try it!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "Boing! That was fun!\nI feel a bit faster now!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm dizzy... I feel awful..."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's a hamster wheel,\nright? I think I'm\nsupposed to run inside."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was a great workout!\nI feel much faster now!"
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huff... I can't go on.\nI'm ready to collapse..."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Digimon keychain...\nI wonder if it's fun.\nI'll give it a try..."
+      ],
+      "sources": [],
+      "review_note": "Natural English rendering of the Digimon's reaction; wraps preserve the compact report layout."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 345,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Piximon\nin\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 347,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nPiximon\nin the Front\nRoom."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 350,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Have a selfish\nMermaidmon on\nyour\nDigiFarm."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 352,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to\nEXTyrannomon\nin the Front\nRoom."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 354,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nEXTyrannomon\nin the Front\nRoom."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 357,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Have a selfish\nShaujinmon on\nyour\nDigiFarm."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 359,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to\nVolcamon\nin Whirly City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 360,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the\ngiant\nzombie in Skull\nSeabed."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 361,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nVolcamon\nin Whirly City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 362,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "The Mystery of\nthe\nSunken Zombie"
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 363,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the\ngiant\nzombie that\nappeared\nin Skull\nSeabed."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 364,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Have a demure\nArgomon\n(Ultimate) in\nyour\nExpedition\nTeam."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 366,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Leomon\nin Whirly City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 367,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the\nskeleton ghost\nin\nSkull Seabed."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 368,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nLeomon\nin Whirly City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 369,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Terror!! The\nSkull Legend"
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 370,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the\nskeleton ghost\nthat\nappeared in\nSkull Seabed."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 371,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Have a demure\nGaogamon in\nyour\nExpedition\nTeam."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 372,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to\nAngewomon\nin the Front\nRoom."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 373,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Salamon\nin Flower\nPrairie."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 374,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find\nSlashAngemon\nat Tokona\nCoast."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 376,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nAngewomon\nin the Front\nRoom."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 377,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Assemble! The\nAngel Army?"
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 378,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Gather members\nfor\nthe newly\nformed\nAngel Army."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 379,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Have a clingy\nOphanimon in\nyour\nExpedition\nTeam."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 381,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to\nArchnemon\nin the Front\nRoom."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 382,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Kongoumon\nin Flower\nPrairie."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 383,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find\nHerculesKabuterimon\nat Tokona\nCoast."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 385,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nArchnemon\nin the Front\nRoom."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 386,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Assemble! The\nInsect Army?"
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 387,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Gather members\nfor\nthe newly\nformed\nInsect Army."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 388,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Have an\nenergetic\nTigerVespamon\nin your\nExpedition\nTeam."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 390,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Gatomon\nin Skull City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 392,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nGatomon\nin Skull City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 393,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "VS Kongoumon &\nHerculesKabuterimon"
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 395,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Have an\nenergetic\nSaberLeomon on\nyour\nDigiFarm."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 397,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to\nMatadormon\nin Skull City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 399,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nMatadormon\nin Skull City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 400,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "VS MetalEtemon\n&\nVajramon"
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 402,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Have a funky\nPhantomon on\nyour\nDigiFarm."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 404,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to\nPaildramon\nin Spiderweb\nCity."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 410,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nPaildramon\nin Spiderweb\nCity."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 413,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Have a robotic\nSpinomon in\nyour party."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 416,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to\nMegaloGrowmon\nin Spiderweb\nCity."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 422,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to\nMegaloGrowmon\nin Spiderweb\nCity."
+      ],
+      "sources": [],
+      "review_note": "Quest objective/title translated from Japanese; species spellings reused from the already-reviewed Digimon name table and wrapped to 15 columns."
+    }
+  ]
+}

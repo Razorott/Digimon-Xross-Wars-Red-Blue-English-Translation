@@ -1,0 +1,269 @@
+{
+  "description": "Exact English move-name matches checked against US Digimon World Dawn/Dusk text.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1294,
+      "category": "move name",
+      "english": [
+        "Energy Shot"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2570,
+      "category": "move name",
+      "english": [
+        "Energy Shot"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1482,
+      "category": "move name",
+      "english": [
+        "Smiley Bomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2758,
+      "category": "move name",
+      "english": [
+        "Smiley Bomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1483,
+      "category": "move name",
+      "english": [
+        "Energy Bomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2759,
+      "category": "move name",
+      "english": [
+        "Energy Bomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1487,
+      "category": "move name",
+      "english": [
+        "Bit Bomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2763,
+      "category": "move name",
+      "english": [
+        "Bit Bomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1261,
+      "category": "move name",
+      "english": [
+        "Spiral Claw"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2537,
+      "category": "move name",
+      "english": [
+        "Spiral Claw"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1868,
+      "category": "move name",
+      "english": [
+        "Deadly Bomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3144,
+      "category": "move name",
+      "english": [
+        "Deadly Bomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1271,
+      "category": "move name",
+      "english": [
+        "MegaMeteoFall"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2547,
+      "category": "move name",
+      "english": [
+        "MegaMeteoFall"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1283,
+      "category": "move name",
+      "english": [
+        "Grand Cross"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2559,
+      "category": "move name",
+      "english": [
+        "Grand Cross"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1281,
+      "category": "move name",
+      "english": [
+        "Starlight"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2557,
+      "category": "move name",
+      "english": [
+        "Starlight"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1656,
+      "category": "move name",
+      "english": [
+        "PowerfulPunch"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2932,
+      "category": "move name",
+      "english": [
+        "PowerfulPunch"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1640,
+      "category": "move name",
+      "english": [
+        "MoonNightBomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2278,
+      "category": "move name",
+      "english": [
+        "MoonNightBomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2916,
+      "category": "move name",
+      "english": [
+        "MoonNightBomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3554,
+      "category": "move name",
+      "english": [
+        "MoonNightBomb"
+      ],
+      "evidence_url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "review_note": "English string is an exact name match in a community extraction of the licensed US Dawn/Dusk game text."
+    }
+  ]
+}

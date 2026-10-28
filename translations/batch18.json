@@ -1,0 +1,2053 @@
+{
+  "description": "Additional battle techniques, quest objectives, DigiFarm reports and Sky Fort story dialogue.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1498,
+      "category": "Battle moves",
+      "english": [
+        "Thousand Arrows"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2774,
+      "category": "Battle moves",
+      "english": [
+        "Thousand Arrows"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1500,
+      "category": "Battle moves",
+      "english": [
+        "Tera Hydro Breath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2776,
+      "category": "Battle moves",
+      "english": [
+        "Tera Hydro Breath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1513,
+      "category": "Battle moves",
+      "english": [
+        "Storm Gazer"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2789,
+      "category": "Battle moves",
+      "english": [
+        "Storm Gazer"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1514,
+      "category": "Battle moves",
+      "english": [
+        "Atomic Blaster"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2294,
+      "category": "Battle moves",
+      "english": [
+        "Atomic Blaster"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1516,
+      "category": "Battle moves",
+      "english": [
+        "Ashipatravana"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2792,
+      "category": "Battle moves",
+      "english": [
+        "Ashipatravana"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1517,
+      "category": "Battle moves",
+      "english": [
+        "Shippu Tensho Ken"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2311,
+      "category": "Battle moves",
+      "english": [
+        "Shippu Tensho Ken"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1599,
+      "category": "Battle moves",
+      "english": [
+        "Baby Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2875,
+      "category": "Battle moves",
+      "english": [
+        "Baby Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1600,
+      "category": "Battle moves",
+      "english": [
+        "Veemon Head"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2876,
+      "category": "Battle moves",
+      "english": [
+        "Veemon Head"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1606,
+      "category": "Battle moves",
+      "english": [
+        "Vee Breath Arrow"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2882,
+      "category": "Battle moves",
+      "english": [
+        "Vee Breath Arrow"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1607,
+      "category": "Battle moves",
+      "english": [
+        "Mega Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2883,
+      "category": "Battle moves",
+      "english": [
+        "Mega Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1608,
+      "category": "Battle moves",
+      "english": [
+        "Water Breath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2884,
+      "category": "Battle moves",
+      "english": [
+        "Water Breath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1609,
+      "category": "Battle moves",
+      "english": [
+        "Twin Neptune"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2885,
+      "category": "Battle moves",
+      "english": [
+        "Twin Neptune"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1611,
+      "category": "Battle moves",
+      "english": [
+        "Twin Dragon Wave"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2887,
+      "category": "Battle moves",
+      "english": [
+        "Twin Dragon Wave"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1612,
+      "category": "Battle moves",
+      "english": [
+        "Spurting Ink"
+      ],
+      "sources": [
+        "https://dev.metalkid.info/DigimonWorld2/Digipedia/Details/Octomon"
+      ],
+      "review_note": "Exact English attack name used for Octomon in Digimon World 2."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2888,
+      "category": "Battle moves",
+      "english": [
+        "Spurting Ink"
+      ],
+      "sources": [
+        "https://dev.metalkid.info/DigimonWorld2/Digipedia/Details/Octomon"
+      ],
+      "review_note": "Exact English attack name used for Octomon in Digimon World 2."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1613,
+      "category": "Battle moves",
+      "english": [
+        "DJ Shooter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2889,
+      "category": "Battle moves",
+      "english": [
+        "DJ Shooter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1614,
+      "category": "Battle moves",
+      "english": [
+        "Harpoon Torpedo"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Rendered as the familiar English attack name; Dawn/Dusk extraction has the cramped spelling HarpoonTrpedo."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2890,
+      "category": "Battle moves",
+      "english": [
+        "Harpoon Torpedo"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Rendered as the familiar English attack name; Dawn/Dusk extraction has the cramped spelling HarpoonTrpedo."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1617,
+      "category": "Battle moves",
+      "english": [
+        "Flower Bomb"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2893,
+      "category": "Battle moves",
+      "english": [
+        "Flower Bomb"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1618,
+      "category": "Battle moves",
+      "english": [
+        "Goburi Strike"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2894,
+      "category": "Battle moves",
+      "english": [
+        "Goburi Strike"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1619,
+      "category": "Battle moves",
+      "english": [
+        "Tiny Twister"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2895,
+      "category": "Battle moves",
+      "english": [
+        "Tiny Twister"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1620,
+      "category": "Battle moves",
+      "english": [
+        "Strong Mole"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2896,
+      "category": "Battle moves",
+      "english": [
+        "Strong Mole"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1621,
+      "category": "Battle moves",
+      "english": [
+        "Destroyed Voice"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2897,
+      "category": "Battle moves",
+      "english": [
+        "Destroyed Voice"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1622,
+      "category": "Battle moves",
+      "english": [
+        "Ambush Crunch"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2267,
+      "category": "Battle moves",
+      "english": [
+        "Ambush Crunch"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1624,
+      "category": "Battle moves",
+      "english": [
+        "Mega Burst"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2900,
+      "category": "Battle moves",
+      "english": [
+        "Mega Burst"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1628,
+      "category": "Battle moves",
+      "english": [
+        "Freeze Fang"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2904,
+      "category": "Battle moves",
+      "english": [
+        "Freeze Fang"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1629,
+      "category": "Battle moves",
+      "english": [
+        "Shishiomaru"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2905,
+      "category": "Battle moves",
+      "english": [
+        "Shishiomaru"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1630,
+      "category": "Battle moves",
+      "english": [
+        "Glare Eye"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2906,
+      "category": "Battle moves",
+      "english": [
+        "Glare Eye"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1631,
+      "category": "Battle moves",
+      "english": [
+        "Crazy Giggle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2907,
+      "category": "Battle moves",
+      "english": [
+        "Crazy Giggle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1634,
+      "category": "Battle moves",
+      "english": [
+        "Pico Darts"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2910,
+      "category": "Battle moves",
+      "english": [
+        "Pico Darts"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1636,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Cloud"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2912,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Cloud"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1639,
+      "category": "Battle moves",
+      "english": [
+        "Fire Blast"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2915,
+      "category": "Battle moves",
+      "english": [
+        "Fire Blast"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1641,
+      "category": "Battle moves",
+      "english": [
+        "Petit Thunder"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2917,
+      "category": "Battle moves",
+      "english": [
+        "Petit Thunder"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1642,
+      "category": "Battle moves",
+      "english": [
+        "Poison Ivy"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2918,
+      "category": "Battle moves",
+      "english": [
+        "Poison Ivy"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1643,
+      "category": "Battle moves",
+      "english": [
+        "Ice Archery"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2919,
+      "category": "Battle moves",
+      "english": [
+        "Ice Archery"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1644,
+      "category": "Battle moves",
+      "english": [
+        "Iga Ninja Art"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2920,
+      "category": "Battle moves",
+      "english": [
+        "Iga Ninja Art"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1645,
+      "category": "Battle moves",
+      "english": [
+        "Spiking Finish"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2258,
+      "category": "Battle moves",
+      "english": [
+        "Spiking Finish"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1647,
+      "category": "Battle moves",
+      "english": [
+        "Branch Drain"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2923,
+      "category": "Battle moves",
+      "english": [
+        "Branch Drain"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1648,
+      "category": "Battle moves",
+      "english": [
+        "Sunshine Beam"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2924,
+      "category": "Battle moves",
+      "english": [
+        "Sunshine Beam"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1649,
+      "category": "Battle moves",
+      "english": [
+        "Prickly Bang-Bang"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2925,
+      "category": "Battle moves",
+      "english": [
+        "Prickly Bang-Bang"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1652,
+      "category": "Battle moves",
+      "english": [
+        "Scissor Arms"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2928,
+      "category": "Battle moves",
+      "english": [
+        "Scissor Arms"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1653,
+      "category": "Battle moves",
+      "english": [
+        "Sticky Net"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2929,
+      "category": "Battle moves",
+      "english": [
+        "Sticky Net"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1655,
+      "category": "Battle moves",
+      "english": [
+        "Crimson Nail"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2931,
+      "category": "Battle moves",
+      "english": [
+        "Crimson Nail"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1657,
+      "category": "Battle moves",
+      "english": [
+        "Kunai Feather"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2933,
+      "category": "Battle moves",
+      "english": [
+        "Kunai Feather"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1660,
+      "category": "Battle moves",
+      "english": [
+        "Captain Cannon"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2936,
+      "category": "Battle moves",
+      "english": [
+        "Captain Cannon"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1661,
+      "category": "Battle moves",
+      "english": [
+        "ChronoBreaker"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2937,
+      "category": "Battle moves",
+      "english": [
+        "ChronoBreaker"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1662,
+      "category": "Battle moves",
+      "english": [
+        "Warning Laser"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2938,
+      "category": "Battle moves",
+      "english": [
+        "Warning Laser"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1663,
+      "category": "Battle moves",
+      "english": [
+        "Air Shot"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2939,
+      "category": "Battle moves",
+      "english": [
+        "Air Shot"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1664,
+      "category": "Battle moves",
+      "english": [
+        "Lovely Impact"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2940,
+      "category": "Battle moves",
+      "english": [
+        "Lovely Impact"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1666,
+      "category": "Battle moves",
+      "english": [
+        "Feather Slash"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2942,
+      "category": "Battle moves",
+      "english": [
+        "Feather Slash"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1667,
+      "category": "Battle moves",
+      "english": [
+        "Meteor Wing"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2943,
+      "category": "Battle moves",
+      "english": [
+        "Meteor Wing"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1668,
+      "category": "Battle moves",
+      "english": [
+        "Darkstrom"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2944,
+      "category": "Battle moves",
+      "english": [
+        "Darkstrom"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1670,
+      "category": "Battle moves",
+      "english": [
+        "Sonic Slash Rain"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1999,
+      "category": "Battle moves",
+      "english": [
+        "Sonic Slash Rain"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1672,
+      "category": "Battle moves",
+      "english": [
+        "Rinkazan"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2948,
+      "category": "Battle moves",
+      "english": [
+        "Rinkazan"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1673,
+      "category": "Battle moves",
+      "english": [
+        "Crystal Revolution"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2397,
+      "category": "Battle moves",
+      "english": [
+        "Crystal Revolution"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from Japanese; no exact western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1674,
+      "category": "Battle moves",
+      "english": [
+        "Gorgon Eye"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2950,
+      "category": "Battle moves",
+      "english": [
+        "Gorgon Eye"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Dawn/Dusk extraction spelling reused for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 287,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Boltmon is on the farm\nwith the \"Robot\" group."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 288,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Clear \"Showdown?!\nThe Giro Giro Gang!\""
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 290,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Gottsumon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 292,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Advertise to Biyomon\nin West Kumonos Ruins."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 293,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Advertise to Gabumon\nin West Kumonos Ruins."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 294,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Advertise to Dracmon\nin East Kumonos Ruins."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 296,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Get both signatures\nin South Papyrus Desert."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 297,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Give them to Gottsumon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 298,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Super Idols?!\nNumemon & Sukamon"
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 299,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Get autographs from\nthe top idol duo,\nNumesuka!"
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 300,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "BlueMeramon is in\nthe Expedition Team."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 302,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Cherubimon\n(Virtue) in the\nFront Room."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 304,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Angewomon on\nthe east Knuckle Coast."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 306,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Give it to Cherubimon\n(Virtue) in the\nFront Room."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 307,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Visitor from\nPhantom Palace"
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 308,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Return Cherubimon\n(Virtue), who lost his\npass, to Phantom Palace."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 309,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "LadyDevimon is in\nthe party."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 311,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to MummyMon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 312,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Shellmon on\nthe west Knuckle Coast."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 313,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Gekomon on\nthe east Knuckle Coast."
+      ],
+      "sources": [],
+      "review_note": "Quest requirement; original Western Digimon and place names retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! Is this\nthe\npower of\ndarkness?!\nMy EXP went up,\nbut\nthis feels\ncreepy!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "This reeks of\ndanger\nand traps. We\nshould\nprobably leave\nit\nalone..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is that a Dark\nTower?!\nWhat is it\ndoing here?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa... What\npower!\nSo this is\ndarkness...\nMy EXP went up,\nbut\nI feel uneasy."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nI feel\ndisappointed\nand relieved at\nonce."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm... What is\nthis?\nIt smells so\nnice and\nmakes me feel\ngood!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "I know this\nsmell!\nIt is Taiki! I\nwant to\nplay with him\nagain.\nMy friendship\nwent up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "Heehee! I am so\nhappy\ntoday. We can\nall live\npeacefully\nthanks to\nTaiki. I want\nto thank\nhim somehow!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "Taiki, thank\nyou so\nmuch for\neverything!\nWe are all\ngrateful.\nI hope you\nheard me!\nMy friendship\nwent up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "I found 100\nBits!\nI will send\nthem to\nTaiki right\naway. He\nwill be so\nhappy!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow! 500 Bits!\nI will send\nthem to\nTaiki. He will\nput them\nto good use!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "Amazing! 1,000\nBits!\nI will send\nthem to\nTaiki. He\nalways knows\nwhat to do with\nthem!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow! These wild\nberries are\ndelicious!\nThey even\nboosted my\nEXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "These wild\nberries\ndo not taste\nvery good.\nThey are not\nsweet at\nall. What a\nletdown..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; wrapped to 15 columns for the fixed-width story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4312,
+      "category": "Items and equipment",
+      "english": [
+        "Sunburn Guard"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4313,
+      "category": "Items and equipment",
+      "english": [
+        "Wrapped Present"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4314,
+      "category": "Items and equipment",
+      "english": [
+        "Bad Autograph"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4315,
+      "category": "Items and equipment",
+      "english": [
+        "Terilop Goods"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4316,
+      "category": "Items and equipment",
+      "english": [
+        "Numemon Photo"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4317,
+      "category": "Items and equipment",
+      "english": [
+        "Sukamon Postcard"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4318,
+      "category": "Items and equipment",
+      "english": [
+        "Live Portrait"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4319,
+      "category": "Items and equipment",
+      "english": [
+        "Numesuka Double Autograph"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4320,
+      "category": "Items and equipment",
+      "english": [
+        "Strawberry Hair Tie"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4321,
+      "category": "Items and equipment",
+      "english": [
+        "Marimo Hair Tie"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4322,
+      "category": "Items and equipment",
+      "english": [
+        "Silver Ingot"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4323,
+      "category": "Items and equipment",
+      "english": [
+        "Giant Pearl"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4324,
+      "category": "Items and equipment",
+      "english": [
+        "Heart Sapphire"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4325,
+      "category": "Items and equipment",
+      "english": [
+        "Gold Crown"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4326,
+      "category": "Items and equipment",
+      "english": [
+        "SP Shaver"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4327,
+      "category": "Items and equipment",
+      "english": [
+        "MC Shaver"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4328,
+      "category": "Items and equipment",
+      "english": [
+        "Spellbook"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4329,
+      "category": "Items and equipment",
+      "english": [
+        "Diatrymon Feather"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4330,
+      "category": "Items and equipment",
+      "english": [
+        "Bit-Like Thing"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4331,
+      "category": "Items and equipment",
+      "english": [
+        "Bit-Looking Thing"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4335,
+      "category": "Items and equipment",
+      "english": [
+        "Nice Meteorite"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4336,
+      "category": "Items and equipment",
+      "english": [
+        "Voice Recorder"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4337,
+      "category": "Items and equipment",
+      "english": [
+        "D-Voice Data"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4338,
+      "category": "Items and equipment",
+      "english": [
+        "P-Voice Data"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4339,
+      "category": "Items and equipment",
+      "english": [
+        "System Notebook"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4340,
+      "category": "Items and equipment",
+      "english": [
+        "Signed CD"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4341,
+      "category": "Items and equipment",
+      "english": [
+        "Terilop Statue"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4342,
+      "category": "Items and equipment",
+      "english": [
+        "Neat Autograph"
+      ],
+      "sources": [],
+      "review_note": "Inventory/quest item label; concise rendering selected for the item-name field."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Are Weapon\nDigimon\nreally that\npowerful?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Are Weapon\nDigimon\nreally that\npowerful?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon still\nhas not\ngotten all his\nmemories\nback... I hope\nwe learn\nwhat Armamon is\nlike\nand why it was\nsealed."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon still\nhas not\ngotten all his\nmemories\nback... I hope\nwe learn\nwhat Armamon is\nlike\nand why it was\nsealed."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "And I hope he\nremembers\nDunasmon,\ntoo..."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "And I hope he\nremembers\nDunasmon,\ntoo..."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Anyway! Our top\npriority is\ntaking back\nthe Capacitor\nTowers!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Anyway! Our top\npriority is\ntaking back\nthe Capacitor\nTowers!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon's\nShadow\nGuard must be\nstrong.\nWe should check\nthe\nDigiLab and\nDigiFarm\ninside the tent\nfirst!\nLet's go, you\ntwo!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon's\nShadow\nGuard must be\nstrong.\nWe should check\nthe\nDigiLab and\nDigiFarm\ninside the tent\nfirst!\nLet's go, you\ntwo!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story continuation; translated from Japanese source."
+    }
+  ]
+}

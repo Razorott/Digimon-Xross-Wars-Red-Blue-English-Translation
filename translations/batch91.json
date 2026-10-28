@@ -1,0 +1,499 @@
+{
+  "description": "Translate the Legend Master reward and Bronze Master tournament sequence in MESPAK02 entry 15.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\nRoyal M Star"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\nNiflheim"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "You've climbed all the way to Platinum Master. Surely you won't quit here! The final rank is Legend Master. This is the real test! Remember, Taiki Kudo: when the next battle ends, you won't just be Taiki Kudo... you'll be Taiki, the Legend Master!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Hurry and become Legend Master, Taiki Kudo! Everyone who knows you is hoping for it! And this time, your reward is super special! It's perfect for you... In fact, it's practically already yours!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "You did it! You're finally Legend Master! Congratulations! Incredible work! No Master can surpass you now! As promised, accept this super-special reward worthy of you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\nGorgon"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Key item acquired!\nLegend Medal"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "Use it well, Taiki, the Legend Master!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Hello, Taiki Kudo... No, Taiki, the Legend Master. There's no rank left for you to aim for. You're now the one everyone else looks up to. I have no reward left to give you... The shining future of the Digital World is your final reward. Everyone believes you'll win it for us."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "We'll always expect great things from you. Do your best, Taiki, the Legend Master!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "If you want to enter the battle arena, register first. Minomon at that counter handles DWM Tournament entries."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Looks like you've already entered the DWM Tournament."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you ready?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "Go to the battle arena?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, let's go."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "No, not yet."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "Come talk to me again when you're ready."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "If you've made up your mind, go ahead."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "The portal over there leads to the battle arena! Fight with honor!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "This portal is for Battle Masters only! Challengers must use the portal across from it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Please come again!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "Now, the DWM Tournament Bronze Master match! The challengers are Team Xros Heart, led by General Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "And the Bronze Master Battle Master is... A familiar face from Digimon Story! A quiet, unassuming man with influence behind the scenes! A smiling mad scientist in a white coat, known for bringing children to the Digital World! The legendary Battle Master leading Team Chrono..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Mr. Kogure!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "That introduction makes me sound like a terrible villain... Or is it just me?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Before the match, Battle Master Kogure, would you like to say a few words to the challenger?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "I've fought here ever since the DigiColosseum opened. Every match has been unforgettable. Taiki, you look like you'll put up a good fight. Surely you won't lose to an old man like me! Let's make a battle that will go down in history!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes! I'll do my best!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Kogure's Team Chrono versus General Taiki's Team Xros Heart! The match of the century starts now!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "And the winner is Team Xros Heart! General Taiki Kudo has defeated Team Chrono... and Battle Master Kogure! So great, Taiki! Congratulations!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "Congratulations, General Taiki, and Team Xros Heart! You're now DWM-certified Bronze Masters. But remember: what matters most isn't your rank... It's how you live on the way to earning it, and after you've earned it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll work hard to honor the rank we've earned."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... It seems I worried for nothing. I'm looking forward to seeing what you do, General Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "The team that burst onto the Digital World stage... Team Xros Heart and General Taiki! What kind of battle will they show us next? We look forward to seeing what they do from here on! See you next time!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "Now, the DWM Tournament Silver Master match! First, the challengers: Team Xros Heart, led by General Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Facing them is their young, strong Battle Master! The shining hero of the brilliant Sunshine City!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Kou and Team Sunburst!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Completes the DigiColosseum Legend Master reward and introduces the Bronze Master tournament. DWM ranks and existing equipment names follow the project glossary."
+    }
+  ]
+}

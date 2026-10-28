@@ -1,0 +1,2489 @@
+{
+  "description": "More battle controls, DigiXross and formation guidance, DigiFarm reactions, quest objectives, status and accuracy traits, battle move names, map locations, the Chikurimon name, and explicit unused-item-slot labels. Also fixes the Train farm sprite caption alignment.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1847,
+      "category": "Battle moves",
+      "english": [
+        "Nano Crash"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3123,
+      "category": "Battle moves",
+      "english": [
+        "Nano Crash"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1848,
+      "category": "Battle moves",
+      "english": [
+        "Plug Bomb"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3124,
+      "category": "Battle moves",
+      "english": [
+        "Plug Bomb"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1849,
+      "category": "Battle moves",
+      "english": [
+        "Neck Hanging"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3125,
+      "category": "Battle moves",
+      "english": [
+        "Neck Hanging"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1851,
+      "category": "Battle moves",
+      "english": [
+        "Twin Sickles"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3127,
+      "category": "Battle moves",
+      "english": [
+        "Twin Sickles"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1853,
+      "category": "Battle moves",
+      "english": [
+        "Pao-Tzu"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3129,
+      "category": "Battle moves",
+      "english": [
+        "Pao-Tzu"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1855,
+      "category": "Battle moves",
+      "english": [
+        "Hell Dive"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3131,
+      "category": "Battle moves",
+      "english": [
+        "Hell Dive"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1857,
+      "category": "Battle moves",
+      "english": [
+        "Knock Buster"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3133,
+      "category": "Battle moves",
+      "english": [
+        "Knock Buster"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1859,
+      "category": "Battle moves",
+      "english": [
+        "Jet Arrow"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3135,
+      "category": "Battle moves",
+      "english": [
+        "Jet Arrow"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1861,
+      "category": "Battle moves",
+      "english": [
+        "Big Bang Blow"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3137,
+      "category": "Battle moves",
+      "english": [
+        "Big Bang Blow"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1863,
+      "category": "Battle moves",
+      "english": [
+        "Lion Dance"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3139,
+      "category": "Battle moves",
+      "english": [
+        "Lion Dance"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1865,
+      "category": "Battle moves",
+      "english": [
+        "Dirty Saucer"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3141,
+      "category": "Battle moves",
+      "english": [
+        "Dirty Saucer"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1867,
+      "category": "Battle moves",
+      "english": [
+        "Guillotine Chainsaw"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3143,
+      "category": "Battle moves",
+      "english": [
+        "Guillotine Chainsaw"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1869,
+      "category": "Battle moves",
+      "english": [
+        "Varm Blaze"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3145,
+      "category": "Battle moves",
+      "english": [
+        "Varm Blaze"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1871,
+      "category": "Battle moves",
+      "english": [
+        "Pao-Chen"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3147,
+      "category": "Battle moves",
+      "english": [
+        "Pao-Chen"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1878,
+      "category": "Battle moves",
+      "english": [
+        "Knuckle Fire"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3154,
+      "category": "Battle moves",
+      "english": [
+        "Knuckle Fire"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1879,
+      "category": "Battle moves",
+      "english": [
+        "Fire Rocket"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the matching English Digimon World: Dawn/Dusk move name for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3155,
+      "category": "Battle moves",
+      "english": [
+        "Fire Rocket"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the matching English Digimon World: Dawn/Dusk move name for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1880,
+      "category": "Battle moves",
+      "english": [
+        "Gunshot"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3156,
+      "category": "Battle moves",
+      "english": [
+        "Gunshot"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1881,
+      "category": "Battle moves",
+      "english": [
+        "Vajra"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3157,
+      "category": "Battle moves",
+      "english": [
+        "Vajra"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1882,
+      "category": "Battle moves",
+      "english": [
+        "Inferno Gate"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3158,
+      "category": "Battle moves",
+      "english": [
+        "Inferno Gate"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1884,
+      "category": "Battle moves",
+      "english": [
+        "Cold Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3160,
+      "category": "Battle moves",
+      "english": [
+        "Cold Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1885,
+      "category": "Battle moves",
+      "english": [
+        "Ice Phantom"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3161,
+      "category": "Battle moves",
+      "english": [
+        "Ice Phantom"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1886,
+      "category": "Battle moves",
+      "english": [
+        "Blackout"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3162,
+      "category": "Battle moves",
+      "english": [
+        "Blackout"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1887,
+      "category": "Battle moves",
+      "english": [
+        "Poison Pierce"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3163,
+      "category": "Battle moves",
+      "english": [
+        "Poison Pierce"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1888,
+      "category": "Battle moves",
+      "english": [
+        "Nile Jewelry"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3164,
+      "category": "Battle moves",
+      "english": [
+        "Nile Jewelry"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1889,
+      "category": "Battle moves",
+      "english": [
+        "Rosetta Stone"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3165,
+      "category": "Battle moves",
+      "english": [
+        "Rosetta Stone"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1890,
+      "category": "Battle moves",
+      "english": [
+        "Curse of the Queen"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3166,
+      "category": "Battle moves",
+      "english": [
+        "Curse of the Queen"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1891,
+      "category": "Battle moves",
+      "english": [
+        "Mega Punch"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3167,
+      "category": "Battle moves",
+      "english": [
+        "Mega Punch"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1893,
+      "category": "Battle moves",
+      "english": [
+        "Mobius Bite"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3169,
+      "category": "Battle moves",
+      "english": [
+        "Mobius Bite"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1894,
+      "category": "Battle moves",
+      "english": [
+        "Super Sonic Voice"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1895,
+      "category": "Battle moves",
+      "english": [
+        "Grenade Storm"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3171,
+      "category": "Battle moves",
+      "english": [
+        "Grenade Storm"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1897,
+      "category": "Battle moves",
+      "english": [
+        "Black Requiem"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3173,
+      "category": "Battle moves",
+      "english": [
+        "Black Requiem"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1898,
+      "category": "Battle moves",
+      "english": [
+        "Dead Scream"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the matching English Digimon World: Dawn/Dusk move name for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3174,
+      "category": "Battle moves",
+      "english": [
+        "Dead Scream"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the matching English Digimon World: Dawn/Dusk move name for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1899,
+      "category": "Battle moves",
+      "english": [
+        "Grand Charge"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3175,
+      "category": "Battle moves",
+      "english": [
+        "Grand Charge"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1901,
+      "category": "Battle moves",
+      "english": [
+        "Queen Stamp"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3177,
+      "category": "Battle moves",
+      "english": [
+        "Queen Stamp"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1902,
+      "category": "Battle moves",
+      "english": [
+        "Grand Cricket"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3178,
+      "category": "Battle moves",
+      "english": [
+        "Grand Cricket"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1903,
+      "category": "Battle moves",
+      "english": [
+        "Heart Breaker"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the matching English Digimon World: Dawn/Dusk move name for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3179,
+      "category": "Battle moves",
+      "english": [
+        "Heart Breaker"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the matching English Digimon World: Dawn/Dusk move name for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1904,
+      "category": "Battle moves",
+      "english": [
+        "King Dash"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3180,
+      "category": "Battle moves",
+      "english": [
+        "King Dash"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1905,
+      "category": "Battle moves",
+      "english": [
+        "King Stick"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3181,
+      "category": "Battle moves",
+      "english": [
+        "King Stick"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1906,
+      "category": "Battle moves",
+      "english": [
+        "Checkmate"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the matching English Digimon World: Dawn/Dusk move name for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3182,
+      "category": "Battle moves",
+      "english": [
+        "Checkmate"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the matching English Digimon World: Dawn/Dusk move name for the same Japanese attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1907,
+      "category": "Battle moves",
+      "english": [
+        "Strawberry Death"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3183,
+      "category": "Battle moves",
+      "english": [
+        "Strawberry Death"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1909,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Crusher"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3185,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Crusher"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1910,
+      "category": "Battle moves",
+      "english": [
+        "Hyper Infinity Cannon"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2438,
+      "category": "Battle moves",
+      "english": [
+        "Hyper Infinity Cannon"
+      ],
+      "sources": [],
+      "review_note": "Provisional working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 443,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Sakuyamon Under Control"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT19-040&search=true"
+      ],
+      "review_note": "Quest title; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 444,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find the strange-acting\nSakuyamon and wake her up."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT19-040&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 445,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Wild BanchoLeomon must be\nin your party."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT20-036&search=true"
+      ],
+      "review_note": "Quest requirement; BanchoLeomon spelling checked against the official card list. Wild is the in-game personality."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 447,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Valkyrimon in the\nFront Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522002&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 448,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find a Bird Digimon in\nsouth Papyrus Desert."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; region names follow the established map glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 449,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find a Bird Digimon in west\nSkull Glacier."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; region names follow the established map glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 450,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find a Bird Digimon in west\nCrystal Volcano."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; region names follow the established map glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 451,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Valkyrimon in the\nFront Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522002&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 452,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "I want a golden bird!"
+      ],
+      "sources": [],
+      "review_note": "Quest title."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 453,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find a shining, clever,\nhelpful bird."
+      ],
+      "sources": [],
+      "review_note": "Quest objective."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 454,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Selfish DaiPenmon must be\non your expedition team."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522007&search=true"
+      ],
+      "review_note": "Quest requirement; Western Digimon spelling checked against the official card list. Selfish is the in-game personality."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 456,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Calumon in the\nFront Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 457,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find 2 Calumon in Fort\nYard."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Quest objective; official Western spelling checked."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 458,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find 2 Calumon in east\nSkull Glacier."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Quest objective; official Western spelling checked."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 459,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find 2 Calumon in west\nKumonos Ruins."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Quest objective; official Western spelling checked."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 460,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find 3 Calumon in south\nLost Space."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Quest objective; official Western spelling checked."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 461,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find 3 Calumon in Crystal\nQuarry."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Quest objective; official Western spelling checked."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 462,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find 2 Calumon in north\nDigital Space."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Quest objective; official Western spelling checked."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 463,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Calumon in the\nFront Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Quest objective; official Western spelling checked."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 464,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Hide-and-Seek with Calumon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Quest title; official Western spelling checked."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 465,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Catch them, catch them,\ncatch them, catch them, and\ncatch them all!"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=EX2-045&search=true"
+      ],
+      "review_note": "Playful quest objective repeats the Japanese catch instruction; official Western spelling checked."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 467,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Justimon in the\nFront Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=BT10-067&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 468,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Apocalymon in west\nCrystal Volcano."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT15-102&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 469,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Apocalymon in Crystal\nCave."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT15-102&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 470,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Defeat Apocalymon in\nCrystal Quarry."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT15-102&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 471,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Justimon in the\nFront Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?free=BT10-067&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 472,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stop Apocalymon!"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT15-102&search=true"
+      ],
+      "review_note": "Quest title; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 473,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stop the rampage of\nApocalymon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT15-102&search=true"
+      ],
+      "review_note": "Quest objective; Western Digimon spelling checked against the official card list."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "Use the lower\nscreen to give\nyour Digimon\ncommands."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "Give orders\nwith the\nCommand Ring.\nPress left or\nright on the\nD-pad to rotate\nit, then press\nA to choose a\ncommand."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose a\nspecific move\nwith Command.\nSome moves hit\nmultiple\ntargets or deal\nextra damage.\nAttacking with\nan element an\nenemy is weak\nto deals more\ndamage."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiXross\ncombines\nDigimon in a\nspecial attack.\nTo use it,\nlearn a\nDigiXross move\nand keep all\nrequired\nDigimon in your\nparty. A\nDigimon with\nParalysis,\nSleep,\nConfusion, or\nBlindness\ncannot join a\nDigiXross\nattack."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Items to\nuse a\nconsumable.\nItems can\nrestore HP or\nMP, cure Health\nDown effects\nsuch as\nParalysis,\nSleep,\nConfusion, or\nBlindness, and\nrevive a KO'd\nDigimon."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Tactics\nfor automatic\nbattle orders.\nFull Power\npicks the\nstrongest move\nand a target\neach Digimon\ncan defeat.\nConserve MP\nchooses moves\nwith low MP\ncosts. Guard\nfocuses on\ndefense. Escape\ntries to flee.\nIf even one\nDigimon gets\naway, the party\nescapes."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Formation swaps\nthe selected\nDigimon with\nanother party\nmember."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Press B to redo\nyour commands."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "If your\ncommands are\nready, press X\nto start the\nbattle."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, I need\nhelp."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "No, thanks."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "Formation helps\nyou win\nbattles. The\nDigimon at the\nfront are the\nVanguard. They\nfight enemies\nand protect the\nRearguard from\nattacks. Only\nthe Vanguard\ncan use\nDigiXross."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "Move the cursor\nwith the D-pad.\nSelect a\nDigimon, then\npress A to open\nthe Command\nRing."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "Press Y to set\na Tactic for\nevery Vanguard\nand Rearguard\nDigimon."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "In battle, each\nDigimon's\ndisplay\nalternates\nbetween its\nname and its\naction. Tactics\nshow the\nselected\nTactic. Command\nand DigiXross\nshow the move.\nItems show the\nitem."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "If you have no\nmore commands\nto give, press\nX."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "After Command,\nDigiXross, or\nItems, your\nDigimon return\nto their\ndefault Tactic\nnext turn. The\nicon shows\nwhich Tactic:\nFull is Full\nPower, Eco is\nConserve MP,\nEsc is Escape,\nand Grd is\nGuard. New\nbattles start\nwith Full\nPower. Choose\nanother Tactic\nto change your\ndefault. Your\nchoice stays\nthat way\nbetween\nbattles."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... So we\nshould assign\nroles ahead of\ntime."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... So we\nshould assign\nroles ahead of\ntime."
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "That's where\nthe General's\nskill shines!"
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "That's where\nthe General's\nskill shines!"
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Do you need an\nexplanation of\nformations?"
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Do you need an\nexplanation of\nformations?"
+      ],
+      "sources": [],
+      "review_note": "Battle tutorial dialogue; wrapped to the 15-column story renderer and aligned with existing tactic names."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! I was brave for a\nlittle bit, and got a\nlittle EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa... This is way too\nhot! I quit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh! Those are fireworks,\nright? They look fun. I'll\ntry launching one!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow, they're beautiful!\nThat was a huge success...\nI think my EXP went way up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? It won't launch... Did\nI fail?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's a really big ball. I\nwish I could get on top and\nroll around!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yes! That went pretty well!\nI think my EXP went up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't stay on... I quit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is that a tightrope? I've\nalways wanted to try it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was easy! I did pretty\nwell. I think my EXP went\nup a fair bit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was scary... I'm never\ndoing that again!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a circus tent?\nMaybe I can learn\nsomething, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "I learned how to use the\nswing! I'm so happy! I\nthink my EXP went way up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! I could never do\nthat!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a mini shower? It\nlooks refreshing! Maybe\nI'll take a shower!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow, that is so cold! I\nfeel great! I think my EXP\nwent up a little!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa... This is too cold. I\nfeel awful..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this... a mini fishing\npond? It looks fun, so I'll\ngive it a try!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow, it is easy to catch\nfish here! I think my EXP\nwent up a fair bit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? No fish are biting...\nThis is no fun!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; friendly speaker tone retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party-wide: slightly\nresists enemy Poison."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party-wide: resists enemy\nPoison."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "More vulnerable to enemy\nPoison."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Resists Curse."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strongly resists Curse."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Immune to Curse."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party-wide: slight\nresistance to Curse."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party-wide: resistance to\nCurse."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Somewhat resists special\neffects."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strongly resists special\neffects."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Immune to special effects."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party-wide: slight\nresistance to special\neffects."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party-wide: some resistance\nto special effects."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly better at dodging\nenemy attacks."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Much better at dodging\nenemy attacks."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly easier for enemies\nto hit."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Your attacks are slightly\nmore accurate."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Your attacks are much more\naccurate."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Your attacks are slightly\nless accurate."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly more likely to\nland critical hits."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Much more likely to land\ncritical hits."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly less likely to\nland critical hits."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Escape Tactic is slightly\nmore likely to succeed."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology follows the existing status and tactic labels."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1048,
+      "category": "Locations",
+      "english": [
+        "Chikurimon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/rule/?card_no=ST13-08"
+      ],
+      "review_note": "Official English Digimon name checked against the card/rules database."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1049,
+      "category": "Locations",
+      "english": [
+        "Lost Space N"
+      ],
+      "sources": [],
+      "review_note": "Compact map label; North is abbreviated to fit the location tab."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1050,
+      "category": "Locations",
+      "english": [
+        "Lost Space S"
+      ],
+      "sources": [],
+      "review_note": "Compact map label; South is abbreviated to fit the location tab."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1052,
+      "category": "Locations",
+      "english": [
+        "Stealth Valley N"
+      ],
+      "sources": [],
+      "review_note": "Compact map label; uses the established Stealth Valley place name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1053,
+      "category": "Locations",
+      "english": [
+        "Stealth Valley S"
+      ],
+      "sources": [],
+      "review_note": "Compact map label; uses the established Stealth Valley place name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1054,
+      "category": "Locations",
+      "english": [
+        "Digital Space N"
+      ],
+      "sources": [],
+      "review_note": "Compact map label; North is abbreviated to fit the location tab."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1055,
+      "category": "Locations",
+      "english": [
+        "Digital Space S"
+      ],
+      "sources": [],
+      "review_note": "Compact map label; South is abbreviated to fit the location tab."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1072,
+      "category": "Locations",
+      "english": [
+        "Fort Yard"
+      ],
+      "sources": [],
+      "review_note": "Established map place name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1077,
+      "category": "Locations",
+      "english": [
+        "Digital Space E"
+      ],
+      "sources": [],
+      "review_note": "Compact map label; East is abbreviated to fit the location tab."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1085,
+      "category": "Locations",
+      "english": [
+        "Darkness Tunnel"
+      ],
+      "sources": [],
+      "review_note": "Direct map location translation."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1086,
+      "category": "Locations",
+      "english": [
+        "Tokona Sea"
+      ],
+      "sources": [],
+      "review_note": "Established map place name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4300,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 003"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4301,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 004"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4302,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 005"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4303,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 006"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4304,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 007"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4305,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 008"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4306,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 009"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4307,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 010"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4308,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 011"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4309,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 012"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4310,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 013"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4311,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 014"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4355,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 343"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4356,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 344"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4357,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 345"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4361,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 349"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4362,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 350"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4363,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 351"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4364,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 352"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4365,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 353"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4366,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 354"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4367,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 355"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4368,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 356"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4369,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 357"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4370,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 358"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4371,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 359"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4399,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 527"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4400,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 528"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4401,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 529"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4420,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4421,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 569"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4422,
+      "category": "Items and equipment",
+      "english": [
+        "Unused Slot 570"
+      ],
+      "sources": [],
+      "review_note": "The Japanese source marks an unassigned reservation in the item-name table; this renders it as an unused data slot rather than inventing an obtainable item."
+    }
+  ]
+}

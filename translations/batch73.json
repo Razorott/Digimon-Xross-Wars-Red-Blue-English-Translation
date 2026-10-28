@@ -1,0 +1,1409 @@
+{
+  "description": "Translate remaining DigiFarm reward reports and DigiScore captions in MESPAK04 entries 34 and 35.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moderately increases\nDigiFarm EXP. Machine\nDigimon gain more."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greatly increases DigiFarm\nEXP. Machine Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly increases\nDigiFarm EXP. Aquatic\nDigimon gain more."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moderately increases\nDigiFarm EXP. Aquatic\nDigimon gain more."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greatly increases DigiFarm\nEXP. Aquatic Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly increases\nDigiFarm EXP. Bird Digimon\ngain more."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moderately increases\nDigiFarm EXP. Bird Digimon\ngain more."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greatly increases DigiFarm\nEXP. Bird Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly increases\nDigiFarm EXP. Insect\nDigimon gain more."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moderately increases\nDigiFarm EXP. Insect\nDigimon gain more."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greatly increases DigiFarm\nEXP. Insect Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly increases\nDigiFarm EXP. Plant\nDigimon gain more."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moderately increases\nDigiFarm EXP. Plant\nDigimon gain more."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greatly increases DigiFarm\nEXP. Plant Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make an\nordinary weapon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make a\ndecent weapon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make a\ngood weapon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make a\ngreat weapon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make an\nexcellent weapon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make\nordinary armor."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make\ndecent armor."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make good\narmor."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make\ngreat armor."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ask a Digimon to make\nexcellent armor."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Friendship +1\nNo item."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Friendship +2\nNo item."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Found 100 bits\nNo item."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Found 500 bits\nNo item."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Found 1,000 bits\nNo item."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calumon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calumon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "IceDevimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Aquilamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Agunimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ankylomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Airdramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "ExVeemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Angemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Kabuterimon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Kabuterimon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gaogamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gargomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Garurumon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Kyubimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Kurisarimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Growlmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greymon L\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gekomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Seasarmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?card_no=EX12-011&search=true"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 34,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Coelamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?card_no=BT15-023&search=true"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shellmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stingmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Tankmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Tyrannomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gatomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Devimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dorugamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hanumon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bakemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Flaremon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=firamon"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buraimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Minotaurmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Mushamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Raptordramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rukamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=rukamon"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Leomon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Leomon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Lekismon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Argomon (Ultimate)\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Insekimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Infermon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Vajramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Myotismon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Angewomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Kabukimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Karatenmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Chimairamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Kyukimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gigadramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Crescemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "GrapLeomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Grademon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cerberumon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shakkoumon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Silphymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sinduramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cherrymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "SkullBaluchimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Taomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Chirinmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dinobeemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dorugremon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bastemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Paildramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pandamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Phantomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Flaremon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Butenmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blossomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 35,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Whamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "DigiFarm rewards and DigiScore captions translated from the source. Canonical Western Digimon spellings are used where established; the original up/down markers are preserved, and generic DigiScore placeholder text is not expanded into invented lore."
+    }
+  ]
+}

@@ -1,0 +1,1916 @@
+{
+  "description": "Translate the remaining combat-effect descriptions in MESPAK04 entries 20 through 23.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "An electrifying wave\ndestroys nearby foes. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rakes a foe with claws\nsharp as a falcon's."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a fireball at a foe\nusing power focused in its\nhead."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slips into a foe's guard\nand lands an uppercut."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sweeps away nearby foes\nlike a wild beast."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges a foe with its\nlimbs tucked away in a\ncocoon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Creates a tsunami that\nfreezes nearby foes. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Traps a foe in a strange\nweb. May cause Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries nearby foes with a\nbewitching kiss of\ndarkness. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Merges with nearby foes'\nshadows to immobilize\nthem. Lowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Draws its demon sword and\nslashes a foe with a cross\ncut. Deals Dark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smears a foe with a filthy\nliquid kick. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries a foe in a golden\nradiance."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a shower of tiny\nneedles at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits blue flames at a\nfoe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires Vulcan cannons from\nboth hands at nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a legendary sphere\nof energy at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with\nholy blades on both ears."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes a hard nut explode\namong nearby foes. Deals\nFire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Turns its body into a\nmallet and delivers holy\njudgment. May cause\ninstant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slams its body down and\ncauses a great earthquake\naround it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes out searing\nflames to burn nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blinds nearby foes with\nlight from its earrings.\nLowers Wisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Jabs a foe at Mach speed.\nDeals Fighting damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges and crushes a foe\nwith its giant horn. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Glares at a foe with red\neyes and stops it in its\ntracks."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bombards a foe with\ntorpedo-shaped missiles.\nDeals Fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges at a foe with its\nfangs ready. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moves at light speed to\nraise its Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts a foe with an\nelectric cannon. Lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a summoned meteor at\na foe. Lowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slams its many wet\ntentacles into nearby\nfoes. Lowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Creates a freezing\nblizzard that freezes a\nfoe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hunches its back like a\nmountain to raise one\nally's Defense and Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a ball of searing\nmagma at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows up nearby foes with\ntorpedo-shaped missiles."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts a foe with a\nhigh-density energy\ncannon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges at a foe at full\nspeed. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries nearby foes with a\nbewitching breath of\ndarkness. May cause\ninstant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Drives away nearby foes\nwith holy light. Deals\nWater damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smashes nearby foes with a\nholy, lightning-fast\nflurry of blows."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with the\nholy sword Blutgang."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a devastating sword\nof light at a foe. Deals\nDark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with a\ncrescent-shaped energy\nnaginata."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Makes a rain of fiery\nmeteors fall on nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Explodes nearby foes with\nenergy drawn from the\natmosphere."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Grabs a fireball and\npunches a foe with it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes moisture in the\nair and hurls it at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 20,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with a sharp\nkick like a bolt of\nlightning."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes sacred light to\ndestroy a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes a foe from the\nshadows before it can\nreact."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slams a foe with a battle\nmartial-arts move."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a\nflaming fist."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a fist\nof ice."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with an\nelectrified fist."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a fist\nof light."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a fist\nof darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a\ntightly clenched fist."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes hot air on nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes a blizzard on\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes lightning on\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes shining light on\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes a thick, black\ncloud on nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with a\npowerful shock wave."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a small lump of fire\nat a foe. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a lump of fire at a\nfoe. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a large lump of fire\nat a foe. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a giant lump of fire\nat a foe. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a huge lump of fire\nat a foe. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a small piece of\nice at a foe. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a piece of ice at a\nfoe. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a large piece of\nice at a foe. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a giant piece of\nice at a foe. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a huge piece of ice\nat a foe. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends a light electric\nshock through a foe.\nSlightly boosts Melody\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends an electric shock\nthrough a foe. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends a strong electric\nshock through a foe.\nSlightly boosts Melody\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends a powerful electric\nshock through a foe.\nSlightly boosts Melody\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends an ultra-powerful\nelectric shock through a\nfoe. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with a\nfaint flash. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with a\nflash. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with a\nstrong flash. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with a\npowerful flash. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with an\nultra-powerful flash.\nSlightly boosts Melody\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries a foe with a weak\nblast of dark energy.\nSlightly boosts Melody\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries a foe with a blast\nof dark energy. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries a foe with a strong\nblast of dark energy.\nSlightly boosts Melody\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries a foe with a\npowerful blast of dark\nenergy. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries a foe with an\nultra-powerful blast of\ndark energy. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with a light\nblow. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with a blow.\nSlightly boosts Melody\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Quickly hits a foe with a\nstrong blow. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Quickly hits a foe with a\npowerful blow. Slightly\nboosts Melodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Quickly hits a foe with an\nultra-powerful blow.\nSlightly boosts Melody\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Uses the power of the sun\nto restore allies' HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Uses a goddess's power to\nrestore one ally's HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slaps a foe hard with wet\nwings. Deals Water damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 21,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Uses heavenly light to\nheal an ally's Health Down\nand restore HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Uses a wave to heal one\nally's Health Down."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Drags nearby foes\nunderwater and swallows\nthem."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires two sharp, red shock\nwaves at a foe. Deals\nFighting damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 00\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 01\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "King of Locker\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 02\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 03\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Soul Majesty\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Restores an ally's HP with\nsweet sugar."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Turns its shining aura\ninto a blade and slashes a\nfoe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\na special wave. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 06\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 07\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Azure Flame\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 08\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 09\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Twilight Dance\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a giant fireball at\na foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Amplifies light with a\nmicrophone and blasts\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swings its microphone\nwildly and smashes nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Burns nearby foes with a\nsuper flamethrower."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slams its hot tail into\nnearby foes with all its\nstrength."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Crouches, builds up speed,\nand charges at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Savagely attacks a foe\nlike a starving beast."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Lulls nearby foes to sleep\nwith a hypnotic wave.\nLowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Turns its spear into a\ndrill and mercilessly\npierces a foe. Deals Dark\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Leaps into a fireball and\ncharges at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Releases wings of light to\nslash a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bombards nearby foes with\na plasma breath."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sweeps away foes with the\nVictory Spear."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dissolves a foe in an\nacidic storm. May cause\nDarkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe repeatedly.\nDeals Dark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows up a foe with an\naurora-wrapped projectile.\nMay cause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a holy, slashing\nshock wave at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with a\nblade of blue aura. Deals\nFire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Engulfs nearby foes in a\ngiant tornado of fire."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires dark energy from a\ngiant cannon at nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges at a foe with a\ngiant drill lance. Deals\nFighting damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with a wave\nof light."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with\nsolar energy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smashes nearby foes with\ncosmic energy. Deals Fire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 29\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 30\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 31\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 32\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 33\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 22,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Undecided 34\nPlaceholder description."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 23,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with giant\nmechanical claws. Deals\nElectric damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Existing move labels were checked against the game's technique index and prior Western Digimon game terms where applicable."
+    }
+  ]
+}

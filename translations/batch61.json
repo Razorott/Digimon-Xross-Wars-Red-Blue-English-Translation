@@ -1,0 +1,1780 @@
+{
+  "description": "Translate 100 additional battle-technique descriptions, 21 gift-ticket descriptions, and the next NPC dialogue set for Sky Fortress and nearby DigiFarm shops.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sweet-talks nearby foes.\nMay cause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Reads a foe's intent,\nraising one ally's Defense\nand Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a compressed\nelectric bolt at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe in a wild\nflurry. Deals dark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stabs a foe with the\nmagic spear Balmung.\nDeals dark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pummels a foe with fiery\npunches and kicks.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires alluring energy at\nnearby foes. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Envelops nearby foes in\nmystic water mist. Deals\npoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scatters potent poison\npowder over a foe. Deals\npoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a strange beam\nfrom its eyes at nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dances and scatters\nfragrant pollen over a\nfoe.\nMay cause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "A soothing song paralyzes\nnearby foes. May also\ncause Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calls down healing rain\nto restore allies' HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures allies' status\nailments and restores HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Restores allies' HP with\na healing light."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Uses machine power to\ncure allies' status\nailments\nand restore HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Revives allies with the\nhealing power of the\nearth."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Revives one ally with a\nlight full of compassion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures one ally's status\nailments and restores HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures allies' status\nailments with a sea\ntsunami\nand restores HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Brings one ally back from\nthe world of the dead."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Restores one ally's HP\nwith an electric current."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures allies' status\nailments with a healing\nwind\nand restores HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Revives one ally with a\nradiant light."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures allies' status\nailments with a light wave\nand restores HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Nanomachines cure allies'\nstatus ailments and\nrestore\nHP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with the\nlarge shuriken on its\nback.\nDeals Light damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cross-slashes a foe with\ntwo holy swords."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes fire on a foe.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Traps nearby foes in a\nspace-time stone. May\ncause\ninstant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with a\nwave of light. Deals Light\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices a foe with a huge\nanchor. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Melts a foe with a rainbow\nheat ray. Deals poison\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes at light speed\nwith two swords. Greatly\nraises Melody Capture\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes nearby foes in an\nabsolute-zero blizzard.\nMay\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sets off a fierce flash\nexplosion near foes.\nLowers\ntheir Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swings the crane on its\nback and smashes a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Traps and destroys nearby\nfoes in another dimension.\nMay cause instant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Teleports a dark sword\nthrough nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires dark arrows from\nboth Evil Eyes. May cause\ninstant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swallows nearby foes in an\nunderwater whirlpool."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a dark orb to\ndestroy nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Summons a hellbeast to\nattack a foe. Deals dark\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Burns nearby foes with\nvengeful hellfire. Deals\nfire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes' data\nwith dark gas."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Finds nearby foes'\ncoordinates and sends them\nto another world. May\ncause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires dark matter to\nerase nearby foes. Deals\ndark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe without\nmercy with its right-arm\nlance."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires dark bullets from\nBerenjena. Deals dark\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 6,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries a foe beyond\nspace and time. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires high-temperature\ndark beams from both\nshoulders."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\nthe flames of holy light."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Speeds up a foe's body\nclock, causing it to age.\nMay cause instant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires beams at nearby foes\nfrom a holy shield. May\ncause instant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes with a sword and\na fiery shock wave. Deals\nfire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Envelops nearby foes in\nthe darkness of death. May\ncause instant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with\na kudagitsune familiar.\nDeals water damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts a foe with the divine\nsword Burtgang."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sweeps nearby foes with a\nbroom. Lowers their\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gathers atmospheric\nenergy and blasts nearby\nfoes. Deals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an energy wave from\na cannon. Deals electric\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires gathered light at\nnearby foes. Lowers their\nIntelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fuses energy in both hands\nand burns a foe. Deals\nfire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Amplifies light and blasts\nnearby foes. Deals Light\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rains light-infused candy\non nearby foes. May cause\nSleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges with its whole\nbody in flames. Lowers the\nfoe's Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with\nthe holy sword Omega\nBlade."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes nearby foes with\nelectric shocks from three\narms. Deals electric\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smashes a foe with a\nbullet-shaped hammer.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys data with a dark\ncomputer virus. Deals dark\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes its full energy\nto burn a foe. May cause\ninstant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Burns nearby foes with\nflames from its mouth."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with vile\nflames. May cause instant\ndeath."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rams a foe with its\nradiant, full-metal body."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Explodes sacred energy to\nknock down nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with a\ngiant missile. Lowers\ntheir\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bombards nearby foes with\nits full arsenal. Lowers\ntheir Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces nearby foes with a\nrain of spikes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an\nultra-high-voltage\nelectric orb."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gathers electric power to\nslice through foes and the\nspace around them."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes all its energy\nin an explosion. Deals\nfire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gathers electric power in\nits horn and fires at\nnearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Burns nearby foes with a\nblazing beam."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes with light-powered\nblades on both arms.\nLowers\nthe foe's Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires energy torpedoes at\nnearby foes. Deals fire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts with the giant sword\nRyuzanmaru. Deals poison\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rends a foe with huge,\nrazor-sharp claws. Deals\nfighting damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a Battle Axe at\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with\nthe Otoko Damashii dagger.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Channels water through\nMjolnir to smash a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sharpens its electric whip\nand thrusts its tip into a\nfoe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Binds a foe and shocks it.\nMay cause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a lightning spear to\nbring down divine\npunishment."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a spear infused with\ndark power."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a light arrow from\nthe holy bow Muspelheim."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with\nhigh-voltage energy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes freezing air to\nfreeze a foe. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires dark-energy orbs at\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes a foe after\nslashing it with an\nabsolute-zero sword."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 7,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a water-infused\nspear with a will of its\nown.\nDeals poison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Translated from the original Japanese battle-effect text. Status, stat, damage-type, and Melody Capture terms follow the project's established UI wording."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nKoromon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?card_no=EX10-002&search=true"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nGuilmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nPalmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nGomamon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nDemiDevimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nLopmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nGoblimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nLucemon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nDracomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/?card_no=BT20-007&search=true"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nPhascomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/index.php?category=522901&free=Store+Tournament+2025+Vol.+4&search=true"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nDevimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nNumemon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nKabuterimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nBakemon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nTogemon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nGuardromon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nExVeemon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nStingmon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nKurisarimon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nDarkTyrannomon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gift from:\nIkkakumon\nRedeem at Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The original identifies this as a Service Counter gift ticket. The species-only inventory label is retained to match the game's short item name; the description states who gives the gift and where to redeem it."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? That's\nstrange... I\ncan usually\nsave here...\nDid the save\nterminal break?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? That's\nstrange... I\ncan usually\nsave here...\nDid the save\nterminal break?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "You got Sky\nFortress back\nfor us... Thank\nyou so much!\n\nI'd like to\njoin your team,\ntoo! If you\ndon't mind,\ncome talk to me\nanytime!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "You got Sky\nFortress back\nfor us... Thank\nyou so much!\n\nI'd like to\njoin your team,\ntoo! If you\ndon't mind,\ncome talk to me\nanytime!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks for\ntaking back\nCapacitor\nTower... You\nreally helped\nme out, kwa!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks for\ntaking back\nCapacitor\nTower... You\nreally helped\nme out, kwa!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to the\nSkull City\nDigiFarm Shop!\nYeah! Rock you!\nBomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to the\nSkull City\nDigiFarm Shop!\nYeah! Rock you!\nBomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Hoge-hoge♪ No\none can stop\nthe Donos'\nsong!♪\nWho could ever\nsilence our\nvoices?\nOnly\nearthquakes,\nthunder,\nvolcanic\neruptions,\nsmoke... and my\nmom!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "Hoge-hoge♪ No\none can stop\nthe Donos'\nsong!♪\nWho could ever\nsilence our\nvoices?\nOnly\nearthquakes,\nthunder,\nvolcanic\neruptions,\nsmoke... and my\nmom!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to the\nKumonos City\nDigiFarm Shop!\nYeah! Howdy!\nBomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to the\nKumonos City\nDigiFarm Shop!\nYeah! Howdy!\nBomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to the\nPapyrus City\nDigiFarm Shop!\nYeah! Gotcha!\nBomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to the\nPapyrus City\nDigiFarm Shop!\nYeah! Gotcha!\nBomber!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "NPC and area wording translated from the original Japanese story script; established area names and character voice are preserved."
+    }
+  ]
+}

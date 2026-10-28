@@ -1,0 +1,1307 @@
+{
+  "description": "Finish the remaining map, key, quest reward, and test description strings in MESPAK04.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Memory recovered from\nDevimon. It contains\nimportant Terriermon data."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "DigiNoir for Leomon.\nDelicious, and it restores\nenergy."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "A score entrusted to you\nby a stone monument\nDigimon. What it records\nis unknown."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Mysterious data left\nbehind by Kuramon. It\nmight be someone's score."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "A passionate flower from\nRosemon, often given with\na proposal."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "A seductive flower from\nLotusmon. Give it to make\nsomeone swoon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Proof that you defeated\nthe powerful Aegisdramon:\nthe mark of a kind\ngentleman."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Proof that you defeated\nthe powerful Apocalymon:\nthe mark of a brave hero."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Proof that you conquered\nthe ultimate Colosseum:\nthe mark of a legendary\nking."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nSky Fort."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nFort Yard."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nKnuckle Coast West."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nKnuckle Coast East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nGuruguru Amazon West."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nGuruguru Amazon East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nDigital Space East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nSkull Glacier West."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nSkull Glacier East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nSpider Ruins West."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nSpider Ruins East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nPapyrus Desert North."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nPapyrus Desert South."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nFlower Plains."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nDark Tunnel."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nTokona Sea."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nTokona Coast."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nCrystal Volcano West."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nCrystal Volcano East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nCrystal Mine."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nCrystal Cave."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nStealth Valley North."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nStealth Valley South."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nLost Space North."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nLost Space South."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nDigital Space North."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "A map showing the areas of\nDigital Space South."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Skyport's\ngate in Sky Fort."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens EK City\nPort's gate in Knuckle\nCoast East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Guruguru\nWest Port's gate in\nGuruguru Amazon West."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Guruguru\nCity Port's gate in\nGuruguru Amazon East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Skull\nCity Port's gate in Skull\nGlacier West."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Skull\nEast Port's gate in Skull\nGlacier East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Spider\nWest Port's gate in Spider\nRuins West."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Spider\nCity Port's gate in Spider\nRuins East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Papyrus\nNorth Port's gate in\nPapyrus Desert North."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Papyrus\nCity Port's gate in\nPapyrus Desert South."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Flower\nPort's gate in Flower\nPlains."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Tokona\nPort's gate in Tokona\nCoast."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Earth\nPort's gate at Earth Fort\nin Crystal Volcano East."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Crystal\nMine Port's gate in\nCrystal Mine."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Stealth\nNorth Port's gate in\nStealth Valley North."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Lost\nNorth Port's gate in Lost\nSpace North."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Lost\nSouth Port's gate in Lost\nSpace South."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens Digital\nNorth Port's gate in\nDigital Space North."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens a gate in\nGuruguru Amazon West, Area\n4."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens a gate in\nGuruguru Amazon East, Area\n2."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens a gate in\nSpider Ruins West, Area 1."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens a gate in\nSpider Ruins East, Area 3."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "A key that opens a gate in\nKnuckle Coast East, Area\n3."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 343\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 344\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 345\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 349\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 350\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 351\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 352\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 353\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 354\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 355\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 356\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 357\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 358\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 40,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 359\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 527\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 528\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 529\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 569\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 41,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 570\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Test Score 8\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Test Score 9\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Test Score 10\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 0,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Key Test\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Test Move 1\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Test Move 2"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Test Move 4\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Test Move 5\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Heavy Speaker\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shooting Me"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 3,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Xros Four\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Recover One Status\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Recover Line Status\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Revive\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Multi-Status Disk\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project area and item glossary"
+      ],
+      "review_note": "Direct description translation. Canonical item, map, and character terms follow the existing project glossary; explicit test and unused strings remain clearly marked."
+    }
+  ]
+}

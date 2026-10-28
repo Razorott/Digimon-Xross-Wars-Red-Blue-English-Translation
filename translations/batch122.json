@@ -1,0 +1,4 @@
+{
+  "description": "Apply the Blue-only interface palette theme: red UI accents become blue and orange UI frames become purple; existing green reserve/list panels remain green. Red build retains its original interface palette.",
+  "blocks": []
+}

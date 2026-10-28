@@ -1,0 +1,4 @@
+{
+  "description": "Blue-only battle HUD palette update: active red party boxes shift to blue and orange reserve boxes shift to purple, retaining the existing frames and layout. Red remains unchanged.",
+  "blocks": []
+}

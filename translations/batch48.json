@@ -1,0 +1,395 @@
+{
+  "description": "Translate the Sky Fortress rescue and ROG confrontation scene.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki,\nBallistamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "He’s okay! He’s\nonly\nunconscious. We\nmade it in\ntime!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey,\nBallistamon!\nHang in there!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "How dare you do\nwhatever you\nwant with us!\nI’ll pay you\nback a million\ntimes over!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Wake up,\nBallistamon! We\ncame to save\nyou!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Ballistamon!!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "...Taiki. I\nknew you’d\ncome."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "Of course I\ncame! There’s\nno way I’d\nleave you\nbehind!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yeah, you’re\nright. Thanks.\nYou saved me."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, thank\ngoodness! Is\neveryone all\nright?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, we\nmanaged. But\nunless we\ndefeat their\nboss, ROG will\noccupy this\nplace again in\nno time."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Ballistamon,\nwhere’s their\nboss?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "In the room\nahead."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Everyone, be\ncareful! Their\nboss,\nMinotaurmon...\nis on a whole\ndifferent level\nfrom anyone\nwe’ve fought so\nfar!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "No matter what\nkind of enemy\nthey are, we\nwon’t lose!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... If only\nthe DigiLab and\nDigiFarm were\nworking, they\ncould help us.\nThey’re\ncompletely shut\ndown, so I\ncan’t get them\nrunning right\naway. But\nthat’s also why\nyour friends\nstayed safe."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "What are the\nDigiLab and\nDigiFarm?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "The DigiLab is\nwhere you\ngather and\nraise your\nallies."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "The DigiFarm is\nwhere Digimon\ntrain to get\nstronger."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "If you use\nthese two\nsystems well,\nDigimon can\ngreatly\nincrease their\nstrength. While\nyou all go\ndefeat the\nDigimon in the\nCommander Room,\nI’ll check the\nsystems here."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "...I still\ndon’t really\nget it, but\nright now we\nhave to protect\nthis Sky\nFortress from\nthe enemy! Come\non, everyone!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Ballistamon\njoined the\nteam!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, you there!\nAre you the ROG\nboss?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hmm? Who are\nyou? I won’t\nforgive anyone\nwho barges into\nmy Sky\nFortress!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "You’re the ones\nwho barged in\nhere!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "You kicked out\nthe Digimon who\nlive here by\nforce! That’s\nawful! I’m\nZenjiro, Koto\nWard’s\nstrongest\nswordsman, and\nthese are my\nfriends!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "You don’t get\nit... I’m\nMinotaurmon,\nROG’s powerful\nleader, Lord\nMinotaurmon the\nQuake! Get lost\nbefore I crush\nyou!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Y-you’re the\nones who are\nleaving! Give\nour Sky\nFortress back!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Y-you...\nSpadamon! I\nheard you got\naway... Hahaha!\nYou came right\nto me! If I\ncapture you,\nLord ZD\nMillenniummon’s\nambition will\nbe fulfilled:\nconquering the\nworld with the\nLegendary\nAncient\nWeapons!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG’s biggest\nboss... ZD\nMillenniummon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. DigiLab, DigiFarm, and DigiXross use the established project terminology."
+    }
+  ]
+}

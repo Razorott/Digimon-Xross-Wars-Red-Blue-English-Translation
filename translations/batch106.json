@@ -1,0 +1,4 @@
+{
+  "description": "Digidex profile punctuation repair: use a visible two-byte apostrophe glyph and rejoin split possessive suffixes before profile text wrapping.",
+  "blocks": []
+}

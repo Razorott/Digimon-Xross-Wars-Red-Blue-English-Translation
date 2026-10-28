@@ -1,0 +1,1733 @@
+{
+  "description": "Battle techniques and Barbamon/Sky Fort story dialogue. Western technique names are sourced where verified; other attack names remain provisional.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1717,
+      "category": "Battle moves",
+      "english": [
+        "Infinity Arrow"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=saberleomon"
+      ],
+      "review_note": "Official Digimon Web Encyclopedia names Infinity Arrow as SaberLeomon’s technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2334,
+      "category": "Battle moves",
+      "english": [
+        "Infinity Arrow"
+      ],
+      "sources": [
+        "https://digimon.net/reference_en/detail.php?directory_name=saberleomon"
+      ],
+      "review_note": "Official Digimon Web Encyclopedia names Infinity Arrow as SaberLeomon’s technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1720,
+      "category": "Battle moves",
+      "english": [
+        "Great Tornado"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522001&search=true"
+      ],
+      "review_note": "Bandai English card list confirms Great Tornado. Other direct readings remain working names."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2996,
+      "category": "Battle moves",
+      "english": [
+        "Great Tornado"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522001&search=true"
+      ],
+      "review_note": "Bandai English card list confirms Great Tornado. Other direct readings remain working names."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1722,
+      "category": "Battle moves",
+      "english": [
+        "Positron Laser"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2998,
+      "category": "Battle moves",
+      "english": [
+        "Positron Laser"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1723,
+      "category": "Battle moves",
+      "english": [
+        "Royal Saber"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2999,
+      "category": "Battle moves",
+      "english": [
+        "Royal Saber"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1724,
+      "category": "Battle moves",
+      "english": [
+        "Smiley Warhead"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2361,
+      "category": "Battle moves",
+      "english": [
+        "Smiley Warhead"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1725,
+      "category": "Battle moves",
+      "english": [
+        "Holy Espada"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3001,
+      "category": "Battle moves",
+      "english": [
+        "Holy Espada"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1727,
+      "category": "Battle moves",
+      "english": [
+        "Burst Banchou Punch"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2369,
+      "category": "Battle moves",
+      "english": [
+        "Burst Banchou Punch"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1730,
+      "category": "Battle moves",
+      "english": [
+        "GeoGrey Sword"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3006,
+      "category": "Battle moves",
+      "english": [
+        "GeoGrey Sword"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1731,
+      "category": "Battle moves",
+      "english": [
+        "Full Moon Blaster"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2385,
+      "category": "Battle moves",
+      "english": [
+        "Full Moon Blaster"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1732,
+      "category": "Battle moves",
+      "english": [
+        "Megaton Hydro Laser"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2386,
+      "category": "Battle moves",
+      "english": [
+        "Megaton Hydro Laser"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1734,
+      "category": "Battle moves",
+      "english": [
+        "Phoibos Blow"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3010,
+      "category": "Battle moves",
+      "english": [
+        "Phoibos Blow"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1736,
+      "category": "Battle moves",
+      "english": [
+        "Ernstwell"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3012,
+      "category": "Battle moves",
+      "english": [
+        "Ernstwell"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1737,
+      "category": "Battle moves",
+      "english": [
+        "Gear Stinger"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3013,
+      "category": "Battle moves",
+      "english": [
+        "Gear Stinger"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1739,
+      "category": "Battle moves",
+      "english": [
+        "Avalon's Gate"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3015,
+      "category": "Battle moves",
+      "english": [
+        "Avalon's Gate"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1741,
+      "category": "Battle moves",
+      "english": [
+        "Heaven's Cure"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3017,
+      "category": "Battle moves",
+      "english": [
+        "Heaven's Cure"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1742,
+      "category": "Battle moves",
+      "english": [
+        "Sand Shower"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3018,
+      "category": "Battle moves",
+      "english": [
+        "Sand Shower"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1744,
+      "category": "Battle moves",
+      "english": [
+        "Flower Necklace"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3020,
+      "category": "Battle moves",
+      "english": [
+        "Flower Necklace"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1745,
+      "category": "Battle moves",
+      "english": [
+        "Soul Banish"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3021,
+      "category": "Battle moves",
+      "english": [
+        "Soul Banish"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1746,
+      "category": "Battle moves",
+      "english": [
+        "Snake Bandage"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3022,
+      "category": "Battle moves",
+      "english": [
+        "Snake Bandage"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1747,
+      "category": "Battle moves",
+      "english": [
+        "Golden Triangle"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2295,
+      "category": "Battle moves",
+      "english": [
+        "Golden Triangle"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1750,
+      "category": "Battle moves",
+      "english": [
+        "Nuclear Laser"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522001&search=true"
+      ],
+      "review_note": "Bandai English card list confirms Great Tornado. Other direct readings remain working names."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3026,
+      "category": "Battle moves",
+      "english": [
+        "Nuclear Laser"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522001&search=true"
+      ],
+      "review_note": "Bandai English card list confirms Great Tornado. Other direct readings remain working names."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1752,
+      "category": "Battle moves",
+      "english": [
+        "Sacred Roar"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3028,
+      "category": "Battle moves",
+      "english": [
+        "Sacred Roar"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1753,
+      "category": "Battle moves",
+      "english": [
+        "Plasma Shoot"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3029,
+      "category": "Battle moves",
+      "english": [
+        "Plasma Shoot"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1755,
+      "category": "Battle moves",
+      "english": [
+        "Maple-Leaf Grater"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3031,
+      "category": "Battle moves",
+      "english": [
+        "Maple-Leaf Grater"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1762,
+      "category": "Battle moves",
+      "english": [
+        "Mega Sonic Voice"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3038,
+      "category": "Battle moves",
+      "english": [
+        "Mega Sonic Voice"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1763,
+      "category": "Battle moves",
+      "english": [
+        "Metal Arm"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3039,
+      "category": "Battle moves",
+      "english": [
+        "Metal Arm"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1765,
+      "category": "Battle moves",
+      "english": [
+        "Curse Breath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3041,
+      "category": "Battle moves",
+      "english": [
+        "Curse Breath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1766,
+      "category": "Battle moves",
+      "english": [
+        "Rajas"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3042,
+      "category": "Battle moves",
+      "english": [
+        "Rajas"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1767,
+      "category": "Battle moves",
+      "english": [
+        "Planet Hammer"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3043,
+      "category": "Battle moves",
+      "english": [
+        "Planet Hammer"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1768,
+      "category": "Battle moves",
+      "english": [
+        "Bloody Whip"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3044,
+      "category": "Battle moves",
+      "english": [
+        "Bloody Whip"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1769,
+      "category": "Battle moves",
+      "english": [
+        "Gale Kick"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3045,
+      "category": "Battle moves",
+      "english": [
+        "Gale Kick"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1770,
+      "category": "Battle moves",
+      "english": [
+        "Nature Heal"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3046,
+      "category": "Battle moves",
+      "english": [
+        "Nature Heal"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1771,
+      "category": "Battle moves",
+      "english": [
+        "Poison Mist"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3047,
+      "category": "Battle moves",
+      "english": [
+        "Poison Mist"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1772,
+      "category": "Battle moves",
+      "english": [
+        "Wrapping Bubble"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3048,
+      "category": "Battle moves",
+      "english": [
+        "Wrapping Bubble"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1773,
+      "category": "Battle moves",
+      "english": [
+        "Lullaby Bubble"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3049,
+      "category": "Battle moves",
+      "english": [
+        "Lullaby Bubble"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1774,
+      "category": "Battle moves",
+      "english": [
+        "Ice Comet"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3050,
+      "category": "Battle moves",
+      "english": [
+        "Ice Comet"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1775,
+      "category": "Battle moves",
+      "english": [
+        "White Hail"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3051,
+      "category": "Battle moves",
+      "english": [
+        "White Hail"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1776,
+      "category": "Battle moves",
+      "english": [
+        "Hard-Shell Crab"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3052,
+      "category": "Battle moves",
+      "english": [
+        "Hard-Shell Crab"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1778,
+      "category": "Battle moves",
+      "english": [
+        "Pawn Spear"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3054,
+      "category": "Battle moves",
+      "english": [
+        "Pawn Spear"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1783,
+      "category": "Battle moves",
+      "english": [
+        "Twinkle Beam"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3059,
+      "category": "Battle moves",
+      "english": [
+        "Twinkle Beam"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1784,
+      "category": "Battle moves",
+      "english": [
+        "Gyro Break"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3060,
+      "category": "Battle moves",
+      "english": [
+        "Gyro Break"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1786,
+      "category": "Battle moves",
+      "english": [
+        "Sweet Breath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3062,
+      "category": "Battle moves",
+      "english": [
+        "Sweet Breath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1787,
+      "category": "Battle moves",
+      "english": [
+        "Rapid Poop Toss"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3063,
+      "category": "Battle moves",
+      "english": [
+        "Rapid Poop Toss"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1788,
+      "category": "Battle moves",
+      "english": [
+        "Poop Paradise"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3064,
+      "category": "Battle moves",
+      "english": [
+        "Poop Paradise"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese attack name; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "You did\nexceptionally\nwell.\n\nYou were\nexcellent bait\nto lure\nSpadamon and\nthe others to\nthe\nCapacitor\nTowers and\nget them\nrunning..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "You did\nexceptionally\nwell.\n\nYou were\nexcellent bait\nto lure\nSpadamon and\nthe others to\nthe\nCapacitor\nTowers and\nget them\nrunning..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "Gah... My\nbody...\nI can't move..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "Gah... My\nbody...\nI can't move..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "But you've\nlearned too\nmuch.\n\nTo keep you\nfrom giving\nSpadamon and\nthe others\nany more\ninformation,\nI'll make sure\nyou can\nnever return to\nthis Zone!\nWithout that\ninformation,\nSpadamon will\nbe helpless!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "But you've\nlearned too\nmuch.\n\nTo keep you\nfrom giving\nSpadamon and\nthe others\nany more\ninformation,\nI'll make sure\nyou can\nnever return to\nthis Zone!\nWithout that\ninformation,\nSpadamon will\nbe helpless!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "Quit your\nwhining,\nweak General.\n\nI only sent you\nto\nanother Zone.\nWe'll meet\nagain\nsomeday...\nassuming\nyou survive the\ntrip in\none piece."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "Quit your\nwhining,\nweak General.\n\nI only sent you\nto\nanother Zone.\nWe'll meet\nagain\nsomeday...\nassuming\nyou survive the\ntrip in\none piece."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon, I'll\nnever\nforgive you...!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon, I'll\nnever\nforgive you...!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm...\n\nThere's nothing\nleft\nyou can do...\nand yet\nyou look so\npitiful.\nI could watch a\nlittle\nlonger..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm...\n\nThere's nothing\nleft\nyou can do...\nand yet\nyou look so\npitiful.\nI could watch a\nlittle\nlonger..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "We won't\nlose...!\nWe can't\nlose...!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "We won't\nlose...!\nWe can't\nlose...!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell the Weapon\nDigimon\nto run while\nthey still\ncan!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell the Weapon\nDigimon\nto run while\nthey still\ncan!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Are you\nall right,\nTaiki?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Are you\nall right,\nTaiki?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "...Shoutmon?\n... ... ...\nY-Yeah.\nI think I'm\nokay."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "...Shoutmon?\n... ... ...\nY-Yeah.\nI think I'm\nokay."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "No way!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "No way!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "Garbage!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "Garbage!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks for\ntaking back\nthe tower! You\nwere all\namazing!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks for\ntaking back\nthe tower! You\nwere all\namazing!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "So the\nprotection\naround Sky Fort\nis gone\nnow, right?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "So the\nprotection\naround Sky Fort\nis gone\nnow, right?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "It... it's\nstill on!\n\nThere was\nanother\nCapacitor\nSystem we\nhad to shut\ndown!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "It... it's\nstill on!\n\nThere was\nanother\nCapacitor\nSystem we\nhad to shut\ndown!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "What?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "What?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "I was surprised\ntoo!\nAs soon as\nSpadamon and\nthe others\nswitched the\nsixth Capacitor\nTower\nback to normal\nmode,\nthat system\ncontacted\nEarth Fort out\nof nowhere!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "I was surprised\ntoo!\nAs soon as\nSpadamon and\nthe others\nswitched the\nsixth Capacitor\nTower\nback to normal\nmode,\nthat system\ncontacted\nEarth Fort out\nof nowhere!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "What did it\nsay?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "What did it\nsay?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "It only said,\n'Come to\nStealth\nValley.'"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "It only said,\n'Come to\nStealth\nValley.'"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "You're finally\nback!\nHey, listen to\nthis!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "You're finally\nback!\nHey, listen to\nthis!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "What's going\non? If you\nmean that\nprotection\nthing, it'll\ndisappear\nsoon. Don't\nworry!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "What's going\non? If you\nmean that\nprotection\nthing, it'll\ndisappear\nsoon. Don't\nworry!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "That's okay. I\ntrust\nyou completely!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "That's okay. I\ntrust\nyou completely!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Then why are\nyou in\nsuch a hurry?"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Then why are\nyou in\nsuch a hurry?"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Listen! A Lost\nSpace\nsuddenly\nappeared near\nSky Fort!!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Listen! A Lost\nSpace\nsuddenly\nappeared near\nSky Fort!!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "The Airborne\nDigimon\nare ready to\nfly. Once\nyou're\nprepared, hurry\nback to Sky\nFort!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "The Airborne\nDigimon\nare ready to\nfly. Once\nyou're\nprepared, hurry\nback to Sky\nFort!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What do we\ndo, Taiki?!\nWhat should we\ndo?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What do we\ndo, Taiki?!\nWhat should we\ndo?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm worried\nabout Akari,\nZenjiro, and\neveryone!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm worried\nabout Akari,\nZenjiro, and\neveryone!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Let's get back\nto\nSky Fort,\nquick!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Let's get back\nto\nSky Fort,\nquick!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll wait here,\nthen.\n\nTell me\nwhenever you\nwant to go\nsomewhere!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll wait here,\nthen.\n\nTell me\nwhenever you\nwant to go\nsomewhere!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Welcome\nback!\n♪"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Welcome\nback!\n♪"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "Akari,\nZenjiro...\nPatamon... I'm\nglad\nyou're all\nokay! Where's\neveryone else?\nIs anyone\nmissing?"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Akari,\nZenjiro...\nPatamon... I'm\nglad\nyou're all\nokay! Where's\neveryone else?\nIs anyone\nmissing?"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "We're okay.\nSomehow,\neveryone made\nit!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "We're okay.\nSomehow,\neveryone made\nit!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "Things got\nrough after\nyou went to\nCrystal\nVolcano..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Things got\nrough after\nyou went to\nCrystal\nVolcano..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon and Sky Fort story dialogue; wrapped to the fixed 15-column dialogue width."
+    }
+  ]
+}

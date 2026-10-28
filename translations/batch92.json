@@ -1,0 +1,2163 @@
+{
+  "description": "Translate DWM tournament scenes and DigiLab/DigiFarm tutorial messages in MESPAK02 entry 16.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "You're the next challenger, General Taiki! Can you handle my fiery spirit?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "The champion and challenger face off, sparks flying as they size each other up! Battle Master Kou, a word for the challenger?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "I have nothing to say to a challenger! I'm always a challenger myself! If anything, I'd like you to say something to me!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "This is hard to react to... Is this really how he acts? I heard he was a quiet, level-headed young man..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Kou's Team Sunburst versus General Taiki's Team Xros Heart! A showdown between heroes sets the DigiColosseum ablaze!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "What a finish! Team Xros Heart wins! General Taiki challenged the Silver Master and won the first match! One more to go! Battle Master Kou, what did you think of the challenger?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice work, General Taiki!▼ You're as skilled as the rumors say! My heart's still that of a challenger. Losing hasn't broken my spirit! Only my fragile pride is broken!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "...Wait, is this really his personality? He's nothing like the rumors said!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "A strange mood passes between them! Battle Master Kou now changes Team Sunburst's formation to match the challenger! The second match against Team Xros Heart is about to begin!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "The winner is General Taiki and Team Xros Heart! They defeated Battle Master Kou's Team Sunburst and are now Silver Masters! So great, Taiki! Congratulations!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Congratulations, General Taiki, and Team Xros Heart! You're finally Silver Masters, just like me. What a fiery, powerful way to fight! It felt like Team Sunburst was battling itself!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Battle Master Kou. I'm glad you think so."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Passion alone won't win from here on. Stay focused and fight with a cool head. Good luck, Team Xros Heart!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "The super-rookies who suddenly appeared in the DigiColosseum... Team Xros Heart and General Taiki! What battle will they show us next? Let's wait and see! See you next time!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "The DWM Tournament reaches the Gold Master match! First, the challengers: Team Xros Heart, led by General Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Their Battle Master needs no introduction to anyone who watched the Silver match! Of course, it's none other than... the cool beauty of Darkmoon City!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Sayo and Team Moonlight!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Now I know how it feels to face the super-rookie everyone's talking about..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Her expression is calm, even before battle! Her fighting spirit burns quietly in her heart! Battle Master Sayo, a word for the challenger?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "So you're General Taiki. I've heard the rumors. You're part of the new generation that uses a technique called DigiXross."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "I've heard of you, too, Battle Master Sayo. They say you're the most popular Master in the DigiColosseum."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Sayo's Team Moonlight versus General Taiki's Team Xros Heart! Two completely different kinds of power! This battle will be nothing like the one against Team Sunburst!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Xros Heart wins the first match of this best-of-three! General Taiki is challenging the Gold Master... Two matches remain! Battle Master Sayo, what did you think?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "You're quite good. You have skill, strength, and momentum. It pains me to admit it, but you have real talent. Still, this is where your winning streak ends. I'll show you what experience can do."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "I already know you have more experience, Battle Master Sayo. But I'll still win with Team Xros Heart!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "The two prepare quietly for the next match! Battle Master Sayo will surely adjust Team Moonlight's lineup to match the challenger! Match two against Team Xros Heart begins soon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Xros Heart wins again! In this best-of-three for Gold Master, the challengers take match two! General Taiki is one win away! Battle Master Sayo, you're under pressure..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "I never thought you were an easy opponent. If you can become a Silver Master, you can become a Gold Master. At least, you have that potential."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "...Wait, really?! This is way harder than the Silver Master match..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Sayo changes Team Moonlight's formation again to match her challengers! Can General Taiki's Team Xros Heart finish the match next time?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "It's over! Team Xros Heart wins! General Taiki is now Gold Master! He defeated Battle Master Sayo and Team Moonlight! So great, Taiki! Congratulations!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "General Taiki, you're a Gold Master now. Only a handful of Digimon in the Digital World reach this rank. It comes with serious responsibility and plenty of hard work, so be ready."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "Understood. I'll stay focused and do my best."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "You'll be fine. I'm not worried about you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Is the Digital World entering a new generation?! Team Xros Heart has defeated both big teams, Sunburst and Moonlight, one after the other! How far will General Taiki's momentum carry him? We can't take our eyes off the next battle! See you next time!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "The DWM Tournament Platinum Master match! You know the challengers: Team Xros Heart, led by General Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "The Battle Master facing them is... Well, in a way, a legendary figure!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "A super digital creature created by Yggdrasil! Captain Uno! And his team... once called the strongest in the Digital World: the Bandits!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Seriously... I get dragged out here again, and it's this filthy old DigiColosseum? And my opponent's another mouthy little brat! Even if I owe you one, couldn't they treat me any better...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "He seems to be saying the quiet part out loud! Captain Uno, any words for the challenger before this much-anticipated battle?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Get lost! I'll pound you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Whaaaat?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Bandits are back in action after a long break! Captain Uno is fired up! Can Team Xros Heart stand up to them? This is where General Taiki can show what he's made of!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Xros Heart wins the first match against the Platinum Master! General Taiki has one win... and three to go! Captain Uno doesn't look convinced!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm not convinced, and I won't be! If I admit I lost, then I've lost! So until I admit it, I haven't lost!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't know what to say to that..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Captain Uno keeps arguing while General Taiki watches! The look on his face says, 'What do I do with this?' How will the second match between Team Bandits and Team Xros Heart unfold?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Uno! What are you doing now?! If you need the Digiship maintained, I did that ages and ages ago..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh?! This is the DigiColosseum?! Uno, what are you doing here?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "An unexpected arrival! Team Bandits' expert engineer, Professor Dose! The second match may depend on him! Can he help Captain Uno recover?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Did you pick a fight with a kid again and get beaten...? You never learn from your mistakes, Uno. Think of how much cleanup I have to do!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait a second! The way you said that makes it sound like I'm always making you clean up after me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "That's exactly what I'm saying! This can't be helped. Stay back, Uno. I'm better at handling little kids!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Looks like you're ready! Captain Uno, Professor Dose, and Team Bandits! Facing them is General Taiki's Team Xros Heart! The much-anticipated second match starts now!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Xros Heart wins! General Taiki takes match two against the Platinum Master, Team Bandits! Professor Dose, what did you think of the challenger?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "What can I say? We're adults. We can't get serious when we're fighting kids."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "That's a pretty childish excuse for losing..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "The two trade blows while trying to look unfazed! You can almost hear them thinking, 'Hmph!' Captain Uno, what did you think of that match?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "That Dose... All talk, no results! A battle like that..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, wait a second! Why is Trace here, too?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "And now, the main event! Team Bandits' most formidable, high-profile, and beautiful shadow leader... Princess Trace!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "Why did you abandon your jobs to come here?! And you let that idiot Kernel out of the Archive! He's been singing nonstop while I'm trying to sleep! I delete him, he reboots, and he's back again!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "Like we'd come here by choice! Besides, Dose was the one who forgot to put Kernel away!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "I didn't forget! I was dragged here before I could put him away! Before I knew it, I was forced to fight the kid who beat Uno!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "Stop picking fights with kids... and then losing! It's embarrassing!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "You call us kids, but you're a kid, too! You're probably shorter and younger than I am!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Is Team Bandits having an argument?! The match against Team Xros Heart is still underway, but shots are flying in every direction! Never mind that... the third match begins!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Xros Heart wins match three! General Taiki is one win away from Platinum Master! They have match point against Team Bandits! The Bandits are in serious trouble! You can feel their nerves from here!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Uno, Trace... What are we going to do?! This is actually pretty bad!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Honestly... Why do you keep finding such difficult opponents?! Maybe we should think of a way to get out of here!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "There's no choice. Running away is out of the question... If we want to end this quickly, I'll have to step in! I'll show them the power of EX Eraser Alpha!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "What are you talking about? Strength can't solve everything! EX Eraser Beta's speed will keep them off balance!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Running around won't solve anything, either. EX Eraser Gamma will win with cleverness and style!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Honestly, each of us has our strengths and weaknesses."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Then it's time for that... There's no other way!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "What's 'that'? Don't tell me you mean Kernel!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "Of course not! There's only one 'that'... our secret weapon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "All right! Then let's hit them hard!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "We'll show you the true power of Team Bandits! This time, it won't be an easy win, kid!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "I-it's the legendary EX Eraser Omega! Team Bandits' secret combination attack, shown only once before in the DigiColosseum! I never thought I'd see it again!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "Now we won't hold back! If you're scared, surrender already!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "After seeing that, we can't run away! Combination attacks are our specialty, too. Now it's time to show Team Xros Heart's true power!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Seriously... Another one of these guys? Are all Digimon in this world tiny, mouthy brats, Trace?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh my! Did sparks just fly from the eyes of EX Eraser Omega?! ...Let's pretend we didn't see that! The final fourth match between Team Bandits and Team Xros Heart starts now!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Xros Heart wins! General Taiki takes the fourth match and is now Platinum Master! He defeated the formidable Team Bandits, even after they brought out EX Eraser Omega! So great, Taiki! Congratulations!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "We have to admit you're strong since you beat us... But who would've thought a kid in shorts could become Platinum Master?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't listen to Uno. We've never beaten a kid before... It's frustrating, but I admit it. Congratulations, General Taiki. You're absolutely, unquestionably Platinum Master."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Bandits always end up as the sacrificial pawns, don't they? 'Climb over our corpses, young hero!' ...Well, whatever. Congratulations, General Taiki. You've got some skill."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Bandits. I learned a lot from you. More than winning or becoming Platinum Master, I'm glad veterans of the DigiColosseum recognized us."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmph! After getting beaten that badly, I have no choice but to admit you're strong! But your goody-goody comments are boring!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Bandits praise the challenger with a sigh! What a rare sight! The young super-rookie who appeared in the DigiColosseum has finally risen to Platinum Master! Team Xros Heart and General Taiki will challenge the legendary Legend Master next! What kind of battle awaits them?! See you next time!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "Now, the DWM Tournament Legend Master match! The challengers are the well-known Team Xros Heart, led by General Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "From the champion's corner comes our Battle Master... though even I don't know who it is yet! Only a handful of Legend Master matches have ever been held here. Few have seen one. The Battle Master is a legend in their own right! Now that legend appears once more!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "Whoa! What's going on?! The Battle Master is... Koromon?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Koromon does a little hop! Despite that cute appearance, it must have incredible specs! Is this a relaxed warm-up before facing the challenger?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "K-Koromon?! How can such a tiny Digimon be a legend?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "Whoa! Battle Master Koromon hops again! It seems really excited! Is that a battle tremor, or a way to show off?! The unexpected turn has the whole Colosseum fired up!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "By the way, Battle Master, what is your team's name?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Th-this is incredible! The Battle Master's team is... Immortal Brave!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "For anyone who doesn't know, Immortal Brave is an all-star team! It includes data from rivals who battled across the Digital World, heroes who appeared and vanished, and dreams and legends that were created and then defeated. These are the strongest members chosen from everything that led to the present! Polished to perfection, shining with what we call eternity... That's Immortal Brave!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Or the 'Immo-Braves' for short!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh?! For some reason, my high-style nickname made the Battle Master furious!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "S-sorry! I'll use the full name... Immortal Brave!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "...But Koromon? I feel like I've heard of it before. Is this the Digimon that first revealed the Digital World to humans? The one that grew huge from a shaggy black creature... Is it that Koromon?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "It seems the legend of the Digital World is alive! The story our challenger just revealed must be another part of Immortal Brave's radiance!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "At last, the match begins! Battle Master Koromon's Immortal Brave versus General Taiki's Team Xros Heart! The match of the century! Don't blink!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "You know this already, but please keep the match fair!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "In an incredible upset, the first Legend Master match goes to Team Xros Heart! General Taiki Kudo! Battle Master Koromon, how did the challenger do?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "It seems to be praising the challengers! Now Mr. Koromon changes Immortal Brave's lineup and shifts to a new formation! What will Team Xros Heart do in response? The fiery second match of this Legend battle begins soon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "The second Legend Master match... and the winner is Team Xros Heart! General Taiki Kudo! Battle Master Koromon has lost twice now..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "As expected of Battle Master Koromon! It doesn't even flinch! A true living legend!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "The heated matches keep coming! And we're only getting started! The third Legend Master match between Immortal Brave and Team Xros Heart begins now!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Unbelievable! Team Xros Heart wins the third Legend Master match! General Taiki takes his third win! A legendary victory over a living legend!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "Whoa! What's going on?! Battle Master Koromon is really angry! This next match could get rough! General Taiki, what will you do?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "W-what am I supposed to do...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Koromon gets even more excited at the challenger's indecisive answer! A Digimon hurricane is brewing!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Koromon is battling with enough force to blow away the DigiColosseum! Let's continue before we get blown away! The fourth Legend Master match between Immortal Brave and Team Xros Heart begins with a bang!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "Who could have predicted this?! General Taiki's Team Xros Heart wins the fourth Legend Master match! The living legend Koromon is down to its last chance! Let's hear from the challenger!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "General Taiki has surged forward and is now one win away from becoming Legend Master! How are you feeling?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait, wait... I haven't even won yet! Why are you making Koromon any angrier?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Koromon is furious at the challenger... Or maybe at my comments! Somehow it looks redder than usual!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "At last, the final match! The fifth Legend Master match! This legendary battle has only taken place a few times in this Colosseum... Now it reaches its conclusion!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "General Taiki did it! Team Xros Heart has done it! The fifth Legend Master match is over! The living legend Koromon and Immortal Brave have been defeated by the young challengers! So great, Taiki! Congratulations!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "Living legend and Battle Master Koromon, how did you find the match against the challenger?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle Master Koromon is praising the challengers! It doesn't see its defeat as an upset, but as a necessary change of generations for the Digital World. Through their fierce battle, I think I finally understand that a new era has begun!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "...Thank you, Koromon. We could only get here because of all the legends you created. I don't think of myself as a legend, but I'll protect the honor everyone has given us. I promise."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "A match worthy of a legend! The new generation's challenger in the Digital World, Team Xros Heart, led by General Taiki! As long as they're here, the Digital World will never lose its eternal radiance! Everyone, give them another big round of applause! We'll see you at the next battle! See you next time! Bye-bye, everyone!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "At the DigiLab, you can fuse Digimon, materialize Digimon from Melodies, and move Digimon between locations! Let me explain!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiLab help"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "Digimon List"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiFusion"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Jogress Up"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "Melody Playback"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "List features"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Place Digimon"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "Move Digimon"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "View status"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Melody return"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "Party"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiBank"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "Expedition Team"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiFusion uses DigiScores to fuse Digimon and create a different Digimon. Only the specific Digimon listed on a DigiScore can take part! They also have to meet other requirements, such as level and strength. Some DigiScores have an ▲ or ▼ mark. ▲ means the DigiScore came from the Blue version, and ▼ means it came from the Red version. Collect DigiScores to create all kinds of Digimon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "When a Digimon reaches its maximum level and can't grow stronger, use Jogress Up to fuse it with another Digimon. The resulting Digimon's maximum level and stats are based on the highest-level participant. It returns to Level 1 after fusion, but can grow stronger than before. Be careful: fusing Digimon of similar strength can lower some stats. One last thing: only Digimon at Level 15 or higher can take part!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "The Digimon List lets you move Digimon between locations, such as your party and Farm Islands. For example, move a Digimon raised on a Farm Island into your party whenever you want!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "Melody Playback turns Melody data into a Digimon. The more Melodies you use, the higher its starting level. You can use up to ten Melodies at once!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "Your party is the group of Digimon you take on your adventure. You can have up to nine Digimon in your party! Ask Guilmon if you want to learn more."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "The DigiBank is where you store Digimon. Digimon don't grow while they're in the bank, so place the ones you want to raise in your party or on a Farm Island! You can keep up to 80 Digimon in total!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "The DigiFarm has Farm Islands where you can raise Digimon. Let me tell you what you can do there!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "Training/jobs"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "Farm Islands"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiReports"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "Training"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Jobs"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "Farm Islands"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Farm Goods"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Terrain/BGM"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiReports"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "Change moves"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "Use the Training Pen that comes with Farm Goods to train a Digimon's stats. You can train seven stats: HP, MP, strength, wisdom, speed, defense, and EXP. The stats that improve depend on the Farm Goods you choose!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "Place certain Farm Goods on a Farm Island to give Digimon jobs. Successful jobs raise stats and can produce equipment you can't buy in shops!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "Each Farm Island can hold up to eight Digimon and six Farm Goods. You'll unlock more Farm Islands as you restore Capacitor Towers, up to a maximum of six!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "You can place up to six Farm Goods on each Farm Island to train the Digimon there. Buy Farm Goods in shops. They raise different stats, so think carefully about which Digimon and which stats you want to improve!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "The EXP your Farm Island Digimon earn each day depends on the Terrain and BGM Boards. Choose boards to suit the Digimon living there! There are nine types of each board. Combine them to raise your Digimon more effectively! You can upgrade both boards in shops to improve their effects and the EXP earned!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiReports show what the Digimon on your Farm Islands and Expedition Teams did that day. You'll see Farm events, equipment made by Digimon at work, items found by your Expedition Team, growth, and level-ups. Some Digimon may quietly reach their max level and stop growing, so check your DigiReports often!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "A Digimon can remember up to four special moves. When it reaches the level for a new move, you can learn it. If it already knows four, you'll get a screen to choose one to replace. Digimon outside your party show that screen after their DigiReport, so choose the moves you need!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 16,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll explain battles! What would you like to know?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "DWM Silver/Gold/Platinum/Legend matches, followed by DigiLab and DigiFarm operating instructions. DigiXross and DigiFusion terms follow the established project glossary."
+    }
+  ]
+}

@@ -1,0 +1,3330 @@
+{
+  "description": "Continue the Chibickmon aftermath, rescue Sparrowmon, begin the Pharaohmon ruins, and translate battle-technique effects.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "Whaaat?! I\ndon't get it!\nWait... are you\ncalling me\nugly?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "Uh... That's\nnot true,\nright,\nShoutmon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Grr! That weird\nMinervamon...\nHow dare she\ncall the future\nKing of the\nDigimon ugly?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "No... You too?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yeah. You\ntoo, huh?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, how\nare you? Did\nyou remember\nanything?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG is\nsearching for\nthe Legendary\nAncient\nWeapons... Many\narmies and\ngroups have\ncome to this\nZone looking\nfor them, not\njust ROG. But\nbefore that, a\nlegendary\nwarrior\nprotected this\nZone with the\nlegendary\nweapons... ...I\ncan't remember\nany more."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "A warrior who\nwields the\nlegendary\nweapons...?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "So... the\nguardian of\nthis Zone?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "I feel like I\nknow the\nlegendary\nweapons... They\nmust be\nconnected to my\nmemories..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, Cutemon\nis safe and\nunharmed. He's\na little tired,\nthough. Let's\nfind somewhere\nto rest."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "All right.\nLet's return to\nthe Sky\nFortress for\nnow."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Dorulumon! You\nreally bit me\nback there!\nIt's swelling\nnow! What am I\nsupposed to\ndo?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "It wasn't\npoisonous. Stop\nmaking such a\nfuss..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "Just because\nyou're\nhandsome, you\ndon't have to\ntalk like that!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "Dorulumon is\ngrateful,\nreally, kyu!\nHe's just too\nstubborn to say\nthanks!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, I know."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm glad\nCutemon and the\nothers made it\nback safely."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks so much!\nYou saved us,\nkyu!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Did you\ntwo work things\nout?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hmph. For\nnow. I'll fight\nalongside you\nfrom here on,\nTaiki. Talk to\nme anytime.\nLater."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Let's activate\nthe Capacitor\nTower in\nTwisting\nAmazon."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, let's do\nit."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "Leave the Sky\nFortress to us!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "We've gotten\npretty close to\nthe Digimon\nhere, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm counting on\nyou... Akari,\nZenjiro."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "I caused\ntrouble for\nDorulumon...\nEven if he goes\nout again, I'll\nstay here with\nAkari and the\nothers, kyu."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Then let's head\nout!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "This is bad!\nWe're in\ntrouble!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Those are ROG\ngrunts! They're\nguarding the\nway, so we\ncan't get\nthrough."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Should we smash\nthe gate and\nknock them out?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Absolutely not!\nThen we'd have\nenemies\neverywhere! I\ndon't want\nthat!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "She's right...\nWe can't let\nthem spot us\nhere. Let's\nfind another\nway. Is there\nanother route?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Should\nwe head into\nthe Digital\nSpace up ahead?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "We can use the\nPathfinder\nDevice there."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "Path... what?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "It's a device\nhidden aboard\nour Sky\nFortress. It\nlinks to\nspecial spaces\nthat can't be\nreached\nnormally, using\na passage\ncalled a Path."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, now I get\nit! That's why\nit's called the\nPath-something\nDevice!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "Did that\nexplanation\nmake sense to\nyou?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Not at all!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "...Anyway, go\nthrough that\nWarp Portal to\nreach Digital\nSpace."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Got it."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "Linkage: Path\nConnect!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "...Path\nConnect."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Isn't that\nNene over\nthere? And the\none beside\nher... SkullKni\nghtmon?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=EX10-026&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "SkullKnightmon?\n! He's our\nenemy! Why is\nhe with Nene?\nIs he\nthreatening her\nagain by\nholding her\nlittle brother\nhostage? What's\ngoing on?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=EX10-026&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "...Nene isn't\nthat weak. She\nwouldn't obey\nSkullKnightmon\nagain,\nespecially when\nshe's trying to\nsave her\nbrother."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=EX10-026&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "T-Taiki! That\ndevice the girl\nis holding...\nIt's a\nPathfinder\nDevice, only\nfound on the\nSky Fortress!\nHow did she get\none?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "Destination:\nLost Space."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "...Input: Lost\nSpace. Search\nfor the seal\nthat holds the\nLegendary\nAncient\nWeapons..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "The Legendary\nAncient Weapons\nand Lost\nSpace...? No,\nstop her,\nTaiki! ROG is\ndesperately\nsearching for\nLost Space. It\nmust be where\nthe weapons are\nhidden!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! Is ROG\ncontrolling\nNene?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene! Wake up!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "ELIMINATE ALL\nWHO INTERFERE\nWITH THE PLAN."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "...Eliminate\nthem all."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "G... glitch...\nNot... over...\nConnect... to\nLost Space..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "...Link: Lost\nSpace."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "We... ROG...\nwill take\neverything...\nLegendary\nweapons...\nLegendary\nDigimon..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "Is that really\nSkullKnightmon?\nTaiki,\nsomething's\nwrong! This\nfeels\ndangerous!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=EX10-026&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "Legendary\nweapons...\nLegendary\nDigimon... I\nalmost\nremember... But\nROG must not\nenter Lost\nSpace!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "...Connection\nrefused. Energy\nexplosion in\n5... 4... 3..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "What happened\nafter that?\nWhat happened\nwhen it\nexploded?\nWhere's Nene?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "...I don't\nknow. But I\ndon't think she\nmade it into\nLost Space."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Is this the\nterrifying\nDigimon? I feel\nlike I've seen\nit before..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "I saw someone\nlike him in\nanother Zone! A\ngiant penguin\nfroze him\nsolid!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! Frozen\nsolid? No way!\nI wouldn't last\na second!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon is\nsuch a pampered\nbrat. Why would\nROG want\nsomeone like\nhim...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "They say he\nknows the\nsecret of the\nlegendary\nweapons, debi."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "They say he can\nactivate towers\nthat even we\ncouldn't, debi."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... I see.\nSo he has some\nuse to us."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey,\nIceDevimon!\nWhere's\nSparrowmon?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon? You\nmean... the one\nwith the long\nlegs? The\nslender one?\nHa-ha! I know\nwhere that Spar\nrow-something\nis! Trade me\nthe Spadamon\nbeside you, and\nI'll tell you!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "IceDevimon,\nthat lie makes\nno sense.\nSparrowmon\ndoesn't have\nlegs!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What?! He\ndoesn't?! Then\nI'll take\nSpadamon by\nforce! Hand him\nover!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Here they come,\neveryone!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Grr... S-So\nstrong... How\ncan a mere kid\nbe this\npowerful...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm not just a\nkid! Taiki is\nthe General of\nXros Heart! We\nwon't forgive a\nrotten crew\nlike ROG!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "A team? ROG is\nno team... Soon\nyou'll\nunderstand what\nmakes ROG truly\nterrifying."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "I remember,\nTaiki! The\nlegendary\nweapons need a\nwarrior who can\nwield them.\nThat warrior\nreceives the\nweapons and the\nCapacitor\nTowers. So the\nwarrior is\ntheir keeper."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Then is\nSpadamon the\nwarrior, since\nhe can open the\ntowers?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "...No, I don't\nthink so. I\ncan't open\nevery door\nwhenever I\nwant. The\nlegendary\nwarrior must\nstill be\nsomewhere out\nthere!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "The legendary\nwarrior and\nSpadamon... I\nfeel there's a\ndeep connection\nbetween them."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "If that warrior\nis tampering\nwith the\ntowers, why\naren't they\nhelping while\nElestou Zone is\nin danger?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "There are still\ntoo many\nmysteries..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Key item\nobtained!\nKumonos Ruins\nWest Key"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "It looks like\nthe gate key\nfor western\nKumonos Ruins.\nRemember where\nthe explosion\nin Digital\nSpace sent us?\nThe West Gate\nto Kumonos\nRuins is right\nnear there."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Could\nSparrowmon be\nheld there?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, I think\nso. We have to\nhurry and save\nhim... Kumonos\nRuins, huh? All\nright! Let's\ngo, you two!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "...Nene? What\nare you doing\nhere alone?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, be\ncareful...\nRemember? Nene\nis being\ncontrolled by\nROG."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "But she seems\nstrange... Like\nshe's in a\ndaze."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene... Can you\nhear me?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "...A voice...\ncalling me."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "Whose voice?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon...\nHe's trapped in\nthe darkness.\nWhile I\nsearched for\nhim after we\nwere\nseparated...\nthe power of\ndarkness in\nthis world\nswallowed me,\ntoo..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene, wait! If\nyou're looking\nfor Sparrowmon,\ncome with us..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "...Sparrowmon..\n. He's\nsuffering\nnearby... I\nhave to go... I\nhave to save\nhim..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon's\nvoice...? I\nheard it, too!\nNene must have\nheard the same\nthing."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "She said\nSparrowmon is\nclose. How does\nshe know\nthat...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "...I don't\nknow. But he's\nnearby. I can\nfeel it, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene was\nsearching for\nhim and got\ntrapped in the\ndarkness? Who\ncould have done\nthat...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm worried\nabout Nene, but\nfirst we have\nto find\nSparrowmon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Hee-hee... I've\nbeen waiting\nfor you,\nSpadamon."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm Arukenimon,\nROG's Poison\nLeader,\nArukenimon the\nPredator! I\nknew you'd\ncome, Spadamon.\nYour goal is\nright here,\nisn't it?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=EX10-047&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Ah! Sparrowmon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon!\nThank goodness,\nyou're safe!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Such innocent\njoy... How\ncute. But I'll\nwipe that\nlovely smile\naway in a\nmoment.\nHee-hee!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon...\nHe doesn't\nrecognize us!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "No, Taiki! He's\ncompletely\nunder her\ncontrol!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Hee-hee! Luring\nyou here was\neasy. Your\nfriend is under\na powerful\nillusion cast\nby Lord Zeed\nMillenniummon."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=BT19-101&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "This boy was a\nspecial gift\nfrom Lord Zeed\nMillenniummon.\nI used him as\nbait to lure\nSpadamon here."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=BT19-101&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "His master now\nis the leader I\nadmire... Lord\nZeed\nMillenniummon,\nwho stands at\nthe top of ROG!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=BT19-101&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "T-Taiki...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "It's all right,\nSpadamon.\nSparrowmon, can\nyou hear us?\nRemember us!\nYou're too\nstrong to be\nfooled by a\ntrick like\nthis. You have\nthe strongest\nwill and heart\nof anyone!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "It's no use!\nHand over\nSpadamon! Lord\nZeed\nMillenniummon's\ndream is to\nrule the world\nwith the\nLegendary\nAncient\nWeapons... and\nI'll make it\ncome true!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=BT19-101&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell that Zeed\nMillenniummon\nthis! We're\nTeam Xros\nHeart, bound by\na hotter bond\nthan anyone!\nNone of us will\nfall for a\ncheap trick\nlike this!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=BT19-101&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "Hee-hee-hee!\nYou naive\nfools... Now\nsuffer the pain\nof being\nattacked by\nyour trusted\nfriend!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "No... I lost?!\nSparrowmon...\nYou brats... I\nwill never\nforgive you!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "...Dynasmon."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cardlist/?card_no=BT6-044&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "What's wrong,\nSpadamon? Did\nyou remember\nsomething?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "The keeper of\nthe Capacitor\nTowers... the\nlegendary\nwarrior... I\nthink it was\nDynasmon. I\nonly remembered\nthe name.\nDynasmon...?\nWhy do I feel\nlike a strict\nteacher just\nscolded me?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cardlist/?card_no=BT6-044&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "Did Dynasmon\nused to scold\nyou?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cardlist/?card_no=BT6-044&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "U...\nEveryone...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey,\nSparrowmon!\nHang in there!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh...? Taiki\nand Shoutmon...\nMy head feels\nfuzzy... Why am\nI here? I was\nin the jungle,\nthen I heard a\nstrange\nvoice... Oh,\nright! You went\nahead without\nme! Don't do\nthat again! I'm\na member of\nXros Heart now,\ntoo!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "W-What? Did I\nsay something\nweird?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "No... We're\nglad!\nSparrowmon,\nyou're one of\nus!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Why are\nyou saying that\nall of a\nsudden? You're\nembarrassing\nme..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm so glaaad,\nSparrowmon! I'm\nhappy too!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "Even Shoutmon's\ncrying... Why?\nIf it's about\nwhat happened\nin the jungle,\ndon't worry\nabout it!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "You really\ndon't\nremember...\nAnyway, get\nsome rest.\nAkari, Zenjiro,\nand everyone\nelse are at the\nSky Fortress.\nYou'll be safe\nthere."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "Use this Gate\nDisk and you'll\nbe there in a\nflash! Wait for\nus in the\nCentral Room."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Um... I still\ndon't\nunderstand\nwhat's going\non, but...\nyou're really\nhappy I'm with\nyou, huh?\nHee-hee. I'm\nglad I joined\nXros Heart! See\nyou later!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon\nreally knows\nhow to make you\ncry... Let's\nactivate the\nCapacitor\nTower!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?category=522027&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Take\nthis..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Key item\nobtained!\nKumonos Ruins\nEast Key"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "This key opens\nthe gate to\nPapyrus Desert.\nThere should be\na Capacitor\nTower there,\ntoo."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "We have to\nactivate every\ntower. All\nright, let's\nhead to the\ndesert next."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Then let's go!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "Woooooah...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "You have chosen\nmy coffin! I am\nPharaohmon,\nROG's Shining\nLeader,\nPharaohmon the\nGrave!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, this\nguy looks kind\nof fun!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! He's a\nROG leader!\nHe'll\ndefinitely\ndemand Spadamon\nor try to take\nhim!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "You foolish\nSpadamon! ROG\nhas no use for\nyou! Those who\ndefy ROG will\nsuffer\ncalamity! No\nmatter what\nLord Zeed\nMillenniummon\nsays, I shall\nbring great\ncalamity upon\nyou!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=BT19-101&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "Here he\ncomes... Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Taste my\ncalamity!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... Why am I\nthe one beaten\nto a pulp? It\nseems the\ncalamity fell\non me\ninstead..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "Um... Well..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "Silence! That\nbattle didn't\ncount! We'll\nstart over from\nthe beginning!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "What did you\nsay?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "First, I'll\nremove one\nblocking rock!\nYou can't go on\nuntil it's\ngone! If you\nwant to fight\nme, find me\nagain!\nHa-ha-ha...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "What was that?!\nAn earthquake?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "No... I can\nfeel a spot\nnearby that's\nshaking..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "...I remember.\nPharaohmon\nbuilt these\ndesert ruins.\nHe's a fearsome\nRuins Digimon\nwho can make\nrocks appear\nbeneath the\nground."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! So we\ncan't get past\nthe rocks\nblocking the\npath unless we\nbeat him?! What\nare we going to\ndo?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Calm down,\nShoutmon.\nPanicking won't\nhelp."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "That blocking\nrock Pharaohmon\nmentioned...\nMaybe it was\nthe stone\ntablet in the\nruins that\nblocked the\nroad? It\ndisappeared,\nand now a path\nhas opened\nsomewhere."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "So we just find\nand beat\nPharaohmon\nagain? But I\nwonder what he\nmeant by\nremoving only\none rock at a\ntime..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "There are so\nmany identical\ncoffins around\nhere... Don't\nopen the wrong\none! If a real\nghost appears,\nI-I'll faint!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "There doesn't\nseem to be a\nway to tell\nthem apart...\nBut if we can\nbeat\nPharaohmon,\nwe'll be fine!\nLet's go!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "You grave\nrobbers woke us\nfrom our sleep!\nInstead of\ntreasure, I'll\ngive you a\ncurse!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Grave\nrobbers...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Suffer and\nlearn how\nfoolish you\nwere!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait... Hold\non!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "You won't get\naway from me!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "...Huh? You're\nnot grave\nrobbers? How\nconfusing! If\nthat's true,\nwear name tags!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "...Whaaaat?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "Goooood\nmorning,\nboy...! You\nwill face my\nwrath... and\nthat means you!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "...Which one is\n'me'? Do you\nmean yourself?\nOr is that your\ncry?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "What are you\nbabbling\nabout?! The one\nwho loses this\nfight will\nbe... not me,\nbut you!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "...There you go\nagain. Which\none?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "Enough! Stop\nbabbling!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't think you\nbeat me! You'll\nregret this!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "What a\nweirdo...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "Fwahahahaha...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "You have chosen\nmy coffin! I am\nPharaohmon,\nROG's Shining\nLeader,\nPharaohmon the\nGrave!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "...Didn't you\njust say that?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Quiet! I don't\ncare if it\ninconveniences\nyou! Great\ncalamity will\nbefall you!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "Looks like we\nhave to fight!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "How insolent!\nI'll crush you!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "...You pesky\nbrat... Such\ntricky\ntricks...\nBringing my\ncalamity right\nbefore me..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "That sounds\nlike a tongue\ntwister!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "No! Listen to\nme! Losing to\nthe likes of\nyou is\ncompletely\nunacceptable!\nIt's so unfair!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Whaaat?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "He's hiding\nagain!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Quiet! If you\nwant me to give\nup, find my\ncoffin again!\nHa-ha-ha...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "That sound and\nshaking...\nAnother rock\nmoved! A path\nmust have\nopened\nsomewhere!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "All right,\nSpadamon! On to\nthe next one!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon! Let's\nopen the next\ncoffin!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "This is\nstarting to\nfeel like a\ntreasure\nhunt... First\nwe have to find\nPharaohmon\nagain!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "You're grave\nrobbers, aren't\nyou? No need to\nanswer. From\nevery angle,\nyou look\nexactly like\ngrave robbers!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "W-Wait, no!\nThat's not\ntrue!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't imitate\nme!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "Actually, fine,\nyou're grave\nrobbers! Look\nat those faces.\nYou couldn't\nlook more like\ngrave robbers!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Do I\nreally look\nthat scary?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "At last, our\narchenemy!\nWe've waited\nfor this day!\nOnly a few\nsurvive after\nmaking enemies\nof us\nMummymons!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=EX10-051&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "O-Oh... Only a\nfew? And you\njust came right\nout and said\nso..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "We have no\npride that\nneeds a dirty\nlie to defend\nit! You'll soon\nlearn the honor\nof the\nMummymon!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=EX10-051&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Only a tiny\nfraction of the\ncountless\nMummymons\nhappened to\nlose this time!\nYou'll learn\nhow terrifying\nwe are!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/cards/?card_no=EX10-051&search=true"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "I think we've\nalready learned\nthat..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "Fwahahahaha!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "You have chosen\nmy coffin!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes! We found\nPharaohmon! We\ngot him!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "...You brats!\nYou're that\nhappy to fight\nme...? A\nDigimon of my\nstature has so\nmany\nadmirers...\nHah...\nHa-ha-ha...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "It's kind of\nhard to fight\nhim when he's\nthis happy to\nsee us..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Pharaohmon's\nkind of hard to\ndislike..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Don't just\nstand there!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Ha-ha-ha... I\nhave no choice\nnow! Since you\nfound me, I'll\nfight you! I'll\nshow you how\nterrifying my\ncalamity is!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "Ha-ha-ha...\nDon't relax\njust yet! I've\ncompletely\ngauged your\nstrength!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah... Maybe\nwe can stop\nnow?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm tired...\nAnd I'm getting\nhungry..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "H-Ha-ha... Keep\nacting\nconfident while\nyou can! Soon I\nwill gain\ntremendous\npower! Then, at\nlast, a great\ncalamity will\nsurely befall\nyou!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "Maybe\nPharaohmon\ncan't back down\nnow..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh no! Don't\nlet Pharaohmon\nhear you,\nTaiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)",
+        "https://world.digimoncard.com/rule/?card_no=BT16-078"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "You will bow\nbefore my\nreborn form!\nFwahahahaha!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Come on! He got\naway because\nyou were taking\nyour time!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 5,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't be so\nmad. Sorry,\nSpadamon. We'll\ndefinitely\ncatch him next\ntime. Right,\nTaiki?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Japanese dialogue is primary. Western Digimon spellings are linked to official English Bandai card references where available; Lost Space and other game-only terms follow established project usage."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Launch a fireball that\nerupts into a pillar of\nmagma."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slash the enemy with sharp\nclaws charged with fire."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slash the enemy with\nmighty claws charged with\nfire."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slash the enemy with\nmighty claws filled with\nfire."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rain down a meteor shower\nand burn away nearby\nenemies."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throw a small bomb and\nblast the enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throw a powerful bomb and\nblast the enemy."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Engulf the enemy in flames\nwith a powerful missile."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Use powerful missiles to\nburn all nearby enemies."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slash nearby enemies with\na blade of light."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slash the enemy with a\nblade of holy light."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strike with an\nelectric-charged holy\nsword. Greatly raises the\nMelody Capture rate."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fire a small orb filled\nwith holy power."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fire a beam of light that\njudges all."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blast nearby enemies with\nstarlight energy. Also\nlowers Intelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gather starlight and blast\nnearby enemies. Also deals\nLight damage."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fire two volleys of\ncross-shaped light orbs.\nAlso deals Light damage."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slash the enemy with light\nand deliver holy judgment."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slash all nearby enemies\nwith the power of light."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strike the enemy with both\narms charged with light."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smash the enemy with a\nshining fist of holy\nlight."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smash the enemy with a\nbolt of darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Crush the enemy with a\nsmall black hole. May\ncause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slash with the Pendulum\nBlade on both arms.\nGreatly raises the Melody\nCapture rate."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smash the enemy with a\nblazing, spiked iron ball."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shatter the enemy with a\nsoul-filled kick. Also\nlowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smash the enemy with a\nkick filled with the light\nof justice."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blast nearby enemies with\na compressed ball of\nelectricity."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleash an explosion of\nfire. Raises one ally's\nAttack."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gather particles of light.\nRaises one ally's Defense\nand Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Absorb the power of time's\nendless flow. Raises one\nally's Attack and\nIntelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fire a tiny metal ball at\nhigh speed. Also lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strike the enemy with a\nred whip that subdues\nprey. Drains HP."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 4,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fire a high-voltage ball\nof energy. May cause\nBlindness."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Battle-technique effect text translated from the Japanese description. Stats and Melody Capture terminology match the English battle UI."
+    }
+  ]
+}

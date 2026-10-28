@@ -1,0 +1,973 @@
+{
+  "description": "More quest objectives, DigiFarm dialogue and objects, battle moves, and researched Digimon names.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 235,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the cause\nin Digital Space East."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 237,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Copy Digimon\nOverload!!"
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 238,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the area\nwhere strange data\nactivity was detected."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 239,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Clear \"A Look-Alike?\nThe Copy Digimon\nMystery.\""
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 241,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stop the data transfer\nin North Lost Space."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 243,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Avoid a Storage\nOverload!!"
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 244,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Stop whoever is\nreleasing abnormal\ndata."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 245,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Clear \"Copy Digimon\nOverload!!\""
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 256,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Guilmon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 261,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Deliver it to Guilmon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 265,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Giromon in\nEast Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 270,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet Mamemon in\nEast Crystal Mountain."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 272,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Giromon in\nEast Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 273,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "The Giro-Giro Gang!\nA Little Digimon's Pride"
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 275,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Funky SuperStarmon\nis on the farm."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 276,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Clear \"A Showdown!?\nThe Mame-Mame Gang.\""
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 277,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Mamemon in\nEast Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 282,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet Giromon in\nEast Crystal Mountain."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 284,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Mamemon in\nEast Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 285,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "The Mame-Mame Gang!\nA Little Digimon's Pride"
+      ],
+      "sources": [],
+      "review_note": "Quest title/objective; Western Digimon names and map regions follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "A tree\nstump...?\nWhat am I\nsupposed\nto do with\nthis?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is not\nmuch,\nbut it is\ndecent\ntraining. My\nEXP\nwent up a bit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "Even if I keep\nbumping into\nthis, it\nwill not be\nmuch of\na workout, will\nit?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh! Is this\nTasty Sap?\nIt is called\ntasty, but\nwhat does it\ntaste like?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow! It really\nis\nsweet and\ndelicious!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh! This\ntastes\nawful! How is\nthis\nconsidered\ntasty?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm... Is this\na\nscale? I should\nweigh myself."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "Just right! My\nmax HP\nseems to have\ngone\nup a little!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh no! I am way\ntoo heavy...\nWhat a\nshock!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is a\ntreadmill.\nI could\nexercise even\nwhile lying\ndown!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whew! That was\na\ngood workout.\nMy max\nHP went up a\nfair bit."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "I cannot stop\nshaking!\nWh-What do I\ndo?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, a running\nmachine!\nMaybe I should\nget\nsome\nexercise..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is pretty\nnice!\nI feel\nrefreshed, and\nmy max HP went\nup!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "I am\nexhausted...\nI cannot move\nanymore!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a\ncrystal ball?\nIt is clear\ninside,\nand so\npretty..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I saw\nsomething!\nMy max MP went\nup a bit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nThis is kind of\nboring."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1324,
+      "category": "Battle moves",
+      "english": [
+        "Sovereign Sword"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2600,
+      "category": "Battle moves",
+      "english": [
+        "Sovereign Sword"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1339,
+      "category": "Battle moves",
+      "english": [
+        "Dragon King Twin Blade"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2432,
+      "category": "Battle moves",
+      "english": [
+        "Dragon King Twin Blade"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1343,
+      "category": "Battle moves",
+      "english": [
+        "Shiratorimaru"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2619,
+      "category": "Battle moves",
+      "english": [
+        "Shiratorimaru"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1368,
+      "category": "Battle moves",
+      "english": [
+        "Enlightenment"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2644,
+      "category": "Battle moves",
+      "english": [
+        "Enlightenment"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1370,
+      "category": "Battle moves",
+      "english": [
+        "Furious Shadow Dance"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2430,
+      "category": "Battle moves",
+      "english": [
+        "Furious Shadow Dance"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1374,
+      "category": "Battle moves",
+      "english": [
+        "Strange Mist"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2650,
+      "category": "Battle moves",
+      "english": [
+        "Strange Mist"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1414,
+      "category": "Battle moves",
+      "english": [
+        "Giga Stick Lance"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2370,
+      "category": "Battle moves",
+      "english": [
+        "Giga Stick Lance"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1430,
+      "category": "Battle moves",
+      "english": [
+        "Aurora Undulation"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2426,
+      "category": "Battle moves",
+      "english": [
+        "Aurora Undulation"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1453,
+      "category": "Battle moves",
+      "english": [
+        "Nail Crusher"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2729,
+      "category": "Battle moves",
+      "english": [
+        "Nail Crusher"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1455,
+      "category": "Battle moves",
+      "english": [
+        "Shishiraozan"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2731,
+      "category": "Battle moves",
+      "english": [
+        "Shishiraozan"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1460,
+      "category": "Battle moves",
+      "english": [
+        "Dark Lightning"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2736,
+      "category": "Battle moves",
+      "english": [
+        "Dark Lightning"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1477,
+      "category": "Battle moves",
+      "english": [
+        "Ancient Seal"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2753,
+      "category": "Battle moves",
+      "english": [
+        "Ancient Seal"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1522,
+      "category": "Battle moves",
+      "english": [
+        "Gaia Tornado"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2798,
+      "category": "Battle moves",
+      "english": [
+        "Gaia Tornado"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1590,
+      "category": "Battle moves",
+      "english": [
+        "Kurumon's Prayer"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2866,
+      "category": "Battle moves",
+      "english": [
+        "Kurumon's Prayer"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1592,
+      "category": "Battle moves",
+      "english": [
+        "Glowing Snow"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2868,
+      "category": "Battle moves",
+      "english": [
+        "Glowing Snow"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1593,
+      "category": "Battle moves",
+      "english": [
+        "Holy Shot"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2869,
+      "category": "Battle moves",
+      "english": [
+        "Holy Shot"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1596,
+      "category": "Battle moves",
+      "english": [
+        "Beast Fang Barrage"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2872,
+      "category": "Battle moves",
+      "english": [
+        "Beast Fang Barrage"
+      ],
+      "sources": [],
+      "review_note": "Working English move rendering; no exact Western game name verified in this batch."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, little\nguy!\nAre you okay?\nWhat\nare you doing\nhere?"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you lost? I\nneed\nto get you\nsomewhere\nsafe..."
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "I cannot\nbelieve this\nis happening\nnow..."
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "Hide over there\nfor\na while.\nSomeone\nscary might\nshow up."
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "It is okay! I\nwill\nget you\nsomewhere\nsafe, I\npromise!"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks! You\nguys are\nnice! But I was\ntold\nto wait here.\nDo not\ntouch the\ncondenser\nsystem, okay?\nIt is\npart of the\ngame!"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Come on... We\ndo not\nhave time to\nplay with\nyou right\nnow..."
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "The red one is\n500\npoints, the\nblue one\nis 800... The\nboy with\ngoggles is\nworth\n10,000 points,\nright?"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait a\nsecond...\nCould that\nbe...?"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you the new\ntoys\nLord Barbamon\ntold\nme about?"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "...No way."
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "I am Lalamon! I\nwas\nsent to guard\nthis\ncondenser\ntower...\nI am the lovely\nelite\nof Barbamon's\nShadow\nGuard!"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "I was fooled!\nTaiki,\nwatch out!"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "All right! Let\nus go,\neveryone!"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Well, I lost...\nI\nshould\ndisappear now.\nI am too weak\nto\nprotect Lord\nBarbamon."
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "How was that,\nLalamon?\nNow move aside!"
+      ],
+      "sources": [],
+      "review_note": "Lalamon and Taiki story scene; original character and Digimon names retained."
+    }
+  ]
+}

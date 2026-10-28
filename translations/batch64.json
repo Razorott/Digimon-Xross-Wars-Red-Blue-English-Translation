@@ -1,0 +1,1305 @@
+{
+  "description": "Translate 100 additional battle-effect descriptions from MESPAK04 entries 14 and 15.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pummels a foe with light\nthat shakes the stars."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes a foe with a\nbloodstained dark whip.\nDrains HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Kicks a foe at incredible\nspeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cures one ally's Health\nDown and restores HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Envelops nearby foes in\ndark matter. Deals Poison\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Wraps a foe in bubbles.\nMay cause Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Envelops nearby foes in\nbubbles. May suffocate\nthem and cause Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bites a foe with jaws made\nof ice."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires icicles at a foe.\nLowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Raises its Defense with a\nhard shell."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts a foe in half with\ngiant scissors. Deals\nWater damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with an\nelectric spear."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Uses a special formation\nto raise allies' Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with a\nsmall mushroom bomb. Deals\nPoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws mushroom bombs at\nnearby foes. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Boosts allies' abilities\nwith heavenly light.\nRaises Speed and Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shocks a foe with a Linear\nLens beam. Lowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a\nmegawatt corkscrew punch."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with a\nfoul stench. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows sweet breath at\nnearby foes. Lowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls poop at a foe at\nincredible speed. Deals\nDark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a mountain of poop\nat nearby foes. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe from within\nwith high-frequency waves.\nLowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shatters a foe's hearing\nwith a mighty cry. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Lulls nearby foes to sleep\nwith a beautiful, gentle\nsong."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Turns sunlight into arrows\nthat rain on foes. Lowers\nWisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies nearby evil with\na light ward. Raises\nallies' Defense and\nWisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires nightmare-inducing\nsound waves at a foe. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Torments a foe with\nhigh-frequency sound\nwaves."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires light-charged\nfeathers at nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes a foe with a\nflexible battle rod."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges into a foe with\nits glowing green horn."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires light energy from\nits horn. Lowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Creates a massive\nearthquake that destroys\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Crushes a foe with its\nleft-hand Demon Arm."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges and knocks back\nnearby foes. Lowers\nAttack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\na giant roar. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with a giant\ndrill."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a bone stolen from\nGarurumon at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with\nspinning drills on both\nhands."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Coats itself in mud to\nraise its Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with a\nfull-body Heavy Punch. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies nearby foes with\nthe power of the earth.\nMay cause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with\ndark matter breath. Lowers\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes a foe with two\ncold tentacles. Deals\nFighting damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spins its hard shell and\nrams a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hides inside its hard\nshell. Raises Defense and\nWisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires highly compressed\nwater from its head. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stabs a foe with its claws\nand freezes them. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 14,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes a foe with a blast\nof cold light."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires icy arrows from its\nwings at nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an\nultra-high-frequency wave\nfrom its mouth."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes a foe with its\ntail like a kick. Lowers\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rends a foe with sharp\nscythes in both hands."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with\nelectric scythes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rends a foe with\nelectrified claws. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with its\ntail's sharp needle. Deals\nPoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swarm of beetles blocks\nnearby foes' vision.\nLowers Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shocks nearby foes with\nlightning. Lowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shocks nearby foes with an\nelectric blast."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges through nearby\nfoes while discharging\nelectricity. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with a\nheavyweight punch. Lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with\nsuperheated gas. Deals\nPoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a ball of flame\nenergy at a foe. Lowers\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moves at high speed to\nraise its Defense and\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shocks a foe with a\npowerful laser."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Takes aim with mechanical\ndarts, then rushes nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Leaps high into the air\nand stomps a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an arrow of flame\nfrom the back of its hand.\nLowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes fiery punches at\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with a blazing\nwhirlwind kick."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Saddens nearby foes with a\ndark voice. May cause\nSleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Erases a foe with a black\nsphere. May cause instant\ndeath."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with a\nhellish tone. May cause\nDarkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes nearby foes with\nan icy breath. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with two\nlong fangs. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Confuses nearby foes with\na horn's sound waves."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Vibrates nearby foes with\nultra-low sound. May\nrestore their HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends savage plankton to\nattack nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges at a foe like a\nhoming torpedo. Lowers\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breaks down a foe's data\nat the nanoscale. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a small bomb from\nits fingertip. Lowers\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strangles a foe with its\ntentacles and shocks it.\nLowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires deadly poisonous ink\nat nearby foes. Deals\nPoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with giant\nscythes. Lowers Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices nearby foes with\nblades of holy wind."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with a giant\nelectric hammer. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends lightning from Pao\nTsuei into nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Drags a foe into the deep\nsea and suffocates it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stabs a foe with its\ncherished spear, Torrent.\nLowers Wisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary. Torrent is verified as Hangyomon's spear name in batch 63."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smashes a foe with its\ngiant horn. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rams nearby foes with its\ngiant horn. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts a foe with water at\ntremendous pressure."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\na giant tsunami. Deals\nWater damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a\nshining fist that\nexplodes. Deals Fire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Releases cosmic energy at\nnearby foes. Deals Light\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices a foe with\nlightning-fast petals. May\ncause Darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Surrounds nearby foes in\ncherry blossoms and blasts\nthem with light. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a disc of light at\na foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 15,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires poop from its Empty\nCan Bazooka. May cause\nSleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Directly translated from the original Japanese combat-effect text. Status and stat terms follow the established battle UI glossary."
+    }
+  ]
+}

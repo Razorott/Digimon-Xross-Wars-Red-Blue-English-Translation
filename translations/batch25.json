@@ -1,0 +1,2480 @@
+{
+  "description": "Battle technique names and early travel, recovery, recruitment, item, and wake-up dialogue.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1911,
+      "category": "Battle moves",
+      "english": [
+        "Bellow Blaster"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference. Shoutmon's dub name varies by episode."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3187,
+      "category": "Battle moves",
+      "english": [
+        "Bellow Blaster"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference. Shoutmon's dub name varies by episode."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1912,
+      "category": "Battle moves",
+      "english": [
+        "Fiery Fastball"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3188,
+      "category": "Battle moves",
+      "english": [
+        "Fiery Fastball"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1914,
+      "category": "Battle moves",
+      "english": [
+        "Arm Bunker"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3190,
+      "category": "Battle moves",
+      "english": [
+        "Arm Bunker"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1916,
+      "category": "Battle moves",
+      "english": [
+        "Ram Slammer"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3192,
+      "category": "Battle moves",
+      "english": [
+        "Ram Slammer"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1917,
+      "category": "Battle moves",
+      "english": [
+        "Drill Bit Blitz"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3193,
+      "category": "Battle moves",
+      "english": [
+        "Drill Bit Blitz"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1919,
+      "category": "Battle moves",
+      "english": [
+        "Drill Blader"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3195,
+      "category": "Battle moves",
+      "english": [
+        "Drill Blader"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1920,
+      "category": "Battle moves",
+      "english": [
+        "Crash Boom"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3196,
+      "category": "Battle moves",
+      "english": [
+        "Crash Boom"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1921,
+      "category": "Battle moves",
+      "english": [
+        "Wing Edge"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3197,
+      "category": "Battle moves",
+      "english": [
+        "Wing Edge"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1922,
+      "category": "Battle moves",
+      "english": [
+        "Random Laser"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3198,
+      "category": "Battle moves",
+      "english": [
+        "Random Laser"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1923,
+      "category": "Battle moves",
+      "english": [
+        "Star Boomerang"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3199,
+      "category": "Battle moves",
+      "english": [
+        "Star Boomerang"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1924,
+      "category": "Battle moves",
+      "english": [
+        "Star Storm"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1930,
+      "category": "Battle moves",
+      "english": [
+        "Triple Impact"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3206,
+      "category": "Battle moves",
+      "english": [
+        "Triple Impact"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1933,
+      "category": "Battle moves",
+      "english": [
+        "Atomic Tail"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3209,
+      "category": "Battle moves",
+      "english": [
+        "Atomic Tail"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1935,
+      "category": "Battle moves",
+      "english": [
+        "Trident Tail"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3211,
+      "category": "Battle moves",
+      "english": [
+        "Trident Tail"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1936,
+      "category": "Battle moves",
+      "english": [
+        "Nightflare"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3212,
+      "category": "Battle moves",
+      "english": [
+        "Nightflare"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1937,
+      "category": "Battle moves",
+      "english": [
+        "Plasma Cannons"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3213,
+      "category": "Battle moves",
+      "english": [
+        "Plasma Cannons"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1938,
+      "category": "Battle moves",
+      "english": [
+        "Trident Arm"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3214,
+      "category": "Battle moves",
+      "english": [
+        "Trident Arm"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1941,
+      "category": "Battle moves",
+      "english": [
+        "Aqua Rage"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3217,
+      "category": "Battle moves",
+      "english": [
+        "Aqua Rage"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1942,
+      "category": "Battle moves",
+      "english": [
+        "Air Slicer"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3218,
+      "category": "Battle moves",
+      "english": [
+        "Air Slicer"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1943,
+      "category": "Battle moves",
+      "english": [
+        "Shoulder Blade"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3219,
+      "category": "Battle moves",
+      "english": [
+        "Shoulder Blade"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1949,
+      "category": "Battle moves",
+      "english": [
+        "Darkness Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3225,
+      "category": "Battle moves",
+      "english": [
+        "Darkness Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1952,
+      "category": "Battle moves",
+      "english": [
+        "Meteor Impact"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3228,
+      "category": "Battle moves",
+      "english": [
+        "Meteor Impact"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1953,
+      "category": "Battle moves",
+      "english": [
+        "Meteor Buster Attack"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Keeps the game move distinct as Meteor Buster Attack (95 px). The English Digimon Fusion dub also calls Shoutmon X5's move Earth Shaker in some episodes, but this game separately lists アースシェイカー as another technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2452,
+      "category": "Battle moves",
+      "english": [
+        "Meteor Buster Attack"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Keeps the game move distinct as Meteor Buster Attack (95 px). The English Digimon Fusion dub also calls Shoutmon X5's move Earth Shaker in some episodes, but this game separately lists アースシェイカー as another technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1954,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Flare"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "The same named attack appears in the English Digimon World: Dawn/Dusk move-list extraction; Japanese source confirms the direct match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3230,
+      "category": "Battle moves",
+      "english": [
+        "Chaos Flare"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "The same named attack appears in the English Digimon World: Dawn/Dusk move-list extraction; Japanese source confirms the direct match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1958,
+      "category": "Battle moves",
+      "english": [
+        "Head Strike"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3234,
+      "category": "Battle moves",
+      "english": [
+        "Head Strike"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1959,
+      "category": "Battle moves",
+      "english": [
+        "Kilo Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3235,
+      "category": "Battle moves",
+      "english": [
+        "Kilo Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1960,
+      "category": "Battle moves",
+      "english": [
+        "Death March"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3236,
+      "category": "Battle moves",
+      "english": [
+        "Death March"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1961,
+      "category": "Battle moves",
+      "english": [
+        "Harasho Attack"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3237,
+      "category": "Battle moves",
+      "english": [
+        "Harasho Attack"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1962,
+      "category": "Battle moves",
+      "english": [
+        "Baby Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3238,
+      "category": "Battle moves",
+      "english": [
+        "Baby Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1964,
+      "category": "Battle moves",
+      "english": [
+        "Eucalyptus Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3240,
+      "category": "Battle moves",
+      "english": [
+        "Eucalyptus Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1965,
+      "category": "Battle moves",
+      "english": [
+        "Evil Snore"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3241,
+      "category": "Battle moves",
+      "english": [
+        "Evil Snore"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1966,
+      "category": "Battle moves",
+      "english": [
+        "Witch Warp"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3242,
+      "category": "Battle moves",
+      "english": [
+        "Witch Warp"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1968,
+      "category": "Battle moves",
+      "english": [
+        "Excrement"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3244,
+      "category": "Battle moves",
+      "english": [
+        "Excrement"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1971,
+      "category": "Battle moves",
+      "english": [
+        "Ogre Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3247,
+      "category": "Battle moves",
+      "english": [
+        "Ogre Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1972,
+      "category": "Battle moves",
+      "english": [
+        "Cathedral"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3248,
+      "category": "Battle moves",
+      "english": [
+        "Cathedral"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1974,
+      "category": "Battle moves",
+      "english": [
+        "Power Picks"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3250,
+      "category": "Battle moves",
+      "english": [
+        "Power Picks"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1976,
+      "category": "Battle moves",
+      "english": [
+        "Fire Shot"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3252,
+      "category": "Battle moves",
+      "english": [
+        "Fire Shot"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1977,
+      "category": "Battle moves",
+      "english": [
+        "Water Dragon"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3253,
+      "category": "Battle moves",
+      "english": [
+        "Water Dragon"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1978,
+      "category": "Battle moves",
+      "english": [
+        "Pinwheel"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3254,
+      "category": "Battle moves",
+      "english": [
+        "Pinwheel"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1979,
+      "category": "Battle moves",
+      "english": [
+        "Power Line"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3255,
+      "category": "Battle moves",
+      "english": [
+        "Power Line"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1980,
+      "category": "Battle moves",
+      "english": [
+        "Dondoko March"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3256,
+      "category": "Battle moves",
+      "english": [
+        "Dondoko March"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1981,
+      "category": "Battle moves",
+      "english": [
+        "Dondoko Rush"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3257,
+      "category": "Battle moves",
+      "english": [
+        "Dondoko Rush"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1982,
+      "category": "Battle moves",
+      "english": [
+        "Extreme Taiko"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3258,
+      "category": "Battle moves",
+      "english": [
+        "Extreme Taiko"
+      ],
+      "sources": [
+        "https://digimon.fandom.com/wiki/Digimon_Fusion/Appendices/Attacks"
+      ],
+      "review_note": "Uses the established English Digimon Fusion dub name for this Japanese-named attack; the Western label and character mapping are cross-checked against the attack reference."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1983,
+      "category": "Battle moves",
+      "english": [
+        "Bomber Head"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3259,
+      "category": "Battle moves",
+      "english": [
+        "Bomber Head"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1985,
+      "category": "Battle moves",
+      "english": [
+        "Rockin' Magnum"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3261,
+      "category": "Battle moves",
+      "english": [
+        "Rockin' Magnum"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1986,
+      "category": "Battle moves",
+      "english": [
+        "Air Shooter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3262,
+      "category": "Battle moves",
+      "english": [
+        "Air Shooter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1994,
+      "category": "Battle moves",
+      "english": [
+        "Prism Flash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3270,
+      "category": "Battle moves",
+      "english": [
+        "Prism Flash"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1995,
+      "category": "Battle moves",
+      "english": [
+        "Crystal Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3271,
+      "category": "Battle moves",
+      "english": [
+        "Crystal Breath"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2000,
+      "category": "Battle moves",
+      "english": [
+        "Blood Eye"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3276,
+      "category": "Battle moves",
+      "english": [
+        "Blood Eye"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2002,
+      "category": "Battle moves",
+      "english": [
+        "Beat Knuckle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3278,
+      "category": "Battle moves",
+      "english": [
+        "Beat Knuckle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2003,
+      "category": "Battle moves",
+      "english": [
+        "Baby Burner"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3279,
+      "category": "Battle moves",
+      "english": [
+        "Baby Burner"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2004,
+      "category": "Battle moves",
+      "english": [
+        "Victory Punch"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3280,
+      "category": "Battle moves",
+      "english": [
+        "Victory Punch"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2006,
+      "category": "Battle moves",
+      "english": [
+        "Metal Cannon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3282,
+      "category": "Battle moves",
+      "english": [
+        "Metal Cannon"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2007,
+      "category": "Battle moves",
+      "english": [
+        "Electric Shock"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "The same named attack appears in the English Digimon World: Dawn/Dusk move-list extraction; Japanese source confirms the direct match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3283,
+      "category": "Battle moves",
+      "english": [
+        "Electric Shock"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "The same named attack appears in the English Digimon World: Dawn/Dusk move-list extraction; Japanese source confirms the direct match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2008,
+      "category": "Battle moves",
+      "english": [
+        "Tiny Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3284,
+      "category": "Battle moves",
+      "english": [
+        "Tiny Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2010,
+      "category": "Battle moves",
+      "english": [
+        "Magical Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3286,
+      "category": "Battle moves",
+      "english": [
+        "Magical Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2011,
+      "category": "Battle moves",
+      "english": [
+        "Root Stretch"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3287,
+      "category": "Battle moves",
+      "english": [
+        "Root Stretch"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2012,
+      "category": "Battle moves",
+      "english": [
+        "Twice Arm"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3288,
+      "category": "Battle moves",
+      "english": [
+        "Twice Arm"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2013,
+      "category": "Battle moves",
+      "english": [
+        "Earth Shaker"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3289,
+      "category": "Battle moves",
+      "english": [
+        "Earth Shaker"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2014,
+      "category": "Battle moves",
+      "english": [
+        "Water Jet"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3290,
+      "category": "Battle moves",
+      "english": [
+        "Water Jet"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2016,
+      "category": "Battle moves",
+      "english": [
+        "Bat Flutter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3292,
+      "category": "Battle moves",
+      "english": [
+        "Bat Flutter"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2017,
+      "category": "Battle moves",
+      "english": [
+        "Toy Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3293,
+      "category": "Battle moves",
+      "english": [
+        "Toy Flame"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2018,
+      "category": "Battle moves",
+      "english": [
+        "Darkness Gear"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3294,
+      "category": "Battle moves",
+      "english": [
+        "Darkness Gear"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2019,
+      "category": "Battle moves",
+      "english": [
+        "Puppy Howling"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3295,
+      "category": "Battle moves",
+      "english": [
+        "Puppy Howling"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2020,
+      "category": "Battle moves",
+      "english": [
+        "Silk Thread"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3296,
+      "category": "Battle moves",
+      "english": [
+        "Silk Thread"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2021,
+      "category": "Battle moves",
+      "english": [
+        "Beak Peck"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3297,
+      "category": "Battle moves",
+      "english": [
+        "Beak Peck"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2022,
+      "category": "Battle moves",
+      "english": [
+        "Rolling Stone"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3298,
+      "category": "Battle moves",
+      "english": [
+        "Rolling Stone"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2024,
+      "category": "Battle moves",
+      "english": [
+        "Blazing Ice"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3300,
+      "category": "Battle moves",
+      "english": [
+        "Blazing Ice"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2027,
+      "category": "Battle moves",
+      "english": [
+        "Crazy Smoke"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3303,
+      "category": "Battle moves",
+      "english": [
+        "Crazy Smoke"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2029,
+      "category": "Battle moves",
+      "english": [
+        "Gobli Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3305,
+      "category": "Battle moves",
+      "english": [
+        "Gobli Bomb"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2030,
+      "category": "Battle moves",
+      "english": [
+        "Black Pearl"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3306,
+      "category": "Battle moves",
+      "english": [
+        "Black Pearl"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2031,
+      "category": "Battle moves",
+      "english": [
+        "Allergy Shower"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3307,
+      "category": "Battle moves",
+      "english": [
+        "Allergy Shower"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Provisional English rendering from the Japanese attack name. Checked the Dawn/Dusk move-list extraction; no exact matching name was confirmed."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Would you like\nto rest?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Would you like\nto rest?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, please."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, please."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "No, thanks!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "No, thanks!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Your Digimon's\nHP and MP\nhave been fully\nrestored!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "Your Digimon's\nHP and MP\nhave been fully\nrestored!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Ride a Digimon\nto travel?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "Ride a Digimon\nto travel?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Talk to me\nanytime you\nwant\nto travel\nsomewhere."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "Talk to me\nanytime you\nwant\nto travel\nsomewhere."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Talk to me\nagain when\nyou want to\ntravel!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Talk to me\nagain when\nyou want to\ntravel!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "You don't have\nthe key\nto open this\ngate!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "You don't have\nthe key\nto open this\ngate!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "^0 joined your\nparty!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "^0 joined your\nparty!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me\njoin\nyour party?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me\njoin\nyour party?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Can I join your\nparty?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Can I join your\nparty?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me\njoin?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me\njoin?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me\njoin?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you let me\njoin?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Let's be\nfriends!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "Let's be\nfriends!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "Count on me!▼"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Count on me!▼"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "I am counting\non you!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "I am counting\non you!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "Aw, that's a\nletdown."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Aw, that's a\nletdown."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "All right!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "All right!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm..."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm..."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "I see. Got it."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "I see. Got it."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, I got it."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, I got it."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, start it\nup."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, start it\nup."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "No, not yet."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "No, not yet."
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki!\nHow long are\nyou\ngoing to sleep?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki!\nHow long are\nyou\ngoing to sleep?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Shoutmon,\nwhat's going\non?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Shoutmon,\nwhat's going\non?"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "What do you\nmean,\n'what's going\non'...?\nGet it\ntogether!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "What do you\nmean,\n'what's going\non'...?\nGet it\ntogether!"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "Here's an item\nfor you!♪"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Here's an item\nfor you!♪"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care\nof it!♪"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 15,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Take good care\nof it!♪"
+      ],
+      "sources": [],
+      "review_note": "Early travel, recruitment, recovery, item, or wake-up dialogue. Japanese line breaks are preserved and the dynamic ^0 name token and paging marker are retained."
+    }
+  ]
+}

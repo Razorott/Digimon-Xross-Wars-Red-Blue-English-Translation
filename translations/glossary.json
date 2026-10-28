@@ -1,0 +1,3146 @@
+{
+  "checked": "2026-10-25",
+  "policy": "Original human names by user preference. Digimon spellings checked against official Western cards when available. Matching Dawn/Dusk move names are drawn from an extraction of the licensed English DS release. The user requested DigiXross (double s); official cards spell the related mechanic DigiXros.",
+  "sources": {
+    "BT10": {
+      "url": "https://world.digimoncard.com/cards/?category=522011&search=true",
+      "title": "Bandai official English Xros Encounter card list",
+      "kind": "primary",
+      "notes": "Names and attack titles checked on the English card list. Dub attack names may differ."
+    },
+    "ACTIVITY": {
+      "url": "https://fabgrandma.com/wp-content/uploads/Digimon-Activities.pdf",
+      "title": "Digimon Fusion promotional activity sheet",
+      "kind": "primary promotional material hosted by a third party",
+      "notes": "English character labels Mikey, Angie, Jeremy."
+    },
+    "CAST": {
+      "url": "https://digimon.fandom.com/wiki/List_of_characters_in_Digimon_Fusion",
+      "title": "DigimonWiki English Fusion character list",
+      "kind": "secondary",
+      "notes": "Japanese-to-dub name correspondence; surname spelling requires further primary verification before full-name uses beyond Mikey Kudo."
+    },
+    "KOROMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=EX10-002&search=true",
+      "title": "Bandai Koromon EX10-002",
+      "kind": "primary"
+    },
+    "AGUMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=EX10-006&search=true",
+      "title": "Bandai Agumon EX10-006",
+      "kind": "primary"
+    },
+    "STARMON": {
+      "url": "https://digimon.fandom.com/wiki/Starmon_(2010_anime)",
+      "title": "DigimonWiki individual Xros Wars Starmon",
+      "kind": "secondary",
+      "notes": "Individual character Starmon; do not replace him with the collective designation Starmons from BT10-029."
+    },
+    "PICKMON": {
+      "url": "https://digimon.fandom.com/wiki/Pickmon",
+      "title": "DigimonWiki individual Pickmon",
+      "kind": "secondary",
+      "notes": "Individual Pickmon versus the collective Pickmons on English cards."
+    },
+    "CUTEMON": {
+      "url": "https://world.digimoncard.com/rule/?card_no=BT5-033",
+      "title": "Bandai Cutemon BT5-033",
+      "kind": "primary"
+    },
+    "CHIBICKMON": {
+      "url": "https://digimon.fandom.com/wiki/Clash_in_the_Clouds",
+      "title": "DigimonWiki English episode data-file transcript",
+      "kind": "secondary transcript of the licensed English anime",
+      "notes": "English Data File calls it Chibickmon. Cross-checked with the Chibickmon species page; official portal was under maintenance."
+    },
+    "BT1_INDEX": {
+      "url": "https://world.digimoncard.com/pdf/products_BT01-03_list1.pdf",
+      "title": "Bandai official English Release Special Booster 1.0 index",
+      "kind": "primary",
+      "notes": "BT1-048 Patamon; BT1-065 Mushroomon; also contains common quest requester names."
+    },
+    "GOTSUMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT23-048&search=true",
+      "title": "Bandai Gotsumon BT23-048",
+      "kind": "primary"
+    },
+    "CARD_LIST": {
+      "url": "https://world.digimoncard.com/cards/",
+      "title": "Bandai official English Digimon Card Game card list",
+      "kind": "primary",
+      "notes": "Western species spellings; unusual forms still require individual card/form review."
+    },
+    "DAWN_DUSK_MOVES": {
+      "url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "title": "English move names extracted from licensed US Digimon World Dawn/Dusk releases",
+      "kind": "secondary extraction of primary game text",
+      "notes": "Used to match the same Japanese move; similar or literal names without a firm match are deferred."
+    },
+    "DIGINOWA": {
+      "url": "https://wikimon.net/Diginowa",
+      "title": "Wikimon Diginowa franchise item entry",
+      "kind": "secondary",
+      "notes": "The snack appears beyond this game; an official Western name is not yet verified."
+    },
+    "BT13_CHESSMON": {
+      "url": "https://world.digimoncard.com/cards/?category=522016&search=true",
+      "title": "Bandai official English BT13 card list",
+      "kind": "primary",
+      "notes": "Confirms English spellings KingChessmon, PawnChessmon, RookChessmon, and QueenChessmon; KnightChessmon White and BishopChessmon follow established English species spelling and remain marked as working evidence in batch review."
+    },
+    "B24_SAKUYAMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT19-040&search=true",
+      "title": "Bandai official English Sakuyamon card",
+      "kind": "primary"
+    },
+    "B24_BANCHOLEOMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT20-036&search=true",
+      "title": "Bandai official English BanchoLeomon card",
+      "kind": "primary"
+    },
+    "B24_VALKYRIMON": {
+      "url": "https://world.digimoncard.com/cards/?category=522002&search=true",
+      "title": "Bandai official English card list with Valkyrimon",
+      "kind": "primary"
+    },
+    "B24_DAIPENMON": {
+      "url": "https://world.digimoncard.com/cards/?category=522007&search=true",
+      "title": "Bandai official English DaiPenmon card list",
+      "kind": "primary",
+      "notes": "BT7-024 is styled DaiPenmon."
+    },
+    "B24_DAIPENMON_ENCYCLOPEDIA": {
+      "url": "https://digimon.net/reference_en/detail.php?directory_name=daipenmon",
+      "title": "Official English Digimon Encyclopedia entry DaiPenmon",
+      "kind": "primary"
+    },
+    "B24_CALUMON": {
+      "url": "https://world.digimoncard.com/cards/?free=EX2-045&search=true",
+      "title": "Bandai official English Calumon card",
+      "kind": "primary"
+    },
+    "B24_JUSTIMON": {
+      "url": "https://world.digimoncard.com/cards/?category=522011&search=true",
+      "title": "Bandai official English Xros Encounter card list with Justimon",
+      "kind": "primary"
+    },
+    "B24_APOCALYMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT15-102&search=true",
+      "title": "Bandai official English Apocalymon card",
+      "kind": "primary"
+    },
+    "B24_CHIKURIMON": {
+      "url": "https://world.digimoncard.com/rule/?card_no=ST13-08",
+      "title": "Bandai official English Chikurimon card FAQ",
+      "kind": "primary"
+    },
+    "B28_GUILTY_CLAW": {
+      "url": "https://dro.gameking.com/News/PatchNoteView.aspx?idx=1315",
+      "title": "Digimon RPG official update listing Guilty Claw",
+      "kind": "official game publisher",
+      "notes": "Cross-reference for the English attack name only; does not establish this game had an official Western localization."
+    },
+    "B28_PENGUINMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=EX11-014&search=true",
+      "title": "Bandai official English Penguinmon card EX11-014",
+      "kind": "primary"
+    },
+    "B28_MARINEDEVIMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=EX8-061&search=true",
+      "title": "Bandai official English MarineDevimon card EX8-061",
+      "kind": "primary"
+    },
+    "B28_DIVERMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT15-028&search=true",
+      "title": "Bandai official English Divermon card BT15-028",
+      "kind": "primary"
+    },
+    "B28_MAP_REFERENCE": {
+      "url": "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Red",
+      "title": "Wikimon reference for this Japan-only game",
+      "kind": "secondary",
+      "notes": "Used as a location-name cross-reference; it is not an official localization source."
+    },
+    "B29_XROS_TECHNIQUES": {
+      "url": "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique",
+      "title": "Digimon Story: Super Xros Wars Japanese technique guide",
+      "kind": "secondary game reference",
+      "notes": "Used to confirm the exact Japanese attack labels and effects; English renderings stay provisional unless a Western game match is verified."
+    },
+    "B29_WORLD2_OCTOMON": {
+      "url": "https://dev.metalkid.info/DigimonWorld2/Digipedia/Details/Octomon",
+      "title": "Digimon World 2 English Octomon skill listing",
+      "kind": "secondary extraction of primary game text",
+      "notes": "Confirms Spurting Ink as Octomon's English attack name in Digimon World 2."
+    },
+    "B29_CARD_PIEDMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=EX8-062&search=true",
+      "title": "Bandai official English Digimon Card Game listing",
+      "kind": "primary",
+      "notes": "Official English spelling for Piedmon."
+    },
+    "B29_CARD_WHAMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT23-023&search=true",
+      "title": "Bandai official English Digimon Card Game listing",
+      "kind": "primary",
+      "notes": "Official English spelling for Whamon."
+    },
+    "B29_CARD_MAMEMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=EX9-053&search=true",
+      "title": "Bandai official English Digimon Card Game listing",
+      "kind": "primary",
+      "notes": "Official English spelling for Mamemon."
+    },
+    "B29_CARD_MONZAEMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT22-038&search=true",
+      "title": "Bandai official English Digimon Card Game listing",
+      "kind": "primary",
+      "notes": "Official English spelling for Monzaemon."
+    },
+    "B29_CARD_OCTOMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=EX5-058&search=true",
+      "title": "Bandai official English Digimon Card Game listing",
+      "kind": "primary",
+      "notes": "Official English spelling for Octomon."
+    },
+    "B29_CARD_MYOTISMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=EX10-048&search=true",
+      "title": "Bandai official English Digimon Card Game listing",
+      "kind": "primary",
+      "notes": "Official English spelling for Myotismon."
+    },
+    "B29_CARD_SINDURAMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=EX5-050&search=true",
+      "title": "Bandai official English Digimon Card Game listing",
+      "kind": "primary",
+      "notes": "Official English spelling for Sinduramon."
+    },
+    "B29_CARD_BURAIMON": {
+      "url": "https://world.digimoncard.com/cards/?category=522038&search=true",
+      "title": "Bandai official English Digimon Card Game listing",
+      "kind": "primary",
+      "notes": "Official English spelling for Buraimon."
+    },
+    "B30_WIKIMON_XROS_TECHNIQUES": {
+      "url": "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique",
+      "title": "Digimon Story: Super Xros Wars Japanese technique guide",
+      "kind": "secondary game reference",
+      "notes": "Used to confirm Japanese move labels and their effects; English renderings are marked as working translations unless another Western game or dubbed name is specifically cited."
+    },
+    "B30_WIKIMON_APOCALYMON": {
+      "url": "https://wikimon.net/Apokarimon",
+      "title": "Apocalymon attack-name references",
+      "kind": "secondary franchise reference",
+      "notes": "Lists Grand Big Bang and alternate English dub renderings for the same Japanese attack."
+    },
+    "B30_WIKIMON_SIESAMON": {
+      "url": "https://wikimon.net/Siesamon",
+      "title": "Siesamon move-name and Reference Book cross-reference",
+      "kind": "secondary franchise reference quoting the official Reference Book",
+      "notes": "Provides English renderings Sun’s Courage and Ancient Firewall for the corresponding Japanese move names."
+    },
+    "B30_WIKIMON_PANDAMON": {
+      "url": "https://wikimon.net/Pandamon",
+      "title": "Pandamon attack-name references",
+      "kind": "secondary franchise reference",
+      "notes": "Records Firecracker as the English dubbed name for Unnanshou."
+    },
+    "B30_WIKIMON_CHIMERAMON": {
+      "url": "https://wikimon.net/Kimeramon",
+      "title": "Chimairamon attack-name references",
+      "kind": "secondary franchise reference",
+      "notes": "Confirms Hybrid Arms as an established English name for the same multi-arm attack."
+    },
+    "B30_WIKIMON_PIEMON": {
+      "url": "https://wikimon.net/piemon",
+      "title": "Piedmon attack-name references",
+      "kind": "secondary franchise reference",
+      "notes": "Confirms Ending Snipe as an English move name in other Digimon games."
+    },
+    "B30_WIKIMON_MUSHMON_CARD": {
+      "url": "https://wikimon.net/St-788",
+      "title": "Mushmon St-788 English card attack names",
+      "kind": "secondary reference to English card text",
+      "notes": "Lists Rough S-Mush as the English card rendering for the Japanese move."
+    },
+    "B30_CYBERSLEUTH_MOVE": {
+      "url": "https://t2sc.me/userfiles/62609410959.pdf",
+      "title": "English Digimon Story Cyber Sleuth move-name extraction",
+      "kind": "secondary extraction of licensed English game text",
+      "notes": "Lists the matching Seiken Gradalpha move as Blade of the Dragon King. This batch uses a short form to fit the Xros Wars move slot."
+    },
+    "B30_BANDAI_CARD_LIST": {
+      "url": "https://world.digimoncard.com/cards/",
+      "title": "Bandai official English Digimon Card Game card list",
+      "kind": "primary",
+      "notes": "Official English Digimon species spellings used in the DigiMemory item descriptions."
+    },
+    "B31_WIKIMON_XROS_TECHNIQUES": {
+      "url": "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique",
+      "title": "Digimon Story: Super Xros Wars Japanese technique guide",
+      "kind": "secondary game reference",
+      "notes": "Used to verify Japanese battle move labels and effects. English titles are labeled working translations unless an established Western name is cited."
+    },
+    "B31_WIKIMON_SHOUTMON_X2": {
+      "url": "https://wikimon.net/Shoutmon_X_2",
+      "title": "Shoutmon X2 attack names",
+      "kind": "secondary franchise reference",
+      "notes": "Records Vulcanators as the English dub name for Miya Vulcan."
+    },
+    "B31_WIKIMON_CUTEMON": {
+      "url": "https://wikimon.net/Cutemon",
+      "title": "Cutemon attack names",
+      "kind": "secondary franchise reference",
+      "notes": "Records Healing Glow and Healing Glow II as English dub names for Kizunaol and Yokunaol."
+    },
+    "B31_WIKIMON_SHOUTMON_X5B": {
+      "url": "https://wikimon.net/Shoutmon_X5B",
+      "title": "Shoutmon X5B attack names",
+      "kind": "secondary franchise reference",
+      "notes": "Records Star's Blade Celestrike as the English rendering for the matching Xros Wars attack."
+    },
+    "B31_WIKIMON_PICKMON": {
+      "url": "https://wikimon.net/Pickmon",
+      "title": "Pickmon attack names",
+      "kind": "secondary franchise reference",
+      "notes": "Lists Shorty as the English translation of Chinchikurin."
+    },
+    "B31_WIKIMON_LILITHMON": {
+      "url": "https://wikimon.net/Lilithmon",
+      "title": "Lilithmon attack names",
+      "kind": "secondary franchise reference",
+      "notes": "Lists Razor Nails as the English dub name for Nazar Nail."
+    },
+    "B31_WIKIMON_LALAMON": {
+      "url": "https://wikimon.net/Lalamon",
+      "title": "Lalamon attack names",
+      "kind": "secondary franchise reference",
+      "notes": "Lists Seed Blast as the English dub name for Nuts Shoot."
+    },
+    "B31_BANDAI_DINOBEEMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT20-074&search=true",
+      "title": "Bandai English card list: Dinobeemon BT20-074",
+      "kind": "primary"
+    },
+    "B31_BANDAI_SNIMON": {
+      "url": "https://world.digimoncard.com/rule/pdf/starter_deck_4.pdf",
+      "title": "Bandai English starter deck rules: Snimon ST9-10",
+      "kind": "primary"
+    },
+    "B32_WIKIMON_XROS_TECHNIQUES": {
+      "url": "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique",
+      "title": "Digimon Story: Super Xros Wars Japanese technique guide",
+      "kind": "secondary game reference",
+      "notes": "Used to confirm Japanese move labels and attack effects. English titles are marked as working translations unless an established Western name is cited."
+    },
+    "B32_WIKIMON_DOKUGUMON": {
+      "url": "https://wikimon.net/Dokugumon",
+      "title": "Dokugumon attack names",
+      "kind": "secondary franchise reference",
+      "notes": "Records Poison Cobweb among the English dub aliases of Arachno Batoto."
+    },
+    "B32_WIKIMON_CATURAMON": {
+      "url": "https://wikimon.net/Caturamon",
+      "title": "Caturamon attack names and Bǎo Chuí",
+      "kind": "secondary franchise reference",
+      "notes": "Records Howl of Power as the English dub name for Śwabhojana and Treasure Mallet as the English translation of Bǎo Chuí; Pao Tsei is a romanization of the Japanese katakana name."
+    },
+    "B32_DAWN_DUSK": {
+      "url": "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt",
+      "title": "English Digimon World: Dawn/Dusk move-name extraction",
+      "kind": "community extraction of licensed game text",
+      "notes": "FTemptation is reused only where the Japanese move label matches."
+    },
+    "B32_BANDAI_MEGA_GARGOMON": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT3-057&search=true",
+      "title": "Bandai English card list: MegaGargomon BT3-057",
+      "kind": "primary",
+      "notes": "Confirms the Western spelling for セントガルゴモン."
+    },
+    "B32_BANDAI_RUKAMON": {
+      "url": "https://p-bandai.com/us/contents/div/2030/images/Digimon%20Pendulum%20Color_Web%20manual_EN%20%281%29.pdf",
+      "title": "Bandai Digimon Pendulum Color English manual",
+      "kind": "primary",
+      "notes": "Uses the Western name Rukamon in English product material."
+    },
+    "B32_BANDAI_CARDS": {
+      "url": "https://world.digimoncard.com/cards/",
+      "title": "Bandai official English Digimon Card Game card list",
+      "kind": "primary",
+      "notes": "Reference for established Western Digimon spellings; game-specific variant suffixes are retained from the reviewed display-name table."
+    },
+    "B34_WIKIMON_SEADRAMON": {
+      "url": "https://wikimon.net/Seadramon"
+    },
+    "B34_WIKIMON_TOYAGUMON": {
+      "url": "https://wikimon.net/Toy_Agumon"
+    },
+    "B34_BANDAI_MEGA_FLAME": {
+      "url": "https://world.digimoncard.com/cards/?category=522018&search=true"
+    },
+    "B34_BANDAI_ZEED": {
+      "url": "https://world.digimoncard.com/cards/?card_no=BT19-101&search=true"
+    }
+  },
+  "terms": [
+    {
+      "japanese": "コロモン",
+      "english": "Koromon",
+      "category": "Digimon name",
+      "sources": [
+        "KOROMON"
+      ]
+    },
+    {
+      "japanese": "アグモン",
+      "english": "Agumon",
+      "category": "Digimon name",
+      "sources": [
+        "AGUMON",
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "シャウトモン",
+      "english": "Shoutmon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-008"
+    },
+    {
+      "japanese": "バリスタモン",
+      "english": "Ballistamon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-049"
+    },
+    {
+      "japanese": "ドルルモン",
+      "english": "Dorulumon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-034"
+    },
+    {
+      "japanese": "スパロウモン",
+      "english": "Sparrowmon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-060"
+    },
+    {
+      "japanese": "スパーダモン",
+      "english": "Spadamon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-059"
+    },
+    {
+      "japanese": "スターモン",
+      "english": "Starmon",
+      "category": "Digimon name",
+      "sources": [
+        "STARMON",
+        "BT10"
+      ],
+      "indices": [
+        539,
+        590,
+        1012
+      ],
+      "notes": "Individual Xros Wars character. BT10-029 Starmons is the collective group name, not this individual. The separate Legend Starmon is also a different species."
+    },
+    {
+      "japanese": "ピックモン",
+      "english": "Pickmon",
+      "category": "Digimon name",
+      "sources": [
+        "PICKMON"
+      ],
+      "notes": "Individual name. Use Pickmons when addressing several of them in dialogue."
+    },
+    {
+      "japanese": "キュートモン",
+      "english": "Cutemon",
+      "category": "Digimon name",
+      "sources": [
+        "CUTEMON"
+      ],
+      "evidence": "BT5-033"
+    },
+    {
+      "japanese": "チビックモン",
+      "english": "Chibickmon",
+      "category": "Digimon name",
+      "sources": [
+        "CHIBICKMON",
+        "B32_BANDAI_CARDS"
+      ],
+      "notes": "Distinct from Pickmon; English anime Data File name retained.",
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "シャウトモン×２",
+      "english": "Shoutmon X2",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-009"
+    },
+    {
+      "japanese": "シャウトモン×３",
+      "english": "Shoutmon X3",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-010"
+    },
+    {
+      "japanese": "シャウトモン×４",
+      "english": "Shoutmon X4",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-011"
+    },
+    {
+      "japanese": "シャウトモン×５",
+      "english": "Shoutmon X5",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-013"
+    },
+    {
+      "japanese": "スカルナイトモン",
+      "english": "SkullKnightmon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-061 rules name"
+    },
+    {
+      "japanese": "Ｄアックスモン",
+      "english": "DeadlyAxemon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-061 rules name",
+      "notes": "Expand the source abbreviation. Narrow UI layouts still need gameplay review."
+    },
+    {
+      "japanese": "デッドリーアックスモン",
+      "english": "DeadlyAxemon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-061 rules name"
+    },
+    {
+      "japanese": "ダークナイトモン",
+      "english": "DarkKnightmon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-066"
+    },
+    {
+      "japanese": "Ｍバードラモン",
+      "english": "MailBirdramon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-021",
+      "notes": "Expand the source abbreviation; check narrow UI layouts."
+    },
+    {
+      "japanese": "メイルバードラモン",
+      "english": "MailBirdramon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-021"
+    },
+    {
+      "japanese": "ドンドコモン",
+      "english": "Dondokomon",
+      "category": "Digimon name",
+      "sources": [
+        "BT10",
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "バーニングスタークラッシャー",
+      "english": "Burning Star Crusher",
+      "category": "move name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-096",
+      "notes": "Official English card title; English dub has used Great Sword of Victory. Use the card/game naming policy consistently."
+    },
+    {
+      "japanese": "バーニングスターＣ",
+      "english": "Burning Star Crusher",
+      "category": "move name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-096",
+      "notes": "Short display variant of the same source attack."
+    },
+    {
+      "japanese": "デス・ザ・キャノン",
+      "english": "Death the Cannon",
+      "category": "move name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-108"
+    },
+    {
+      "japanese": "ジャスティスキック",
+      "english": "Justice Kick",
+      "category": "move name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-106"
+    },
+    {
+      "japanese": "タイキ",
+      "english": "Taiki",
+      "category": "human name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-087 Taiki Kudo; original human names explicitly selected by user."
+    },
+    {
+      "japanese": "アカリ",
+      "english": "Akari",
+      "category": "human name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-089 Akari Hinomoto; user preference."
+    },
+    {
+      "japanese": "ゼンジロウ",
+      "english": "Zenjiro",
+      "category": "human name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-090 Zenjiro Tsurugi; user preference."
+    },
+    {
+      "japanese": "キリハ",
+      "english": "Kiriha",
+      "category": "human name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-088 Kiriha Aonuma; user preference."
+    },
+    {
+      "japanese": "ネネ",
+      "english": "Nene",
+      "category": "human name",
+      "sources": [
+        "BT10"
+      ],
+      "evidence": "BT10-092 Nene Amano; user preference."
+    },
+    {
+      "japanese": "マッシュモン",
+      "english": "Mushroomon",
+      "category": "Digimon name",
+      "sources": [
+        "BT1_INDEX"
+      ]
+    },
+    {
+      "japanese": "パタモン",
+      "english": "Patamon",
+      "category": "Digimon name",
+      "sources": [
+        "BT1_INDEX",
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "ゴツモン",
+      "english": "Gotsumon",
+      "category": "Digimon name",
+      "sources": [
+        "GOTSUMON"
+      ]
+    },
+    {
+      "japanese": "クラモン",
+      "english": "Kuramon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "クルモン",
+      "english": "Calumon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST",
+        "B24_CALUMON"
+      ],
+      "evidence": "Western Digimon spelling checked against the Bandai official English card list."
+    },
+    {
+      "japanese": "モノドラモン",
+      "english": "Monodramon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ブイモン",
+      "english": "Veemon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST",
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "ギルモン",
+      "english": "Guilmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST",
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "ドルモン",
+      "english": "Dorumon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ベタモン",
+      "english": "Betamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ガブモン",
+      "english": "Gabumon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ピヨモン",
+      "english": "Biyomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "パルモン",
+      "english": "Palmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "テントモン",
+      "english": "Tentomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "オタマモン",
+      "english": "Otamamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ゴマモン",
+      "english": "Gomamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ピコデビモン",
+      "english": "DemiDevimon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "トイアグモン",
+      "english": "ToyAgumon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ハグルモン",
+      "english": "Hagurumon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "プロットモン",
+      "english": "Salamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ワームモン",
+      "english": "Wormmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ホークモン",
+      "english": "Hawkmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "アルマジモン",
+      "english": "Armadillomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "テリアモン",
+      "english": "Terriermon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ロップモン",
+      "english": "Lopmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "レナモン",
+      "english": "Renamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "インプモン",
+      "english": "Impmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST",
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "ケラモン",
+      "english": "Keramon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ファルコモン",
+      "english": "Falcomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ゴブリモン",
+      "english": "Goblimon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "シャコモン",
+      "english": "Syakomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ユキアグモン",
+      "english": "SnowAgumon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ガニモン",
+      "english": "Crabmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "フローラモン",
+      "english": "Floramon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ララモン",
+      "english": "Lalamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ガオモン",
+      "english": "Gaomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "クダモン",
+      "english": "Kudamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "カメモン",
+      "english": "Kamemon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ドラクモン",
+      "english": "Dracmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "コクワモン",
+      "english": "Kokuwamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "コロナモン",
+      "english": "Coronamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ルナモン",
+      "english": "Lunamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ヒョコモン",
+      "english": "Hyokomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ルーチェモン",
+      "english": "Lucemon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "メカノリモン",
+      "english": "Mekanorimon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ティラノモン",
+      "english": "Tyrannomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "デビモン",
+      "english": "Devimon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "エアドラモン",
+      "english": "Airdramon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "シードラモン",
+      "english": "Seadramon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ヌメモン",
+      "english": "Numemon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "カブテリモン",
+      "english": "Kabuterimon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ガルルモン",
+      "english": "Garurumon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST",
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "エンジェモン",
+      "english": "Angemon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ベジーモン",
+      "english": "Vegiemon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "オーガモン",
+      "english": "Ogremon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "バケモン",
+      "english": "Bakemon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "スカモン",
+      "english": "Sukamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "レオモン",
+      "english": "Leomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "クワガーモン",
+      "english": "Kuwagamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ゲコモン",
+      "english": "Gekomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "テイルモン",
+      "english": "Gatomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST",
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "ウィザーモン",
+      "english": "Wizardmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "トゲモン",
+      "english": "Togemon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ガードロモン",
+      "english": "Guardromon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "エクスブイモン",
+      "english": "ExVeemon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "スティングモン",
+      "english": "Stingmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "バードラモン",
+      "english": "Birdramon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "アンキロモン",
+      "english": "Ankylomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "ガルゴモン",
+      "english": "Gargomon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "グラウモン",
+      "english": "Growlmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "キュウビモン",
+      "english": "Kyubimon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "クリサリモン",
+      "english": "Kurisarimon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "シーサモン",
+      "english": "Seasarmon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "アクィラモン",
+      "english": "Aquilamon",
+      "category": "Digimon name",
+      "sources": [
+        "CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling; exact variant forms checked separately."
+    },
+    {
+      "japanese": "たいあたり",
+      "english": "Charge",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "リトルブリザード",
+      "english": "Little Blizzard",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ハイドロウォーター",
+      "english": "Hydro Water",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "メガトンハイドロ",
+      "english": "Megaton Hydro",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ギガトンハイドロ",
+      "english": "Gigaton Hydro",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ダブルウェーブ",
+      "english": "Double Wave",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "トリプルウェーブ",
+      "english": "Triple Wave",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "オーシャンウェーブ",
+      "english": "Ocean Wave",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ソニックボイス",
+      "english": "Sonic Voice",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ハイソニックボイス",
+      "english": "High Sonic Voice",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ハイパートルネード",
+      "english": "Hyper-Tornado",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "エアカッター",
+      "english": "Air Cutter",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "トップガン",
+      "english": "Top Gun",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "メガナパーム",
+      "english": "Mega Napalm",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ヴォルケナパーム",
+      "english": "Volcano Napalm",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ドラモンクロー",
+      "english": "Dramon Claw",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "タイニーボム",
+      "english": "Tiny Bomb",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ノーマルボム",
+      "english": "Normal Bomb",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ノーマルミサイル",
+      "english": "Normal Missile",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ホーリースラッシュ",
+      "english": "Holy Slash",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "シャインスラッシュ",
+      "english": "Shine Slash",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ロイヤルスラッシュ",
+      "english": "Royal Slash",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ホーリーボルト",
+      "english": "Holy Bolt",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ライジング・レイ",
+      "english": "Rising Ray",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "メタルスター",
+      "english": "Metal Star",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "クレイジークレーン",
+      "english": "Crazy Crane",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ヘブンズリッパー",
+      "english": "Heaven's Ripper",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "スパイダースレッド",
+      "english": "Spider Thread",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ソウルチョッパー",
+      "english": "Soul Chopper",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ヒート・バイパー",
+      "english": "Heat Viper",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "アングリーロック",
+      "english": "Angry Rock",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ガトリングパンチ",
+      "english": "Gatling Punch",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ウイニングパンチ",
+      "english": "Winning Punch",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ポイズンパウダー",
+      "english": "Poison Powder",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "スパイラルボーン",
+      "english": "Spiral Bone",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ギルティブラック",
+      "english": "Guilty Black",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ネクロフォビア",
+      "english": "Necrophobia",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ダークネスウェーブ",
+      "english": "Darkness Wave",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ビショップレーザー",
+      "english": "Bishop Laser",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ルークガトリング",
+      "english": "Rook Gatling",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "メタルメテオ",
+      "english": "Metal Meteor",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "メガトンプレス",
+      "english": "Megaton Press",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ファイアーボール",
+      "english": "Fire Ball",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ファイアーブレス",
+      "english": "Fire Breath",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ヘブンズナックル",
+      "english": "Heaven Knuckle",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "フレイムダイブ",
+      "english": "Flame Dive",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "ライトニングスピア",
+      "english": "Lightning Spear",
+      "category": "move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matched to English DS game move list; Xros Wars Japanese source retained in batch03."
+    },
+    {
+      "japanese": "サクヤモン",
+      "english": "Sakuyamon",
+      "category": "Digimon name",
+      "sources": [
+        "B24_SAKUYAMON"
+      ],
+      "evidence": "Western Digimon spelling checked against the Bandai official English card list."
+    },
+    {
+      "japanese": "ＢＡＮレオモン",
+      "english": "BanchoLeomon",
+      "category": "Digimon name",
+      "sources": [
+        "B24_BANCHOLEOMON",
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "バンチョーレオモン",
+      "english": "BanchoLeomon",
+      "category": "Digimon name",
+      "sources": [
+        "B24_BANCHOLEOMON"
+      ],
+      "evidence": "Western Digimon spelling checked against the Bandai official English card list."
+    },
+    {
+      "japanese": "ヴァルキリモン",
+      "english": "Valkyrimon",
+      "category": "Digimon name",
+      "sources": [
+        "B24_VALKYRIMON",
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ダイペンモン",
+      "english": "DaiPenmon",
+      "category": "Digimon name",
+      "sources": [
+        "B24_DAIPENMON",
+        "B24_DAIPENMON_ENCYCLOPEDIA",
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ジャスティモン",
+      "english": "Justimon",
+      "category": "Digimon name",
+      "sources": [
+        "B24_JUSTIMON"
+      ],
+      "evidence": "Western Digimon spelling checked against the Bandai official English card list."
+    },
+    {
+      "japanese": "アポカリモン",
+      "english": "Apocalymon",
+      "category": "Digimon name",
+      "sources": [
+        "B24_APOCALYMON"
+      ],
+      "evidence": "Western Digimon spelling checked against the Bandai official English card list."
+    },
+    {
+      "japanese": "チクリモン",
+      "english": "Chikurimon",
+      "category": "Digimon name",
+      "sources": [
+        "B24_CHIKURIMON",
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ギルティクロー",
+      "english": "Guilty Claw",
+      "category": "Move name",
+      "sources": [
+        "B28_GUILTY_CLAW"
+      ],
+      "evidence": "English Digimon RPG name used as a cross-reference only; this Xros Wars rendering remains provisional."
+    },
+    {
+      "japanese": "レイジフレイム",
+      "english": "Raging Flame",
+      "category": "Move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Exact English name match in the English Digimon World: Dawn/Dusk move-name extraction."
+    },
+    {
+      "japanese": "スターライトＥＸ",
+      "english": "Starlight EX",
+      "category": "Move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Exact English name match in the English Digimon World: Dawn/Dusk move-name extraction."
+    },
+    {
+      "japanese": "ペンモン",
+      "english": "Penguinmon",
+      "category": "Digimon name",
+      "sources": [
+        "B28_PENGUINMON"
+      ],
+      "evidence": "Official English card spelling."
+    },
+    {
+      "japanese": "マリンデビモン",
+      "english": "MarineDevimon",
+      "category": "Digimon name",
+      "sources": [
+        "B28_MARINEDEVIMON"
+      ],
+      "evidence": "Official English card spelling."
+    },
+    {
+      "japanese": "ハンギョモン",
+      "english": "Divermon",
+      "category": "Digimon name",
+      "sources": [
+        "B28_DIVERMON"
+      ],
+      "evidence": "Official English card spelling."
+    },
+    {
+      "japanese": "ピエモン",
+      "english": "Piedmon",
+      "category": "Digimon name",
+      "sources": [
+        "B29_CARD_PIEDMON"
+      ],
+      "evidence": "Official Western spelling checked against the Bandai English card list."
+    },
+    {
+      "japanese": "ホエーモン",
+      "english": "Whamon",
+      "category": "Digimon name",
+      "sources": [
+        "B29_CARD_WHAMON",
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "マメモン",
+      "english": "Mamemon",
+      "category": "Digimon name",
+      "sources": [
+        "B29_CARD_MAMEMON"
+      ],
+      "evidence": "Official Western spelling checked against the Bandai English card list."
+    },
+    {
+      "japanese": "もんざえモン",
+      "english": "Monzaemon",
+      "category": "Digimon name",
+      "sources": [
+        "B29_CARD_MONZAEMON"
+      ],
+      "evidence": "Official Western spelling checked against the Bandai English card list."
+    },
+    {
+      "japanese": "オクタモン",
+      "english": "Octomon",
+      "category": "Digimon name",
+      "sources": [
+        "B29_CARD_OCTOMON"
+      ],
+      "evidence": "Official Western spelling checked against the Bandai English card list."
+    },
+    {
+      "japanese": "ヴァンデモン",
+      "english": "Myotismon",
+      "category": "Digimon name",
+      "sources": [
+        "B29_CARD_MYOTISMON"
+      ],
+      "evidence": "Official Western spelling checked against the Bandai English card list."
+    },
+    {
+      "japanese": "シンドゥーラモン",
+      "english": "Sinduramon",
+      "category": "Digimon name",
+      "sources": [
+        "B29_CARD_SINDURAMON",
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ブライモン",
+      "english": "Buraimon",
+      "category": "Digimon name",
+      "sources": [
+        "B29_CARD_BURAIMON"
+      ],
+      "evidence": "Official Western spelling checked against the Bandai English card list."
+    },
+    {
+      "japanese": "タイダルウェーブ",
+      "english": "Tidal Wave",
+      "category": "Move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Exact English move-name match in the English Digimon World: Dawn/Dusk move list: Tidal Wave."
+    },
+    {
+      "japanese": "スマイリーボム",
+      "english": "Smiley Bomb",
+      "category": "Move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Exact English move-name match in the English Digimon World: Dawn/Dusk move list: Smiley Bomb."
+    },
+    {
+      "japanese": "ラブリーアタック",
+      "english": "Lovely Attack",
+      "category": "Move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Exact English move-name match in the English Digimon World: Dawn/Dusk move list: Lovely Attack."
+    },
+    {
+      "japanese": "かいめいぼくじゅう",
+      "english": "Spurting Ink",
+      "category": "Move name",
+      "sources": [
+        "B29_WORLD2_OCTOMON"
+      ],
+      "evidence": "Exact English name used for Octomon's ink attack in Digimon World 2; the Xros Wars technique description confirms it is the same ink projectile."
+    },
+    {
+      "japanese": "ソニックイヤー",
+      "english": "Sonic Ears",
+      "category": "Move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Exact English move-name match in the English Digimon World: Dawn/Dusk move list: Sonic Ears."
+    },
+    {
+      "japanese": "グランデスビッグバン",
+      "english": "Grand Big Bang",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_APOCALYMON"
+      ],
+      "evidence": "Apocalymon attack name: Grand Big Bang is a documented English rendering; other dub references also use Total Annihilation. No exact Dawn/Dusk move match was found."
+    },
+    {
+      "japanese": "らいこういっせんのつき",
+      "english": "Lightning Flash Thrust",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation of the Xros Wars technique label. The same-game guide describes a lightning thrust; no exact Western game name was found."
+    },
+    {
+      "japanese": "ハイブリットアームズ",
+      "english": "Hybrid Arms",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_CHIMERAMON"
+      ],
+      "evidence": "Same English move name used for Chimairamon in earlier Digimon game material; the Xros Wars guide describes the matching multi-arm attack."
+    },
+    {
+      "japanese": "エンディングスナイプ",
+      "english": "Ending Snipe",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_PIEMON"
+      ],
+      "evidence": "Existing English attack name for Piedmon in other Digimon games; the Xros Wars guide confirms the same Japanese name."
+    },
+    {
+      "japanese": "せいけんグレイダルファー",
+      "english": "Blade of Dragon King",
+      "category": "Move name",
+      "sources": [
+        "B30_CYBERSLEUTH_MOVE"
+      ],
+      "evidence": "Compact English rendering of the same Japanese Alphamon move listed as Blade of the Dragon King in an English Cyber Sleuth data extraction; shortened to fit the 104px move-name slot."
+    },
+    {
+      "japanese": "グッドナイト・ムーン",
+      "english": "Goodnight Moon",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working English rendering of the Japanese Xros Wars move name; no exact Western game match was found."
+    },
+    {
+      "japanese": "スパイラルマスカレード",
+      "english": "Spiral Masquerade",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working English rendering of the Japanese Xros Wars move name; no exact Western game match was found."
+    },
+    {
+      "japanese": "ウンナンショウ",
+      "english": "Firecracker",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_PANDAMON"
+      ],
+      "evidence": "English dubbed attack name for Pandamon; the Xros Wars guide describes the same firecracker explosion."
+    },
+    {
+      "japanese": "パンドーラ・ダイアログ",
+      "english": "Pandora Dialog",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working English form of the established attack name; no exact Western game match was found."
+    },
+    {
+      "japanese": "ラフ・ス・マッシュ",
+      "english": "Rough S-Mush",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_MUSHMON_CARD"
+      ],
+      "evidence": "English card-game rendering of Mushmon’s attack, matched to the Japanese label."
+    },
+    {
+      "japanese": "ティーダ・イヤ",
+      "english": "Sun's Courage",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_SIESAMON"
+      ],
+      "evidence": "English translation of the same Japanese move name in Siesamon material. Its Xros Wars move effect differs, so this is a name match rather than an effect match."
+    },
+    {
+      "japanese": "せっかんとう",
+      "english": "Ancient Firewall",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_SIESAMON"
+      ],
+      "evidence": "English reference rendering for Sekkantou. The Xros Wars guide confirms the same protective move; no English game attack title was found."
+    },
+    {
+      "japanese": "マイティサンダークロー",
+      "english": "Mighty Thunder Claw",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working English rendering from the Japanese move label; no exact prior Western move-name match was found."
+    },
+    {
+      "japanese": "ジャスティスブリット",
+      "english": "Justice Bullet",
+      "category": "Move name",
+      "sources": [
+        "B30_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working English rendering from the Japanese move label; no exact prior Western move-name match was found."
+    },
+    {
+      "japanese": "リヴァイアモン",
+      "english": "Leviamon",
+      "category": "Digimon name",
+      "sources": [
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "メタルガルルモン",
+      "english": "MetalGarurumon",
+      "category": "Digimon name",
+      "sources": [
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "ダークドラモン",
+      "english": "Darkdramon",
+      "category": "Digimon name",
+      "sources": [
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "ウォーグレイモン",
+      "english": "WarGreymon",
+      "category": "Digimon name",
+      "sources": [
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "エグザモン",
+      "english": "Examon",
+      "category": "Digimon name",
+      "sources": [
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "オメガモン",
+      "english": "Omnimon",
+      "category": "Digimon name",
+      "sources": [
+        "B30_BANDAI_CARD_LIST"
+      ],
+      "evidence": "Official Western species spelling from Bandai’s English card list."
+    },
+    {
+      "japanese": "ミヤバルカン",
+      "english": "Vulcanators",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_SHOUTMON_X2"
+      ],
+      "evidence": "Western Digimon Fusion dub name for Shoutmon X2's matching elbow-vulcan attack."
+    },
+    {
+      "japanese": "キズナオール",
+      "english": "Healing Glow",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_CUTEMON"
+      ],
+      "evidence": "Established English dub name for Cutemon's matching healing attack."
+    },
+    {
+      "japanese": "ヨクナオール",
+      "english": "Healing Glow II",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_CUTEMON"
+      ],
+      "evidence": "Established English dub name for Cutemon's stronger healing attack."
+    },
+    {
+      "japanese": "スターズブレイドセレストライク",
+      "english": "Star's Blade Celestrike",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_SHOUTMON_X5B"
+      ],
+      "evidence": "English name recorded for Shoutmon X5B/X4B. The move label is checked against the game's 104px box."
+    },
+    {
+      "japanese": "ふどくそう",
+      "english": "Venom Claw",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation from the game guide: sharp claws containing deadly poison. No exact western game title was verified."
+    },
+    {
+      "japanese": "じゅうおうだけん",
+      "english": "Beast King Punch",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation. Dawn/Dusk uses Beast King Fist for the related Jūouken, but this source label is Jūoudaken, so the earlier name is not treated as an exact match."
+    },
+    {
+      "japanese": "チンチクリン",
+      "english": "Shorty",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_PICKMON"
+      ],
+      "evidence": "English translation listed for Pickmon's matching attack."
+    },
+    {
+      "japanese": "いちのたち",
+      "english": "First Blade",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation of the first named sword form; no exact western game title was verified."
+    },
+    {
+      "japanese": "にのたち",
+      "english": "Second Blade",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation of the second named sword form; no exact western game title was verified."
+    },
+    {
+      "japanese": "さんのたち",
+      "english": "Third Blade",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation of the third named sword form; no exact western game title was verified."
+    },
+    {
+      "japanese": "ほしわり",
+      "english": "Star Splitter",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "japanese": "ナザルネイル",
+      "english": "Nazar Nail",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_LILITHMON"
+      ],
+      "evidence": "Wikimon lists Nazar Nail as the English attack name and Razor Nails as a separate dub alias. Keep Nazar Nail to match the established English attack spelling and the earlier game entry."
+    },
+    {
+      "japanese": "まもる",
+      "english": "Guard",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Standard English battle command for this defensive move."
+    },
+    {
+      "japanese": "ナッツシュート",
+      "english": "Seed Blast",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_LALAMON"
+      ],
+      "evidence": "English dub name for Lalamon's matching Nuts Shoot attack."
+    },
+    {
+      "japanese": "だんがんせんぷう",
+      "english": "Bullet Cyclone",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "japanese": "メットタックル",
+      "english": "Helmet Tackle",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "japanese": "アイオブナイトメア",
+      "english": "Nightmare Eye",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "japanese": "ひけんピヨピヨぎり",
+      "english": "Peep-Peep Slash",
+      "category": "Move name",
+      "sources": [
+        "B31_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation preserving the Japanese chick-call wordplay; no exact western game title was verified."
+    },
+    {
+      "japanese": "スナイモン",
+      "english": "Snimon",
+      "category": "Digimon name",
+      "sources": [
+        "B31_BANDAI_SNIMON"
+      ],
+      "evidence": "Official English card material confirms this Western species spelling."
+    },
+    {
+      "japanese": "ディノビーモン",
+      "english": "Dinobeemon",
+      "category": "Digimon name",
+      "sources": [
+        "B31_BANDAI_DINOBEEMON"
+      ],
+      "evidence": "Official English card material confirms this Western species spelling."
+    },
+    {
+      "japanese": "とうはっけん",
+      "english": "Eight-Fist Barrage",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working name from the game guide: a flurry of powerful palm strikes against nearby foes. No exact Western game title was verified."
+    },
+    {
+      "japanese": "ドルディーン",
+      "english": "Dordeen",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Retains the game guide romanization. The attack is a fiery shock wave that lowers Speed; no exact Western title was verified."
+    },
+    {
+      "japanese": "ばくオヤジパンチ",
+      "english": "Old Man Blast Punch",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working rendering that keeps the oyaji (old man) wordplay; the guide describes an explosive punch with bonus fire damage."
+    },
+    {
+      "japanese": "アラクノバトト",
+      "english": "Poison Cobweb",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_DOKUGUMON"
+      ],
+      "evidence": "Established English dub alias for Dokugumon's matching Arachno Batoto web attack."
+    },
+    {
+      "japanese": "サブバルカン",
+      "english": "Sub Vulcan",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization. The game guide describes firing both hand-mounted Vulcan cannons at nearby foes."
+    },
+    {
+      "japanese": "パオツェイ",
+      "english": "Treasure Mallet",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_CATURAMON"
+      ],
+      "evidence": "Established English translation for Caturamon's Bǎo Chuí, the same Treasure Mallet named by this game move."
+    },
+    {
+      "japanese": "シュヴァボージャナ",
+      "english": "Howl of Power",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_CATURAMON"
+      ],
+      "evidence": "English dub name listed for Caturamon's matching Śwabhojana attack."
+    },
+    {
+      "japanese": "ぜっこうしょう",
+      "english": "Blinding Light",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working translation based on the guide description: light from earrings blinds nearby foes and lowers Wisdom."
+    },
+    {
+      "japanese": "ロストルム",
+      "english": "Rostrum",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization retained as a move name; the guide describes dragging nearby foes underwater and swallowing them."
+    },
+    {
+      "japanese": "キングオブロッカー",
+      "english": "King of Locker",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization retained because the game guide marks this move entry as placeholder text, leaving the intended meaning unclear."
+    },
+    {
+      "japanese": "ブレイクロッカー",
+      "english": "Break Locker",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization. The guide describes swinging a microphone to strike nearby foes; no exact Western title was verified."
+    },
+    {
+      "japanese": "Ｆテンプテーション",
+      "english": "FTemptation",
+      "category": "Move name",
+      "sources": [
+        "B32_DAWN_DUSK"
+      ],
+      "evidence": "Exact English move spelling reused from the licensed Dawn/Dusk move list."
+    },
+    {
+      "japanese": "Ｅニルヴァーナ",
+      "english": "E Nirvana",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working rendering of the game-specific label; no matching Dawn/Dusk or Western title was found."
+    },
+    {
+      "japanese": "ＥＸＴジハード",
+      "english": "EXT Jihad",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working rendering of the game-specific label; no matching Dawn/Dusk or Western title was found."
+    },
+    {
+      "japanese": "セントガルゴモン",
+      "english": "MegaGargomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_MEGA_GARGOMON"
+      ],
+      "evidence": "Bandai English card material confirms this Western species spelling."
+    },
+    {
+      "japanese": "ルカモン",
+      "english": "Rukamon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_RUKAMON"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ユキダルモン",
+      "english": "Frigimon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "アグニモン",
+      "english": "Agunimon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "スカルグレイモン",
+      "english": "SkullGreymon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "エンジェウーモン",
+      "english": "Angewomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ティロモン",
+      "english": "Tylomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "レディーデビモン",
+      "english": "LadyDevimon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ガルダモン",
+      "english": "Garudamon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "タオモン",
+      "english": "Taomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "パロットモン",
+      "english": "Parrotmon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "パンダモン",
+      "english": "Pandamon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "チィリンモン",
+      "english": "Chirinmon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ジュレイモン",
+      "english": "Cherrymon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "フレイドラモン",
+      "english": "Flamedramon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "バステモン",
+      "english": "Bastemon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ケルベロモン",
+      "english": "Cerberumon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ブルーメラモン",
+      "english": "BlueMeramon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "スコピオモン",
+      "english": "Scorpiomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ネフェルティモン",
+      "english": "Nefertimon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "デュークモン",
+      "english": "Gallantmon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ゴッドドラモン",
+      "english": "Goldramon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ファラオモン",
+      "english": "Pharaohmon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "スピノモン",
+      "english": "Spinomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "カオスドラモン",
+      "english": "Chaosdramon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ＥＸティラノモン",
+      "english": "EXTyrannomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "マッドレオモン",
+      "english": "MadLeomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "タクティモン",
+      "english": "Tactimon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ブラストモン",
+      "english": "Blastmon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ガオスモン",
+      "english": "Gaossmon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "トループモン",
+      "english": "Troopmon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "プラチナヌメモン",
+      "english": "PlatinumNumemon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ディノレクスモン",
+      "english": "Dinorexmon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "オグドモン",
+      "english": "Ogudomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ＭＥグレイモンＬ",
+      "english": "MetalGreymon L",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ＡカブテリモンＲ",
+      "english": "MegaKabuterimon (Red)",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "モニタモン",
+      "english": "Monitamon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ボムモン",
+      "english": "Bombmon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "チャツラモン",
+      "english": "Caturamon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "シャウトモンＢ",
+      "english": "Shoutmon B",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "Ａボルケーモン",
+      "english": "AncientVolcanomon",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "グレイモンＯ",
+      "english": "Greymon O",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ＳナイトモンＢＲ",
+      "english": "SkullKnightmon BR",
+      "category": "Digimon name",
+      "sources": [
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "Formal Western spelling reused from the reviewed display-name table; variant suffixes remain game-specific where present."
+    },
+    {
+      "japanese": "ＲＢシンフォニー",
+      "english": "RB Symphony",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the RB acronym."
+    },
+    {
+      "japanese": "ＳＰＮクレイモア",
+      "english": "SPN Claymore",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the SPN acronym."
+    },
+    {
+      "japanese": "ＦＲＺブリザード",
+      "english": "FRZ Blizzard",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the FRZ acronym."
+    },
+    {
+      "japanese": "オメガバースト",
+      "english": "Omega Burst",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "The game's technique guide confirms the matching attack and its burst effect; this English rendering follows the Japanese name."
+    },
+    {
+      "japanese": "Ｇメイルストローム",
+      "english": "G Maelstrom",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the G prefix."
+    },
+    {
+      "japanese": "ガイアフォースＤ",
+      "english": "Gaia Force D",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES",
+        "B32_BANDAI_CARDS"
+      ],
+      "evidence": "The base Gaia Force name is established in Bandai English material; D is retained from this game-specific variant."
+    },
+    {
+      "japanese": "Ｂデスクラウド",
+      "english": "B Death Cloud",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the B prefix."
+    },
+    {
+      "japanese": "ラプラスのま",
+      "english": "Laplace's Demon",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "The game guide describes this as calculating enemy coordinates and sending them to another world; the name is the established term Laplace's Demon."
+    },
+    {
+      "japanese": "ギガスティックＬ",
+      "english": "Giga Stick L",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the L suffix."
+    },
+    {
+      "japanese": "インビンシブルＳ",
+      "english": "Invincible S",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the S suffix."
+    },
+    {
+      "japanese": "オーロラＵＲ",
+      "english": "Aurora UR",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the UR suffix."
+    },
+    {
+      "japanese": "ＶＮインフューズ",
+      "english": "VN Infuse",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES",
+        "B32_DAWN_DUSK"
+      ],
+      "evidence": "Matches the English move name used in Digimon World: Dawn/Dusk for the same Japanese attack."
+    },
+    {
+      "japanese": "Ｋフェニックス",
+      "english": "K Phoenix",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the K prefix."
+    },
+    {
+      "japanese": "ＧＡミサイル",
+      "english": "GA Missile",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the GA acronym."
+    },
+    {
+      "japanese": "ＤＭシザー",
+      "english": "DM Scissor",
+      "category": "Move name",
+      "sources": [
+        "B32_WIKIMON_XROS_TECHNIQUES"
+      ],
+      "evidence": "Working romanization; the game's Japanese attack list preserves the DM acronym."
+    },
+    {
+      "japanese": "アイスアロー",
+      "english": "Ice Arrow",
+      "category": "Move name",
+      "sources": [
+        "B34_WIKIMON_SEADRAMON"
+      ],
+      "evidence": "Seadramon’s established English attack name in Western Digimon games."
+    },
+    {
+      "japanese": "じゅうおうけん",
+      "english": "BeastKing Fist",
+      "category": "Move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matches the Leomon attack spelling in the English Dawn/Dusk move list."
+    },
+    {
+      "japanese": "トイフレイム",
+      "english": "Toy Flame",
+      "category": "Move name",
+      "sources": [
+        "B34_WIKIMON_TOYAGUMON"
+      ],
+      "evidence": "ToyAgumon’s Western game attack name; confirmed in Digimon World 2 and Digital Card Arena references."
+    },
+    {
+      "japanese": "メガフレイム",
+      "english": "Mega Flame",
+      "category": "Move name",
+      "sources": [
+        "B34_BANDAI_MEGA_FLAME"
+      ],
+      "evidence": "Greymon’s established Western attack name, also used in official English Digimon card material."
+    },
+    {
+      "japanese": "フラウカノン",
+      "english": "Flower Cannon",
+      "category": "Move name",
+      "sources": [
+        "DAWN_DUSK_MOVES"
+      ],
+      "evidence": "Matches Lillymon’s Flower Cannon in the English Dawn/Dusk move list."
+    }
+  ],
+  "translator_terms": [
+    {
+      "japanese": "デジクロス",
+      "english": "DigiXross",
+      "status": "User requested this exact spelling on 2026-10-24. The official English card game uses DigiXros (one s); both are documented.",
+      "sources": [
+        "BT10"
+      ]
+    },
+    {
+      "japanese": "メロディ化",
+      "english": "Melodize",
+      "status": "translator choice; verify battle effect and UI context in game"
+    },
+    {
+      "japanese": "ヘルスダウン",
+      "english": "KO",
+      "status": "contextual translation inferred from revival and inability-to-act text; needs gameplay confirmation"
+    },
+    {
+      "japanese": "デジスコア",
+      "english": "DigiScore",
+      "status": "translator choice for this game's original system"
+    },
+    {
+      "japanese": "クロスローダー",
+      "english": "Xros Loader",
+      "status": "Retain original device terminology alongside original human names; final system glossary review pending"
+    },
+    {
+      "japanese": "ジョグレスアップ",
+      "english": "Jogress Up",
+      "status": "translator rendering of game-specific Japanese; not claimed to be an official Western localization"
+    },
+    {
+      "japanese": "デジフュージョン",
+      "english": "DigiFusion",
+      "status": "translator rendering of game-specific Japanese; not claimed to be an official Western localization"
+    },
+    {
+      "japanese": "メロディさいせい",
+      "english": "Melody Playback",
+      "status": "translator rendering of game-specific Japanese; not claimed to be an official Western localization"
+    },
+    {
+      "japanese": "エルエストウゾーン",
+      "english": "Elestou Zone",
+      "status": "translator rendering of game-specific Japanese; not claimed to be an official Western localization"
+    },
+    {
+      "japanese": "バンソウコウ",
+      "english": "Bandage",
+      "status": "translator rendering of game-specific Japanese; not claimed to be an official Western localization"
+    },
+    {
+      "japanese": "げんきのもと",
+      "english": "Energy Source",
+      "status": "translator rendering of game-specific Japanese; not claimed to be an official Western localization"
+    },
+    {
+      "japanese": "デジノワ",
+      "english": "DigiNoir",
+      "status": "Provisional translator rendering; official Western item name not verified.",
+      "sources": [
+        "DIGINOWA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2101 @@
+{
+  "description": "Battle techniques, Sky Fort story dialogue, remaining Dracomon/Phascomon names and item/map/key labels. Moves that lack an exact western-game match are marked provisional.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1789,
+      "category": "Battle moves",
+      "english": [
+        "Crash Symphony"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2255,
+      "category": "Battle moves",
+      "english": [
+        "Crash Symphony"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1790,
+      "category": "Battle moves",
+      "english": [
+        "Noisy Echo"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3066,
+      "category": "Battle moves",
+      "english": [
+        "Noisy Echo"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1791,
+      "category": "Battle moves",
+      "english": [
+        "Beautiful Song"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3067,
+      "category": "Battle moves",
+      "english": [
+        "Beautiful Song"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1794,
+      "category": "Battle moves",
+      "english": [
+        "Nightmare Shock"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3070,
+      "category": "Battle moves",
+      "english": [
+        "Nightmare Shock"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1795,
+      "category": "Battle moves",
+      "english": [
+        "Scratch Beat"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3071,
+      "category": "Battle moves",
+      "english": [
+        "Scratch Beat"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1797,
+      "category": "Battle moves",
+      "english": [
+        "Nyoi Bone"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3073,
+      "category": "Battle moves",
+      "english": [
+        "Nyoi Bone"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1798,
+      "category": "Battle moves",
+      "english": [
+        "Cone Thrust"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3074,
+      "category": "Battle moves",
+      "english": [
+        "Cone Thrust"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1799,
+      "category": "Battle moves",
+      "english": [
+        "Spread Nail"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3075,
+      "category": "Battle moves",
+      "english": [
+        "Spread Nail"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1800,
+      "category": "Battle moves",
+      "english": [
+        "Darkside Quake"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2269,
+      "category": "Battle moves",
+      "english": [
+        "Darkside Quake"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1801,
+      "category": "Battle moves",
+      "english": [
+        "Demon Arm"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3077,
+      "category": "Battle moves",
+      "english": [
+        "Demon Arm"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1804,
+      "category": "Battle moves",
+      "english": [
+        "Drill Spin"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3080,
+      "category": "Battle moves",
+      "english": [
+        "Drill Spin"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1805,
+      "category": "Battle moves",
+      "english": [
+        "Crusher Bone"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3081,
+      "category": "Battle moves",
+      "english": [
+        "Crusher Bone"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1806,
+      "category": "Battle moves",
+      "english": [
+        "Screw Claw"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3082,
+      "category": "Battle moves",
+      "english": [
+        "Screw Claw"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1807,
+      "category": "Battle moves",
+      "english": [
+        "Mud Coat"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3083,
+      "category": "Battle moves",
+      "english": [
+        "Mud Coat"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1808,
+      "category": "Battle moves",
+      "english": [
+        "Great Weight"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3084,
+      "category": "Battle moves",
+      "english": [
+        "Great Weight"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1809,
+      "category": "Battle moves",
+      "english": [
+        "Piece of Earth"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3085,
+      "category": "Battle moves",
+      "english": [
+        "Piece of Earth"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1810,
+      "category": "Battle moves",
+      "english": [
+        "Deadly Shade"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3086,
+      "category": "Battle moves",
+      "english": [
+        "Deadly Shade"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1811,
+      "category": "Battle moves",
+      "english": [
+        "Devil Bashing"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3087,
+      "category": "Battle moves",
+      "english": [
+        "Devil Bashing"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1812,
+      "category": "Battle moves",
+      "english": [
+        "Drill Shell"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3088,
+      "category": "Battle moves",
+      "english": [
+        "Drill Shell"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1813,
+      "category": "Battle moves",
+      "english": [
+        "Guard Shelter"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3089,
+      "category": "Battle moves",
+      "english": [
+        "Guard Shelter"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1814,
+      "category": "Battle moves",
+      "english": [
+        "Hydro Pressure"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2272,
+      "category": "Battle moves",
+      "english": [
+        "Hydro Pressure"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1816,
+      "category": "Battle moves",
+      "english": [
+        "Zero Freeze"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3092,
+      "category": "Battle moves",
+      "english": [
+        "Zero Freeze"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1817,
+      "category": "Battle moves",
+      "english": [
+        "Icy Shower"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3093,
+      "category": "Battle moves",
+      "english": [
+        "Icy Shower"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1819,
+      "category": "Battle moves",
+      "english": [
+        "Dolphin Kick"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3095,
+      "category": "Battle moves",
+      "english": [
+        "Dolphin Kick"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1820,
+      "category": "Battle moves",
+      "english": [
+        "Sharp Edge"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3096,
+      "category": "Battle moves",
+      "english": [
+        "Sharp Edge"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1821,
+      "category": "Battle moves",
+      "english": [
+        "Shadow Sickle"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3097,
+      "category": "Battle moves",
+      "english": [
+        "Shadow Sickle"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1822,
+      "category": "Battle moves",
+      "english": [
+        "Sharp Claws"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3098,
+      "category": "Battle moves",
+      "english": [
+        "Sharp Claws"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1824,
+      "category": "Battle moves",
+      "english": [
+        "Insect Swarm"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3100,
+      "category": "Battle moves",
+      "english": [
+        "Insect Swarm"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1825,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Ray"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3101,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Ray"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1826,
+      "category": "Battle moves",
+      "english": [
+        "Thunderbolt"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3102,
+      "category": "Battle moves",
+      "english": [
+        "Thunderbolt"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1827,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Bomber"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3103,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Bomber"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1828,
+      "category": "Battle moves",
+      "english": [
+        "Golem Punch"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3104,
+      "category": "Battle moves",
+      "english": [
+        "Golem Punch"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1829,
+      "category": "Battle moves",
+      "english": [
+        "Crimson Curse"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3105,
+      "category": "Battle moves",
+      "english": [
+        "Crimson Curse"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1830,
+      "category": "Battle moves",
+      "english": [
+        "Heat Upper"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3106,
+      "category": "Battle moves",
+      "english": [
+        "Heat Upper"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1831,
+      "category": "Battle moves",
+      "english": [
+        "Jet Gallop"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3107,
+      "category": "Battle moves",
+      "english": [
+        "Jet Gallop"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1833,
+      "category": "Battle moves",
+      "english": [
+        "Night Lancer"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3109,
+      "category": "Battle moves",
+      "english": [
+        "Night Lancer"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1834,
+      "category": "Battle moves",
+      "english": [
+        "Gallop Hole"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3110,
+      "category": "Battle moves",
+      "english": [
+        "Gallop Hole"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1835,
+      "category": "Battle moves",
+      "english": [
+        "Fire Darts"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3111,
+      "category": "Battle moves",
+      "english": [
+        "Fire Darts"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1837,
+      "category": "Battle moves",
+      "english": [
+        "Salamander Break"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2280,
+      "category": "Battle moves",
+      "english": [
+        "Salamander Break"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1838,
+      "category": "Battle moves",
+      "english": [
+        "Love Serenade"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3114,
+      "category": "Battle moves",
+      "english": [
+        "Love Serenade"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1839,
+      "category": "Battle moves",
+      "english": [
+        "Dark Spirits"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3115,
+      "category": "Battle moves",
+      "english": [
+        "Dark Spirits"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1840,
+      "category": "Battle moves",
+      "english": [
+        "Dark Musical"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3116,
+      "category": "Battle moves",
+      "english": [
+        "Dark Musical"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1841,
+      "category": "Battle moves",
+      "english": [
+        "Tundra Breath"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3117,
+      "category": "Battle moves",
+      "english": [
+        "Tundra Breath"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1842,
+      "category": "Battle moves",
+      "english": [
+        "Tusk Strikes"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3118,
+      "category": "Battle moves",
+      "english": [
+        "Tusk Strikes"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1843,
+      "category": "Battle moves",
+      "english": [
+        "Horn Howling"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3119,
+      "category": "Battle moves",
+      "english": [
+        "Horn Howling"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1844,
+      "category": "Battle moves",
+      "english": [
+        "Fist Tone"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3120,
+      "category": "Battle moves",
+      "english": [
+        "Fist Tone"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1845,
+      "category": "Battle moves",
+      "english": [
+        "Terror Plankton"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3121,
+      "category": "Battle moves",
+      "english": [
+        "Terror Plankton"
+      ],
+      "sources": [],
+      "review_note": "Working English move name from the Japanese technique; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1846,
+      "category": "Battle moves",
+      "english": [
+        "Torpedo Attack"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3122,
+      "category": "Battle moves",
+      "english": [
+        "Torpedo Attack"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Cross-checked against the English Digimon World: Dawn/Dusk move-name list; exact attack mapping still needs game-context review."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4372,
+      "category": "Items and equipment",
+      "english": [
+        "Map 01"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4373,
+      "category": "Items and equipment",
+      "english": [
+        "Map 02"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4374,
+      "category": "Items and equipment",
+      "english": [
+        "Map 03"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4375,
+      "category": "Items and equipment",
+      "english": [
+        "Map 04"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4376,
+      "category": "Items and equipment",
+      "english": [
+        "Map 05"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4377,
+      "category": "Items and equipment",
+      "english": [
+        "Map 06"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4378,
+      "category": "Items and equipment",
+      "english": [
+        "Map 07"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4379,
+      "category": "Items and equipment",
+      "english": [
+        "Map 08"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4380,
+      "category": "Items and equipment",
+      "english": [
+        "Map 09"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4381,
+      "category": "Items and equipment",
+      "english": [
+        "Map 10"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4382,
+      "category": "Items and equipment",
+      "english": [
+        "Map 11"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4383,
+      "category": "Items and equipment",
+      "english": [
+        "Map 12"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4384,
+      "category": "Items and equipment",
+      "english": [
+        "Map 13"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4385,
+      "category": "Items and equipment",
+      "english": [
+        "Map 14"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4386,
+      "category": "Items and equipment",
+      "english": [
+        "Map 15"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4387,
+      "category": "Items and equipment",
+      "english": [
+        "Map 16"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4388,
+      "category": "Items and equipment",
+      "english": [
+        "Map 17"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4389,
+      "category": "Items and equipment",
+      "english": [
+        "Map 18"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4390,
+      "category": "Items and equipment",
+      "english": [
+        "Map 19"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4391,
+      "category": "Items and equipment",
+      "english": [
+        "Map 20"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4392,
+      "category": "Items and equipment",
+      "english": [
+        "Map 21"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4393,
+      "category": "Items and equipment",
+      "english": [
+        "Map 22"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4394,
+      "category": "Items and equipment",
+      "english": [
+        "Map 23"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4395,
+      "category": "Items and equipment",
+      "english": [
+        "Map 24"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4396,
+      "category": "Items and equipment",
+      "english": [
+        "Map 25"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4397,
+      "category": "Items and equipment",
+      "english": [
+        "Map 26"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4398,
+      "category": "Items and equipment",
+      "english": [
+        "Map 27"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4402,
+      "category": "Items and equipment",
+      "english": [
+        "Fort Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4403,
+      "category": "Items and equipment",
+      "english": [
+        "Knuckle Coast East Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4404,
+      "category": "Items and equipment",
+      "english": [
+        "Guruguru Amazon West Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4405,
+      "category": "Items and equipment",
+      "english": [
+        "Guruguru Amazon East Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4406,
+      "category": "Items and equipment",
+      "english": [
+        "Skull Glacier West Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4407,
+      "category": "Items and equipment",
+      "english": [
+        "Skull Glacier East Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4408,
+      "category": "Items and equipment",
+      "english": [
+        "Kumonos Ruins West Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4409,
+      "category": "Items and equipment",
+      "english": [
+        "Kumonos Ruins East Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4410,
+      "category": "Items and equipment",
+      "english": [
+        "Papyrus Desert North Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4411,
+      "category": "Items and equipment",
+      "english": [
+        "Papyrus Desert South Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4412,
+      "category": "Items and equipment",
+      "english": [
+        "Flower Plains Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4413,
+      "category": "Items and equipment",
+      "english": [
+        "Tokona Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4414,
+      "category": "Items and equipment",
+      "english": [
+        "Crystal Volcano East Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4415,
+      "category": "Items and equipment",
+      "english": [
+        "Crystal Mine Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4416,
+      "category": "Items and equipment",
+      "english": [
+        "Stealth Valley North Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4417,
+      "category": "Items and equipment",
+      "english": [
+        "Lost Space North Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4418,
+      "category": "Items and equipment",
+      "english": [
+        "Lost Space South Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4419,
+      "category": "Items and equipment",
+      "english": [
+        "Digital Space North Key"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4500,
+      "category": "Digimon names",
+      "english": [
+        "Phantom Beast Song"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4501,
+      "category": "Items and equipment",
+      "english": [
+        "Beast Song"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4502,
+      "category": "Items and equipment",
+      "english": [
+        "Angel Song"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4503,
+      "category": "Items and equipment",
+      "english": [
+        "Demon Song"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4504,
+      "category": "Items and equipment",
+      "english": [
+        "Aquatic Song"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4505,
+      "category": "Items and equipment",
+      "english": [
+        "Machine Song"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4506,
+      "category": "Items and equipment",
+      "english": [
+        "Bird Song"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4507,
+      "category": "Items and equipment",
+      "english": [
+        "Insect Song"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4508,
+      "category": "Items and equipment",
+      "english": [
+        "Plant Song"
+      ],
+      "sources": [],
+      "review_note": "Direct item/map/key label translation; place names follow the established project location glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4436,
+      "category": "Items and equipment",
+      "english": [
+        "Dracomon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=BT20-007&search=true"
+      ],
+      "review_note": "Official Digimon Card Game card list confirms the English species spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4437,
+      "category": "Items and equipment",
+      "english": [
+        "Phascomon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/index.php?category=522901&free=Store+Tournament+2025+Vol.+4&search=true"
+      ],
+      "review_note": "Official Digimon Card Game card list confirms the English species spelling."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "We thought the\nvolcano\nnear Earth Fort\nhad\nerupted... Then\na huge\nshadow raced\ntoward us.\nJust as it was\nabout to\nland, a\ncrackling\nbarrier\nsuddenly\nappeared around\nSky Fort."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "We thought the\nvolcano\nnear Earth Fort\nhad\nerupted... Then\na huge\nshadow raced\ntoward us.\nJust as it was\nabout to\nland, a\ncrackling\nbarrier\nsuddenly\nappeared around\nSky Fort."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "That kept the\nshadow\nout... but\ntrapped us\ninside too."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "That kept the\nshadow\nout... but\ntrapped us\ninside too."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "Then the\nbarrier\nsuddenly\nvanished, and\nthe shadow came\nback!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Then the\nbarrier\nsuddenly\nvanished, and\nthe shadow came\nback!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "That shadow...\nIt had\nto be Barbamon!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "That shadow...\nIt had\nto be Barbamon!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon...? Is\nthat\na Digimon?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon...? Is\nthat\na Digimon?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "A terrifying\nDigimon!\nThe ROG...\neverything...\nBarbamon was\ncontrolling\nit all!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "A terrifying\nDigimon!\nThe ROG...\neverything...\nBarbamon was\ncontrolling\nit all!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "...But that\nshadow\ndidn't seem to\ncare about\nus at all, did\nit?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "...But that\nshadow\ndidn't seem to\ncare about\nus at all, did\nit?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "Is that true?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Is that true?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah. It raced\nright\npast us."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah. It raced\nright\npast us."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "...Right! It\nwas\nheading toward\nSky Garden!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "...Right! It\nwas\nheading toward\nSky Garden!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Garden?\nThere's\nnothing there\nexcept an\nold windmill,\nright?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Garden?\nThere's\nnothing there\nexcept an\nold windmill,\nright?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yeah. I\nthink that's\nall that's\nthere."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yeah. I\nthink that's\nall that's\nthere."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "We won't know\nuntil we\ngo! Let's head\nout,\nTaiki!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "We won't know\nuntil we\ngo! Let's head\nout,\nTaiki!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Then what\nshould\nwe do?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Then what\nshould\nwe do?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Sounds good!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Sounds good!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "All right, I'll\nback\nyou up too!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "All right, I'll\nback\nyou up too!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Akari and the\nothers\nsure look\nenergetic!\nI guess I had\nnothing\nto worry about!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "Akari and the\nothers\nsure look\nenergetic!\nI guess I had\nnothing\nto worry about!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah. I'm just\nglad\neveryone's\nsafe. Now we\njust have to\nstop\nArmamon's\nrevival!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah. I'm just\nglad\neveryone's\nsafe. Now we\njust have to\nstop\nArmamon's\nrevival!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; wrapped to the fixed 15-column dialogue renderer."
+    }
+  ]
+}

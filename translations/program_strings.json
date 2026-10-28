@@ -1,0 +1,149 @@
+[
+  {
+    "id": "ARM9:0010ae30",
+    "offset": 1093168,
+    "size": 16,
+    "source": "つくったアイテム",
+    "english": "Crafted Items"
+  },
+  {
+    "id": "ARM9:0010ae44",
+    "offset": 1093188,
+    "size": 16,
+    "source": "みつけたアイテム",
+    "english": "Found Items"
+  },
+  {
+    "id": "ARM9:0010b154",
+    "offset": 1093972,
+    "size": 16,
+    "source": "ファーム島リスト",
+    "english": "Farm Island List"
+  },
+  {
+    "id": "ARM9:0010bee4",
+    "offset": 1097444,
+    "size": 76,
+    "source": "じゅうじボタンで　こうもくをえらび　Ａボタンをおして　けっていしてください。",
+    "english": "D-pad: Select an option. A: Confirm."
+  },
+  {
+    "id": "ARM9:00112658",
+    "offset": 1123928,
+    "size": 6,
+    "source": "タイキ",
+    "english": "Taiki"
+  },
+  {
+    "id": "ARM9:00112ffc",
+    "offset": 1126396,
+    "size": 6,
+    "source": "エラー",
+    "english": "Error"
+  },
+  {
+    "id": "ARM9:00113003",
+    "offset": 1126403,
+    "size": 10,
+    "source": "みとうろく",
+    "english": "Unlisted"
+  },
+  {
+    "id": "ARM9:00113030",
+    "offset": 1126448,
+    "size": 38,
+    "source": "そんなものは　ないわ！！　ひやかしか？",
+    "english": "No such item! Are you teasing me?"
+  },
+  {
+    "id": "ARM9:00113098",
+    "offset": 1126552,
+    "size": 10,
+    "source": "しょじきん",
+    "english": "Money"
+  },
+  {
+    "id": "ARM9:001130a4",
+    "offset": 1126564,
+    "size": 38,
+    "source": "うれる　しょうひアイテムが　ありません",
+    "english": "No consumables to sell."
+  },
+  {
+    "id": "ARM9:001130cc",
+    "offset": 1126604,
+    "size": 36,
+    "source": "うれる　そうびアイテムが　ありません",
+    "english": "No equipment to sell."
+  },
+  {
+    "id": "ARM9:001130f4",
+    "offset": 1126644,
+    "size": 36,
+    "source": "うれる　ファームグッズが　ありません",
+    "english": "No farm goods to sell."
+  },
+  {
+    "id": "ARM9:00113604",
+    "offset": 1127940,
+    "size": 14,
+    "source": "だい%dファイル",
+    "english": "File %d"
+  },
+  {
+    "id": "ARM9:00113618",
+    "offset": 1127960,
+    "size": 16,
+    "source": "いどうさきリスト",
+    "english": "Destinations"
+  },
+  {
+    "id": "ARM9:0011368c",
+    "offset": 1128076,
+    "size": 20,
+    "source": "まだ　できていません",
+    "english": "Not ready yet."
+  },
+  {
+    "id": "ARM9:001137a8",
+    "offset": 1128360,
+    "size": 24,
+    "source": "ぐっずなしダミーテキスト",
+    "english": "No goods (dummy)"
+  },
+  {
+    "id": "ARM9:00113ad4",
+    "offset": 1129172,
+    "size": 30,
+    "source": "なにも　みつけられませんでした",
+    "english": "Nothing was found."
+  },
+  {
+    "id": "ARM9:00113af4",
+    "offset": 1129204,
+    "size": 26,
+    "source": "なにも　つくれませんでした",
+    "english": "Nothing was crafted."
+  },
+  {
+    "id": "ARM9:00113b10",
+    "offset": 1129232,
+    "size": 34,
+    "source": "ライブイベントは　おきませんでした",
+    "english": "No Live Event occurred."
+  },
+  {
+    "id": "ARM9:00114380",
+    "offset": 1131392,
+    "size": 36,
+    "source": "えらんでいる　ちけいボードのせいのう",
+    "english": "Selected Terrain Board Stats"
+  },
+  {
+    "id": "ARM9:001143b8",
+    "offset": 1131448,
+    "size": 36,
+    "source": "えらんでいる　ＢＧＭボードのせいのう",
+    "english": "Selected BGM Board Stats"
+  }
+]

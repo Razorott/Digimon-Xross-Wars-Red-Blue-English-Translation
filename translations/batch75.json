@@ -1,0 +1,751 @@
+{
+  "description": "Translate the remaining Mega-level DigiScore captions and two travel items in MESPAK04 entry 38.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "VenomMyotismon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Armageddemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Apocalymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?card_no=BT15-102&search=true"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Aegisdramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Valdurmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Omnimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Chaosdramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Chaosmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ebonwumon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Zhuqiaomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Susanoomon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Susanoomon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Azulongmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gallantmon Crimson Mode\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Baihumon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ravemon BM\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rosemon BM\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "BE Myotismon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "ChaosGallantmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Imperialdramon Fighter\nMode\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Imperialdramon Paladin\nMode\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "MirageGaogamon BM\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Millenniummon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "ShineGreymon BM\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "ShineGreymon RM\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "ZeedMillenniummon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon X2\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522011&search=true"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon X3\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522011&search=true"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon X4\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522011&search=true"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon X5\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522011&search=true"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon X4B\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Jet Sparrow\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "SkullKnightmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522011&search=true"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Star Sword\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "DarkKnightmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522011&search=true"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dorulu Cannon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Beelzemon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Beelzemon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "MetalGreymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "GreyKnightsmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon X3GM\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon X3SD\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon X4S\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoutmon X5S\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spadamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522011&search=true"
+      ],
+      "review_note": "Generic DigiScore placeholder translated without inventing a profile; name follows the reviewed project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "A portable tent where you\ncan rest. Use it at a Tent\nPoint."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Direct item-description translation from the Japanese ROM; route and item terminology follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 38,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "A pass from Biyomon. Carry\nit to ride the Digimon Air\nCorps."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "Direct item-description translation from the Japanese ROM; route and item terminology follow the established project glossary."
+    }
+  ]
+}

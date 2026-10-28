@@ -1,0 +1,434 @@
+{
+  "description": "Translate the Minervamon and Chibickmon misunderstanding and the rock-monster encounter.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Yay, Shoutmon!\nPukumon's\nokay!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "After all the\ntrouble we went\nthrough, and\nnow this..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "You won't get\naway this time!\nGive up\nalready!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "...Grr! You're\nso persistent!\nThen I'll make\na quick escape!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "This rock is in\nmy way! I'll\nsplit it wide\nopen with the\nRock Break\nskill!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "If only I had\nthe Rock Break\nskill... I\ncan't smash it\nwith spirit\nalone! My\nknuckle's what\nhurts! Oww,\noww... Go away,\npain!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "...What a weird\none. Is this\none with ROG,\ntoo?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Who knows...?\nIt doesn't look\nthat bad,\nthough."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki,\nShoutmon...\nThat rock it\nwas trying to\nbreak... Isn't\nit moving?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "Grrrr..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "...Meow!!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "What is that\nthing?! We're\nsurrounded! We\ncan't move\nforward or\nback... This\nmight be a\nserious pinch!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "With one\ninterruption\nafter another,\nI have no\nchoice... This\nis goodbye,\nsquishy you."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Who are\nyou?! Why did\nyou kidnap\nChibickmon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "You call me\n'someone' and\nask who I am?\nWho are you?\nAnd what do you\nmean,\nkidnapped?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "We were just\nplaying! Big\nsis, this is\nfun!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Did this\nDigimon do\nanything mean\nto you,\nChibickmon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Nothing mean,\nPukumon! I like\nbig sis!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Minerva-me had\nlots of fun,\ntoo! But\nplaytime is\nalmost over.\nYou should go\nhome now!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "I not go home!\nI wanna play\nmore!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "You've been\nsuch a good kid\nthis whole\ntime, right? So\ndon't be so\nselfish at the\nvery end."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Big sis...\nWe'll play\nagain..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "If fate brings\nus together,\nwe'll meet\nagain. Then\nwe'll play some\nmore. You\nunderstand?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Y-yes... meow!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "I knew it...\nYou're so, so\ncute!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "Being cute is\nnice, but...\nwhat are we\ngoing to do\nabout that\nthing?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "Grrrr!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "Oof?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "N-no! It's so\nfluffy! I wanna\ngo home!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "You didn't\nnotice until\nnow...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "Maybe if we\nexplain, it'll\nunderstand...\nNo, probably\nnot..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Doesn't look\nlike it...\nWe'll have to\nfight!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "Grr... Grrrr...\nGrr..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue translated directly from Japanese. Minervamon and other character names follow the project naming style."
+    }
+  ]
+}

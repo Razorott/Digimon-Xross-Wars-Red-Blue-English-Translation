@@ -1,0 +1,1305 @@
+{
+  "description": "Translate armor and accessory descriptions plus DigiFarm training effects in MESPAK04 entries 32 and 33.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "An umbrella that helps you\ndodge and increases battle\nbit rewards."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "A Western-style red scarf.\nHelps prevent Poison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "A pirate's favorite hat.\nHelps prevent Paralysis\nand Darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "A cloak for a magician's\napprentice. Helps prevent\nConfusion and Darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "A helmet with a topknot.\nHelps prevent Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "A red scarf favored by\nblack-and-white beasts.\nHelps prevent HP and MP\nDrain."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "A tiny, very hard helmet.\nHelps prevent Curse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "A cloak that helps you\ndodge and prevents HP\nDrain and Poison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "A vest often worn by\nGoburimon. Improves Escape\nTactic success."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shield like a small\nturtle shell. Helps\nprevent Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "A suit made from an\neggshell. Helps prevent\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shield made from a giant\nclam shell. Helps prevent\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "A powered suit large\nenough for a Digimon to\nclimb inside. Helps\nprevent Paralysis and\nPoison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "A plate that helps prevent\nConfusion and makes\nattacks easier to dodge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Armor made from steel\nscales. Helps prevent\nParalysis and Darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shield shaped like a fox\nmask. Helps you dodge\nattacks."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "A monkey-shaped suit that\nhelps prevent Confusion\nand improves Escape Tactic\nsuccess."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shining shield of holy\nenergy. Helps prevent\nDarkness and Shuffle."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "A suit that helps prevent\nSleep and makes attacks\neasier to dodge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "A plate that helps prevent\nParalysis and improves\nEscape Tactic success."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Earrings that help prevent\nShuffle. Increase battle\nEXP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "A mask that helps prevent\nShuffle and improves\nEscape Tactic success."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sunglasses that block\nShuffle and make foes\neasier to Melodize."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "A mask that helps prevent\nShuffle. Increases battle\nEXP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Denim pants that block\nShuffle and make attacks\neasier to dodge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "A cute dragon costume.\nHelps prevent Shuffle and\nCurse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "A veil that helps prevent\nShuffle and increases\nbattle bit rewards."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "An insect-like mask. Helps\nprevent Paralysis,\nShuffle, and Poison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "A bean-sized, very hard\nhelmet. Helps prevent HP\nDrain."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "A helmet with a giant\neyeball. Helps prevent\nDarkness and Curse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "A lightweight blue cloak\nthat helps you dodge\nattacks."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "A gorgeous gold crown.\nIncreases battle bit\nrewards."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "A jacket that helps you\ndodge. Escape Tactic\nalways succeeds."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "A Justice Scarf that helps\nprevent Darkness and\nblocks Curse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "A helmet made in Area 51.\nHelps prevent Paralysis,\nConfusion, and Darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "A helmet made from Kuramon\ndata. Nullifies foes'\nPoison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "A robe that helps prevent\nDarkness and Poison and\nblocks Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Armor worn by an Eastern\ndragon. Helps you dodge\nattacks."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Armor that blocks\nParalysis and helps\nprevent Confusion, HP\nDrain, and Poison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shield that helps\nprevent Darkness and\nPoison and blocks Curse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Armor that helps prevent\nDarkness and Shuffle and\nmakes attacks easier to\ndodge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "A suit that helps prevent\nDarkness and Poison and\nmakes attacks easier to\ndodge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Wings that help prevent\nCurse and make attacks\neasier to dodge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "A plate that helps prevent\nParalysis, Confusion, and\nDarkness and makes attacks\neasier to dodge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shield that helps\nprevent Curse and makes\nfoes easier to Melodize."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gallantmon's sacred\nshield. Blocks Curse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "A scarf that helps prevent\nShuffle. Increases battle\nEXP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "A headband that increases\nbattle bit rewards and\nhelps prevent MP Drain and\nShuffle."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "A mask that helps prevent\nShuffle and makes attacks\neasier to dodge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 32,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "A mask that helps prevent\nShuffle and Poison and\nmakes attacks easier to\ndodge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "A hairpin that helps\nprevent Shuffle and\nincreases battle bit\nrewards."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "A mask that helps you\ndodge attacks and blocks\nSleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shield that raises\nAttack and Defense and\nhelps prevent Shuffle."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "A dark chain that wards\noff everything. Helps\nprevent Shuffle and\nPoison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "A motorcycle that blocks\nShuffle. Escape Tactic\nalways succeeds."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "A ring that draws out holy\npower. Blocks Health Down\nand Shuffle."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "A bracelet that can\nproduce swords and\nshields. Raises Attack and\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "A tiny pair of earrings\nmade by Calumon. Raises\nAttack and Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "A bracelet brought back by\na great explorer. Raises\nAttack and Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shield only Phantom\nBeast Digimon can equip.\nHelps prevent Darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "A jacket only Beast\nDigimon can equip. Makes\nfoes easier to Melodize."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shield only Angel\nDigimon can equip. Makes\nParalysis easier to\ninflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "A box only Demon Digimon\ncan equip. Makes Confusion\neasier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Armor only Aquatic Digimon\ncan equip. Helps you dodge\nattacks."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shield only Machine\nDigimon can equip.\nImproves accuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "An aura only Bird Digimon\ncan equip. Makes Curse\neasier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Armor only Insect Digimon\ncan equip. Makes Poison\neasier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "A gem only Plant Digimon\ncan equip. Makes HP Drain\neasier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "A legendary shield passed\ndown in Elestou Zone."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training slightly raises a\nDigimon's maximum HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training moderately raises\na Digimon's maximum HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training greatly raises a\nDigimon's maximum HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training slightly raises a\nDigimon's maximum MP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training moderately raises\na Digimon's maximum MP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training greatly raises a\nDigimon's maximum MP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training slightly raises a\nDigimon's Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training moderately raises\na Digimon's Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training greatly raises a\nDigimon's Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training slightly raises a\nDigimon's Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training moderately raises\na Digimon's Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training greatly raises a\nDigimon's Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training slightly raises a\nDigimon's Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training moderately raises\na Digimon's Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training greatly raises a\nDigimon's Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training slightly raises a\nDigimon's Wisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training moderately raises\na Digimon's Wisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Training greatly raises a\nDigimon's Wisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly raises DigiFarm\nEXP. Phantom Beast Digimon\ngain more."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moderately raises DigiFarm\nEXP. Phantom Beast Digimon\ngain more."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greatly raises DigiFarm\nEXP. Phantom Beast Digimon\ngain more."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly raises DigiFarm\nEXP. Beast Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moderately raises DigiFarm\nEXP. Beast Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greatly raises DigiFarm\nEXP. Beast Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly raises DigiFarm\nEXP. Angel Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moderately raises DigiFarm\nEXP. Angel Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greatly raises DigiFarm\nEXP. Angel Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly raises DigiFarm\nEXP. Demon Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moderately raises DigiFarm\nEXP. Demon Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Greatly raises DigiFarm\nEXP. Demon Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 33,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly raises DigiFarm\nEXP. Machine Digimon gain\nmore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct equipment and DigiFarm description translation. Status effects, stats, city names, and western Digimon names follow the established project glossary."
+    }
+  ]
+}

@@ -1,0 +1,993 @@
+{
+  "description": "Translate the Megidramon, TigerVespamon, and MarineDevimon tower scenes in MESPAK02 entry 9.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "W-wait! Where are you going to disappear to?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "Where else? I'm going to be absorbed by Lord Barbamon♪ The more Shadow Guard you defeat, the stronger he gets! Isn't that wonderful?♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Bye-bye~♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "What's with that casual 'bye-bye'?! Everyone keeps vanishing so easily...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "...I'm getting warmer and warmer... A little sleepy, maybe?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "...Anyway, I'll switch the tower back to Normal Mode."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Now this tower's energy won't be used for the protective field anymore."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Great! Let's move on!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Careful. I'm sure that's a Shadow Guard."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Hahahaha! You've made it this far, chosen heroes! I am the Digital Hazard Dragon from ancient legend! I'm Megidramon, the Blast Elite in Lord Barbamon's Shadow Guard, sent to protect this Capacitor Tower!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Uh... Doesn't he look a little different than that?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Y-yeah... I was a little surprised, that's all."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, what do you mean by 'chosen heroes'?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Is it because he's a dragon? You know, like in games..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon...! What do you mean, a game?! Quit messing around! Let's go, Taiki! Send him flying!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "Come on, attack me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Hahahaha! To defeat this Megidramon... You truly are the ancient Hazard Hero chosen by the dragon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "That doesn't make any sense!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "You fell before your quest was complete... But Megidramon sought even greater strength, so the Dark Emperor, Lord Barbamon, absorbed him! Hahahaha!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "...Damn. What's wrong with these guys?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "They're enjoying watching us fight... Fine! I'll go straight to their boss!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, switch the tower to Normal Mode."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "I want something sweet..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "Where did that come from?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, are you all right? Did activating the tower drain your strength?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yeah. I'm getting a little dazed... But I'm fine. Let's keep going."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "Hah-hah? You're here, the boys everyone's been talking about♪ That's right! Come on over!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "...What is that? Is it a Shadow Guard?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Why would Barbamon send someone so weird...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "He's completely toying with us..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Damn... Is this all a game to him?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm TigerVespamon, the Speedy Elite in Lord Barbamon's Shadow Guard, sent to protect this Capacitor Tower! Call me TG Vespamon! Or just Tigress♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... That guy's creepy..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm? What's that? You're shy boys♪ All right, special treat! You can call me Tiggy♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "As if!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "Absolutely not!!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "No way I'm losing to such a ridiculous opponent! I'm counting on you, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, impatient, are we? All right! I'll hit you until your hate turns to love♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "...That was a rough fight."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "...Are they calm now?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, TG Vespamon! Tell Barbamon he'll regret messing around!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah! We're never going to lose!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Why... Why does everyone hate me so much...? Barbamon is the only one who accepts and understands me... Wait for me, my lord! Let's become one!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "He definitely doesn't care about you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "Shoutmon..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah... That was a little too blunt..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "That's fine! You have to be clear with people like that!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll switch the tower's mode now."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, are you all right? You look tired."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Uh... Yeah... I feel kind of hot..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Did you catch a cold or something?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't work so hard that you collapse. Don't push yourself!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Didn't think I'd hear that from you... Come on, let's go!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "...Urrp."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "S-sorry, everyone... Just... give me a minute... That Shadow Guard... Urrp..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, what happened?! Did it attack you?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "No... That's not it... I'm... I'm fine... Blech!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "That 'blech' doesn't sound like you're fine. What's wrong, Spadamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "...It's hard to say, but... I can't handle squid-like things..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Now that you mention it... I heard cats shouldn't eat squid."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "...I'm not a cat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "All right, Spadamon, hold your nose! Let's go, Taiki! We'll finish this quickly!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "I heard someone whispering insults... It was you?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm MarineDevimon, the Wetty Elite in Lord Barbamon's Shadow Guard, sent to protect this Capacitor Tower!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "Phew... Ugh! That's disgusting! I can't do this... It's slimy and shiny, and it smells so fishy... This is breaking my spirit!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you all right? I told you to hold your nose!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "So Lord Barbamon expected this! But... even if it gives us an advantage, I feel awful!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "B-Barbamon won't get his way! ...Ugh!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Why are you telling him that to his face?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll crush you until that nose stops working!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah... I think that already happened..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Couldn't agree more..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "You...! I'll use my last strength to cover you all in slime!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Eww! Stop it! We already won!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Shut up! Lord Barbamon must have expected this. I'll at least make sure Spadamon can't recover!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "No thanks! If that thing wraps around me, my nose is done for!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous tower scene translation. The Shadow Guard's exaggerated self-introductions and deliberate jokes are kept as jokes, while tower mechanics and Spadamon's weakness remain clear."
+    }
+  ]
+}

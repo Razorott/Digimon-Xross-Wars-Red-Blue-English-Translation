@@ -1,0 +1,4587 @@
+{
+  "description": "Expanded canonical Digimon names, item labels, and compact battle instructions. Game-specific item terms remain provisional pending Western release matches.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 209,
+      "category": "Digimon name",
+      "english": [
+        "Penguinmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 633,
+      "category": "Digimon name",
+      "english": [
+        "Penguinmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 682,
+      "category": "Digimon name",
+      "english": [
+        "Penguinmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 241,
+      "category": "Digimon name",
+      "english": [
+        "Kokatorimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 714,
+      "category": "Digimon name",
+      "english": [
+        "Kokatorimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 258,
+      "category": "Digimon name",
+      "english": [
+        "Evilmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 731,
+      "category": "Digimon name",
+      "english": [
+        "Evilmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 260,
+      "category": "Digimon name",
+      "english": [
+        "Hookmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 733,
+      "category": "Digimon name",
+      "english": [
+        "Hookmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 261,
+      "category": "Digimon name",
+      "english": [
+        "Dorugamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 734,
+      "category": "Digimon name",
+      "english": [
+        "Dorugamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4105,
+      "category": "Digimon name",
+      "english": [
+        "Dorugamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 262,
+      "category": "Digimon name",
+      "english": [
+        "Raptordramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 735,
+      "category": "Digimon name",
+      "english": [
+        "Raptordramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4112,
+      "category": "Digimon name",
+      "english": [
+        "Raptordramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 263,
+      "category": "Digimon name",
+      "english": [
+        "Hanumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 736,
+      "category": "Digimon name",
+      "english": [
+        "Hanumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4106,
+      "category": "Digimon name",
+      "english": [
+        "Hanumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 265,
+      "category": "Digimon name",
+      "english": [
+        "BomberNanimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 738,
+      "category": "Digimon name",
+      "english": [
+        "BomberNanimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 266,
+      "category": "Digimon name",
+      "english": [
+        "Unimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 739,
+      "category": "Digimon name",
+      "english": [
+        "Unimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 268,
+      "category": "Digimon name",
+      "english": [
+        "Ikkakumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 741,
+      "category": "Digimon name",
+      "english": [
+        "Ikkakumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4448,
+      "category": "Digimon name",
+      "english": [
+        "Ikkakumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 269,
+      "category": "Digimon name",
+      "english": [
+        "Minotaurmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 607,
+      "category": "Digimon name",
+      "english": [
+        "Minotaurmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 742,
+      "category": "Digimon name",
+      "english": [
+        "Minotaurmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4110,
+      "category": "Digimon name",
+      "english": [
+        "Minotaurmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 270,
+      "category": "Digimon name",
+      "english": [
+        "GeoGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 743,
+      "category": "Digimon name",
+      "english": [
+        "GeoGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 271,
+      "category": "Digimon name",
+      "english": [
+        "Gaogamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 744,
+      "category": "Digimon name",
+      "english": [
+        "Gaogamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4089,
+      "category": "Digimon name",
+      "english": [
+        "Gaogamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 272,
+      "category": "Digimon name",
+      "english": [
+        "Diatrymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 745,
+      "category": "Digimon name",
+      "english": [
+        "Diatrymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 273,
+      "category": "Digimon name",
+      "english": [
+        "Reppamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 746,
+      "category": "Digimon name",
+      "english": [
+        "Reppamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 274,
+      "category": "Digimon name",
+      "english": [
+        "Sunflowmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 747,
+      "category": "Digimon name",
+      "english": [
+        "Sunflowmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 275,
+      "category": "Digimon name",
+      "english": [
+        "Gawappamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 748,
+      "category": "Digimon name",
+      "english": [
+        "Gawappamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 276,
+      "category": "Digimon name",
+      "english": [
+        "Sangloupmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 749,
+      "category": "Digimon name",
+      "english": [
+        "Sangloupmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 277,
+      "category": "Digimon name",
+      "english": [
+        "Peckmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 750,
+      "category": "Digimon name",
+      "english": [
+        "Peckmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 278,
+      "category": "Digimon name",
+      "english": [
+        "Drimogemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 751,
+      "category": "Digimon name",
+      "english": [
+        "Drimogemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 279,
+      "category": "Digimon name",
+      "english": [
+        "Wendigomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 752,
+      "category": "Digimon name",
+      "english": [
+        "Wendigomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 280,
+      "category": "Digimon name",
+      "english": [
+        "Tsuchidarumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 753,
+      "category": "Digimon name",
+      "english": [
+        "Tsuchidarumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 281,
+      "category": "Digimon name",
+      "english": [
+        "Ebidramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 754,
+      "category": "Digimon name",
+      "english": [
+        "Ebidramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 282,
+      "category": "Digimon name",
+      "english": [
+        "Octomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 755,
+      "category": "Digimon name",
+      "english": [
+        "Octomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 283,
+      "category": "Digimon name",
+      "english": [
+        "Gesomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 756,
+      "category": "Digimon name",
+      "english": [
+        "Gesomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 284,
+      "category": "Digimon name",
+      "english": [
+        "Seadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 757,
+      "category": "Digimon name",
+      "english": [
+        "Seadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4098,
+      "category": "Digimon name",
+      "english": [
+        "Seadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 285,
+      "category": "Digimon name",
+      "english": [
+        "Shellmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 758,
+      "category": "Digimon name",
+      "english": [
+        "Shellmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4099,
+      "category": "Digimon name",
+      "english": [
+        "Shellmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 286,
+      "category": "Digimon name",
+      "english": [
+        "Frigimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 759,
+      "category": "Digimon name",
+      "english": [
+        "Frigimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4449,
+      "category": "Digimon name",
+      "english": [
+        "Frigimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 287,
+      "category": "Digimon name",
+      "english": [
+        "IceDevimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 610,
+      "category": "Digimon name",
+      "english": [
+        "IceDevimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 760,
+      "category": "Digimon name",
+      "english": [
+        "IceDevimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4080,
+      "category": "Digimon name",
+      "english": [
+        "IceDevimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 288,
+      "category": "Digimon name",
+      "english": [
+        "Rukamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 761,
+      "category": "Digimon name",
+      "english": [
+        "Rukamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4113,
+      "category": "Digimon name",
+      "english": [
+        "Rukamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4450,
+      "category": "Digimon name",
+      "english": [
+        "Rukamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 289,
+      "category": "Digimon name",
+      "english": [
+        "Woodmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 762,
+      "category": "Digimon name",
+      "english": [
+        "Woodmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 290,
+      "category": "Digimon name",
+      "english": [
+        "Snimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 763,
+      "category": "Digimon name",
+      "english": [
+        "Snimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 291,
+      "category": "Digimon name",
+      "english": [
+        "Flymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 764,
+      "category": "Digimon name",
+      "english": [
+        "Flymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 292,
+      "category": "Digimon name",
+      "english": [
+        "Yanmamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 765,
+      "category": "Digimon name",
+      "english": [
+        "Yanmamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 293,
+      "category": "Digimon name",
+      "english": [
+        "Igamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 766,
+      "category": "Digimon name",
+      "english": [
+        "Igamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 294,
+      "category": "Digimon name",
+      "english": [
+        "Clockmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 767,
+      "category": "Digimon name",
+      "english": [
+        "Clockmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 296,
+      "category": "Digimon name",
+      "english": [
+        "Tankmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 769,
+      "category": "Digimon name",
+      "english": [
+        "Tankmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4101,
+      "category": "Digimon name",
+      "english": [
+        "Tankmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 297,
+      "category": "Digimon name",
+      "english": [
+        "Golemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 770,
+      "category": "Digimon name",
+      "english": [
+        "Golemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 298,
+      "category": "Digimon name",
+      "english": [
+        "Revolmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 771,
+      "category": "Digimon name",
+      "english": [
+        "Revolmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 299,
+      "category": "Digimon name",
+      "english": [
+        "Centarumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 772,
+      "category": "Digimon name",
+      "english": [
+        "Centarumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 300,
+      "category": "Digimon name",
+      "english": [
+        "Devidramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 773,
+      "category": "Digimon name",
+      "english": [
+        "Devidramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 301,
+      "category": "Digimon name",
+      "english": [
+        "Dokugumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 774,
+      "category": "Digimon name",
+      "english": [
+        "Dokugumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 302,
+      "category": "Digimon name",
+      "english": [
+        "Veedramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 775,
+      "category": "Digimon name",
+      "english": [
+        "Veedramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 303,
+      "category": "Digimon name",
+      "english": [
+        "Mushamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 776,
+      "category": "Digimon name",
+      "english": [
+        "Mushamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4111,
+      "category": "Digimon name",
+      "english": [
+        "Mushamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 309,
+      "category": "Digimon name",
+      "english": [
+        "Agunimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 782,
+      "category": "Digimon name",
+      "english": [
+        "Agunimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4082,
+      "category": "Digimon name",
+      "english": [
+        "Agunimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4451,
+      "category": "Digimon name",
+      "english": [
+        "Agunimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 310,
+      "category": "Digimon name",
+      "english": [
+        "Volcamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 783,
+      "category": "Digimon name",
+      "english": [
+        "Volcamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 312,
+      "category": "Digimon name",
+      "english": [
+        "Monzaemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 785,
+      "category": "Digimon name",
+      "english": [
+        "Monzaemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4156,
+      "category": "Digimon name",
+      "english": [
+        "Monzaemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 313,
+      "category": "Digimon name",
+      "english": [
+        "SkullGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 786,
+      "category": "Digimon name",
+      "english": [
+        "SkullGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4453,
+      "category": "Digimon name",
+      "english": [
+        "SkullGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 314,
+      "category": "Digimon name",
+      "english": [
+        "MetalMamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 787,
+      "category": "Digimon name",
+      "english": [
+        "MetalMamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 315,
+      "category": "Digimon name",
+      "english": [
+        "Andromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 788,
+      "category": "Digimon name",
+      "english": [
+        "Andromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 316,
+      "category": "Digimon name",
+      "english": [
+        "Etemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 789,
+      "category": "Digimon name",
+      "english": [
+        "Etemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 317,
+      "category": "Digimon name",
+      "english": [
+        "Megadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 790,
+      "category": "Digimon name",
+      "english": [
+        "Megadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4154,
+      "category": "Digimon name",
+      "english": [
+        "Megadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 318,
+      "category": "Digimon name",
+      "english": [
+        "Piximon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 791,
+      "category": "Digimon name",
+      "english": [
+        "Piximon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 319,
+      "category": "Digimon name",
+      "english": [
+        "Digitamamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 792,
+      "category": "Digimon name",
+      "english": [
+        "Digitamamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 320,
+      "category": "Digimon name",
+      "english": [
+        "Mammothmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 793,
+      "category": "Digimon name",
+      "english": [
+        "Mammothmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 321,
+      "category": "Digimon name",
+      "english": [
+        "Okuwamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 794,
+      "category": "Digimon name",
+      "english": [
+        "Okuwamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 322,
+      "category": "Digimon name",
+      "english": [
+        "ShogunGekomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 795,
+      "category": "Digimon name",
+      "english": [
+        "ShogunGekomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 323,
+      "category": "Digimon name",
+      "english": [
+        "Angewomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 796,
+      "category": "Digimon name",
+      "english": [
+        "Angewomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4122,
+      "category": "Digimon name",
+      "english": [
+        "Angewomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4454,
+      "category": "Digimon name",
+      "english": [
+        "Angewomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 324,
+      "category": "Digimon name",
+      "english": [
+        "Tylomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 797,
+      "category": "Digimon name",
+      "english": [
+        "Tylomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4455,
+      "category": "Digimon name",
+      "english": [
+        "Tylomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 325,
+      "category": "Digimon name",
+      "english": [
+        "Anomalocarimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 798,
+      "category": "Digimon name",
+      "english": [
+        "Anomalocarimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 326,
+      "category": "Digimon name",
+      "english": [
+        "MegaSeadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 799,
+      "category": "Digimon name",
+      "english": [
+        "MegaSeadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4153,
+      "category": "Digimon name",
+      "english": [
+        "MegaSeadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 327,
+      "category": "Digimon name",
+      "english": [
+        "Dagomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 800,
+      "category": "Digimon name",
+      "english": [
+        "Dagomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 328,
+      "category": "Digimon name",
+      "english": [
+        "WereGarurumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4164,
+      "category": "Digimon name",
+      "english": [
+        "WereGarurumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 329,
+      "category": "Digimon name",
+      "english": [
+        "Myotismon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 802,
+      "category": "Digimon name",
+      "english": [
+        "Myotismon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4121,
+      "category": "Digimon name",
+      "english": [
+        "Myotismon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 330,
+      "category": "Digimon name",
+      "english": [
+        "LadyDevimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 803,
+      "category": "Digimon name",
+      "english": [
+        "LadyDevimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4163,
+      "category": "Digimon name",
+      "english": [
+        "LadyDevimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4456,
+      "category": "Digimon name",
+      "english": [
+        "LadyDevimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 331,
+      "category": "Digimon name",
+      "english": [
+        "Garudamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 804,
+      "category": "Digimon name",
+      "english": [
+        "Garudamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4457,
+      "category": "Digimon name",
+      "english": [
+        "Garudamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 332,
+      "category": "Digimon name",
+      "english": [
+        "Blossomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 805,
+      "category": "Digimon name",
+      "english": [
+        "Blossomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4147,
+      "category": "Digimon name",
+      "english": [
+        "Blossomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 333,
+      "category": "Digimon name",
+      "english": [
+        "Lillymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 806,
+      "category": "Digimon name",
+      "english": [
+        "Lillymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4160,
+      "category": "Digimon name",
+      "english": [
+        "Lillymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 338,
+      "category": "Digimon name",
+      "english": [
+        "Paildramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 811,
+      "category": "Digimon name",
+      "english": [
+        "Paildramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4142,
+      "category": "Digimon name",
+      "english": [
+        "Paildramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 339,
+      "category": "Digimon name",
+      "english": [
+        "Dinobeemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 812,
+      "category": "Digimon name",
+      "english": [
+        "Dinobeemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4139,
+      "category": "Digimon name",
+      "english": [
+        "Dinobeemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 340,
+      "category": "Digimon name",
+      "english": [
+        "Antylamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 813,
+      "category": "Digimon name",
+      "english": [
+        "Antylamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 341,
+      "category": "Digimon name",
+      "english": [
+        "Arukenimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 611,
+      "category": "Digimon name",
+      "english": [
+        "Arukenimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 814,
+      "category": "Digimon name",
+      "english": [
+        "Arukenimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 342,
+      "category": "Digimon name",
+      "english": [
+        "Mummymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 815,
+      "category": "Digimon name",
+      "english": [
+        "Mummymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 343,
+      "category": "Digimon name",
+      "english": [
+        "MegaloGrowmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 816,
+      "category": "Digimon name",
+      "english": [
+        "MegaloGrowmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4155,
+      "category": "Digimon name",
+      "english": [
+        "MegaloGrowmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 344,
+      "category": "Digimon name",
+      "english": [
+        "Rapidmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 817,
+      "category": "Digimon name",
+      "english": [
+        "Rapidmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4159,
+      "category": "Digimon name",
+      "english": [
+        "Rapidmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 345,
+      "category": "Digimon name",
+      "english": [
+        "Taomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 818,
+      "category": "Digimon name",
+      "english": [
+        "Taomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4137,
+      "category": "Digimon name",
+      "english": [
+        "Taomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4459,
+      "category": "Digimon name",
+      "english": [
+        "Taomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 346,
+      "category": "Digimon name",
+      "english": [
+        "Parrotmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 603,
+      "category": "Digimon name",
+      "english": [
+        "Parrotmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 819,
+      "category": "Digimon name",
+      "english": [
+        "Parrotmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4460,
+      "category": "Digimon name",
+      "english": [
+        "Parrotmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 347,
+      "category": "Digimon name",
+      "english": [
+        "Infermon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 635,
+      "category": "Digimon name",
+      "english": [
+        "Infermon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 820,
+      "category": "Digimon name",
+      "english": [
+        "Infermon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4119,
+      "category": "Digimon name",
+      "english": [
+        "Infermon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 348,
+      "category": "Digimon name",
+      "english": [
+        "Pandamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 821,
+      "category": "Digimon name",
+      "english": [
+        "Pandamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4143,
+      "category": "Digimon name",
+      "english": [
+        "Pandamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4461,
+      "category": "Digimon name",
+      "english": [
+        "Pandamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 349,
+      "category": "Digimon name",
+      "english": [
+        "MarineDevimon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=EX8-061&search=true",
+      "review_note": "MarineDevimon is the official English Bandai card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 617,
+      "category": "Digimon name",
+      "english": [
+        "MarineDevimon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=EX8-061&search=true",
+      "review_note": "MarineDevimon is the official English Bandai card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 822,
+      "category": "Digimon name",
+      "english": [
+        "MarineDevimon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=EX8-061&search=true",
+      "review_note": "MarineDevimon is the official English Bandai card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4152,
+      "category": "Digimon name",
+      "english": [
+        "MarineDevimon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=EX8-061&search=true",
+      "review_note": "MarineDevimon is the official English Bandai card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 350,
+      "category": "Digimon name",
+      "english": [
+        "Karatenmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 823,
+      "category": "Digimon name",
+      "english": [
+        "Karatenmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4124,
+      "category": "Digimon name",
+      "english": [
+        "Karatenmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 351,
+      "category": "Digimon name",
+      "english": [
+        "Kyukimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 824,
+      "category": "Digimon name",
+      "english": [
+        "Kyukimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4126,
+      "category": "Digimon name",
+      "english": [
+        "Kyukimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 352,
+      "category": "Digimon name",
+      "english": [
+        "Sinduramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 825,
+      "category": "Digimon name",
+      "english": [
+        "Sinduramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4134,
+      "category": "Digimon name",
+      "english": [
+        "Sinduramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4462,
+      "category": "Digimon name",
+      "english": [
+        "Sinduramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 353,
+      "category": "Digimon name",
+      "english": [
+        "Dorugremon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 826,
+      "category": "Digimon name",
+      "english": [
+        "Dorugremon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4140,
+      "category": "Digimon name",
+      "english": [
+        "Dorugremon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 354,
+      "category": "Digimon name",
+      "english": [
+        "Divermon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=BT15-028&search=true",
+      "review_note": "Divermon is the official English Bandai card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 827,
+      "category": "Digimon name",
+      "english": [
+        "Divermon"
+      ],
+      "evidence_url": "https://world.digimoncard.com/cards/?card_no=BT15-028&search=true",
+      "review_note": "Divermon is the official English Bandai card spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 355,
+      "category": "Digimon name",
+      "english": [
+        "Chimairamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 828,
+      "category": "Digimon name",
+      "english": [
+        "Chimairamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4125,
+      "category": "Digimon name",
+      "english": [
+        "Chimairamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 356,
+      "category": "Digimon name",
+      "english": [
+        "Triceramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 829,
+      "category": "Digimon name",
+      "english": [
+        "Triceramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 357,
+      "category": "Digimon name",
+      "english": [
+        "Silphymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 830,
+      "category": "Digimon name",
+      "english": [
+        "Silphymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4133,
+      "category": "Digimon name",
+      "english": [
+        "Silphymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 359,
+      "category": "Digimon name",
+      "english": [
+        "Zudomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 832,
+      "category": "Digimon name",
+      "english": [
+        "Zudomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 360,
+      "category": "Digimon name",
+      "english": [
+        "Whamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4148,
+      "category": "Digimon name",
+      "english": [
+        "Whamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4463,
+      "category": "Digimon name",
+      "english": [
+        "Whamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 361,
+      "category": "Digimon name",
+      "english": [
+        "Mamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 834,
+      "category": "Digimon name",
+      "english": [
+        "Mamemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 362,
+      "category": "Digimon name",
+      "english": [
+        "Insekimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 835,
+      "category": "Digimon name",
+      "english": [
+        "Insekimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4118,
+      "category": "Digimon name",
+      "english": [
+        "Insekimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 363,
+      "category": "Digimon name",
+      "english": [
+        "Gigadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 836,
+      "category": "Digimon name",
+      "english": [
+        "Gigadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4127,
+      "category": "Digimon name",
+      "english": [
+        "Gigadramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 364,
+      "category": "Digimon name",
+      "english": [
+        "RizeGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 837,
+      "category": "Digimon name",
+      "english": [
+        "RizeGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4158,
+      "category": "Digimon name",
+      "english": [
+        "RizeGreymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 365,
+      "category": "Digimon name",
+      "english": [
+        "MachGaogamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 838,
+      "category": "Digimon name",
+      "english": [
+        "MachGaogamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4151,
+      "category": "Digimon name",
+      "english": [
+        "MachGaogamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 366,
+      "category": "Digimon name",
+      "english": [
+        "Chirinmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 839,
+      "category": "Digimon name",
+      "english": [
+        "Chirinmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4138,
+      "category": "Digimon name",
+      "english": [
+        "Chirinmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4464,
+      "category": "Digimon name",
+      "english": [
+        "Chirinmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 367,
+      "category": "Digimon name",
+      "english": [
+        "Lilamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 840,
+      "category": "Digimon name",
+      "english": [
+        "Lilamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 368,
+      "category": "Digimon name",
+      "english": [
+        "Matadormon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 841,
+      "category": "Digimon name",
+      "english": [
+        "Matadormon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 369,
+      "category": "Digimon name",
+      "english": [
+        "Kabukimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 842,
+      "category": "Digimon name",
+      "english": [
+        "Kabukimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4123,
+      "category": "Digimon name",
+      "english": [
+        "Kabukimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 370,
+      "category": "Digimon name",
+      "english": [
+        "Cherrymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 843,
+      "category": "Digimon name",
+      "english": [
+        "Cherrymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4135,
+      "category": "Digimon name",
+      "english": [
+        "Cherrymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4465,
+      "category": "Digimon name",
+      "english": [
+        "Cherrymon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 371,
+      "category": "Digimon name",
+      "english": [
+        "Garbagemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 619,
+      "category": "Digimon name",
+      "english": [
+        "Garbagemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 844,
+      "category": "Digimon name",
+      "english": [
+        "Garbagemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 373,
+      "category": "Digimon name",
+      "english": [
+        "Mametyrramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 846,
+      "category": "Digimon name",
+      "english": [
+        "Mametyrramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 374,
+      "category": "Digimon name",
+      "english": [
+        "Giromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 847,
+      "category": "Digimon name",
+      "english": [
+        "Giromon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 375,
+      "category": "Digimon name",
+      "english": [
+        "Vademon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 848,
+      "category": "Digimon name",
+      "english": [
+        "Vademon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 379,
+      "category": "Digimon name",
+      "english": [
+        "Phantomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 852,
+      "category": "Digimon name",
+      "english": [
+        "Phantomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4144,
+      "category": "Digimon name",
+      "english": [
+        "Phantomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 382,
+      "category": "Digimon name",
+      "english": [
+        "GrapLeomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 855,
+      "category": "Digimon name",
+      "english": [
+        "GrapLeomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4129,
+      "category": "Digimon name",
+      "english": [
+        "GrapLeomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 383,
+      "category": "Digimon name",
+      "english": [
+        "Knightmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 856,
+      "category": "Digimon name",
+      "english": [
+        "Knightmon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 384,
+      "category": "Digimon name",
+      "english": [
+        "Brachimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 857,
+      "category": "Digimon name",
+      "english": [
+        "Brachimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 386,
+      "category": "Digimon name",
+      "english": [
+        "Yatagaramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 859,
+      "category": "Digimon name",
+      "english": [
+        "Yatagaramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4157,
+      "category": "Digimon name",
+      "english": [
+        "Yatagaramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 389,
+      "category": "Digimon name",
+      "english": [
+        "Flaremon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 862,
+      "category": "Digimon name",
+      "english": [
+        "Flaremon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4145,
+      "category": "Digimon name",
+      "english": [
+        "Flaremon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 390,
+      "category": "Digimon name",
+      "english": [
+        "Crescemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 863,
+      "category": "Digimon name",
+      "english": [
+        "Crescemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4128,
+      "category": "Digimon name",
+      "english": [
+        "Crescemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 391,
+      "category": "Digimon name",
+      "english": [
+        "Flamedramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 864,
+      "category": "Digimon name",
+      "english": [
+        "Flamedramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4467,
+      "category": "Digimon name",
+      "english": [
+        "Flamedramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 392,
+      "category": "Digimon name",
+      "english": [
+        "Magnamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 865,
+      "category": "Digimon name",
+      "english": [
+        "Magnamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4150,
+      "category": "Digimon name",
+      "english": [
+        "Magnamon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 394,
+      "category": "Digimon name",
+      "english": [
+        "Kongoumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 867,
+      "category": "Digimon name",
+      "english": [
+        "Kongoumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 395,
+      "category": "Digimon name",
+      "english": [
+        "Shurimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 868,
+      "category": "Digimon name",
+      "english": [
+        "Shurimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 396,
+      "category": "Digimon name",
+      "english": [
+        "Kenkimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 869,
+      "category": "Digimon name",
+      "english": [
+        "Kenkimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 398,
+      "category": "Digimon name",
+      "english": [
+        "Shakkoumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 871,
+      "category": "Digimon name",
+      "english": [
+        "Shakkoumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4132,
+      "category": "Digimon name",
+      "english": [
+        "Shakkoumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 400,
+      "category": "Digimon name",
+      "english": [
+        "SkullBaluchimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 873,
+      "category": "Digimon name",
+      "english": [
+        "SkullBaluchimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4136,
+      "category": "Digimon name",
+      "english": [
+        "SkullBaluchimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 401,
+      "category": "Digimon name",
+      "english": [
+        "Grademon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 874,
+      "category": "Digimon name",
+      "english": [
+        "Grademon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4130,
+      "category": "Digimon name",
+      "english": [
+        "Grademon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 403,
+      "category": "Digimon name",
+      "english": [
+        "Wisemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 876,
+      "category": "Digimon name",
+      "english": [
+        "Wisemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4165,
+      "category": "Digimon name",
+      "english": [
+        "Wisemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 404,
+      "category": "Digimon name",
+      "english": [
+        "Mermaimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 877,
+      "category": "Digimon name",
+      "english": [
+        "Mermaimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4149,
+      "category": "Digimon name",
+      "english": [
+        "Mermaimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 406,
+      "category": "Digimon name",
+      "english": [
+        "Bastemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 879,
+      "category": "Digimon name",
+      "english": [
+        "Bastemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4141,
+      "category": "Digimon name",
+      "english": [
+        "Bastemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4468,
+      "category": "Digimon name",
+      "english": [
+        "Bastemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 407,
+      "category": "Digimon name",
+      "english": [
+        "Cerberumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 880,
+      "category": "Digimon name",
+      "english": [
+        "Cerberumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4131,
+      "category": "Digimon name",
+      "english": [
+        "Cerberumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4469,
+      "category": "Digimon name",
+      "english": [
+        "Cerberumon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 408,
+      "category": "Digimon name",
+      "english": [
+        "BlueMeramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 881,
+      "category": "Digimon name",
+      "english": [
+        "BlueMeramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4470,
+      "category": "Digimon name",
+      "english": [
+        "BlueMeramon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 409,
+      "category": "Digimon name",
+      "english": [
+        "Scorpiomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 882,
+      "category": "Digimon name",
+      "english": [
+        "Scorpiomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4471,
+      "category": "Digimon name",
+      "english": [
+        "Scorpiomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 410,
+      "category": "Digimon name",
+      "english": [
+        "Nefertimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 883,
+      "category": "Digimon name",
+      "english": [
+        "Nefertimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4472,
+      "category": "Digimon name",
+      "english": [
+        "Nefertimon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 412,
+      "category": "Digimon name",
+      "english": [
+        "SaberLeomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 885,
+      "category": "Digimon name",
+      "english": [
+        "SaberLeomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4186,
+      "category": "Digimon name",
+      "english": [
+        "SaberLeomon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 413,
+      "category": "Digimon name",
+      "english": [
+        "MetalEtemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 886,
+      "category": "Digimon name",
+      "english": [
+        "MetalEtemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4221,
+      "category": "Digimon name",
+      "english": [
+        "MetalEtemon"
+      ],
+      "evidence_url": "https://digimon.net/reference_en/",
+      "review_note": "Western spelling candidate; verify the individual species and regional spelling against official English card/reference material before release."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3775,
+      "category": "Item name",
+      "english": [
+        "Bandage"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3776,
+      "category": "Item name",
+      "english": [
+        "Mega Bandage"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3777,
+      "category": "Item name",
+      "english": [
+        "Giga Bandage"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3778,
+      "category": "Item name",
+      "english": [
+        "Tera Bandage"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3779,
+      "category": "Item name",
+      "english": [
+        "Potion"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3780,
+      "category": "Item name",
+      "english": [
+        "Mega Potion"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3781,
+      "category": "Item name",
+      "english": [
+        "Giga Potion"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3782,
+      "category": "Item name",
+      "english": [
+        "Tera Potion"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3783,
+      "category": "Item name",
+      "english": [
+        "Damaged Bandage"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3784,
+      "category": "Item name",
+      "english": [
+        "Energy Seed"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3785,
+      "category": "Item name",
+      "english": [
+        "Mega Energy Seed"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3786,
+      "category": "Item name",
+      "english": [
+        "Giga Energy Seed"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3787,
+      "category": "Item name",
+      "english": [
+        "Tera Energy Seed"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3788,
+      "category": "Item name",
+      "english": [
+        "MP Supplement"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3789,
+      "category": "Item name",
+      "english": [
+        "Mega MP Supplement"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3790,
+      "category": "Item name",
+      "english": [
+        "Giga MP Supplement"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3791,
+      "category": "Item name",
+      "english": [
+        "Tera MP Supplement"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3792,
+      "category": "Item name",
+      "english": [
+        "Half Recovery"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3793,
+      "category": "Item name",
+      "english": [
+        "Full Recovery"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3794,
+      "category": "Item name",
+      "english": [
+        "Paralysis Cure"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3795,
+      "category": "Item name",
+      "english": [
+        "Sleep Cure"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3796,
+      "category": "Item name",
+      "english": [
+        "Confusion Cure"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3797,
+      "category": "Item name",
+      "english": [
+        "Blindness Cure"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3798,
+      "category": "Item name",
+      "english": [
+        "Panacea"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3799,
+      "category": "Item name",
+      "english": [
+        "Mega Panacea"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3800,
+      "category": "Item name",
+      "english": [
+        "Revival Medicine"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3801,
+      "category": "Item name",
+      "english": [
+        "Revival Elixir"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3802,
+      "category": "Item name",
+      "english": [
+        "Gate Disc"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3803,
+      "category": "Item name",
+      "english": [
+        "EXP 1,000"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3804,
+      "category": "Item name",
+      "english": [
+        "EXP 4,000"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3805,
+      "category": "Item name",
+      "english": [
+        "EXP 9,999"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3806,
+      "category": "Item name",
+      "english": [
+        "Digi-Egg Shell"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3807,
+      "category": "Item name",
+      "english": [
+        "Steel Shell"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3808,
+      "category": "Item name",
+      "english": [
+        "Silver Shell"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3809,
+      "category": "Item name",
+      "english": [
+        "Gold Shell"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3810,
+      "category": "Item name",
+      "english": [
+        "Numemon Charm"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3811,
+      "category": "Item name",
+      "english": [
+        "Patamon Charm"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3812,
+      "category": "Item name",
+      "english": [
+        "Impmon Charm"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3813,
+      "category": "Item name",
+      "english": [
+        "Agumon Charm"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3814,
+      "category": "Item name",
+      "english": [
+        "Copper Coin"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3815,
+      "category": "Item name",
+      "english": [
+        "Silver Coin"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3816,
+      "category": "Item name",
+      "english": [
+        "Gold Coin"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3817,
+      "category": "Item name",
+      "english": [
+        "Platinum Coin"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3818,
+      "category": "Item name",
+      "english": [
+        "Data Scrap"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3819,
+      "category": "Item name",
+      "english": [
+        "Cheerful Nall"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3820,
+      "category": "Item name",
+      "english": [
+        "Clingy Nall"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3821,
+      "category": "Item name",
+      "english": [
+        "Wild Nall"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3822,
+      "category": "Item name",
+      "english": [
+        "Cool Nall"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3823,
+      "category": "Item name",
+      "english": [
+        "Selfish Nall"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3824,
+      "category": "Item name",
+      "english": [
+        "Gentle Nall"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3825,
+      "category": "Item name",
+      "english": [
+        "Robot Nall"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3826,
+      "category": "Item name",
+      "english": [
+        "Funky Nall"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3842,
+      "category": "Item name",
+      "english": [
+        "DigiGlove"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3843,
+      "category": "Item name",
+      "english": [
+        "Mega DigiGlove"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3844,
+      "category": "Item name",
+      "english": [
+        "Giga DigiHammer"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3845,
+      "category": "Item name",
+      "english": [
+        "Tera DigiHammer"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3846,
+      "category": "Item name",
+      "english": [
+        "DigiNeedle"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3847,
+      "category": "Item name",
+      "english": [
+        "Mega DigiNeedle"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3848,
+      "category": "Item name",
+      "english": [
+        "Giga DigiSword"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3849,
+      "category": "Item name",
+      "english": [
+        "Tera DigiSword"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3930,
+      "category": "Item name",
+      "english": [
+        "DigiHelmet"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3931,
+      "category": "Item name",
+      "english": [
+        "Mega DigiHelmet"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3932,
+      "category": "Item name",
+      "english": [
+        "Giga DigiCape"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3933,
+      "category": "Item name",
+      "english": [
+        "Tera DigiCape"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3934,
+      "category": "Item name",
+      "english": [
+        "DigiVest"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3935,
+      "category": "Item name",
+      "english": [
+        "Mega DigiVest"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3936,
+      "category": "Item name",
+      "english": [
+        "Giga DigiSuit"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3937,
+      "category": "Item name",
+      "english": [
+        "Tera DigiSuit"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3938,
+      "category": "Item name",
+      "english": [
+        "Rusty Shield"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3939,
+      "category": "Item name",
+      "english": [
+        "Swirly Glasses"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3940,
+      "category": "Item name",
+      "english": [
+        "Webbed Pants"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3941,
+      "category": "Item name",
+      "english": [
+        "Papyrus T-Shirt"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3942,
+      "category": "Item name",
+      "english": [
+        "Flora Helmet"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3943,
+      "category": "Item name",
+      "english": [
+        "Gaomon Headband"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3944,
+      "category": "Item name",
+      "english": [
+        "Hawkmon Tiara"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3945,
+      "category": "Item name",
+      "english": [
+        "Impmon Scarf"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3947,
+      "category": "Item name",
+      "english": [
+        "Revolmon Scarf"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3948,
+      "category": "Item name",
+      "english": [
+        "Captain Hat"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3949,
+      "category": "Item name",
+      "english": [
+        "Wizardmon Cape"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3951,
+      "category": "Item name",
+      "english": [
+        "Panda Scarf"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3954,
+      "category": "Item name",
+      "english": [
+        "Goblimon Vest"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3955,
+      "category": "Item name",
+      "english": [
+        "Kamemon Shield"
+      ],
+      "review_note": "Provisional English rendering for an item unique to this game; no official Western item localization has been verified."
+    }
+  ]
+}

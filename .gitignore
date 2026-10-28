@@ -1,0 +1,12 @@
+Original Roms/
+extracted/
+build/
+__pycache__/
+*.pyc
+.tools/
+*.nds
+*.sav
+*.dsv
+*.mln
+*.state
+.DS_Store

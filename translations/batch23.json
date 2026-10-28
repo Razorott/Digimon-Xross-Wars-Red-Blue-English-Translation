@@ -1,0 +1,1494 @@
+{
+  "description": "Battle move names, battle and tent tutorials, chess quest objectives, DigiFarm reactions, map/farm labels, status-effect descriptions, and three translated DigiFarm notification graphics.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1740,
+      "category": "Battle moves",
+      "english": [
+        "Nightmare Syndrome"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1743,
+      "category": "Battle moves",
+      "english": [
+        "Bloody Stream"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1754,
+      "category": "Battle moves",
+      "english": [
+        "Dimension Hole"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1756,
+      "category": "Battle moves",
+      "english": [
+        "Hyper Bulldozer"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1764,
+      "category": "Battle moves",
+      "english": [
+        "Ground Zero"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1777,
+      "category": "Battle moves",
+      "english": [
+        "Scissors Execution"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1779,
+      "category": "Battle moves",
+      "english": [
+        "Pyramid Formation"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1780,
+      "category": "Battle moves",
+      "english": [
+        "Poison Smash"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1782,
+      "category": "Battle moves",
+      "english": [
+        "Divine Feet"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1785,
+      "category": "Battle moves",
+      "english": [
+        "Super Stench Spray"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1802,
+      "category": "Battle moves",
+      "english": [
+        "Mega Dash Impact"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1803,
+      "category": "Battle moves",
+      "english": [
+        "Destruction Roar"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1823,
+      "category": "Battle moves",
+      "english": [
+        "Deadly Sting"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1832,
+      "category": "Battle moves",
+      "english": [
+        "Hunting Cannon"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1836,
+      "category": "Battle moves",
+      "english": [
+        "Burning Salamander"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1856,
+      "category": "Battle moves",
+      "english": [
+        "Strike Fishing"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the English Digimon World: Dawn/Dusk move-name string for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1858,
+      "category": "Battle moves",
+      "english": [
+        "Tryhorn A"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the English Digimon World: Dawn/Dusk move-name string for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1866,
+      "category": "Battle moves",
+      "english": [
+        "Poop Bazooka"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the English Digimon World: Dawn/Dusk move-name string for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3142,
+      "category": "Battle moves",
+      "english": [
+        "Poop Bazooka"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the English Digimon World: Dawn/Dusk move-name string for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1870,
+      "category": "Battle moves",
+      "english": [
+        "Volcano SS"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Reuses the English Digimon World: Dawn/Dusk move-name string for the matching Japanese technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1872,
+      "category": "Battle moves",
+      "english": [
+        "Roada"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2316,
+      "category": "Battle moves",
+      "english": [
+        "Roada"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3148,
+      "category": "Battle moves",
+      "english": [
+        "Roada"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3592,
+      "category": "Battle moves",
+      "english": [
+        "Roada"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1873,
+      "category": "Battle moves",
+      "english": [
+        "Magical Stick"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3149,
+      "category": "Battle moves",
+      "english": [
+        "Magical Stick"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1876,
+      "category": "Battle moves",
+      "english": [
+        "Stronghold"
+      ],
+      "sources": [],
+      "review_note": "Working English rendering from the Japanese attack name; no exact Western-game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 428,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to KingChessmon in the\nFront Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "Official card list confirms KingChessmon."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 429,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find PawnChessmon White in\nwest Crystal Volcano."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "Official card list confirms PawnChessmon; White identifies the game variant."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 430,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find KnightChessmon White\nin west Crystal Volcano."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "KnightChessmon White follows the English species spelling; White identifies the game variant."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 431,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find RookChessmon in east\nCrystal Volcano."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "Official card list confirms RookChessmon."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 432,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find BishopChessmon in\nnorth Lost Space."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "BishopChessmon uses the English species spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 433,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find QueenChessmon in south\nLost Space."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "Official card list confirms QueenChessmon."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 434,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to KingChessmon in\nthe Front Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "Official card list confirms KingChessmon."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 435,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Residents of the Game\nKingdom"
+      ],
+      "sources": [],
+      "review_note": "Quest title."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 436,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find KingChessmon's\nservants and deliver their\nmessage."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?category=522016&search=true"
+      ],
+      "review_note": "Official card list confirms KingChessmon."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 438,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Renamon in the\nFront Room."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; species name follows the established English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 439,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Sakuyamon in south\nLost Space."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; species name follows the established English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 440,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Defeat Apocalymon in north\nLost Space."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; species name follows the established English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 441,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meet Sakuyamon again."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; species name follows the established English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 442,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Renamon in the\nFront Room."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; species name follows the established English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "Why is there a\nmonitor\nhere of all\nplaces?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Why is there a\nmonitor\nhere of all\nplaces?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "This monitor\nexplains\nhow battles\nwork."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "This monitor\nexplains\nhow battles\nwork."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "So this is a\nbattle\ntutorial\nmonitor?\nThen I should\nlisten."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "So this is a\nbattle\ntutorial\nmonitor?\nThen I should\nlisten."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "I want to hurry\nahead...\nbut I should\nlisten now,\nbefore I get\nstuck later.\nShould I?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "I want to hurry\nahead...\nbut I should\nlisten now,\nbefore I get\nstuck later.\nShould I?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... Did\nyou get\nall that,\nShoutmon?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... Did\nyou get\nall that,\nShoutmon?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Not a clue! But\nthat's\nokay! I'll\nleave the\ncomplicated\nstuff to the\nGeneral! If the\nlesson's\nover, let's\nhurry and\nfind everyone!"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "Not a clue! But\nthat's\nokay! I'll\nleave the\ncomplicated\nstuff to the\nGeneral! If the\nlesson's\nover, let's\nhurry and\nfind everyone!"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "Do you need a\nbattle\ntutorial?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Do you need a\nbattle\ntutorial?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll explain\nhow to\nuse the tent\nhere."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll explain\nhow to\nuse the tent\nhere."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "What's a tent?\nShould\nI hear the\nexplanation?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "What's a tent?\nShould\nI hear the\nexplanation?"
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "Find a Tent\nPoint to\nopen a tent."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Find a Tent\nPoint to\nopen a tent."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "Stand on a Tent\nPoint\nand press A to\nopen the\ntent. You can\ngo inside\nto restore HP\nand MP,\nand save your\ngame."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "Stand on a Tent\nPoint\nand press A to\nopen the\ntent. You can\ngo inside\nto restore HP\nand MP,\nand save your\ngame."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "It's a handy\nplace\nwhen you're in\na pinch,\nso remember how\nto use\nthe tent."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "It's a handy\nplace\nwhen you're in\na pinch,\nso remember how\nto use\nthe tent."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "There's a Tent\nPoint\nright here.\nMaybe I'll\ngive it a try."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "There's a Tent\nPoint\nright here.\nMaybe I'll\ngive it a try."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "Stand on a Tent\nPoint\nand press A to\nopen it.\nInside, you can\nrestore\nHP and MP, and\nsave\nyour game data."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "Stand on a Tent\nPoint\nand press A to\nopen it.\nInside, you can\nrestore\nHP and MP, and\nsave\nyour game data."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "...Oh? Another\nmonitor."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "...Oh? Another\nmonitor."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll explain\nbattle\nformations."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll explain\nbattle\nformations."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "This sounds\nlike a lot\nof work..."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "This sounds\nlike a lot\nof work..."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Well, let's not\nmake it\nmore\ncomplicated\nthan\nit is. I'll\nlisten."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Well, let's not\nmake it\nmore\ncomplicated\nthan\nit is. I'll\nlisten."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Rear Guards\nattack\nfrom behind the\nparty.\nThe Vanguard\nprotects\nthem from enemy\nattacks,\nbut their\nattacks deal\nhalf damage.\nIf every\nVanguard\nDigimon is\ndefeated, the\nRear Guards\nmove up to\nthe Vanguard.\nYou must put a\nDigimon\nin the Vanguard\nbefore\nyou can fill\nthe Rear\nGuard, so keep\nthat in\nmind."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Rear Guards\nattack\nfrom behind the\nparty.\nThe Vanguard\nprotects\nthem from enemy\nattacks,\nbut their\nattacks deal\nhalf damage.\nIf every\nVanguard\nDigimon is\ndefeated, the\nRear Guards\nmove up to\nthe Vanguard.\nYou must put a\nDigimon\nin the Vanguard\nbefore\nyou can fill\nthe Rear\nGuard, so keep\nthat in\nmind."
+      ],
+      "sources": [],
+      "review_note": "Battle/tent tutorial dialogue; wrapped for the fixed 15-column story renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow, this is much more\nfun than I expected...\nThanks to you, my\nfriendship went up a bit..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is fun, but it\nmight be a little hard..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, it's a cellphone!\nI'll try sending Taiki\na message..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, he replied! I'm\nso happy! I think my\nfriendship went up\nquite a bit..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm... No reply...\nThat's too bad..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "Taiki left a digital\ncamera here... Since I\nhave the chance, maybe\nI'll take a picture of\nmyself..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "I got a good picture!\nThank goodness... My\nfriendship went up a\nlot, too..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "Uhh... I don't really\nknow how to use this..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm? Is that a ring of\nfire...? It looks fun,\nso I'll give it a try."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yes! The flames and my\nburning spirit made my\nEXP shoot way up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "A-ah, it's so hot!\nI don't like this!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 2,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Fire Road, right...?\nIt looks really hot...\nCan I cross it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction; item names and game terminology follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4423,
+      "category": "Items and equipment",
+      "english": [
+        "Guruguru Amazon West Key"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4424,
+      "category": "Items and equipment",
+      "english": [
+        "Guruguru Amazon East Key"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4425,
+      "category": "Items and equipment",
+      "english": [
+        "Kumonos Ruins West Key"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4426,
+      "category": "Items and equipment",
+      "english": [
+        "Kumonos Ruins East Key"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4427,
+      "category": "Items and equipment",
+      "english": [
+        "Knuckle Coast East Key"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4509,
+      "category": "Items and equipment",
+      "english": [
+        "Volcano Board"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4510,
+      "category": "Items and equipment",
+      "english": [
+        "Desert Board"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4511,
+      "category": "Items and equipment",
+      "english": [
+        "Marble Board"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4512,
+      "category": "Items and equipment",
+      "english": [
+        "Darkness Board"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4513,
+      "category": "Items and equipment",
+      "english": [
+        "Coral Board"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4514,
+      "category": "Items and equipment",
+      "english": [
+        "Machine Board"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4515,
+      "category": "Items and equipment",
+      "english": [
+        "Grassland Board"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4516,
+      "category": "Items and equipment",
+      "english": [
+        "Forest Board"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4517,
+      "category": "Items and equipment",
+      "english": [
+        "Tropical Board"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4518,
+      "category": "Items and equipment",
+      "english": [
+        "Mythical Beast"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4519,
+      "category": "Items and equipment",
+      "english": [
+        "Beast"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4520,
+      "category": "Items and equipment",
+      "english": [
+        "Angel"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4521,
+      "category": "Items and equipment",
+      "english": [
+        "Demon"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4522,
+      "category": "Items and equipment",
+      "english": [
+        "Aquatic"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4523,
+      "category": "Items and equipment",
+      "english": [
+        "Machine"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4524,
+      "category": "Items and equipment",
+      "english": [
+        "Bird"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4525,
+      "category": "Items and equipment",
+      "english": [
+        "Insect"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4526,
+      "category": "Items and equipment",
+      "english": [
+        "Plant"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4527,
+      "category": "Items and equipment",
+      "english": [
+        "Volcano"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4528,
+      "category": "Items and equipment",
+      "english": [
+        "Desert"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4529,
+      "category": "Items and equipment",
+      "english": [
+        "Marble"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4530,
+      "category": "Items and equipment",
+      "english": [
+        "Darkness"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4531,
+      "category": "Items and equipment",
+      "english": [
+        "Coral"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4532,
+      "category": "Items and equipment",
+      "english": [
+        "Machine"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4533,
+      "category": "Items and equipment",
+      "english": [
+        "Grassland"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4534,
+      "category": "Items and equipment",
+      "english": [
+        "Forest"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4535,
+      "category": "Items and equipment",
+      "english": [
+        "Tropical"
+      ],
+      "sources": [],
+      "review_note": "Direct map key, farm board, type, or area label translation; established place names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "More vulnerable to enemy MP\nDrain."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Less likely to be shuffled."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Much less likely to be\nshuffled."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Immune to Shuffle."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party-wide:\nslightly resists Shuffle."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Party-wide:\nresists Shuffle."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slightly more vulnerable to\nShuffle."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Resists enemy Poison."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strongly resists enemy\nPoison."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 1,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Immune to enemy Poison."
+      ],
+      "sources": [],
+      "review_note": "Direct gameplay effect description; terminology is kept consistent across the battle/status menus."
+    }
+  ]
+}

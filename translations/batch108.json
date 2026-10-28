@@ -1,0 +1,4 @@
+{
+  "description": "Safe Digidex profile wording and reflow repair. Restore the batch105 font map after two emulator probes showed that an added quote map corrupts Digidex text rendering.",
+  "blocks": []
+}

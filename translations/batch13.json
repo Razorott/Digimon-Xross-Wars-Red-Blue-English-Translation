@@ -1,0 +1,1997 @@
+{
+  "description": "HQ NPCs, quest objectives, map labels, DigiFarm reports and battle moves.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1051,
+      "category": "Locations",
+      "english": [
+        "Sky Fort"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1071,
+      "category": "Locations",
+      "english": [
+        "Sky Fort"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1056,
+      "category": "Locations",
+      "english": [
+        "Crystal Mine"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1090,
+      "category": "Locations",
+      "english": [
+        "Crystal Mine"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1057,
+      "category": "Locations",
+      "english": [
+        "Crystal Volcano W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1088,
+      "category": "Locations",
+      "english": [
+        "Crystal Volcano W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1058,
+      "category": "Locations",
+      "english": [
+        "Flower Plains"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1084,
+      "category": "Locations",
+      "english": [
+        "Flower Plains"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1059,
+      "category": "Locations",
+      "english": [
+        "Crystal Volcano E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1089,
+      "category": "Locations",
+      "english": [
+        "Crystal Volcano E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1060,
+      "category": "Locations",
+      "english": [
+        "Knuckle Coast W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1073,
+      "category": "Locations",
+      "english": [
+        "Knuckle Coast W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1061,
+      "category": "Locations",
+      "english": [
+        "Skull Glacier W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1078,
+      "category": "Locations",
+      "english": [
+        "Skull Glacier W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1062,
+      "category": "Locations",
+      "english": [
+        "Tokona Coast"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1087,
+      "category": "Locations",
+      "english": [
+        "Tokona Coast"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1063,
+      "category": "Locations",
+      "english": [
+        "Guruguru Amazon W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1075,
+      "category": "Locations",
+      "english": [
+        "Guruguru Amazon W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1064,
+      "category": "Locations",
+      "english": [
+        "Knuckle Coast E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1074,
+      "category": "Locations",
+      "english": [
+        "Knuckle Coast E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1065,
+      "category": "Locations",
+      "english": [
+        "Skull Glacier E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1079,
+      "category": "Locations",
+      "english": [
+        "Skull Glacier E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1066,
+      "category": "Locations",
+      "english": [
+        "Kumonos Ruins W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1080,
+      "category": "Locations",
+      "english": [
+        "Kumonos Ruins W"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1067,
+      "category": "Locations",
+      "english": [
+        "Guruguru Amazon E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1076,
+      "category": "Locations",
+      "english": [
+        "Guruguru Amazon E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1068,
+      "category": "Locations",
+      "english": [
+        "Kumonos Ruins E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1081,
+      "category": "Locations",
+      "english": [
+        "Kumonos Ruins E"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1069,
+      "category": "Locations",
+      "english": [
+        "Papyrus Desert N"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1082,
+      "category": "Locations",
+      "english": [
+        "Papyrus Desert N"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1070,
+      "category": "Locations",
+      "english": [
+        "Papyrus Desert S"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1083,
+      "category": "Locations",
+      "english": [
+        "Papyrus Desert S"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1091,
+      "category": "Common labels and traits",
+      "english": [
+        "Crystal Cave"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1092,
+      "category": "Common labels and traits",
+      "english": [
+        "Stealth Canyon N"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1093,
+      "category": "Common labels and traits",
+      "english": [
+        "Stealth Canyon S"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1094,
+      "category": "Common labels and traits",
+      "english": [
+        "Lost Space N"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1095,
+      "category": "Common labels and traits",
+      "english": [
+        "Lost Space S"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1096,
+      "category": "Common labels and traits",
+      "english": [
+        "Digital Space N"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1097,
+      "category": "Common labels and traits",
+      "english": [
+        "Digital Space S"
+      ],
+      "sources": [],
+      "review_note": "Map/area label; direction suffix is the original zone subdivision."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 65,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Gabumon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 66,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Agumon at\nKnuckle Coast West."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 67,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Gabumon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 68,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Missing Agumon"
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 69,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Rescue Agumon, who\nhas not returned\nfrom exploring."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 83,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to SnowAgumon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 84,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Ask Wendigomon in\nDark Tunnel."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 85,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to SnowAgumon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 86,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Scorching Summer Salon"
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 87,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Ask Wendigomon how\nto get a deep tan."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 89,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Wizardmon in\nE Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 90,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Wisemon in\nGuruguru Amazon W."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 91,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Wizardmon\nin E Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 92,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Bully!? Defeat\nWisemon!"
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 93,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Defeat Wisemon, who\nkeeps troubling\nWizardmon."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 95,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Mushroomon\nin E Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 96,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Dinobeemon in\nGuruguru Amazon W."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 97,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Mushroomon\nin E Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 98,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Bully!? Defeat\nDiatrymon!"
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 99,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Defeat Diatrymon,\nwho keeps bothering\nMushroomon."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 101,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Peckmon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 102,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Ask Kokatorimon in\nGuruguru Amazon W."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest log objective or title; Western species spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 103,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Ask Penguinmon at\nSkull Glacier West."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest log objective or title; Western species spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 104,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Ask DaiPenmon at\nSkull Glacier East."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest log objective or title; Western species spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 105,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Peckmon\nin the Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 106,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Flightless Bird = Chicken?"
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 107,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Ask how a bird can\nfly freely through\nthe sky."
+      ],
+      "sources": [],
+      "review_note": "Quest log objective or title from original Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "Perfect! Taiki\nwatched me! My\nfriendship went\nway up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, I missed\nit.\nThat's a shame."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! A ring of\nfire! Looks\nfun!\nLet me try!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yahoo!\nThrilling\nand exciting!\nMy\nEXP went up,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yow! It's hot!\nNo way I can do\nthis! My tail's\non fire!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "Fire Road looks\nhot... You want\nme\nto cross that?\nWho\nthought this\nup?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "Body and spirit\non fire! My EXP\nwent up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! Whoever\nmade this\nshould\ntry it first!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "Fireworks? Huh.\nThat actually\nsounds fun!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow, beautiful!\nMy EXP went up,\ntoo! What a\nshow!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "Those fireworks\nnever lit or\nlaunched..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, a giant\nball! Should I\nstand on it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "This raised my\nEXP? Too easy!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "It looks easy,\nbut it's pretty\ntough..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "You want me to\nwalk that rope?\nSounds fun!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was easier\nthan I thought!\nI had fun and\ngained EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "Scary, painful,\nand hard! I\nfell\noff, too. The\nworst!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "A circus tent!?\nWhat am I meant\nto do in there?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "My circus act\nraised my EXP!\nThe details are\na trade secret!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "All that\nspinning\nand bending? No\nway! How would\nit\neven help a\nDigimon?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm event report; fixed 15-column dialogue cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "I've gotten a\nlittle\nstronger!\nI'll protect\nSky\nFort, Patamon,\nand everyone...\nif I can."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Well said,\nSpadamon.\nYou're\nno coward."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "...Thanks,\nTaiki."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "I see. With\nfriends beside\nyou, you've\nfound\nyour courage.\nTaiki, train\nSpadamon well.\nWe Digimon who\nlive here will\nhelp however we\ncan."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Look at those\nbusybodies.\nThey\nplanned to help\nyou from the\nstart."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Ask Gatomon\nover\nthere about\ncommunications."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Ask\nBomberNanimon\nabout farm\ngoods\nand upgrading\nFarm Islands."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "Penguinmon runs\nthe Item Shop."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "If you get a\nSummon Ticket,\ntalk to\nClockmon."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "The nearest\nCapacitor Tower\nis at Knuckle\nCoast East. Try\nthere next.\nWe're\nall counting on\nyou."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "I've always run\naway... It\nfeels\nnice to have\npeople count on\nme. H-hey!\nDon't\nmake me say\nthat!\nI'm going back\nin the Xros\nLoader!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Are you\nhearing\neveryone's\nrequests? Check\nthe\nQuest Monitor!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Are you\nhearing\neveryone's\nrequests? Check\nthe\nQuest Monitor!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey... Everyone\naround here\nexpects\na lot from us!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "They think\nwe're\ngoing to save\nthe\nworld. Maybe we\nshould do it!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "We're going to\na\ntower... What\nwas\nit called? Oh,\na\nCapacitor\nTower!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Activate as\nmany\nof the six\ntowers\non the Energy\nContinent as\nyou\ncan. Each one\nsends power\nback\nto Sky Fort."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "We still don't\nknow where\nChibickmon\nis.\nIf he were\nnearby,\nhe'd hear me\ncall."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Chibickmon is\nback!\nEveryone's\nrelieved, me\ntoo.\nThanks,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't get\nMinervamon. She\nsays she took\nChibickmon\nbecause he's\ncute."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, brother!\nYou heard\nSparrowmon call\nfor help? Then\nwe'll find him\nsoon enough!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "I heard\nSparrowmon\nis stuck in the\nruins. How did\nthat happen?"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon came\nback safe, but\nhe says he\ncan't\nremember a\nthing.\nWhat a mess..."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Not sure what\nto\ndo next,\nbrother?\nWe'll work it\nout.\nDon't worry!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "That's a fine\nparty you have.\nAsk me anytime\nif\nyou'd like me\nto\njoin you."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "That's a fine\nparty you have.\nAsk me anytime\nif\nyou'd like me\nto\njoin you."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "What lovely\ncompanions! If\nyou'd like me\nto\njoin you, just\nask. No rush."
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice party! Let\nme join you!\nAsk\nand I'll jump\nright in!"
+      ],
+      "sources": [],
+      "review_note": "HQ or nearby NPC dialogue; fixed 15-column story cells."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1341,
+      "category": "Battle moves",
+      "english": [
+        "Dark Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact spelling in licensed English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2617,
+      "category": "Battle moves",
+      "english": [
+        "Dark Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact spelling in licensed English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1342,
+      "category": "Battle moves",
+      "english": [
+        "Demon Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact spelling in licensed English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2618,
+      "category": "Battle moves",
+      "english": [
+        "Demon Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact spelling in licensed English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1345,
+      "category": "Battle moves",
+      "english": [
+        "Death Slash"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2621,
+      "category": "Battle moves",
+      "english": [
+        "Death Slash"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1346,
+      "category": "Battle moves",
+      "english": [
+        "Poop Toss"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2622,
+      "category": "Battle moves",
+      "english": [
+        "Poop Toss"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1349,
+      "category": "Battle moves",
+      "english": [
+        "Light Bubble"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2625,
+      "category": "Battle moves",
+      "english": [
+        "Light Bubble"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1350,
+      "category": "Battle moves",
+      "english": [
+        "Dark Bubble"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2626,
+      "category": "Battle moves",
+      "english": [
+        "Dark Bubble"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1351,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Needle"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2627,
+      "category": "Battle moves",
+      "english": [
+        "Thunder Needle"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1352,
+      "category": "Battle moves",
+      "english": [
+        "Blue Flame"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2628,
+      "category": "Battle moves",
+      "english": [
+        "Blue Flame"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1353,
+      "category": "Battle moves",
+      "english": [
+        "Comet Hammer"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2629,
+      "category": "Battle moves",
+      "english": [
+        "Comet Hammer"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1354,
+      "category": "Battle moves",
+      "english": [
+        "Shock Gatling"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2630,
+      "category": "Battle moves",
+      "english": [
+        "Shock Gatling"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1355,
+      "category": "Battle moves",
+      "english": [
+        "Assassin Star"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2631,
+      "category": "Battle moves",
+      "english": [
+        "Assassin Star"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1356,
+      "category": "Battle moves",
+      "english": [
+        "Blue Lightning"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2632,
+      "category": "Battle moves",
+      "english": [
+        "Blue Lightning"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1357,
+      "category": "Battle moves",
+      "english": [
+        "Gain Attack"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2633,
+      "category": "Battle moves",
+      "english": [
+        "Gain Attack"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1358,
+      "category": "Battle moves",
+      "english": [
+        "Giga Gain Attack"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2634,
+      "category": "Battle moves",
+      "english": [
+        "Giga Gain Attack"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1359,
+      "category": "Battle moves",
+      "english": [
+        "Mega Gain Attack"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2635,
+      "category": "Battle moves",
+      "english": [
+        "Mega Gain Attack"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1360,
+      "category": "Battle moves",
+      "english": [
+        "Gain Guard"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2636,
+      "category": "Battle moves",
+      "english": [
+        "Gain Guard"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1361,
+      "category": "Battle moves",
+      "english": [
+        "Giga Gain Guard"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2637,
+      "category": "Battle moves",
+      "english": [
+        "Giga Gain Guard"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1362,
+      "category": "Battle moves",
+      "english": [
+        "Mega Gain Guard"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2638,
+      "category": "Battle moves",
+      "english": [
+        "Mega Gain Guard"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1363,
+      "category": "Battle moves",
+      "english": [
+        "Command Input"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2639,
+      "category": "Battle moves",
+      "english": [
+        "Command Input"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1364,
+      "category": "Battle moves",
+      "english": [
+        "Gain Speed"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2640,
+      "category": "Battle moves",
+      "english": [
+        "Gain Speed"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1365,
+      "category": "Battle moves",
+      "english": [
+        "Giga Gain Speed"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2641,
+      "category": "Battle moves",
+      "english": [
+        "Giga Gain Speed"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1366,
+      "category": "Battle moves",
+      "english": [
+        "Mega Gain Speed"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2642,
+      "category": "Battle moves",
+      "english": [
+        "Mega Gain Speed"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1367,
+      "category": "Battle moves",
+      "english": [
+        "Dark Whisper"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact spelling in licensed English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2643,
+      "category": "Battle moves",
+      "english": [
+        "Dark Whisper"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact spelling in licensed English Dawn/Dusk move list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1369,
+      "category": "Battle moves",
+      "english": [
+        "Megalo Spark"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2645,
+      "category": "Battle moves",
+      "english": [
+        "Megalo Spark"
+      ],
+      "sources": [],
+      "review_note": "Working translation of original Japanese; exact Western move match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1026,
+      "category": "Locations",
+      "english": [
+        "Monitamon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Formal species label; Western spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1029,
+      "category": "Locations",
+      "english": [
+        "Beelzemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Formal species label; Western spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1037,
+      "category": "Locations",
+      "english": [
+        "MadLeomon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Formal species label; Western spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1038,
+      "category": "Locations",
+      "english": [
+        "Tactimon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Formal species label; Western spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1039,
+      "category": "Locations",
+      "english": [
+        "Blastmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Formal species label; Western spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1040,
+      "category": "Locations",
+      "english": [
+        "Lilithmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Formal species label; Western spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1045,
+      "category": "Locations",
+      "english": [
+        "Gaossmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Formal species label; Western spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1047,
+      "category": "Locations",
+      "english": [
+        "Troopmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Formal species label; Western spelling checked in Bandai English card list."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3911,
+      "category": "Items and equipment",
+      "english": [
+        "Grey Sword"
+      ],
+      "sources": [],
+      "review_note": "Equipment name translated from the original Japanese; a licensed English item match is not established."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3912,
+      "category": "Items and equipment",
+      "english": [
+        "Balmung"
+      ],
+      "sources": [],
+      "review_note": "Equipment name translated from the original Japanese; a licensed English item match is not established."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3913,
+      "category": "Items and equipment",
+      "english": [
+        "Blutgang"
+      ],
+      "sources": [],
+      "review_note": "Equipment name translated from the original Japanese; a licensed English item match is not established."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3919,
+      "category": "Items and equipment",
+      "english": [
+        "Treasure Mania"
+      ],
+      "sources": [],
+      "review_note": "Equipment name translated from the original Japanese; a licensed English item match is not established."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3961,
+      "category": "Items and equipment",
+      "english": [
+        "Reppa Shield"
+      ],
+      "sources": [],
+      "review_note": "Equipment name translated from the original Japanese; a licensed English item match is not established."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3973,
+      "category": "Items and equipment",
+      "english": [
+        "Dinobee Mask"
+      ],
+      "sources": [],
+      "review_note": "Equipment name translated from the original Japanese; a licensed English item match is not established."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3974,
+      "category": "Items and equipment",
+      "english": [
+        "Metal Head"
+      ],
+      "sources": [],
+      "review_note": "Equipment name translated from the original Japanese; a licensed English item match is not established."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4000,
+      "category": "Items and equipment",
+      "english": [
+        "Behemoth"
+      ],
+      "sources": [],
+      "review_note": "Equipment name translated from the original Japanese; a licensed English item match is not established."
+    }
+  ]
+}

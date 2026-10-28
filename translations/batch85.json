@@ -1,0 +1,1305 @@
+{
+  "description": "Translate the first half of the final Armamon confrontation in MESPAK02 entry 11.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "W-whaaa...?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "What in the world was that?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Not bad as weapons."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon! Is that what he means by becoming a weapon?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "N-no! Weapon Digimon turn themselves into weapons! Forcing another Digimon to become one is...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Both of you, calm down! Maybe he still remembers protecting this Zone. Let's talk to him first."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Armamon! Please, listen to us!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "I am Armamon. Who are you...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "We won't use your power to take over the world. We fought alongside Dynasmon to protect this Zone. Do you remember those days?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "...So you're Dynasmon's allies."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "A trace of his data still surrounds you. You must have come into contact with him."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Y-yeah! We were Dynasmon's friends,your partner's allies! We're not your enemies!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "I see. You are Dynasmon's allies... Which means you're my enemies!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "How did you get that from what we said?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Armamon forgot what Weapon Digimon are meant to do! When Dynasmon sealed him away, he was already like this... Nothing changed!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Dynasmon! He discovered my plan... and sealed me away like this!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Your plan...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Gather every Digimon in this Zone into System Ω... and turn them into a single weapon! That is my plan!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "W-what?! You can't turn Digimon who aren't Weapon Digimon into weapons! That's wrong!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Nyaaah!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon?! Are you all right?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "B-be careful... That attack... turned Barbamon into a weapon... I'm a Weapon Digimon, so... I'm... fine."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Seriously...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "Stop this, Armamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Why don't Dynasmon... or any of you... understand how wonderful my plan is?! This is the only way to protect the Zone from every invader! I won't let anyone stand in my way!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "...Where?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "Where are you...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "W-what do you mean...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "Meow... Why... all of a sudden...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "...Where is Dynasmon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you all right?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "If I weren't a Weapon Digimon, he'd have turned me into a weapon just now..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "System Ω. Mainframe access. Searching for Dynasmon. Beginning full scan..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "...Checkpoint 82039... Search complete. Dynasmon: Digimon ID lost. Dynasmon: Digimon ID lost. Last confirmed location: Stealth Canyon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "...Armamon... Dynasmon is gone..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "B-but... Why...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Silence!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "W-what...? What is Armamon doing?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Lost...? Dynasmon! No... It can't be...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "What's happening? What is Armamon trying to do?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "It looks like he's going back into that machine. Maybe he's going to seal himself away again."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "No... Something feels wrong."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Look!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Whaaaat?! It can't be...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, what is it?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Armamon is using System Ω to absorb data! He said Dynasmon's data was still around us... He must be searching for it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Then he's going to absorb the data here with System Ω and use it to reconstruct Dynasmon...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Can he really do that?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "No! Even if he reconstructs the data, it won't be Dynasmon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Why...? How could he not understand that...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Compound System. Free-load sequence initiated. Data owners' functions will be temporarily restricted. Compound System. Free-load sequence initiated. Data owners' functions will be temporarily restricted."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Are you all right?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "S-somehow... What happened...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! This is bad! Look,quickly!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Dynasmon... Where are you...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "Is that... Armamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "I've never seen a Digimon that terrifying...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "No... That's Ω Armamon Burst Mode! The legendary Weapon Digimon of Elestou Zone..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "How are we supposed to fight something like that...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Collecting Digimon data: 90384795038910. Acquiring Digimon data: 54395084537. Dynasmon ID: unconfirmed. No trace of Dynasmon detected."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Dynasmon... Why... Why don't you understand me...? I still need more data... If I go to Stealth Canyon..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon! We can't let him out of here!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm a Weapon Digimon, so I might be able to access System Ω... Wait here! I'll try!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "Security protocol activated. Gate code rejected. Beginning full lockdown of the Ω Area..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "What...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Ω Area full lockdown complete... Ω Area full lockdown complete..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Why...? Why are you stopping me?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "Aaaaaaaargh...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "I managed to seal off the Ω Area...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "What'll happen to him now?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "Armamon is fully connected to System Ω. If we leave him alone, he'll swallow Lost Space... and then all of Elestou Zone! Taiki, Shoutmon... This is our final battle! Please, lend me your strength!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Of course! We'll defeat him and all three of us will return to Sky Fort! Let's go, everyone!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "Leave it to us!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "Aaaaaaaaaaaaaaaargh...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "...Dyna...smon... Where... are... you...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "...Armamon's Digicore abnormality detected... Forced download terminated..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "Forced termination failed... Abnormality detected in Armamon's Digicore... Digicore damage: 10%..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "Armamon's Digicore is collapsing! It can't contain all the data flowing into it! It's almost at overflow... There isn't much time!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Do we have to erase him completely...? But how can we stop something that huge?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Armamon Digicore damage: 20%... 30%... 40%..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "...Don't... leave... me..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "There has to be... something we can do!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Armamon Digicore damage: 50%... 70%... 80%..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "N-no! Overflow is starting!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Duuuynasmoooon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Armamon Digicore damage: 90%... 100%... Code Red. Code Red. Evacuate Lost Space immediately..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "This is bad...! It's a black hole! If it sucks us in, we won't get back out!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "We have to get out of here!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "The Warp Gate is broken...?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "We sealed off the Ω Area, so we can't use the Gate Disk... ...But I might be able to..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you two ready?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "Is there another way back?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "...Of course! I can use the remaining functions of System Ω to transport you both back to Sky Fort!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Then hurry up and say so! You scared me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "H-haha... Sorry! It took a while to find the system... But don't worry. You'll both make it back safely!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon... You aren't planning to stay here alone, are you?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "What's wrong, Taiki? Why the worried look...? Don't worry. I can stop Armamon..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "No! I can't leave you behind! There's no way I can do that!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Armamon's plan and the immediate battle setup, translated in context with the Dynasmon/Spadamon scene."
+    }
+  ]
+}

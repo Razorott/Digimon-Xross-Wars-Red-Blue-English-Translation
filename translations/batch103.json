@@ -1,0 +1,4 @@
+{
+  "description": "Runtime fix for all 472 DigiDex display names: two-byte English encoding and compact glyph mapping.",
+  "blocks": []
+}

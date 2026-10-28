@@ -1,0 +1,460 @@
+{
+  "description": "Translate the underground chase and Melody capture tutorial.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "Meow! Time to\nskedaddle,\nmeow!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "Well, you're so\ncute, I'll make\na special\nexception! I'll\ntake you on an\nunderground\nexpedition with\nmy special\ntechnique!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Underground\nexpedition!\nHere we go!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "Whoa, what the\nheck just\nhappened?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "That was the\nDigging skill!\nTo chase them,\nwe need a\nDigimon with\nDigging. Use\nMelody Capture\nto obtain one,\nmaterialize it\nin the DigiLab,\nadd it to your\nparty, and go\ntogether."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Melody Capture?\nMaterialize it\nin the DigiLab?\nI know I've\nheard that\nsomewhere...\nWhat does it\nmean again?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "If you defeat\nan uninjured\nDigimon in one\nhit, or finish\nit with a\nMelody-effect\nattack, the\ndefeated\nDigimon becomes\na Melody! If\nyou use a move\nthat hits its\nweakness, it's\nmore likely to\nbecome a\nMelody. If you\nuse an\nattribute it's\nstrong against,\nit's less\nlikely. You can\nturn a Melody\nyou obtain into\na Digimon in\nthe DigiLab!\nUm... what\nelse...? I\ncan't... I'm\ntired... Ask\nGuilmon or\nVeemon at the\nSky Fortress\nfor the\ndetails..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Either way, we\nneed more\nallies. Which\nDigimon know\nthe Digging\nskill?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Guilmon at\nKnuckle Coast\nand Dorulumon\nin the\nmountains near\nthe Sky\nFortress can\ndig. The\nTyrannomon\naround here\nshould be able\nto, too."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "Then let's head\nback for now,\nShoutmon."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "All right..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh! There's a\nDigimon in our\nparty with the\nDigging skill!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Great! Let's\nchase them!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "We finally\nescaped Ring\nWandering by\ndigging... Why\nis there still\nnothing but\ndarkness\nahead?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "Aaah... so\ndark... I'm\ndizzy from all\nthis\ndarkness..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "M-my gosh! It\nappeared! A\nghost?! A\nspirit?! A\nmonster?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "D-Digimon...\nmeow?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah! It's a\nterrifying\nmonster that\nwill capture\nand restrain\nus! The only\nthing to do is\nescape! You\nunderstand?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "Meow! Yes,\nmeow?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "All right!\nLet's run!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Darn it! We\nwere so close\nto catching it!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Aah! I hate\nthis dark\nplace! Taiki,\nShoutmon...\nhurry up and\nchase them so\nwe can get out!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "What a coward,\nSpadamon!\nAnyway, let's\nchase them!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Even past the\ndarkness,\nthere's more\ndarkness...\nIt's just like\nmy life!\nYee-haw!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "What's wrong?\nYou're\ntrembling. Are\nyou scared of\nthe dark?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "N-no... I'm\nn-not scared!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "A-a-aah..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Team\nCute's rule is:\nwhen you're in\ntrouble, laugh!\nEven when\nthings get\ntough or you're\nin a pinch,\nlaugh it off!\nYou understand?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "...... I...\nMeow! I'll\nlaugh, meow!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Ah... You're so\nvery cute!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Cute, full\nspeed ahead!\nLet's charge!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Meow! Charge\nforward, meow!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Ugh... We were\nso close to\ncatching it..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "Hee-hee! Good\nfor you,\nsquishy! You're\nalive in a\nbeautiful\nflower garden!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 4,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey,\nChibickmon! Are\nyou okay?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Mission dialogue and the Melody capture tutorial translated directly from Japanese. Character, feature, and skill terms follow the project style."
+    }
+  ]
+}

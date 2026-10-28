@@ -1,0 +1,2601 @@
+{
+  "description": "Battle techniques, quest objectives, DigiFarm reactions, and the Barbamon confrontation.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1373,
+      "category": "Battle moves",
+      "english": [
+        "FTemptation"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2343,
+      "category": "Battle moves",
+      "english": [
+        "FTemptation"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1407,
+      "category": "Battle moves",
+      "english": [
+        "Great Maelstrom"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2402,
+      "category": "Battle moves",
+      "english": [
+        "Great Maelstrom"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1411,
+      "category": "Battle moves",
+      "english": [
+        "BDeath Cloud"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2352,
+      "category": "Battle moves",
+      "english": [
+        "BDeath Cloud"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1431,
+      "category": "Battle moves",
+      "english": [
+        "Purple Rain"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2707,
+      "category": "Battle moves",
+      "english": [
+        "Purple Rain"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1432,
+      "category": "Battle moves",
+      "english": [
+        "Strike Fang"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2708,
+      "category": "Battle moves",
+      "english": [
+        "Strike Fang"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1434,
+      "category": "Battle moves",
+      "english": [
+        "Trinity Arm"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2710,
+      "category": "Battle moves",
+      "english": [
+        "Trinity Arm"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1436,
+      "category": "Battle moves",
+      "english": [
+        "VN Infuse"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2348,
+      "category": "Battle moves",
+      "english": [
+        "VN Infuse"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1438,
+      "category": "Battle moves",
+      "english": [
+        "Crimson Flare"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2714,
+      "category": "Battle moves",
+      "english": [
+        "Crimson Flare"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1440,
+      "category": "Battle moves",
+      "english": [
+        "Kaiser Phoenix"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2366,
+      "category": "Battle moves",
+      "english": [
+        "Kaiser Phoenix"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1442,
+      "category": "Battle moves",
+      "english": [
+        "GA Missile"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2356,
+      "category": "Battle moves",
+      "english": [
+        "GA Missile"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1444,
+      "category": "Battle moves",
+      "english": [
+        "Needle Squall"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2720,
+      "category": "Battle moves",
+      "english": [
+        "Needle Squall"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1446,
+      "category": "Battle moves",
+      "english": [
+        "DM Scissors"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2377,
+      "category": "Battle moves",
+      "english": [
+        "DM Scissors"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1451,
+      "category": "Battle moves",
+      "english": [
+        "G SeaDestroy"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2337,
+      "category": "Battle moves",
+      "english": [
+        "G SeaDestroy"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1454,
+      "category": "Battle moves",
+      "english": [
+        "Tomahawk S"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2360,
+      "category": "Battle moves",
+      "english": [
+        "Tomahawk S"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1456,
+      "category": "Battle moves",
+      "english": [
+        "MjollnirHammer"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2732,
+      "category": "Battle moves",
+      "english": [
+        "MjollnirHammer"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1457,
+      "category": "Battle moves",
+      "english": [
+        "Rose Rapier"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2733,
+      "category": "Battle moves",
+      "english": [
+        "Rose Rapier"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1461,
+      "category": "Battle moves",
+      "english": [
+        "Bifrost"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2737,
+      "category": "Battle moves",
+      "english": [
+        "Bifrost"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1462,
+      "category": "Battle moves",
+      "english": [
+        "UltimateStream"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2372,
+      "category": "Battle moves",
+      "english": [
+        "UltimateStream"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1464,
+      "category": "Battle moves",
+      "english": [
+        "CatastropheC"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2358,
+      "category": "Battle moves",
+      "english": [
+        "CatastropheC"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1466,
+      "category": "Battle moves",
+      "english": [
+        "Vortex P"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2359,
+      "category": "Battle moves",
+      "english": [
+        "Vortex P"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1468,
+      "category": "Battle moves",
+      "english": [
+        "Ulforce V Saber"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2409,
+      "category": "Battle moves",
+      "english": [
+        "Ulforce V Saber"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1473,
+      "category": "Battle moves",
+      "english": [
+        "Midnight Raid"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2749,
+      "category": "Battle moves",
+      "english": [
+        "Midnight Raid"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1478,
+      "category": "Battle moves",
+      "english": [
+        "Lila Shower"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2754,
+      "category": "Battle moves",
+      "english": [
+        "Lila Shower"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1479,
+      "category": "Battle moves",
+      "english": [
+        "Rapid Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2755,
+      "category": "Battle moves",
+      "english": [
+        "Rapid Fire"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1480,
+      "category": "Battle moves",
+      "english": [
+        "Mach Stinger V"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2411,
+      "category": "Battle moves",
+      "english": [
+        "Mach Stinger V"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1481,
+      "category": "Battle moves",
+      "english": [
+        "Spiral Sword"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2757,
+      "category": "Battle moves",
+      "english": [
+        "Spiral Sword"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1486,
+      "category": "Battle moves",
+      "english": [
+        "Pendragon's Glory"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2412,
+      "category": "Battle moves",
+      "english": [
+        "Pendragon's Glory"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1492,
+      "category": "Battle moves",
+      "english": [
+        "TRI Revolver"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2309,
+      "category": "Battle moves",
+      "english": [
+        "TRI Revolver"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1497,
+      "category": "Battle moves",
+      "english": [
+        "Hades Call"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2773,
+      "category": "Battle moves",
+      "english": [
+        "Hades Call"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1504,
+      "category": "Battle moves",
+      "english": [
+        "Erase Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2780,
+      "category": "Battle moves",
+      "english": [
+        "Erase Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1507,
+      "category": "Battle moves",
+      "english": [
+        "BigBangTackle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2783,
+      "category": "Battle moves",
+      "english": [
+        "BigBangTackle"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1509,
+      "category": "Battle moves",
+      "english": [
+        "Horn Buster"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2785,
+      "category": "Battle moves",
+      "english": [
+        "Horn Buster"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1512,
+      "category": "Battle moves",
+      "english": [
+        "Met Lariat"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2788,
+      "category": "Battle moves",
+      "english": [
+        "Met Lariat"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1515,
+      "category": "Battle moves",
+      "english": [
+        "S Arm'sOmega"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2791,
+      "category": "Battle moves",
+      "english": [
+        "S Arm'sOmega"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1519,
+      "category": "Battle moves",
+      "english": [
+        "Berserk Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2795,
+      "category": "Battle moves",
+      "english": [
+        "Berserk Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1520,
+      "category": "Battle moves",
+      "english": [
+        "Absolute Zero"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2796,
+      "category": "Battle moves",
+      "english": [
+        "Absolute Zero"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1523,
+      "category": "Battle moves",
+      "english": [
+        "Crystal Viro"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2799,
+      "category": "Battle moves",
+      "english": [
+        "Crystal Viro"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1524,
+      "category": "Battle moves",
+      "english": [
+        "Mjollnir Thunder"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2800,
+      "category": "Battle moves",
+      "english": [
+        "Mjollnir Thunder"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1525,
+      "category": "Battle moves",
+      "english": [
+        "Hammer Spark"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2801,
+      "category": "Battle moves",
+      "english": [
+        "Hammer Spark"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1527,
+      "category": "Battle moves",
+      "english": [
+        "Elder Sign"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2803,
+      "category": "Battle moves",
+      "english": [
+        "Elder Sign"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1528,
+      "category": "Battle moves",
+      "english": [
+        "Brachio Bubble"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2804,
+      "category": "Battle moves",
+      "english": [
+        "Brachio Bubble"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1530,
+      "category": "Battle moves",
+      "english": [
+        "Dark Blast"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2806,
+      "category": "Battle moves",
+      "english": [
+        "Dark Blast"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1531,
+      "category": "Battle moves",
+      "english": [
+        "Dual Sonic"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2807,
+      "category": "Battle moves",
+      "english": [
+        "Dual Sonic"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1532,
+      "category": "Battle moves",
+      "english": [
+        "Shadow Wing"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2808,
+      "category": "Battle moves",
+      "english": [
+        "Shadow Wing"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1534,
+      "category": "Battle moves",
+      "english": [
+        "V Wing Blade"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2810,
+      "category": "Battle moves",
+      "english": [
+        "V Wing Blade"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1535,
+      "category": "Battle moves",
+      "english": [
+        "Epeios Gimmick"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2811,
+      "category": "Battle moves",
+      "english": [
+        "Epeios Gimmick"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1538,
+      "category": "Battle moves",
+      "english": [
+        "DIGI of Soul"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2379,
+      "category": "Battle moves",
+      "english": [
+        "DIGI of Soul"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1539,
+      "category": "Battle moves",
+      "english": [
+        "Sephirothic C"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2362,
+      "category": "Battle moves",
+      "english": [
+        "Sephirothic C"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1543,
+      "category": "Battle moves",
+      "english": [
+        "Calamity Thunder"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2819,
+      "category": "Battle moves",
+      "english": [
+        "Calamity Thunder"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1544,
+      "category": "Battle moves",
+      "english": [
+        "Atomic Bomber"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2820,
+      "category": "Battle moves",
+      "english": [
+        "Atomic Bomber"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1546,
+      "category": "Battle moves",
+      "english": [
+        "Gale Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2822,
+      "category": "Battle moves",
+      "english": [
+        "Gale Claw"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1547,
+      "category": "Battle moves",
+      "english": [
+        "Jumbo Crater"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2823,
+      "category": "Battle moves",
+      "english": [
+        "Jumbo Crater"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1549,
+      "category": "Battle moves",
+      "english": [
+        "Karatakewari"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2825,
+      "category": "Battle moves",
+      "english": [
+        "Karatakewari"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1550,
+      "category": "Battle moves",
+      "english": [
+        "Swallow Double Return"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2279,
+      "category": "Battle moves",
+      "english": [
+        "Swallow Double Return"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2826,
+      "category": "Battle moves",
+      "english": [
+        "Swallow Double Return"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3555,
+      "category": "Battle moves",
+      "english": [
+        "Swallow Double Return"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1551,
+      "category": "Battle moves",
+      "english": [
+        "Sun's Dance"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2827,
+      "category": "Battle moves",
+      "english": [
+        "Sun's Dance"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1555,
+      "category": "Battle moves",
+      "english": [
+        "ULTI Flare"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2418,
+      "category": "Battle moves",
+      "english": [
+        "ULTI Flare"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1556,
+      "category": "Battle moves",
+      "english": [
+        "Phantom Pain"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2832,
+      "category": "Battle moves",
+      "english": [
+        "Phantom Pain"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1557,
+      "category": "Battle moves",
+      "english": [
+        "Brave Metal"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2367,
+      "category": "Battle moves",
+      "english": [
+        "Brave Metal"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2833,
+      "category": "Battle moves",
+      "english": [
+        "Brave Metal"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3643,
+      "category": "Battle moves",
+      "english": [
+        "Brave Metal"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1558,
+      "category": "Battle moves",
+      "english": [
+        "Fuushikaden"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2834,
+      "category": "Battle moves",
+      "english": [
+        "Fuushikaden"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1559,
+      "category": "Battle moves",
+      "english": [
+        "Iron Armor"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2835,
+      "category": "Battle moves",
+      "english": [
+        "Iron Armor"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1560,
+      "category": "Battle moves",
+      "english": [
+        "Illusion M"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2313,
+      "category": "Battle moves",
+      "english": [
+        "Illusion M"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1561,
+      "category": "Battle moves",
+      "english": [
+        "Devil's Kiss"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2837,
+      "category": "Battle moves",
+      "english": [
+        "Devil's Kiss"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1562,
+      "category": "Battle moves",
+      "english": [
+        "Enigma"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2838,
+      "category": "Battle moves",
+      "english": [
+        "Enigma"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1563,
+      "category": "Battle moves",
+      "english": [
+        "Purgatory Slash"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2839,
+      "category": "Battle moves",
+      "english": [
+        "Purgatory Slash"
+      ],
+      "sources": [],
+      "review_note": "Working English technique name; no exact Western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1564,
+      "category": "Battle moves",
+      "english": [
+        "Pretty Attack"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2840,
+      "category": "Battle moves",
+      "english": [
+        "Pretty Attack"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1565,
+      "category": "Battle moves",
+      "english": [
+        "DesperadoBRT"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2292,
+      "category": "Battle moves",
+      "english": [
+        "DesperadoBRT"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1573,
+      "category": "Battle moves",
+      "english": [
+        "Sorrow Blue"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2849,
+      "category": "Battle moves",
+      "english": [
+        "Sorrow Blue"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1578,
+      "category": "Battle moves",
+      "english": [
+        "SV Fantasia"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2392,
+      "category": "Battle moves",
+      "english": [
+        "SV Fantasia"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact English Dawn/Dusk move-list label selected for this technique."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 109,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Devimon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 111,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Devimon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 113,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Take the bit to\nBE Vamdemon instead\nof Devimon."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 115,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Evilmon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 117,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Evilmon in\nthe Front Room."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 119,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Take the bit to\nBE Vamdemon instead\nof Evilmon."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 181,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Vamdemon\nin Papyrus City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 184,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A DevDramon is in\nyour party."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 185,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Okuwamon in\nPapyrus City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 190,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Okuwamon\nin Papyrus City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 193,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Flymon is in\nyour party."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 197,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Birdramon\nin West Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 198,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Flymon's Bad\nReputation"
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 199,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find and stop the\nDigimon spreading\nrumors about Flymon."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 200,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Wild Flymon is\non the farm."
+      ],
+      "sources": [],
+      "review_note": "Quest objective; Digimon and place names retain the project glossary spelling."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What is\nthis?\nThis is\namazing!\nMy EXP is going\nthrough the\nroof!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wah! I am\ngetting\nshocked! Stop\nit!\nThat really\nhurts!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "A pinball\nmachine...\nMaybe I will\ngive it\na try."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yes! A perfect\ngame!\nAnd my EXP shot\nup,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "I cannot get\nthe\nhang of this...\nIs\nthis even fun?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "A little\nbirdhouse.\nI wonder if\nthere\nis a bird\ninside."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "That bird is so\ncute!\nIt cheered me\nup.\nI think my EXP\nwent\nup a little,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "No bird, and it\nis\nsmelly,\ncramped,\ndusty, and full\nof\nspiderwebs...\nUgh!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a\nhurdle?\nI guess I\nshould try\njumping over\nit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "All right! I\ncleared\nthe bar! My EXP\nwent\nup, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "Who cares if I\ncan\njump over this?\nDigimon do not\nneed\nto hurdle!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "A diving\nboard...\nI jump from\nhere?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it!\nSuccess!\nMy EXP went up,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! That is\nterrifying!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a\nphonograph?\nWhat do I do\nwith it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue in the game fixed-width text cells."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3988,
+      "category": "Items and equipment",
+      "english": [
+        "Caledfwlch"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3989,
+      "category": "Items and equipment",
+      "english": [
+        "Ofanimon Plate"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3996,
+      "category": "Items and equipment",
+      "english": [
+        "Baba's Hairpin"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4015,
+      "category": "Items and equipment",
+      "english": [
+        "A Beat Armor"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4016,
+      "category": "Items and equipment",
+      "english": [
+        "Tiphereth"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4017,
+      "category": "Items and equipment",
+      "english": [
+        "LS Shield"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4028,
+      "category": "Items and equipment",
+      "english": [
+        "Cannon"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4029,
+      "category": "Items and equipment",
+      "english": [
+        "Iron Ball"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4030,
+      "category": "Items and equipment",
+      "english": [
+        "Side-to-Side Hops"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4031,
+      "category": "Items and equipment",
+      "english": [
+        "Trampoline"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4032,
+      "category": "Items and equipment",
+      "english": [
+        "Running Wheel"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4033,
+      "category": "Items and equipment",
+      "english": [
+        "Bookshelf"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4034,
+      "category": "Items and equipment",
+      "english": [
+        "Study Desk"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4035,
+      "category": "Items and equipment",
+      "english": [
+        "Magic Circle"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4036,
+      "category": "Items and equipment",
+      "english": [
+        "Fire Lane"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4037,
+      "category": "Items and equipment",
+      "english": [
+        "Fire Ring"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4038,
+      "category": "Items and equipment",
+      "english": [
+        "Ball Balancing"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4039,
+      "category": "Items and equipment",
+      "english": [
+        "Tightrope"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4040,
+      "category": "Items and equipment",
+      "english": [
+        "Circus Tent"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4041,
+      "category": "Items and equipment",
+      "english": [
+        "Phonograph"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4042,
+      "category": "Items and equipment",
+      "english": [
+        "Holy Bell"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4043,
+      "category": "Items and equipment",
+      "english": [
+        "Stonehenge"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility or equipment label; concise English chosen to fit the item row."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Who are you?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "Who are you?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "...The Xros\nHeart\nGeneral...\nTaiki Kudo."
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "In a way, you\nmade\nit this far\nthanks\nto me. As a\nreward,\nI will show you\nmy\ntrue form..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "In a way, you\nmade\nit this far\nthanks\nto me. As a\nreward,\nI will show you\nmy\ntrue form..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "That is\nBarbamon!?"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "You know him,\nNene?"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "A terrible\nDigimon\nwho will do\nanything\nto reach his\ngoal...\nSo that is it!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "What is wrong,\nNene?"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "So Barbamon\ncreated\nSkullKnightmon\nand D.Arcmon,\nand\ncontrolled\nSparrowmon\nand me with\nillusions!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Treasure is not\njust\nthings worth\nmoney,\nyou fool!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "Treasure is not\njust\nthings worth\nmoney,\nyou fool!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Why are you\nyelling\nat me? He is\nthe one\nwho went crazy\nover\nvaluables and\nmade\na mess!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Why are you\nyelling\nat me? He is\nthe one\nwho went crazy\nover\nvaluables and\nmade\na mess!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Do not yell at\nus!\nTell him that!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Do not yell at\nus!\nTell him that!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "That was quite\na\nshow...\nWatching you\nfight so hard\nto get\nyour friends\nback, I\nstruggled not\nto laugh."
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "Cut it out,\nBarbamon!\nYou will not\nget your\nway! We will\nnot\nbreak the seal\nhere\nat Earth Fort!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Cut it out,\nBarbamon!\nYou will not\nget your\nway! We will\nnot\nbreak the seal\nhere\nat Earth Fort!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "You\nmisunderstand.\nEarth Fort is\nonly a\ncontainer for\nROG.\nThe true seal\nis in\nLost Space: the\nOmega Area,\nwhere\nthe legendary\nweapon\nDigimon are\nrevived.\nThere, Armamon\nwill\nbe reborn. I\ncreated\nROG to claim\nthem both!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "You\nmisunderstand.\nEarth Fort is\nonly a\ncontainer for\nROG.\nThe true seal\nis in\nLost Space: the\nOmega Area,\nwhere\nthe legendary\nweapon\nDigimon are\nrevived.\nThere, Armamon\nwill\nbe reborn. I\ncreated\nROG to claim\nthem both!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon! What\nare\nyou planning?\nWhy\ntell us all\nthis?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon! What\nare\nyou planning?\nWhy\ntell us all\nthis?!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "Consider it a\nparting\ngift..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Consider it a\nparting\ngift..."
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "Everyone, get\nback!\nIt is aiming at\nsomething!"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "T-Taiki!?"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "T-Taiki!?"
+      ],
+      "sources": [],
+      "review_note": "Barbamon confrontation dialogue; original character and Digimon names retained."
+    }
+  ]
+}

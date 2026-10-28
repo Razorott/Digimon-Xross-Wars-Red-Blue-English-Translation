@@ -1,0 +1,705 @@
+{
+  "description": "Translate the Code Crown, quest rewards, gifts, and explicit unused item slots in MESPAK04 entry 39.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Elestou Zone's Code Crown.\nProof that you are the\nowner of a legendary\nWeapon Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 003\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 004\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 005\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 006\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 007\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 008\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 009\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 010\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 011\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 012\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 013\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unused slot 014\nDescription text."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sunburn lotion from\nWendigomon. Even a pale\nDigimon will get a deep\ntan."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "A gift from a devoted\nTerriLop fan, wrapped in a\npretty ribbon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "An autograph from\nTerriLop. Something is\nwritten on it very badly."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "A TerriLop key chain. The\ntwo dolls are holding\nhands."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "A photo of Numemon with a\ntiny flower resting on its\ntongue."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "A Sukamon postcard. It\nstrikes a pose with its\narms crossed."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "A live portrait of Numemon\nand Sukamon. A must-have\nfor Numesuka fans."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "An autograph from\nNumesuka. It has a truly\nawful smell."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "A hair tie from Angewomon\nwith a red strawberry\ncharm."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "A hair tie from Angewomon\nwith an unassuming marimo\ncharm."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Treasure reclaimed from\nthe East Pirate Gang: a\nrod of pure silver."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Treasure reclaimed from\nthe South Pirate Gang: a\npearl about as big as\nKoromon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Treasure reclaimed from\nthe West Pirate Gang: a\nsapphire shaped like a\nshining blue heart."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Treasure reclaimed from\nthe North Pirate Gang: a\nlarge golden crown."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "A special razor from\nZudomon. It gives even the\ncoarsest hair a clean\nshave."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "A miracle razor from\nDrimogemon. It gives even\nthe coarsest hair a clean\nshave."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "A thick book from Wisemon,\nfilled with writing no one\nhas ever seen."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "A large feather from\nDiatrymon. Handy for\ndusting."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bits Devimon forced on\nyou. They might not even\nbe real."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bits Evilmon forced on\nyou. They might not even\nbe real."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "A fist-sized,\nsuspicious-smelling\nmeteorite. It glows an\nominous black."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "A head-sized, dubious\nmeteorite. It glows an\nominous black."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "A bean-sized, fishy\nmeteorite. It glows an\nominous black."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "A bean-sized meteorite\nwith a very nice appraisal\nfrom Vademon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "A voice recorder for\ninterviews with your\nfavorite Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dinobeemon voice data. An\ninterview is recorded on\nit."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Paildramon voice data. An\ninterview is recorded on\nit."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "A system notebook dropped\nby LadyDevimon, filled\nwith idol schedules."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "A signed TerriLop CD. The\nlettering is a little\npretentious."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "A giant bronze statue,\ngiven to thank you for\nsaving TerriLop."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "An autograph from\nTerriLop, written in cute,\npicture-like letters."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "A crown like a roaring\nflame. They say it brings\ngood luck."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "A crown like falling snow.\nThey say it brings good\nluck."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "A crown like shining\nlight. They say it brings\ngood luck."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "A crown like rising\ndarkness. They say it\nbrings good luck."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "A bone from a bony\nDigimon, honed to a\nbrilliant, razor-sharp\nedge."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 39,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "The legendary food\neveryone loves.\nPenguinmon's shop doesn't\nsell it."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project item glossary"
+      ],
+      "review_note": "Direct item-description translation. Existing item names and character spellings are kept consistent; explicit unused slots remain labeled as unused."
+    }
+  ]
+}

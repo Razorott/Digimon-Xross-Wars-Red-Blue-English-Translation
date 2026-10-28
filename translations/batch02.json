@@ -1,0 +1,8483 @@
+{
+  "description": "Title and intro graphics, DigiLab and Xros Loader UI, reunion dialogue; originals retained by stable IDs.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 0,
+      "category": "DigiLab",
+      "english": [
+        "Choose a function."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 1,
+      "category": "DigiLab",
+      "english": [
+        "Close the DigiLab PC?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 2,
+      "category": "DigiLab",
+      "english": [
+        "Yes, close it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 3,
+      "category": "DigiLab",
+      "english": [
+        "No, stay here"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 4,
+      "category": "DigiLab",
+      "english": [
+        "Use a DigiScore to create a\nnew Digimon from several\nmaterial Digimon."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 5,
+      "category": "DigiLab",
+      "english": [
+        "Absorb other Digimon to\npower up one Digimon."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 6,
+      "category": "DigiLab",
+      "english": [
+        "Reload your Melodies to\ngive Digimon physical form."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 7,
+      "category": "DigiLab",
+      "english": [
+        "Turn Digimon into Melodies\nor move them elsewhere."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 8,
+      "category": "DigiLab",
+      "english": [
+        "Melody Playback"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 9,
+      "category": "DigiLab",
+      "english": [
+        "Melodies Owned"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 10,
+      "category": "DigiLab",
+      "english": [
+        "^0/^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 11,
+      "category": "DigiLab",
+      "english": [
+        "Total"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 12,
+      "category": "DigiLab",
+      "english": [
+        "^0/^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 13,
+      "category": "DigiLab",
+      "english": [
+        "Melody List"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 14,
+      "category": "DigiLab",
+      "english": [
+        "x^0"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 15,
+      "category": "DigiLab",
+      "english": [
+        "Sort Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 16,
+      "category": "DigiLab",
+      "english": [
+        "Alphabetical"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 17,
+      "category": "DigiLab",
+      "english": [
+        "Species"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 18,
+      "category": "DigiLab",
+      "english": [
+        "Quantity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 19,
+      "category": "DigiLab",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 20,
+      "category": "DigiLab",
+      "english": [
+        "You cannot play this\nMelody yet."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 21,
+      "category": "DigiLab",
+      "english": [
+        "Your Digimon List is full.\nMelody Playback failed."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 22,
+      "category": "DigiLab",
+      "english": [
+        "How many ^0 will you use?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 23,
+      "category": "DigiLab",
+      "english": [
+        "You can use up to ^1."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 24,
+      "category": "DigiLab",
+      "english": [
+        "Use ^1 of ^0 for\nMelody Playback?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 25,
+      "category": "DigiLab",
+      "english": [
+        "Yes, begin"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 26,
+      "category": "DigiLab",
+      "english": [
+        "No, try again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 27,
+      "category": "DigiLab",
+      "english": [
+        "Melody Playback!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 28,
+      "category": "DigiLab",
+      "english": [
+        "Name this Digimon\n^0?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 29,
+      "category": "DigiLab",
+      "english": [
+        "Yes, use this name"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 30,
+      "category": "DigiLab",
+      "english": [
+        "No, try again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 31,
+      "category": "DigiLab",
+      "english": [
+        "Melody Playback complete!\nSent to the DigiBank."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 32,
+      "category": "DigiLab",
+      "english": [
+        "Jogress Up"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 33,
+      "category": "DigiLab",
+      "english": [
+        "Choose slots. The Digimon\nin the top slot is the\nmain Digimon to power up."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 34,
+      "category": "DigiLab",
+      "english": [
+        "Choose the main Digimon."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 35,
+      "category": "DigiLab",
+      "english": [
+        "Choose a sub Digimon.\nWarning: sub Digimon are\nconsumed by Jogress Up."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 36,
+      "category": "DigiLab",
+      "english": [
+        "Selected Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 37,
+      "category": "DigiLab",
+      "english": [
+        "Candidate Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 38,
+      "category": "DigiLab",
+      "english": [
+        "Lv^0"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 39,
+      "category": "DigiLab",
+      "english": [
+        "Lv--"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 40,
+      "category": "DigiLab",
+      "english": [
+        "No candidate Digimon found."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 41,
+      "category": "DigiLab",
+      "english": [
+        "No main Digimon selected."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 42,
+      "category": "DigiLab",
+      "english": [
+        "No sub Digimon selected."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 43,
+      "category": "DigiLab",
+      "english": [
+        "Perform Jogress Up with\nthe selected Digimon?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 44,
+      "category": "DigiLab",
+      "english": [
+        "Yes, please"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 45,
+      "category": "DigiLab",
+      "english": [
+        "No, choose again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 46,
+      "category": "DigiLab",
+      "english": [
+        "The sub Digimon will be\nconsumed. Is that OK?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 47,
+      "category": "DigiLab",
+      "english": [
+        "Yes, perform Jogress Up"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 48,
+      "category": "DigiLab",
+      "english": [
+        "No, choose again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 49,
+      "category": "DigiLab",
+      "english": [
+        "Jogress Up!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 50,
+      "category": "DigiLab",
+      "english": [
+        "Name this Digimon\n^0?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 51,
+      "category": "DigiLab",
+      "english": [
+        "Yes, use this name"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 52,
+      "category": "DigiLab",
+      "english": [
+        "No, try again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 53,
+      "category": "DigiLab",
+      "english": [
+        "Choose special moves\nto inherit."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 54,
+      "category": "DigiLab",
+      "english": [
+        "Choose a move to discard."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 55,
+      "category": "DigiLab",
+      "english": [
+        "Choose a move you want."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 56,
+      "category": "DigiLab",
+      "english": [
+        "Choose a move to discard."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 57,
+      "category": "DigiLab",
+      "english": [
+        "Choose a move to inherit."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 58,
+      "category": "DigiLab",
+      "english": [
+        "Selected Moves"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 59,
+      "category": "DigiLab",
+      "english": [
+        "Move List"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 60,
+      "category": "DigiLab",
+      "english": [
+        "Finish"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 61,
+      "category": "DigiLab",
+      "english": [
+        "No moves inherited.\nYou must inherit at least\none move."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 62,
+      "category": "DigiLab",
+      "english": [
+        "Inherit these moves?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 63,
+      "category": "DigiLab",
+      "english": [
+        "Yes, these are fine"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 64,
+      "category": "DigiLab",
+      "english": [
+        "No, choose again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 65,
+      "category": "DigiLab",
+      "english": [
+        "Your move changes will be\nundone. Is that OK?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 66,
+      "category": "DigiLab",
+      "english": [
+        "Yes, undo changes"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 67,
+      "category": "DigiLab",
+      "english": [
+        "No, keep changes"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 68,
+      "category": "DigiLab",
+      "english": [
+        "Jogress Up complete!\nSent to the DigiBank."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 69,
+      "category": "DigiLab",
+      "english": [
+        "Jogress Up complete!\nSent to the party."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 70,
+      "category": "DigiLab",
+      "english": [
+        "DigiFusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 71,
+      "category": "DigiLab",
+      "english": [
+        "Requirements"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 72,
+      "category": "DigiLab",
+      "english": [
+        "Choose a DigiScore with the\n+Control Pad. Press A for\nits menu. A GOOD mark means\nDigiFusion is available."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 73,
+      "category": "DigiLab",
+      "english": [
+        "Lv:^0"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 74,
+      "category": "DigiLab",
+      "english": [
+        "^0:^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 75,
+      "category": "DigiLab",
+      "english": [
+        "Befriended:^0"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 76,
+      "category": "DigiLab",
+      "english": [
+        "Owned:^0"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 77,
+      "category": "DigiLab",
+      "english": [
+        "DigiScores"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 78,
+      "category": "DigiLab",
+      "english": [
+        "^0/^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 79,
+      "category": "DigiLab",
+      "english": [
+        "DigiScore List"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 80,
+      "category": "DigiLab",
+      "english": [
+        "x^0 Fusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 81,
+      "category": "DigiLab",
+      "english": [
+        "Select DigiScore"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 82,
+      "category": "DigiLab",
+      "english": [
+        "Perform DigiFusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 83,
+      "category": "DigiLab",
+      "english": [
+        "View Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 84,
+      "category": "DigiLab",
+      "english": [
+        "View DigiFusion Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 85,
+      "category": "DigiLab",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 86,
+      "category": "DigiLab",
+      "english": [
+        "Sort Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 87,
+      "category": "DigiLab",
+      "english": [
+        "Alphabetical"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 88,
+      "category": "DigiLab",
+      "english": [
+        "Species"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 89,
+      "category": "DigiLab",
+      "english": [
+        "GOOD Mark"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 90,
+      "category": "DigiLab",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 91,
+      "category": "DigiLab",
+      "english": [
+        "You cannot use this\nDigiScore yet."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 92,
+      "category": "DigiLab",
+      "english": [
+        "Choose a Digimon with the\n+Control Pad. Press A to\nview its stats."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 93,
+      "category": "DigiLab",
+      "english": [
+        "You have none of the\nrequired Digimon.\nPress B to go back."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 94,
+      "category": "DigiLab",
+      "english": [
+        "Candidates"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 95,
+      "category": "DigiLab",
+      "english": [
+        "^0/^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 96,
+      "category": "DigiLab",
+      "english": [
+        "Fusion Digimon List"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 97,
+      "category": "DigiLab",
+      "english": [
+        "Sort Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 98,
+      "category": "DigiLab",
+      "english": [
+        "Alphabetical"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 99,
+      "category": "DigiLab",
+      "english": [
+        "Species"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 100,
+      "category": "DigiLab",
+      "english": [
+        "Level"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 101,
+      "category": "DigiLab",
+      "english": [
+        "Location"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 102,
+      "category": "DigiLab",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 103,
+      "category": "DigiLab",
+      "english": [
+        "Choose a Digimon with the\n+Control Pad. Press A for\nits menu."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 104,
+      "category": "DigiLab",
+      "english": [
+        "Candidates"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 105,
+      "category": "DigiLab",
+      "english": [
+        "^0/^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 106,
+      "category": "DigiLab",
+      "english": [
+        "Select Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 107,
+      "category": "DigiLab",
+      "english": [
+        "Set for DigiFusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 108,
+      "category": "DigiLab",
+      "english": [
+        "Remove from DigiFusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 109,
+      "category": "DigiLab",
+      "english": [
+        "View Stats"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 110,
+      "category": "DigiLab",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 111,
+      "category": "DigiLab",
+      "english": [
+        "Perform DigiFusion with\nthe selected Digimon?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 112,
+      "category": "DigiLab",
+      "english": [
+        "Yes, please"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 113,
+      "category": "DigiLab",
+      "english": [
+        "No, choose again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 114,
+      "category": "DigiLab",
+      "english": [
+        "The selected Digimon will\nbe consumed. Is that OK?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 115,
+      "category": "DigiLab",
+      "english": [
+        "Yes, perform DigiFusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 116,
+      "category": "DigiLab",
+      "english": [
+        "No, choose again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 117,
+      "category": "DigiLab",
+      "english": [
+        "HP             MP\nATK            SPD\nINT            DEF"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 118,
+      "category": "DigiLab",
+      "english": [
+        "DigiFusion!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 119,
+      "category": "DigiLab",
+      "english": [
+        "DigiFusion complete!\nSent to the DigiBank."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 120,
+      "category": "DigiLab",
+      "english": [
+        "DigiFusion complete!\nSent to the party."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 4,
+      "start": 121,
+      "category": "DigiLab",
+      "english": [
+        "Digimon List"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 0,
+      "category": "DigiFarm",
+      "english": [
+        "Go to the DigiFarm?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 1,
+      "category": "DigiFarm",
+      "english": [
+        "Return to the entrance?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 2,
+      "category": "DigiFarm",
+      "english": [
+        "Name ^0\n^1?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 3,
+      "category": "DigiFarm",
+      "english": [
+        "Set this Terrain Board?\n\"^0\""
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 4,
+      "category": "DigiFarm",
+      "english": [
+        "Set this BGM Board?\n\"^0\""
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 5,
+      "category": "DigiFarm",
+      "english": [
+        "Yes, go there"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 6,
+      "category": "DigiFarm",
+      "english": [
+        "Yes, return"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 7,
+      "category": "DigiFarm",
+      "english": [
+        "Yes, that's fine"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 8,
+      "category": "DigiFarm",
+      "english": [
+        "Yes, set it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 9,
+      "category": "DigiFarm",
+      "english": [
+        "Yes, set it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 10,
+      "category": "DigiFarm",
+      "english": [
+        "No, stay here"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 11,
+      "category": "DigiFarm",
+      "english": [
+        "No, stay here"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 12,
+      "category": "DigiFarm",
+      "english": [
+        "No, change it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 13,
+      "category": "DigiFarm",
+      "english": [
+        "No, cancel"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 14,
+      "category": "DigiFarm",
+      "english": [
+        "No, cancel"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 15,
+      "category": "DigiFarm",
+      "english": [
+        "Configure your Farm Islands."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 16,
+      "category": "DigiFarm",
+      "english": [
+        "Move Digimon between groups."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 17,
+      "category": "DigiFarm",
+      "english": [
+        "Choose a Farm Island."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 18,
+      "category": "DigiFarm",
+      "english": [
+        "Choose a menu option."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 19,
+      "category": "DigiFarm",
+      "english": [
+        "Choose a Digimon to talk to."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 20,
+      "category": "DigiFarm",
+      "english": [
+        "Choose a Training Pen."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 21,
+      "category": "DigiFarm",
+      "english": [
+        "Choose a training partner."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 22,
+      "category": "DigiFarm",
+      "english": [
+        "Choose a Job Pen."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 23,
+      "category": "DigiFarm",
+      "english": [
+        "Choose a Digimon\nfor the job."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 24,
+      "category": "DigiFarm",
+      "english": [
+        "Choose a Digimon to feed\na DigiNoir."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 25,
+      "category": "DigiFarm",
+      "english": [
+        "Digimon living on this\nFarm Island."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 26,
+      "category": "DigiFarm",
+      "english": [
+        "Farm goods placed on\nthis Farm Island."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 27,
+      "category": "DigiFarm",
+      "english": [
+        "Stats for Terrain Board\n\"^0\"."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 28,
+      "category": "DigiFarm",
+      "english": [
+        "Stats for BGM Board\n\"^0\"."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 29,
+      "category": "DigiFarm",
+      "english": [
+        "Total EXP gained per day\non this Farm Island."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 30,
+      "category": "DigiFarm",
+      "english": [
+        "Return to Island Selection"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 31,
+      "category": "DigiFarm",
+      "english": [
+        "Leave DigiFarm"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 32,
+      "category": "DigiFarm",
+      "english": [
+        "Talk"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 33,
+      "category": "DigiFarm",
+      "english": [
+        "Train"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 34,
+      "category": "DigiFarm",
+      "english": [
+        "Jobs"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 35,
+      "category": "DigiFarm",
+      "english": [
+        "DigiNoir"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 36,
+      "category": "DigiFarm",
+      "english": [
+        "EXP Gained Per Day"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 37,
+      "category": "DigiFarm",
+      "english": [
+        "Manage Goods"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 38,
+      "category": "DigiFarm",
+      "english": [
+        "Change Terrain Board"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 39,
+      "category": "DigiFarm",
+      "english": [
+        "Change BGM Board"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 40,
+      "category": "DigiFarm",
+      "english": [
+        "No farm goods suitable\nfor training are placed."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 41,
+      "category": "DigiFarm",
+      "english": [
+        "Not enough stamina\nto train."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 42,
+      "category": "DigiFarm",
+      "english": [
+        "No farm goods suitable\nfor jobs are placed."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 43,
+      "category": "DigiFarm",
+      "english": [
+        "Digimon involved in a\nrequest quest cannot work."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 44,
+      "category": "DigiFarm",
+      "english": [
+        "Digimon undergoing training\ncannot work."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 45,
+      "category": "DigiFarm",
+      "english": [
+        "Weapon crafting started."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 46,
+      "category": "DigiFarm",
+      "english": [
+        "Armor crafting started."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 47,
+      "category": "DigiFarm",
+      "english": [
+        "You already fed a DigiNoir\nto that Digimon."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 48,
+      "category": "DigiFarm",
+      "english": [
+        "You have no farm goods."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 49,
+      "category": "DigiFarm",
+      "english": [
+        "Placed farm goods:\n\"^0\""
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 50,
+      "category": "DigiFarm",
+      "english": [
+        "All of these farm goods\nare placed on other islands."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 51,
+      "category": "DigiFarm",
+      "english": [
+        "Removed farm goods:\n\"^0\""
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 52,
+      "category": "DigiFarm",
+      "english": [
+        "Those farm goods are\nalready placed here."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 53,
+      "category": "DigiFarm",
+      "english": [
+        "Changed Terrain Board:\n\"^0\""
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 54,
+      "category": "DigiFarm",
+      "english": [
+        "That Terrain Board is\nalready set."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 55,
+      "category": "DigiFarm",
+      "english": [
+        "Changed BGM Board:\n\"^0\""
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 56,
+      "category": "DigiFarm",
+      "english": [
+        "That BGM Board is\nalready set."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 57,
+      "category": "DigiFarm",
+      "english": [
+        "Those farm goods are\nalready placed here."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 58,
+      "category": "DigiFarm",
+      "english": [
+        "Digimon on this island: ^0/8"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 59,
+      "category": "DigiFarm",
+      "english": [
+        "Digimon on this island: ^0/8\nPress L/R to switch islands."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 60,
+      "category": "DigiFarm",
+      "english": [
+        "Removing these farm goods\nalso cancels the job.\nIs that OK?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 61,
+      "category": "DigiFarm",
+      "english": [
+        "Yes, that's fine"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 62,
+      "category": "DigiFarm",
+      "english": [
+        "No, cancel"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 63,
+      "category": "DigiFarm",
+      "english": [
+        "Swap Farm Goods"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 64,
+      "category": "DigiFarm",
+      "english": [
+        "Remove Farm Goods"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 65,
+      "category": "DigiFarm",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 66,
+      "category": "DigiFarm",
+      "english": [
+        "Place Farm Goods"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 67,
+      "category": "DigiFarm",
+      "english": [
+        "Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 68,
+      "category": "DigiFarm",
+      "english": [
+        "Goods"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 69,
+      "category": "DigiFarm",
+      "english": [
+        "Terrain Board"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 70,
+      "category": "DigiFarm",
+      "english": [
+        "BGM Board"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 71,
+      "category": "DigiFarm",
+      "english": [
+        "Recommended"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 72,
+      "category": "DigiFarm",
+      "english": [
+        "Training Pen"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 73,
+      "category": "DigiFarm",
+      "english": [
+        "Success Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 74,
+      "category": "DigiFarm",
+      "english": [
+        "Job Pen"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 75,
+      "category": "DigiFarm",
+      "english": [
+        "Board Level"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 76,
+      "category": "DigiFarm",
+      "english": [
+        "ATK"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 77,
+      "category": "DigiFarm",
+      "english": [
+        "DEF"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 78,
+      "category": "DigiFarm",
+      "english": [
+        "SPD"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 79,
+      "category": "DigiFarm",
+      "english": [
+        "Max Level"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 80,
+      "category": "DigiFarm",
+      "english": [
+        "Friendship"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 81,
+      "category": "DigiFarm",
+      "english": [
+        "Rank"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 82,
+      "category": "DigiFarm",
+      "english": [
+        "Live Event Effect"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 83,
+      "category": "DigiFarm",
+      "english": [
+        "MAX Points"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 84,
+      "category": "DigiFarm",
+      "english": [
+        "Remaining"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 85,
+      "category": "DigiFarm",
+      "english": [
+        "Owned"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 86,
+      "category": "DigiFarm",
+      "english": [
+        "Level"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 87,
+      "category": "DigiFarm",
+      "english": [
+        "Recommended"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 88,
+      "category": "DigiFarm",
+      "english": [
+        "Farm 1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 89,
+      "category": "DigiFarm",
+      "english": [
+        "Farm 2"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 90,
+      "category": "DigiFarm",
+      "english": [
+        "Farm 3"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 91,
+      "category": "DigiFarm",
+      "english": [
+        "Farm 4"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 92,
+      "category": "DigiFarm",
+      "english": [
+        "Farm 5"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 93,
+      "category": "DigiFarm",
+      "english": [
+        "Farm 6"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 94,
+      "category": "DigiFarm",
+      "english": [
+        "Farm 7"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 95,
+      "category": "DigiFarm",
+      "english": [
+        "Farm 8"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 96,
+      "category": "DigiFarm",
+      "english": [
+        "^0 EXP"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 97,
+      "category": "DigiFarm",
+      "english": [
+        "SS"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 98,
+      "category": "DigiFarm",
+      "english": [
+        "S"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 99,
+      "category": "DigiFarm",
+      "english": [
+        "A"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 100,
+      "category": "DigiFarm",
+      "english": [
+        "B"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 101,
+      "category": "DigiFarm",
+      "english": [
+        "C"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 102,
+      "category": "DigiFarm",
+      "english": [
+        "D"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 103,
+      "category": "DigiFarm",
+      "english": [
+        "E"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 104,
+      "category": "DigiFarm",
+      "english": [
+        "Max HP"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 105,
+      "category": "DigiFarm",
+      "english": [
+        "Max MP"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 106,
+      "category": "DigiFarm",
+      "english": [
+        "ATK"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 107,
+      "category": "DigiFarm",
+      "english": [
+        "DEF"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 108,
+      "category": "DigiFarm",
+      "english": [
+        "SPD"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 109,
+      "category": "DigiFarm",
+      "english": [
+        "Friendship"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 110,
+      "category": "DigiFarm",
+      "english": [
+        "EXP"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 111,
+      "category": "DigiFarm",
+      "english": [
+        "None"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 112,
+      "category": "DigiFarm",
+      "english": [
+        "^0/^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 113,
+      "category": "DigiFarm",
+      "english": [
+        "^0/^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 114,
+      "category": "DigiFarm",
+      "english": [
+        "Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 115,
+      "category": "DigiFarm",
+      "english": [
+        "Farm Goods"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 116,
+      "category": "DigiFarm",
+      "english": [
+        "Terrain Board"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 117,
+      "category": "DigiFarm",
+      "english": [
+        "BGM Board"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 118,
+      "category": "DigiFarm",
+      "english": [
+        "Board Level"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 3,
+      "start": 119,
+      "category": "DigiFarm",
+      "english": [
+        "MAX"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 14,
+      "start": 0,
+      "category": "growth notifications",
+      "english": [
+        "Learned a new special move!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 14,
+      "start": 1,
+      "category": "growth notifications",
+      "english": [
+        "New DigiXross move learned!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 14,
+      "start": 2,
+      "category": "growth notifications",
+      "english": [
+        "Learned a new trait!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 14,
+      "start": 3,
+      "category": "growth notifications",
+      "english": [
+        "Close the DigiReport?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 14,
+      "start": 4,
+      "category": "growth notifications",
+      "english": [
+        "Yes, close it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 14,
+      "start": 5,
+      "category": "growth notifications",
+      "english": [
+        "No, keep reading"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 0,
+      "category": "inventory and information",
+      "english": [
+        "Farm goods placed: ^0/6"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 1,
+      "category": "inventory and information",
+      "english": [
+        "Press L/R to switch\nFarm Islands."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 2,
+      "category": "inventory and information",
+      "english": [
+        "Terrain"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 3,
+      "category": "inventory and information",
+      "english": [
+        "BGM"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 4,
+      "category": "inventory and information",
+      "english": [
+        "Recommended"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 5,
+      "category": "inventory and information",
+      "english": [
+        "Goods"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 6,
+      "category": "inventory and information",
+      "english": [
+        "Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 7,
+      "category": "inventory and information",
+      "english": [
+        "Selected ^0 Board stats"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 8,
+      "category": "inventory and information",
+      "english": [
+        "EXP Gained Per Day"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 9,
+      "category": "inventory and information",
+      "english": [
+        "Remaining"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 10,
+      "category": "inventory and information",
+      "english": [
+        "Digimon Befriended:"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 11,
+      "category": "inventory and information",
+      "english": [
+        "Digimon Owned:"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 12,
+      "category": "inventory and information",
+      "english": [
+        "x^0 Fusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 13,
+      "category": "inventory and information",
+      "english": [
+        "Choose a consumable item\nto use."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 14,
+      "category": "inventory and information",
+      "english": [
+        "View equipment that is\ncurrently unused."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 15,
+      "category": "inventory and information",
+      "english": [
+        "View your DigiScores."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 16,
+      "category": "inventory and information",
+      "english": [
+        "View your Melodies."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 17,
+      "category": "inventory and information",
+      "english": [
+        "View farm goods that are\nnot placed on a Farm Island."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 18,
+      "category": "inventory and information",
+      "english": [
+        "View your key items."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 19,
+      "category": "inventory and information",
+      "english": [
+        "You cannot use this\nitem here!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 20,
+      "category": "inventory and information",
+      "english": [
+        "Use a Gate Disk?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 21,
+      "category": "inventory and information",
+      "english": [
+        "Yes, use it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 22,
+      "category": "inventory and information",
+      "english": [
+        "No, cancel"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 23,
+      "category": "inventory and information",
+      "english": [
+        "Play Time"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 24,
+      "category": "inventory and information",
+      "english": [
+        "Location"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 25,
+      "category": "inventory and information",
+      "english": [
+        "Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 26,
+      "category": "inventory and information",
+      "english": [
+        "Farms"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 27,
+      "category": "inventory and information",
+      "english": [
+        "DigiScores"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 28,
+      "category": "inventory and information",
+      "english": [
+        "Quests"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 29,
+      "category": "inventory and information",
+      "english": [
+        "DigiDex"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 30,
+      "category": "inventory and information",
+      "english": [
+        "General"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 31,
+      "category": "inventory and information",
+      "english": [
+        "Taiki Kudo"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 32,
+      "category": "inventory and information",
+      "english": [
+        "Play Log"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 33,
+      "category": "inventory and information",
+      "english": [
+        "Melody"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 34,
+      "category": "inventory and information",
+      "english": [
+        "Jogress"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 35,
+      "category": "inventory and information",
+      "english": [
+        "Fusions"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 36,
+      "category": "inventory and information",
+      "english": [
+        "Battles"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 37,
+      "category": "inventory and information",
+      "english": [
+        "Defeated"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 38,
+      "category": "inventory and information",
+      "english": [
+        "Melodize"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 39,
+      "category": "inventory and information",
+      "english": [
+        "Training"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 40,
+      "category": "inventory and information",
+      "english": [
+        "Wireless"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 41,
+      "category": "inventory and information",
+      "english": [
+        "No quests\nactive."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 42,
+      "category": "inventory and information",
+      "english": [
+        "View information about\nyour current quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 43,
+      "category": "inventory and information",
+      "english": [
+        "Max"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 44,
+      "category": "inventory and information",
+      "english": [
+        "Cond."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 45,
+      "category": "inventory and information",
+      "english": [
+        "Mood"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 46,
+      "category": "inventory and information",
+      "english": [
+        "Effect"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 47,
+      "category": "inventory and information",
+      "english": [
+        "Species"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 48,
+      "category": "inventory and information",
+      "english": [
+        "EP"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 49,
+      "category": "inventory and information",
+      "english": [
+        "DigiXross"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 50,
+      "category": "inventory and information",
+      "english": [
+        "Habitat"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 51,
+      "category": "inventory and information",
+      "english": [
+        "Unknown"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 52,
+      "category": "inventory and information",
+      "english": [
+        "You have not befriended\nthis Digimon. Detailed\ninformation is unavailable."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 53,
+      "category": "inventory and information",
+      "english": [
+        "Save"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 54,
+      "category": "inventory and information",
+      "english": [
+        "Last Save"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 55,
+      "category": "inventory and information",
+      "english": [
+        "Date/Time"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 56,
+      "category": "inventory and information",
+      "english": [
+        "Location"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 57,
+      "category": "inventory and information",
+      "english": [
+        "You have no tickets for\nsummoning Digimon."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 58,
+      "category": "inventory and information",
+      "english": [
+        "Choose a Digimon ticket\nto use."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 59,
+      "category": "inventory and information",
+      "english": [
+        "Summon\n^0?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 60,
+      "category": "inventory and information",
+      "english": [
+        "Yes, summon it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 61,
+      "category": "inventory and information",
+      "english": [
+        "No, choose again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 62,
+      "category": "inventory and information",
+      "english": [
+        "Stop summoning Digimon?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 63,
+      "category": "inventory and information",
+      "english": [
+        "Yes, stop"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 64,
+      "category": "inventory and information",
+      "english": [
+        "No, continue"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 65,
+      "category": "inventory and information",
+      "english": [
+        "Summon Tickets"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 66,
+      "category": "inventory and information",
+      "english": [
+        "Choose the information\nyou want to view."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 67,
+      "category": "inventory and information",
+      "english": [
+        "Choose a Digimon whose\nequipment you want\nto change."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 68,
+      "category": "inventory and information",
+      "english": [
+        "Current Equipment"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 69,
+      "category": "inventory and information",
+      "english": [
+        "Choose equipment to use."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 70,
+      "category": "inventory and information",
+      "english": [
+        "Range"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 71,
+      "category": "inventory and information",
+      "english": [
+        "Equipment"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 72,
+      "category": "inventory and information",
+      "english": [
+        "ATK"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 73,
+      "category": "inventory and information",
+      "english": [
+        "INT"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 74,
+      "category": "inventory and information",
+      "english": [
+        "SPD"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 75,
+      "category": "inventory and information",
+      "english": [
+        "DEF"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 76,
+      "category": "inventory and information",
+      "english": [
+        "FRND"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 77,
+      "category": "inventory and information",
+      "english": [
+        "Money"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 78,
+      "category": "inventory and information",
+      "english": [
+        "LV"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 79,
+      "category": "inventory and information",
+      "english": [
+        "Level"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 80,
+      "category": "inventory and information",
+      "english": [
+        "Learned"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 81,
+      "category": "inventory and information",
+      "english": [
+        "^0/^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 82,
+      "category": "inventory and information",
+      "english": [
+        "^0/^1/^2"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 83,
+      "category": "inventory and information",
+      "english": [
+        "^0: ^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 84,
+      "category": "inventory and information",
+      "english": [
+        "^0:^1:^2"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 85,
+      "category": "inventory and information",
+      "english": [
+        "Sort Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 86,
+      "category": "inventory and information",
+      "english": [
+        "Alphabetical"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 87,
+      "category": "inventory and information",
+      "english": [
+        "Species"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 88,
+      "category": "inventory and information",
+      "english": [
+        "Digimon Number"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 89,
+      "category": "inventory and information",
+      "english": [
+        "Level"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 90,
+      "category": "inventory and information",
+      "english": [
+        "Location"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 91,
+      "category": "inventory and information",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 92,
+      "category": "inventory and information",
+      "english": [
+        "Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 93,
+      "category": "inventory and information",
+      "english": [
+        "Total"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 94,
+      "category": "inventory and information",
+      "english": [
+        "^0 times"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 95,
+      "category": "inventory and information",
+      "english": [
+        "^0 Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 96,
+      "category": "inventory and information",
+      "english": [
+        "ATK"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 97,
+      "category": "inventory and information",
+      "english": [
+        "DEF"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 98,
+      "category": "inventory and information",
+      "english": [
+        "INT"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 99,
+      "category": "inventory and information",
+      "english": [
+        "Default Order"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 100,
+      "category": "inventory and information",
+      "english": [
+        "Healthy"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 101,
+      "category": "inventory and information",
+      "english": [
+        "Paralysis"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 102,
+      "category": "inventory and information",
+      "english": [
+        "Sleep"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 103,
+      "category": "inventory and information",
+      "english": [
+        "Confusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 104,
+      "category": "inventory and information",
+      "english": [
+        "Blindness"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 105,
+      "category": "inventory and information",
+      "english": [
+        "Sealed"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 106,
+      "category": "inventory and information",
+      "english": [
+        "None"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 107,
+      "category": "inventory and information",
+      "english": [
+        "Paralysis Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 108,
+      "category": "inventory and information",
+      "english": [
+        "Sleep Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 109,
+      "category": "inventory and information",
+      "english": [
+        "Confusion Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 110,
+      "category": "inventory and information",
+      "english": [
+        "Blindness Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 111,
+      "category": "inventory and information",
+      "english": [
+        "All Status Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 112,
+      "category": "inventory and information",
+      "english": [
+        "Paralysis Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 113,
+      "category": "inventory and information",
+      "english": [
+        "Sleep Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 114,
+      "category": "inventory and information",
+      "english": [
+        "Confusion Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 115,
+      "category": "inventory and information",
+      "english": [
+        "Blindness Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 116,
+      "category": "inventory and information",
+      "english": [
+        "KO Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 117,
+      "category": "inventory and information",
+      "english": [
+        "HP Drain Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 118,
+      "category": "inventory and information",
+      "english": [
+        "MP Drain Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 119,
+      "category": "inventory and information",
+      "english": [
+        "Shuffle Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 120,
+      "category": "inventory and information",
+      "english": [
+        "Poison Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 121,
+      "category": "inventory and information",
+      "english": [
+        "Curse Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 122,
+      "category": "inventory and information",
+      "english": [
+        "All Special Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 123,
+      "category": "inventory and information",
+      "english": [
+        "HP Drain Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 124,
+      "category": "inventory and information",
+      "english": [
+        "MP Drain Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 125,
+      "category": "inventory and information",
+      "english": [
+        "Shuffle Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 126,
+      "category": "inventory and information",
+      "english": [
+        "Poison Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 127,
+      "category": "inventory and information",
+      "english": [
+        "Curse Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 128,
+      "category": "inventory and information",
+      "english": [
+        "All Special Immunity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 129,
+      "category": "inventory and information",
+      "english": [
+        "MP Cost"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 130,
+      "category": "inventory and information",
+      "english": [
+        "Effect Duration"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 131,
+      "category": "inventory and information",
+      "english": [
+        "HP Recovery"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 132,
+      "category": "inventory and information",
+      "english": [
+        "Evasion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 133,
+      "category": "inventory and information",
+      "english": [
+        "Accuracy"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 134,
+      "category": "inventory and information",
+      "english": [
+        "Critical Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 135,
+      "category": "inventory and information",
+      "english": [
+        "Escape Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 136,
+      "category": "inventory and information",
+      "english": [
+        "Melodize Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 137,
+      "category": "inventory and information",
+      "english": [
+        "Drop Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 138,
+      "category": "inventory and information",
+      "english": [
+        "Expedition Success"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 139,
+      "category": "inventory and information",
+      "english": [
+        "Job Success"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 140,
+      "category": "inventory and information",
+      "english": [
+        "Bit Gain"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 141,
+      "category": "inventory and information",
+      "english": [
+        "EXP Gain"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 142,
+      "category": "inventory and information",
+      "english": [
+        "Party Paralysis Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 143,
+      "category": "inventory and information",
+      "english": [
+        "Party Sleep Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 144,
+      "category": "inventory and information",
+      "english": [
+        "Party Confusion Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 145,
+      "category": "inventory and information",
+      "english": [
+        "Party Blindness Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 146,
+      "category": "inventory and information",
+      "english": [
+        "Party All Status Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 147,
+      "category": "inventory and information",
+      "english": [
+        "Party HP Drain Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 148,
+      "category": "inventory and information",
+      "english": [
+        "Party MP Drain Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 149,
+      "category": "inventory and information",
+      "english": [
+        "Party Shuffle Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 150,
+      "category": "inventory and information",
+      "english": [
+        "Party Poison Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 151,
+      "category": "inventory and information",
+      "english": [
+        "Party Curse Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 152,
+      "category": "inventory and information",
+      "english": [
+        "Party All Special Resist"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 153,
+      "category": "inventory and information",
+      "english": [
+        "Paralysis Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 154,
+      "category": "inventory and information",
+      "english": [
+        "Sleep Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 155,
+      "category": "inventory and information",
+      "english": [
+        "Confusion Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 156,
+      "category": "inventory and information",
+      "english": [
+        "Blindness Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 157,
+      "category": "inventory and information",
+      "english": [
+        "HP Drain Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 158,
+      "category": "inventory and information",
+      "english": [
+        "MP Drain Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 159,
+      "category": "inventory and information",
+      "english": [
+        "Shuffle Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 160,
+      "category": "inventory and information",
+      "english": [
+        "Poison Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 161,
+      "category": "inventory and information",
+      "english": [
+        "Curse Rate"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 162,
+      "category": "inventory and information",
+      "english": [
+        "HP Drain Damage"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 163,
+      "category": "inventory and information",
+      "english": [
+        "MP Drain Damage"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 164,
+      "category": "inventory and information",
+      "english": [
+        "Poison Damage"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 165,
+      "category": "inventory and information",
+      "english": [
+        "Damage"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 166,
+      "category": "inventory and information",
+      "english": [
+        "Damage"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 167,
+      "category": "inventory and information",
+      "english": [
+        "Damage"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 168,
+      "category": "inventory and information",
+      "english": [
+        "Damage"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 169,
+      "category": "inventory and information",
+      "english": [
+        "Damage"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 170,
+      "category": "inventory and information",
+      "english": [
+        "Damage"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 171,
+      "category": "inventory and information",
+      "english": [
+        "ATK"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 172,
+      "category": "inventory and information",
+      "english": [
+        "INT"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 173,
+      "category": "inventory and information",
+      "english": [
+        "SPD"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 174,
+      "category": "inventory and information",
+      "english": [
+        "DEF"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 175,
+      "category": "inventory and information",
+      "english": [
+        "Paralysis"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 176,
+      "category": "inventory and information",
+      "english": [
+        "Sleep"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 177,
+      "category": "inventory and information",
+      "english": [
+        "Confusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 178,
+      "category": "inventory and information",
+      "english": [
+        "Blindness"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 179,
+      "category": "inventory and information",
+      "english": [
+        "HP Drain"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 180,
+      "category": "inventory and information",
+      "english": [
+        "MP Drain"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 181,
+      "category": "inventory and information",
+      "english": [
+        "Shuffle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 182,
+      "category": "inventory and information",
+      "english": [
+        "Poison"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 183,
+      "category": "inventory and information",
+      "english": [
+        "Curse"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 184,
+      "category": "inventory and information",
+      "english": [
+        "HP Recovery"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 185,
+      "category": "inventory and information",
+      "english": [
+        "MP Recovery"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 186,
+      "category": "inventory and information",
+      "english": [
+        "Cure Paralysis"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 187,
+      "category": "inventory and information",
+      "english": [
+        "Cure Sleep"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 188,
+      "category": "inventory and information",
+      "english": [
+        "Cure Confusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 189,
+      "category": "inventory and information",
+      "english": [
+        "Cure Blindness"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 190,
+      "category": "inventory and information",
+      "english": [
+        "KO Recovery"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 191,
+      "category": "inventory and information",
+      "english": [
+        "Revive"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 192,
+      "category": "inventory and information",
+      "english": [
+        "Melody Effect"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 193,
+      "category": "inventory and information",
+      "english": [
+        "^0/^1 Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 194,
+      "category": "inventory and information",
+      "english": [
+        "Family"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 195,
+      "category": "inventory and information",
+      "english": [
+        "Type"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 196,
+      "category": "inventory and information",
+      "english": [
+        "Species"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 197,
+      "category": "inventory and information",
+      "english": [
+        "Class"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 198,
+      "category": "inventory and information",
+      "english": [
+        "Strong Against"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 199,
+      "category": "inventory and information",
+      "english": [
+        "Weak Against"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 200,
+      "category": "inventory and information",
+      "english": [
+        "Equipment"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 201,
+      "category": "inventory and information",
+      "english": [
+        "Trait 1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 202,
+      "category": "inventory and information",
+      "english": [
+        "Trait 2"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 203,
+      "category": "inventory and information",
+      "english": [
+        "Trait 3"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 204,
+      "category": "inventory and information",
+      "english": [
+        "Trait 4"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 205,
+      "category": "inventory and information",
+      "english": [
+        "Trait 5"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 206,
+      "category": "inventory and information",
+      "english": [
+        "Trait 6"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 207,
+      "category": "inventory and information",
+      "english": [
+        "Field Skill"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 208,
+      "category": "inventory and information",
+      "english": [
+        "Drop Item 1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 209,
+      "category": "inventory and information",
+      "english": [
+        "Drop Item 2"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 210,
+      "category": "inventory and information",
+      "english": [
+        "Drop Item 3"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 211,
+      "category": "inventory and information",
+      "english": [
+        "Drop Item 4"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 16,
+      "start": 212,
+      "category": "inventory and information",
+      "english": [
+        "^0 left"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 19,
+      "start": 0,
+      "category": "move management",
+      "english": [
+        "Finish changing\nspecial moves?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 19,
+      "start": 1,
+      "category": "move management",
+      "english": [
+        "Yes, finish"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 19,
+      "start": 2,
+      "category": "move management",
+      "english": [
+        "No, continue"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 19,
+      "start": 3,
+      "category": "move management",
+      "english": [
+        "Known Special Moves"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 19,
+      "start": 4,
+      "category": "move management",
+      "english": [
+        "Unlearned Special Moves"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 19,
+      "start": 5,
+      "category": "move management",
+      "english": [
+        "Change Moves"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 20,
+      "start": 0,
+      "category": "Reload Challenge",
+      "english": [
+        "Digimon Challenge"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 20,
+      "start": 1,
+      "category": "Reload Challenge",
+      "english": [
+        "Point your DS microphone\ntoward the DigiMelody!\nThe mark on the Touch Screen\nmoves while it reads the\nDigiMelody. Something will\nhappen if you succeed at\nthe Reload Challenge!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 20,
+      "start": 2,
+      "category": "Reload Challenge",
+      "english": [
+        "Got the key item\n\"^0\"!\nVisit the service counter!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 20,
+      "start": 3,
+      "category": "Reload Challenge",
+      "english": [
+        "You already received\nthe key item \"^0\"."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 20,
+      "start": 4,
+      "category": "Reload Challenge",
+      "english": [
+        "In a quiet place, hold the\nmicrophone near the speaker\nand play the sound again.\nIf it still will not work,\nread the instruction\nbooklet."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 20,
+      "start": 5,
+      "category": "Reload Challenge",
+      "english": [
+        "That password seems wrong.\nTry entering it again!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 20,
+      "start": 6,
+      "category": "Reload Challenge",
+      "english": [
+        "Complete!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 0,
+      "category": "opening story",
+      "english": [
+        "I have no allies. Whoever you are... leave quietly, unless you want to get hurt."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 1,
+      "category": "opening story",
+      "english": [
+        "Come with me quietly. I would rather not use force."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 2,
+      "category": "opening story",
+      "english": [
+        "I don't know who you are, but stop ordering me around! I'm escaping with my friends! I'm not going with anyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 3,
+      "category": "opening story",
+      "english": [
+        "Wh-what is this...?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 4,
+      "category": "opening story",
+      "english": [
+        "A-are you all right?! Hey, hang in there!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 5,
+      "category": "opening story",
+      "english": [
+        "Did that do it?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 6,
+      "category": "opening story",
+      "english": [
+        "All right! Round them all up!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 7,
+      "category": "opening story",
+      "english": [
+        "We'll show you what happens to anyone who defies ROG!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 8,
+      "category": "opening story",
+      "english": [
+        "Hmph... I expected more of a fight. Even with a surprise attack, that was almost too easy."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 9,
+      "category": "opening story",
+      "english": [
+        "...Honestly, why now? I'll have to withdraw for the moment."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 10,
+      "category": "opening story",
+      "english": [
+        "We'll get caught at this rate! S-sorry!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 11,
+      "category": "opening story",
+      "english": [
+        "One got away! Is that all right?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 12,
+      "category": "opening story",
+      "english": [
+        "You expect me to do everything? We had to take down the strong ones first, or we'd be in trouble! Spadamon can wait. We've caught all his friends. He'll come back to rescue them soon enough."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 13,
+      "category": "opening story",
+      "english": [
+        "Carry them inside Sky Fort!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 14,
+      "category": "opening story",
+      "english": [
+        "Is everyone all right?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 15,
+      "category": "opening story",
+      "english": [
+        "Doesn't look like anyone's hurt or in trouble."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 16,
+      "category": "opening story",
+      "english": [
+        "Great! Then all's well that ends well!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 17,
+      "category": "opening story",
+      "english": [
+        "I have to save them... I... I have to save everyone..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 18,
+      "category": "opening story",
+      "english": [
+        "You're awake, Taiki."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 19,
+      "category": "opening story",
+      "english": [
+        "That voice just now..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 20,
+      "category": "opening story",
+      "english": [
+        "A voice? I didn't hear anything."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 21,
+      "category": "opening story",
+      "english": [
+        "More importantly, Taiki, take a look. We've definitely reached another Zone, but we've never been thrown around like that before."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 22,
+      "category": "opening story",
+      "english": [
+        "Another Zone...?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 23,
+      "category": "opening story",
+      "english": [
+        "Hey, where's Akari? Zenjiro's missing too!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 24,
+      "category": "opening story",
+      "english": [
+        "That's right! We've all been split up. I sure hope this Zone is safe..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 25,
+      "category": "opening story",
+      "english": [
+        "No other Digimon or humans detected nearby. We should hurry and find Akari and the others."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 26,
+      "category": "opening story",
+      "english": [
+        "Right. Standing here thinking won't help. Let's go, Taiki!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 27,
+      "category": "opening story",
+      "english": [
+        "You lot! Never seen you before! Come with us to Sky Fort. You wouldn't dare defy ROG, would you? ROG rules Elestou Zone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 28,
+      "category": "opening story",
+      "english": [
+        "ROG? As in \"rogue\"? Doesn't that mean a villain or a thief? You're practically calling yourselves crooks! Besides, we didn't come here by choice! Everyone kept making jokes, and I was dragged here before I could even talk back! I'm the one who should be asking: what's going on?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 29,
+      "category": "opening story",
+      "english": [
+        "What's going on?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 30,
+      "category": "opening story",
+      "english": [
+        "What's going on?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 31,
+      "category": "opening story",
+      "english": [
+        "What's goin' ooon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 32,
+      "category": "opening story",
+      "english": [
+        "Enough! Be quiet! Stop babbling nonsense, all of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 33,
+      "category": "opening story",
+      "english": [
+        "Hey, Zenjiro! Starmon! Pickmons!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 34,
+      "category": "opening story",
+      "english": [
+        "Taiki Kudo! Everyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 35,
+      "category": "opening story",
+      "english": [
+        "Whoa, brothers! We're saved!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 36,
+      "category": "opening story",
+      "english": [
+        "Hooray! We're saved!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 37,
+      "category": "opening story",
+      "english": [
+        "That's our Taiki! So cool!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 38,
+      "category": "opening story",
+      "english": [
+        "Taiki-cool!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 39,
+      "category": "opening story",
+      "english": [
+        "So you did have allies. No matter... I'll crush the lot of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 40,
+      "category": "opening story",
+      "english": [
+        "Taiki!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 41,
+      "category": "opening story",
+      "english": [
+        "All right... let's go, everyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 42,
+      "category": "opening story",
+      "english": [
+        "Whoo! Thanks, everyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 43,
+      "category": "opening story",
+      "english": [
+        "I knew you'd come to save us!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 44,
+      "category": "opening story",
+      "english": [
+        "We knew it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 45,
+      "category": "opening story",
+      "english": [
+        "Did we know it?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 46,
+      "category": "opening story",
+      "english": [
+        "We moo-knew it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 47,
+      "category": "opening story",
+      "english": [
+        "Who were those Digimon? They called themselves ROG...?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 48,
+      "category": "opening story",
+      "english": [
+        "Apparently they're a group of Digimon that's taken over this Zone. ROG... rogue... Going by that name, I'm guessing they're bad news!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 49,
+      "category": "opening story",
+      "english": [
+        "That's right, brother! Definitely bad news!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 50,
+      "category": "opening story",
+      "english": [
+        "Rooogue! Sounds villainous!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 51,
+      "category": "opening story",
+      "english": [
+        "We'll worry about ROG later. Hey, Zenjiro, have you seen Akari?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 52,
+      "category": "opening story",
+      "english": [
+        "Huh?! I've only found the Pickmons since arriving here... Isn't she with you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 53,
+      "category": "opening story",
+      "english": [
+        "That's worrying... I was thrown here without a clue what was happening. Until I met the Pickmons falling from the sky, I thought I was done for! Alone again, no weapon, and this place is full of vicious Digimon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 54,
+      "category": "opening story",
+      "english": [
+        "Vicious Digimon?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 55,
+      "category": "opening story",
+      "english": [
+        "Yeah, more of them attack you here than in other Zones. We can't leave a girl alone in a place like this!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 56,
+      "category": "opening story",
+      "english": [
+        "You're right. Come on, everyone! Let's find Akari and the others!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 57,
+      "category": "opening story",
+      "english": [
+        "Zenjiro, Starmon, and the Pickmons joined you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 58,
+      "category": "opening story",
+      "english": [
+        "Surrender quietly...? Is that a joke? Who waves a white flag because a mushroom blocks the road?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 59,
+      "category": "opening story",
+      "english": [
+        "H-hey, Dorulumon! Isn't that enough? Let's just run away without fighting. Please? Please?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 60,
+      "category": "opening story",
+      "english": [
+        "Fine by me, but they seem eager to fight. Stand back, Cutemon. I'll finish this quickly."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 61,
+      "category": "opening story",
+      "english": [
+        "Hand over all the items you've collected! To think anyone still dares defy ROG, rulers of Elestou Zone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 62,
+      "category": "opening story",
+      "english": [
+        "He's obviously bluffing! He'll turn tail and run soon enough... if he still has a tail by then!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 63,
+      "category": "opening story",
+      "english": [
+        "R-right! ROG's Mushroomon squad could smash these guys to pieces in no time!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 64,
+      "category": "opening story",
+      "english": [
+        "Hey, you lot! Stop it, it's dangerous! Don't make Dorulumon angry!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 65,
+      "category": "opening story",
+      "english": [
+        "...Hold on a moment. You're making me sound like the villain here."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 66,
+      "category": "opening story",
+      "english": [
+        "Hey, Akari! Dorulumon! Cutemon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 67,
+      "category": "opening story",
+      "english": [
+        "Everyone!! Perfect timing! Hurry and do something about these guys!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 68,
+      "category": "opening story",
+      "english": [
+        "What's wrong, Akari? There's no danger worth getting so worked up over."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 69,
+      "category": "opening story",
+      "english": [
+        "You don't get it, Dorulumon. YOU are the danger!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 70,
+      "category": "opening story",
+      "english": [
+        "So you've got a whole gang! No wonder you looked so confident! But no matter how many enemies gather, ROG's Mushroomon squad will never lose!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 71,
+      "category": "opening story",
+      "english": [
+        "We'll squash the lot of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 72,
+      "category": "opening story",
+      "english": [
+        "All right, everyone! Let's help Akari and the others!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 73,
+      "category": "opening story",
+      "english": [
+        "Are you all right, Akari?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 74,
+      "category": "opening story",
+      "english": [
+        "Ha... hahaha... I'm perfectly fine! Of course!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 75,
+      "category": "opening story",
+      "english": [
+        "You're smiling, but your cheeks are twitching, kyu..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 76,
+      "category": "opening story",
+      "english": [
+        "I've been dragged into so much trouble all at once... I can't decide whether to laugh or get mad! Oh, right, I almost forgot. Here, Taiki."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 77,
+      "category": "opening story",
+      "english": [
+        "Got consumable items! Bandage x3"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 78,
+      "category": "opening story",
+      "english": [
+        "Got consumable items! Energy Source x3"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 79,
+      "category": "opening story",
+      "english": [
+        "These items restore Digimon's HP and MP. At least, that's what those guys said."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 80,
+      "category": "opening story",
+      "english": [
+        "That'll help a lot! Nice work, Akari!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 81,
+      "category": "opening story",
+      "english": [
+        "Huh? Those guys...? Oh, ROG! Those crooks! So where did you get the items?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 82,
+      "category": "opening story",
+      "english": [
+        "The Digimon around here dropped them when they were defeated. Dorulumon took down every one that attacked us! Well, they dropped them... or he made them drop them... sent them flying, really! Enemies kept swarming us, and Dorulumon went on a rampage! I honestly thought we wouldn't make it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 83,
+      "category": "opening story",
+      "english": [
+        "Use those when your Digimon are running low. Press START or X to open the Xros Loader menu, then choose Items. You can also use them from the Command Ring during battle."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 84,
+      "category": "opening story",
+      "english": [
+        "Got it. I'll remember."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 85,
+      "category": "opening story",
+      "english": [
+        "Huh? You're just going to ignore everything I went through?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 86,
+      "category": "opening story",
+      "english": [
+        "I have to save them... I have to save everyone in Elestou Zone... Whatever it takes... I have to..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 87,
+      "category": "opening story",
+      "english": [
+        "That was... the voice from before!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 88,
+      "category": "opening story",
+      "english": [
+        "...Hey, Taiki. What's wrong all of a sudden?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 89,
+      "category": "opening story",
+      "english": [
+        "I heard it much more clearly this time! They must be close!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 90,
+      "category": "opening story",
+      "english": [
+        "Close...? Who are you talking about?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 91,
+      "category": "opening story",
+      "english": [
+        "I... don't know. But I heard them just now. They sounded desperate! It's definitely the same voice!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 92,
+      "category": "opening story",
+      "english": [
+        "It must be whoever brought us here from the jungle. They keep saying they have to save someone. They need our help! I can't just leave them like that!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 93,
+      "category": "opening story",
+      "english": [
+        "We finally found everyone after getting split up, and Taiki's already saying his usual line again..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 94,
+      "category": "opening story",
+      "english": [
+        "Please, everyone! I want to help them!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 95,
+      "category": "opening story",
+      "english": [
+        "Of course I'm coming, Taiki! I'm always with you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 96,
+      "category": "opening story",
+      "english": [
+        "I don't understand what you're talking about... but fine. I'll help. Lead the way, Taiki."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 97,
+      "category": "opening story",
+      "english": [
+        "I'll come along too, then. Just don't do anything too reckless, all right?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 98,
+      "category": "opening story",
+      "english": [
+        "Th-thanks, everyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 99,
+      "category": "opening story",
+      "english": [
+        "Akari, Cutemon, and Dorulumon joined you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 73,
+      "category": "Digimon families and types",
+      "english": [
+        "Dragon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 74,
+      "category": "Digimon families and types",
+      "english": [
+        "Beast"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 75,
+      "category": "Digimon families and types",
+      "english": [
+        "Holy"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 76,
+      "category": "Digimon families and types",
+      "english": [
+        "Dark"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 77,
+      "category": "Digimon families and types",
+      "english": [
+        "Aquatic"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 78,
+      "category": "Digimon families and types",
+      "english": [
+        "Machine"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 79,
+      "category": "Digimon families and types",
+      "english": [
+        "Bird"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 80,
+      "category": "Digimon families and types",
+      "english": [
+        "Insect"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 81,
+      "category": "Digimon families and types",
+      "english": [
+        "Plant"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 82,
+      "category": "Digimon families and types",
+      "english": [
+        "Dragon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 83,
+      "category": "Digimon families and types",
+      "english": [
+        "Animal"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 84,
+      "category": "Digimon families and types",
+      "english": [
+        "Angel"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 85,
+      "category": "Digimon families and types",
+      "english": [
+        "Devil"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 86,
+      "category": "Digimon families and types",
+      "english": [
+        "Aqua"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 87,
+      "category": "Digimon families and types",
+      "english": [
+        "Machine"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 88,
+      "category": "Digimon families and types",
+      "english": [
+        "Wing"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 89,
+      "category": "Digimon families and types",
+      "english": [
+        "Insect"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 90,
+      "category": "Digimon families and types",
+      "english": [
+        "Plant"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 91,
+      "category": "Digimon families and types",
+      "english": [
+        "Sky Dragon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 92,
+      "category": "Digimon families and types",
+      "english": [
+        "Sea Dragon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 93,
+      "category": "Digimon families and types",
+      "english": [
+        "Dark Dragon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 94,
+      "category": "Digimon families and types",
+      "english": [
+        "Beast Dragon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 95,
+      "category": "Digimon families and types",
+      "english": [
+        "Dragonkin"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 96,
+      "category": "Digimon families and types",
+      "english": [
+        "Holy Dragon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 97,
+      "category": "Digimon families and types",
+      "english": [
+        "Ice/Water"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 98,
+      "category": "Digimon families and types",
+      "english": [
+        "Metal Beast"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 99,
+      "category": "Digimon families and types",
+      "english": [
+        "Holy Beast"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 100,
+      "category": "Digimon families and types",
+      "english": [
+        "Ancient"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 101,
+      "category": "Digimon families and types",
+      "english": [
+        "Dark Beast"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 102,
+      "category": "Digimon families and types",
+      "english": [
+        "Darkness"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 103,
+      "category": "Digimon families and types",
+      "english": [
+        "Mutant Machine"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 104,
+      "category": "Digimon families and types",
+      "english": [
+        "Aurora Bird"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 105,
+      "category": "Digimon families and types",
+      "english": [
+        "Dark Bird"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 106,
+      "category": "Digimon families and types",
+      "english": [
+        "Holy Bird"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 107,
+      "category": "Digimon families and types",
+      "english": [
+        "Fire Insect"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 108,
+      "category": "Digimon families and types",
+      "english": [
+        "Tree"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 109,
+      "category": "Digimon families and types",
+      "english": [
+        "Light"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 110,
+      "category": "Digimon families and types",
+      "english": [
+        "Fire"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 111,
+      "category": "Digimon families and types",
+      "english": [
+        "Metal"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 112,
+      "category": "Digimon families and types",
+      "english": [
+        "Dark"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 113,
+      "category": "Digimon families and types",
+      "english": [
+        "Slime"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 114,
+      "category": "Digimon families and types",
+      "english": [
+        "Egg"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 0,
+      "category": "early quest objectives",
+      "english": [
+        "Talk to Biyomon in\nthe Front Room."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 1,
+      "category": "early quest objectives",
+      "english": [
+        "Find the flight squad\nin Canyon Yard."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 2,
+      "category": "early quest objectives",
+      "english": [
+        "Report to Biyomon in\nthe Front Room."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 3,
+      "category": "early quest objectives",
+      "english": [
+        "Find the Digimon\nFlight Squad!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 4,
+      "category": "early quest objectives",
+      "english": [
+        "Find the flight squad's\nleader and restore the\nDigimon Flight Squad."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 5,
+      "category": "early quest objectives",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 6,
+      "category": "early quest objectives",
+      "english": [
+        "Talk to Biyomon in\nthe Front Room."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 7,
+      "category": "early quest objectives",
+      "english": [
+        "Find the flight squad\nin Grass Yard."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 8,
+      "category": "early quest objectives",
+      "english": [
+        "Report to Biyomon in\nthe Front Room."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 9,
+      "category": "early quest objectives",
+      "english": [
+        "Find the Digimon\nFlight Squad!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 10,
+      "category": "early quest objectives",
+      "english": [
+        "Find the flight squad's\nleader and restore the\nDigimon Flight Squad."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 11,
+      "category": "early quest objectives",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 12,
+      "category": "early quest objectives",
+      "english": [
+        "Talk to Agumon in\nthe Front Room."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 13,
+      "category": "early quest objectives",
+      "english": [
+        "Find the Ultimate DigiNoir\nin West Guruguru Amazon."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 14,
+      "category": "early quest objectives",
+      "english": [
+        "Give it to Agumon in\nthe Front Room."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 15,
+      "category": "early quest objectives",
+      "english": [
+        "Find the\nUltimate DigiNoir!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 16,
+      "category": "early quest objectives",
+      "english": [
+        "Find the\nUltimate DigiNoir."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 17,
+      "category": "early quest objectives",
+      "english": [
+        "A Lively Shoutmon\nis in your party."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 55,
+      "category": "opening story",
+      "english": [
+        "All right, let's go, Taiki! We'll knock those guys flat!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 56,
+      "category": "opening story",
+      "english": [
+        "I've heard something is hidden in this Zone... Just what have you hidden here?! Tell me already!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 57,
+      "category": "opening story",
+      "english": [
+        "I-I told you, I don't know! A low-ranking guy like me wouldn't know anything!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 58,
+      "category": "opening story",
+      "english": [
+        "Then you're no use to us anymore! I'll throw you out of here and see whether you can fly!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 59,
+      "category": "opening story",
+      "english": [
+        "Stop!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 60,
+      "category": "opening story",
+      "english": [
+        "I-I won't let you hurt my friends!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 61,
+      "category": "opening story",
+      "english": [
+        "...Hmph. Your voice is cracking. So you're the coward who got away?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 62,
+      "category": "opening story",
+      "english": [
+        "I hear you ran away while your friends were being beaten. Are you going to let these ones take the fall for you now?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 63,
+      "category": "opening story",
+      "english": [
+        "I don't want anyone to take my place, and I don't want to run away alone! I want to beat you and save everyone! Please, Taiki! Shoutmon! Fight with me!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 64,
+      "category": "opening story",
+      "english": [
+        "Leave it to us, Spadamon! We've got Taiki! He's a General who can bring out the best in his Digimon! Right, Taiki?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 65,
+      "category": "opening story",
+      "english": [
+        "Your Digimon's fate is in their General's hands! Give orders to your Digimon on the Touch Screen!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 66,
+      "category": "opening story",
+      "english": [
+        "Give orders using the Command Ring! Press Left or Right on the +Control Pad to rotate it, then press A to choose a command!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 67,
+      "category": "opening story",
+      "english": [
+        "Choose Fight for attacks that use no MP! Pick it when you want to save MP in battle."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 68,
+      "category": "opening story",
+      "english": [
+        "0000000000\n0000000000"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 69,
+      "category": "opening story",
+      "english": [
+        "Choose DigiXross to combine Digimon! To use this command, you must know a DigiXross move and have all its required Digimon in your party."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 70,
+      "category": "opening story",
+      "english": [
+        "Choose Items to use consumables! They can cure paralysis, sleep, or confusion, restore HP or MP, and even revive fallen Digimon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 71,
+      "category": "opening story",
+      "english": [
+        "Choose Tactics for automatic battle orders! Full Power uses your strongest moves and targets enemies you can defeat. Conserve MP chooses moves with low MP costs. Guard focuses on defense. Escape tries to flee. If even one Digimon escapes, you can get out of battle!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 72,
+      "category": "opening story",
+      "english": [
+        "The Formation command swaps the Digimon giving the order with another Digimon in your party!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 73,
+      "category": "opening story",
+      "english": [
+        "One last thing to remember! Press B to change your orders. When you're ready, press X to begin the turn!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 74,
+      "category": "opening story",
+      "english": [
+        "Hear the explanation again?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 75,
+      "category": "opening story",
+      "english": [
+        "Explain again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 76,
+      "category": "opening story",
+      "english": [
+        "Go to battle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 77,
+      "category": "opening story",
+      "english": [
+        "All right, everyone! Here we go again! DigiXross!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 85,
+      "category": "opening story",
+      "english": [
+        "Think about your formation to gain an advantage! The Digimon attacking in the middle are your vanguard. Their Fight attacks deal heavy damage, and they can use DigiXross moves!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 86,
+      "category": "opening story",
+      "english": [
+        "The Digimon supporting them from below are your rearguard. Their Fight attacks only deal half damage, and they cannot use DigiXross moves. In return, enemy attacks cannot hit them! Be careful: you cannot place Digimon in the rearguard without a vanguard!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 87,
+      "category": "opening story",
+      "english": [
+        "Move the cursor with the +Control Pad. Select the Digimon you want to command, then press A to open the Command Ring!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 88,
+      "category": "opening story",
+      "english": [
+        "If your Digimon do not need new orders, press X! Each Digimon will carry out its assigned command!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 89,
+      "category": "opening story",
+      "english": [
+        "Hear the explanation again?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 90,
+      "category": "opening story",
+      "english": [
+        "Explain again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 91,
+      "category": "opening story",
+      "english": [
+        "Go to battle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 92,
+      "category": "opening story",
+      "english": [
+        "All right, everyone! Here we go again! DigiXross!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 121,
+      "category": "opening story",
+      "english": [
+        "Hey, Taiki, do you know how to set up a tent?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 122,
+      "category": "opening story",
+      "english": [
+        "See that tent mark over there?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 123,
+      "category": "opening story",
+      "english": [
+        "Press A while standing on a tent mark to set up a tent and go inside. Inside, you can restore HP and MP or save your adventure so far."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 124,
+      "category": "opening story",
+      "english": [
+        "I see... But I don't have a tent."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 125,
+      "category": "opening story",
+      "english": [
+        "Once we take back Fort Island, I'll give you all the tents you want! For now, though, it's probably better not to use one, even if you have it. Apparently tents make it surprisingly easy for enemies to find you."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 126,
+      "category": "opening story",
+      "english": [
+        "You can check the DigiFarm here."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 127,
+      "category": "opening story",
+      "english": [
+        "DigiFarm? What's that?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 128,
+      "category": "opening story",
+      "english": [
+        "It's a place where the Digimon you've befriended can grow stronger, faster!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 129,
+      "category": "opening story",
+      "english": [
+        "You can have up to six DigiFarms. Each can hold eight Digimon, and you can befriend up to forty Digimon in all! Try letting your farm Digimon talk, train, work, or join expeditions. They can improve their stats, make items, and do all sorts of useful things! You can also move Digimon freely between your party, DigiFarms, expeditions, and DigiBank."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 130,
+      "category": "opening story",
+      "english": [
+        "How do I get more DigiFarms?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 131,
+      "category": "opening story",
+      "english": [
+        "This world has six power stations called Capacitor Towers that send energy to Sky Fort. Turn on a tower's generator to restore Sky Fort and add a DigiFarm. So if you find a Capacitor Tower, switch it on!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 132,
+      "category": "opening story",
+      "english": [
+        "Have I already told you what a DigiFarm is?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 133,
+      "category": "opening story",
+      "english": [
+        "A place where Digimon grow stronger, faster, right?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 134,
+      "category": "opening story",
+      "english": [
+        "That's right! Using the DigiFarm well is important if you want your Digimon to become stronger!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 135,
+      "category": "opening story",
+      "english": [
+        "Digimon gain EXP and levels on the DigiFarm, but that's not all! Talk and Train can raise stats. Jobs let you make rare items, and expeditions collect items from the Zones."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 136,
+      "category": "opening story",
+      "english": [
+        "The DigiFarm sounds amazing...!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 137,
+      "category": "opening story",
+      "english": [
+        "You need the DigiFarm to draw out a Digimon's full potential. And to get the DigiFarm running at full capacity, you have to switch on the Capacitor Tower generators!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 138,
+      "category": "opening story",
+      "english": [
+        "You can check the DigiLab here."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 139,
+      "category": "opening story",
+      "english": [
+        "DigiLab? What's that?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 140,
+      "category": "opening story",
+      "english": [
+        "The DigiLab is where we research Digimon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 141,
+      "category": "opening story",
+      "english": [
+        "You can turn Melodies collected in battle into Digimon, use Melodies to complete DigiScores, or fuse Digimon together to create new ones!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 142,
+      "category": "opening story",
+      "english": [
+        "Melodies?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 143,
+      "category": "opening story",
+      "english": [
+        "A Melody is a Digimon in data form. Defeat a Digimon with a single hit, or finish it off with a move that has a Melody effect, and it becomes a Melody collected by your Xros Loader."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 144,
+      "category": "opening story",
+      "english": [
+        "What about DigiScores?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 145,
+      "category": "opening story",
+      "english": [
+        "A DigiScore is required for fusion. It tells you which Digimon you can create by fusing certain Digimon together. You can't read an incomplete DigiScore, so fill its missing parts with Melodies to complete it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 146,
+      "category": "opening story",
+      "english": [
+        "By the way, Spadamon, what's fusion?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 147,
+      "category": "opening story",
+      "english": [
+        "It's a special kind of combination you can only perform at Sky Fort."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 148,
+      "category": "opening story",
+      "english": [
+        "Collect Melodies in battle and complete a DigiScore, and you can create the Digimon it describes! But each DigiScore has requirements. Simply creating a Digimon from Melodies isn't enough. You may need to raise friendship, level, ATK, INT, or other stats first."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 149,
+      "category": "opening story",
+      "english": [
+        "DigiCoding? What was that again?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 150,
+      "category": "opening story",
+      "english": [
+        "DigiCoding means gathering the Melodies you get in battle and combining them into a Digimon! Defeat a Digimon in one hit, or finish it off with a move that has a Melody effect, and it becomes a Melody collected by your Xros Loader."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 151,
+      "category": "opening story",
+      "english": [
+        "I see... Thanks for explaining, Spadamon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 152,
+      "category": "opening story",
+      "english": [
+        "The DigiLab is where you research Digimon, right?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 0,
+      "start": 153,
+      "category": "opening story",
+      "english": [
+        "Yes! DigiCompose creates incomplete DigiScores. DigiCoding turns Melodies into Digimon. Fusion combines Digimon to create another one. In the Digimon List, you can view their information or move them around!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 0,
+      "category": "opening story",
+      "english": [
+        "And now even Nene is acting strangely, too."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 1,
+      "category": "opening story",
+      "english": [
+        "Nene Amano is a mysterious girl with plenty of secrets. Just when we thought she had opened up and become our friend, she disappeared. Ever since she returned, something has been wrong."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 2,
+      "category": "opening story",
+      "english": [
+        "Zenjiro was acting strangely too, though."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 3,
+      "category": "opening story",
+      "english": [
+        "He was like that from the start!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 4,
+      "category": "opening story",
+      "english": [
+        "Hear that, Zenjiro? They are talking about you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 5,
+      "category": "opening story",
+      "english": [
+        "Now, enjoy your adventure with us in the mysterious world of Elestou Zone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 81,
+      "category": "opening story",
+      "english": [
+        "You lot! Never seen you before! Come with us to Sky Fort. You would not dare defy ROG, would you? ROG rules Elestou Zone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 82,
+      "category": "opening story",
+      "english": [
+        "ROG? As in \"rogue\"? Does that not mean a villain or a thief? You are practically calling yourselves crooks! Besides, we did not choose to come here! Everyone kept making jokes, and I got dragged here before I could even talk back! I should be asking what is going on!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 93,
+      "category": "opening story",
+      "english": [
+        "So you did have allies. No matter... No one gets away with defying ROG! We will crush the lot of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 99,
+      "category": "opening story",
+      "english": [
+        "Choose Special for special moves that use MP! Some hit groups of enemies, while others deal elemental damage. Hit an enemy with an element it is weak against to deal double damage!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 102,
+      "category": "opening story",
+      "english": [
+        "Choose Tactics for automatic battle orders! Full Power selects your strongest moves and enemies you can defeat. Conserve MP uses only Fight attacks, saving MP. Guard focuses on defense. Escape tries to flee. If even one Digimon escapes, you can get out of battle!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 104,
+      "category": "opening story",
+      "english": [
+        "One last thing to remember! Press B to change your orders. When you are ready, press X to begin the turn!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 109,
+      "category": "opening story",
+      "english": [
+        "Whoo! Thanks, everyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 125,
+      "category": "opening story",
+      "english": [
+        "Surrender quietly...? Is that a joke? Who waves a white flag every time they trip over a pebble?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 130,
+      "category": "opening story",
+      "english": [
+        "R-right! ROG's Gotsumon squad could smash these guys to pieces in no time!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 137,
+      "category": "opening story",
+      "english": [
+        "So you have got a whole gang! No wonder you looked so confident! But no matter how many enemies gather, ROG's Gotsumon squad will never lose!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 141,
+      "category": "opening story",
+      "english": [
+        "If your Digimon do not need new orders, press X! Each Digimon will carry out its assigned command!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 152,
+      "category": "opening story",
+      "english": [
+        "These items restore Digimon's HP and MP. At least, that is what those guys said."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 166,
+      "category": "opening story",
+      "english": [
+        "We still have not found Nene or Sparrowmon, and Taiki is already saying his usual line again..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 173,
+      "category": "opening story",
+      "english": [
+        "It is no use, Spadamon! Do you think you can escape? ROG already controls Elestou Zone! Our commander Minotaurmon has taken over Sky Fort! There is nothing you can do! Your only choice is to obey ROG!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 174,
+      "category": "opening story",
+      "english": [
+        "S-stop it! Just leave me alone! I do not know anything about what you ROG invaders are looking for! Please, go away!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 175,
+      "category": "opening story",
+      "english": [
+        "That is him!! Everyone, help that Digimon! He was the one asking me for help! We cannot leave him!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 176,
+      "category": "opening story",
+      "english": [
+        "Huh...? Who are you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 177,
+      "category": "opening story",
+      "english": [
+        "He still had allies?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 178,
+      "category": "opening story",
+      "english": [
+        "No, we should have captured all his allies already..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 179,
+      "category": "opening story",
+      "english": [
+        "Then who are they?! Some of them do not even look like Digimon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 180,
+      "category": "opening story",
+      "english": [
+        "Whoever they are, it does not matter! We will show them how foolish it is to defy ROG!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 181,
+      "category": "opening story",
+      "english": [
+        "Um... Taiki? Sorry to interrupt, but you are going to help someone you do not even know?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 182,
+      "category": "opening story",
+      "english": [
+        "How could I ignore someone in trouble right in front of me?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 183,
+      "category": "opening story",
+      "english": [
+        "...Of course. Silly question. They really do look cornered. Let us hurry and help!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 184,
+      "category": "opening story",
+      "english": [
+        "If you want to hurt him, you will have to face us!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 185,
+      "category": "opening story",
+      "english": [
+        "Think about your formation to gain an advantage! The Digimon attacking in the middle are your vanguard. Their Fight attacks deal heavy damage, and they can use powerful DigiXross moves!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 186,
+      "category": "opening story",
+      "english": [
+        "The Digimon below the vanguard are your rearguard. They support you without being hit by enemy attacks. But they cannot use DigiXross moves, and their Fight attacks only deal half the vanguard's damage. You cannot place Digimon in the rearguard unless there is a vanguard!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 191,
+      "category": "opening story",
+      "english": [
+        "Whew... That was scary... Thank you for saving me... Um... Who are you? A-are you another enemy coming after me?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 192,
+      "category": "opening story",
+      "english": [
+        "Huh...? Did you not call us here...?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 193,
+      "category": "opening story",
+      "english": [
+        "Take one more step toward him and I will blast you away!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 194,
+      "category": "opening story",
+      "english": [
+        "You will hand that Digimon over to me. I will not let anyone else have the hidden power of Elestou Zone."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 195,
+      "category": "opening story",
+      "english": [
+        "N-Nene! You are all right!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 196,
+      "category": "opening story",
+      "english": [
+        "Thank goodness! We were worried. Is Sparrowmon with you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 197,
+      "category": "opening story",
+      "english": [
+        "...Who are you people? Do not talk to me as if we are friends."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 198,
+      "category": "opening story",
+      "english": [
+        "Huh? What do you mean? It is us! We are your friends!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 199,
+      "category": "opening story",
+      "english": [
+        "H-hey... Something is wrong. She does not seem to recognize us..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 70,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 76,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 82,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 88,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 94,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 100,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 108,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 114,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 120,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 144,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 150,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 156,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 175,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 213,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 233,
+      "category": "shared menu wording",
+      "english": [
+        "No requirements to\naccept this quest."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 2,
+      "category": "shared menu wording",
+      "english": [
+        "Yes, go there"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 2,
+      "start": 3,
+      "category": "shared menu wording",
+      "english": [
+        "No, stay here"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 3,
+      "category": "shared menu wording",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 50,
+      "category": "shared menu wording",
+      "english": [
+        "You have no farm goods."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 59,
+      "category": "shared menu wording",
+      "english": [
+        "Items"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 61,
+      "category": "shared menu wording",
+      "english": [
+        "Remaining"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 63,
+      "category": "shared menu wording",
+      "english": [
+        "Terrain Board"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 64,
+      "category": "shared menu wording",
+      "english": [
+        "Level"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 65,
+      "category": "shared menu wording",
+      "english": [
+        "MAX"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 18,
+      "start": 66,
+      "category": "shared menu wording",
+      "english": [
+        "BGM Board"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 3,
+      "category": "shared menu wording",
+      "english": [
+        "Yes, finish"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 4,
+      "category": "shared menu wording",
+      "english": [
+        "No, continue"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 7,
+      "category": "shared menu wording",
+      "english": [
+        "Yes, summon it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 8,
+      "category": "shared menu wording",
+      "english": [
+        "No, try again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 29,
+      "category": "shared menu wording",
+      "english": [
+        "Melody List"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 31,
+      "category": "shared menu wording",
+      "english": [
+        "x^0"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 33,
+      "category": "shared menu wording",
+      "english": [
+        "Alphabetical"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 34,
+      "category": "shared menu wording",
+      "english": [
+        "Species"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 35,
+      "category": "shared menu wording",
+      "english": [
+        "Quantity"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 36,
+      "category": "shared menu wording",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 44,
+      "category": "shared menu wording",
+      "english": [
+        "No, choose again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 47,
+      "category": "shared menu wording",
+      "english": [
+        "Yes, swap them"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 48,
+      "category": "shared menu wording",
+      "english": [
+        "No, choose again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 57,
+      "category": "shared menu wording",
+      "english": [
+        "^0/^1"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 58,
+      "category": "shared menu wording",
+      "english": [
+        "DigiScore List"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 59,
+      "category": "shared menu wording",
+      "english": [
+        "x^0 Fusion"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 60,
+      "category": "shared menu wording",
+      "english": [
+        "Sort Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 61,
+      "category": "shared menu wording",
+      "english": [
+        "Alphabetical"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 62,
+      "category": "shared menu wording",
+      "english": [
+        "Species"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 63,
+      "category": "shared menu wording",
+      "english": [
+        "GOOD Mark"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 64,
+      "category": "shared menu wording",
+      "english": [
+        "Close Menu"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 70,
+      "category": "shared menu wording",
+      "english": [
+        "No, choose again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 99,
+      "category": "shared menu wording",
+      "english": [
+        "Yes, finish"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 100,
+      "category": "shared menu wording",
+      "english": [
+        "No, continue"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 102,
+      "category": "shared menu wording",
+      "english": [
+        "Play Time"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 21,
+      "start": 103,
+      "category": "shared menu wording",
+      "english": [
+        "Melody"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 83,
+      "category": "opening story",
+      "english": [
+        "What's going on?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 84,
+      "category": "opening story",
+      "english": [
+        "What's going on?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 85,
+      "category": "opening story",
+      "english": [
+        "What's goin' ooon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 86,
+      "category": "opening story",
+      "english": [
+        "Enough! Be quiet! Stop babbling nonsense, all of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 87,
+      "category": "opening story",
+      "english": [
+        "Hey, Zenjiro! Starmon! Pickmons!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 88,
+      "category": "opening story",
+      "english": [
+        "Taiki Kudo! Everyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 89,
+      "category": "opening story",
+      "english": [
+        "Whoa, brothers! We're saved!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 90,
+      "category": "opening story",
+      "english": [
+        "Hooray! We're saved!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 91,
+      "category": "opening story",
+      "english": [
+        "That's our Taiki! So cool!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 92,
+      "category": "opening story",
+      "english": [
+        "Taiki-cool!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 94,
+      "category": "opening story",
+      "english": [
+        "Taiki!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 95,
+      "category": "opening story",
+      "english": [
+        "All right... let's go, everyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 96,
+      "category": "opening story",
+      "english": [
+        "Your Digimon's fate is in their General's hands! Give orders to your Digimon on the Touch Screen!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 97,
+      "category": "opening story",
+      "english": [
+        "Give orders using the Command Ring! Press Left or Right on the +Control Pad to rotate it, then press A to choose a command!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 98,
+      "category": "opening story",
+      "english": [
+        "Choose Fight for attacks that use no MP! Pick it when you want to save MP in battle."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 100,
+      "category": "opening story",
+      "english": [
+        "Choose DigiXross to combine Digimon! To use this command, you must know a DigiXross move and have all its required Digimon in your party."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 101,
+      "category": "opening story",
+      "english": [
+        "Choose Items to use consumables! They can cure paralysis, sleep, or confusion, restore HP or MP, and even revive fallen Digimon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 103,
+      "category": "opening story",
+      "english": [
+        "The Formation command swaps the Digimon giving the order with another Digimon in your party!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 105,
+      "category": "opening story",
+      "english": [
+        "Hear the explanation again?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 106,
+      "category": "opening story",
+      "english": [
+        "Explain again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 107,
+      "category": "opening story",
+      "english": [
+        "Go to battle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 108,
+      "category": "opening story",
+      "english": [
+        "All right, everyone! Here we go again! DigiXross!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 110,
+      "category": "opening story",
+      "english": [
+        "I knew you'd come to save us!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 111,
+      "category": "opening story",
+      "english": [
+        "We knew it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 112,
+      "category": "opening story",
+      "english": [
+        "Did we know it?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 113,
+      "category": "opening story",
+      "english": [
+        "We moo-knew it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 114,
+      "category": "opening story",
+      "english": [
+        "Who were those Digimon? They called themselves ROG...?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 115,
+      "category": "opening story",
+      "english": [
+        "Apparently they're a group of Digimon that's taken over this Zone. ROG... rogue... Going by that name, I'm guessing they're bad news!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 116,
+      "category": "opening story",
+      "english": [
+        "That's right, brother! Definitely bad news!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 117,
+      "category": "opening story",
+      "english": [
+        "Rooogue! Sounds villainous!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 118,
+      "category": "opening story",
+      "english": [
+        "We'll worry about ROG later. Hey, Zenjiro, have you seen Akari?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 119,
+      "category": "opening story",
+      "english": [
+        "Huh?! I've only found the Pickmons since arriving here... Isn't she with you?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 120,
+      "category": "opening story",
+      "english": [
+        "That's worrying... I was thrown here without a clue what was happening. Until I met the Pickmons falling from the sky, I thought I was done for! Alone again, no weapon, and this place is full of vicious Digimon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 121,
+      "category": "opening story",
+      "english": [
+        "Vicious Digimon?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 122,
+      "category": "opening story",
+      "english": [
+        "Yeah, more of them attack you here than in other Zones. We can't leave a girl alone in a place like this!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 123,
+      "category": "opening story",
+      "english": [
+        "You're right. Come on, everyone! Let's find Akari and the others!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 124,
+      "category": "opening story",
+      "english": [
+        "Zenjiro, Starmon, and the Pickmons joined you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 126,
+      "category": "opening story",
+      "english": [
+        "H-hey, Dorulumon! Isn't that enough? Let's just run away without fighting. Please? Please?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 127,
+      "category": "opening story",
+      "english": [
+        "Fine by me, but they seem eager to fight. Stand back, Cutemon. I'll finish this quickly."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 128,
+      "category": "opening story",
+      "english": [
+        "Hand over all the items you've collected! To think anyone still dares defy ROG, rulers of Elestou Zone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 129,
+      "category": "opening story",
+      "english": [
+        "He's obviously bluffing! He'll turn tail and run soon enough... if he still has a tail by then!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 131,
+      "category": "opening story",
+      "english": [
+        "Hey, you lot! Stop it, it's dangerous! Don't make Dorulumon angry!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 132,
+      "category": "opening story",
+      "english": [
+        "...Hold on a moment. You're making me sound like the villain here."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 133,
+      "category": "opening story",
+      "english": [
+        "Hey, Akari! Dorulumon! Cutemon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 134,
+      "category": "opening story",
+      "english": [
+        "Everyone!! Perfect timing! Hurry and do something about these guys!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 135,
+      "category": "opening story",
+      "english": [
+        "What's wrong, Akari? There's no danger worth getting so worked up over."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 136,
+      "category": "opening story",
+      "english": [
+        "You don't get it, Dorulumon. YOU are the danger!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 138,
+      "category": "opening story",
+      "english": [
+        "We'll squash the lot of you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 139,
+      "category": "opening story",
+      "english": [
+        "All right, everyone! Let's help Akari and the others!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 140,
+      "category": "opening story",
+      "english": [
+        "Move the cursor with the +Control Pad. Select the Digimon you want to command, then press A to open the Command Ring!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 142,
+      "category": "opening story",
+      "english": [
+        "Hear the explanation again?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 143,
+      "category": "opening story",
+      "english": [
+        "Explain again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 144,
+      "category": "opening story",
+      "english": [
+        "Go to battle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 145,
+      "category": "opening story",
+      "english": [
+        "All right, everyone! Here we go again! DigiXross!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 146,
+      "category": "opening story",
+      "english": [
+        "Are you all right, Akari?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 147,
+      "category": "opening story",
+      "english": [
+        "Ha... hahaha... I'm perfectly fine! Of course!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 148,
+      "category": "opening story",
+      "english": [
+        "You're smiling, but your cheeks are twitching, kyu..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 149,
+      "category": "opening story",
+      "english": [
+        "I've been dragged into so much trouble all at once... I can't decide whether to laugh or get mad! Oh, right, I almost forgot. Here, Taiki."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 150,
+      "category": "opening story",
+      "english": [
+        "Got consumable items! Bandage x3"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 151,
+      "category": "opening story",
+      "english": [
+        "Got consumable items! Energy Source x3"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 153,
+      "category": "opening story",
+      "english": [
+        "That'll help a lot! Nice work, Akari!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 154,
+      "category": "opening story",
+      "english": [
+        "Huh? Those guys...? Oh, ROG! Those crooks! So where did you get the items?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 155,
+      "category": "opening story",
+      "english": [
+        "The Digimon around here dropped them when they were defeated. Dorulumon took down every one that attacked us! Well, they dropped them... or he made them drop them... sent them flying, really! Enemies kept swarming us, and Dorulumon went on a rampage! I honestly thought we wouldn't make it!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 156,
+      "category": "opening story",
+      "english": [
+        "Use those when your Digimon are running low. Press START or X to open the Xros Loader menu, then choose Items. You can also use them from the Command Ring during battle."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 157,
+      "category": "opening story",
+      "english": [
+        "Got it. I'll remember."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 158,
+      "category": "opening story",
+      "english": [
+        "Huh? You're just going to ignore everything I went through?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 159,
+      "category": "opening story",
+      "english": [
+        "I have to save them... I have to save everyone in Elestou Zone... Whatever it takes... I have to..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 160,
+      "category": "opening story",
+      "english": [
+        "That was... the voice from before!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 161,
+      "category": "opening story",
+      "english": [
+        "...Hey, Taiki. What's wrong all of a sudden?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 162,
+      "category": "opening story",
+      "english": [
+        "I heard it much more clearly this time! They must be close!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 163,
+      "category": "opening story",
+      "english": [
+        "Close...? Who are you talking about?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 164,
+      "category": "opening story",
+      "english": [
+        "I... don't know. But I heard them just now. They sounded desperate! It's definitely the same voice!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 165,
+      "category": "opening story",
+      "english": [
+        "It must be whoever brought us here from the jungle. They keep saying they have to save someone. They need our help! I can't just leave them like that!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 167,
+      "category": "opening story",
+      "english": [
+        "Please, everyone! I want to help them!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 168,
+      "category": "opening story",
+      "english": [
+        "Of course I'm coming, Taiki! I'm always with you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 169,
+      "category": "opening story",
+      "english": [
+        "I don't understand what you're talking about... but fine. I'll help. Lead the way, Taiki."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 170,
+      "category": "opening story",
+      "english": [
+        "I'll come along too, then. Just don't do anything too reckless, all right?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 171,
+      "category": "opening story",
+      "english": [
+        "Th-thanks, everyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 172,
+      "category": "opening story",
+      "english": [
+        "Akari, Cutemon, and Dorulumon joined you!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 187,
+      "category": "opening story",
+      "english": [
+        "Hear the explanation again?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 188,
+      "category": "opening story",
+      "english": [
+        "Explain again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 189,
+      "category": "opening story",
+      "english": [
+        "Go to battle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 1,
+      "start": 190,
+      "category": "opening story",
+      "english": [
+        "All right, everyone! Here we go again! DigiXross!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 100,
+      "category": "opening story",
+      "english": [
+        "It is no use, Spadamon! Do you think you can escape? ROG already controls Elestou Zone! Our commander Minotaurmon has taken over Sky Fort! There is nothing you can do! Your only choice is to obey ROG!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 101,
+      "category": "opening story",
+      "english": [
+        "S-stop it! Just leave me alone! I do not know anything about what you ROG invaders are looking for! Please, go away!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 102,
+      "category": "opening story",
+      "english": [
+        "That is him!! Everyone, help that Digimon! He was the one asking me for help! We cannot leave him!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 104,
+      "category": "opening story",
+      "english": [
+        "He still had allies?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 105,
+      "category": "opening story",
+      "english": [
+        "No, we should have captured all his allies already..."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 106,
+      "category": "opening story",
+      "english": [
+        "Then who are they?! Some of them do not even look like Digimon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 107,
+      "category": "opening story",
+      "english": [
+        "Whoever they are, it does not matter! We will show them how foolish it is to defy ROG!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 108,
+      "category": "opening story",
+      "english": [
+        "Um... Taiki? Sorry to interrupt, but you are going to help someone you do not even know?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 109,
+      "category": "opening story",
+      "english": [
+        "How could I ignore someone in trouble right in front of me?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 111,
+      "category": "opening story",
+      "english": [
+        "If you want to hurt him, you will have to face us!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 112,
+      "category": "opening story",
+      "english": [
+        "Think about your formation to gain an advantage! The Digimon attacking in the middle are your vanguard. Their Fight attacks deal heavy damage, and they can use powerful DigiXross moves!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 113,
+      "category": "opening story",
+      "english": [
+        "The Digimon below the vanguard are your rearguard. They support you without being hit by enemy attacks. But they cannot use DigiXross moves, and their Fight attacks only deal half the vanguard's damage. You cannot place Digimon in the rearguard unless there is a vanguard!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 114,
+      "category": "opening story",
+      "english": [
+        "Hear the explanation again?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 115,
+      "category": "opening story",
+      "english": [
+        "Explain again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 116,
+      "category": "opening story",
+      "english": [
+        "Go to battle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 117,
+      "category": "opening story",
+      "english": [
+        "All right, everyone! Here we go again! DigiXross!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 118,
+      "category": "opening story",
+      "english": [
+        "Whew... That was scary... Thank you for saving me... Um... Who are you? A-are you another enemy coming after me?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 119,
+      "category": "opening story",
+      "english": [
+        "Huh...? Did you not call us here...?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 129,
+      "category": "opening story",
+      "english": [
+        "I don't know who you are, but stop ordering me around! I'm escaping with my friends! I'm not going with anyone!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 130,
+      "category": "opening story",
+      "english": [
+        "Wh-what is this...?!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 131,
+      "category": "opening story",
+      "english": [
+        "Did that do it?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 132,
+      "category": "opening story",
+      "english": [
+        "All right! Round them all up!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 133,
+      "category": "opening story",
+      "english": [
+        "We'll show you what happens to anyone who defies ROG!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 134,
+      "category": "opening story",
+      "english": [
+        "Hmph... I expected more of a fight. Even with a surprise attack, that was almost too easy."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 136,
+      "category": "opening story",
+      "english": [
+        "A-are you all right?! Hey, hang in there!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 137,
+      "category": "opening story",
+      "english": [
+        "We'll get caught at this rate! S-sorry!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 138,
+      "category": "opening story",
+      "english": [
+        "One got away! Is that all right?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 139,
+      "category": "opening story",
+      "english": [
+        "You expect me to do everything? We had to take down the strong ones first, or we'd be in trouble! Spadamon can wait. We've caught all his friends. He'll come back to rescue them soon enough."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 140,
+      "category": "opening story",
+      "english": [
+        "Carry them inside Sky Fort!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 141,
+      "category": "opening story",
+      "english": [
+        "Taiki!\nTaiki, wake up!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 142,
+      "category": "opening story",
+      "english": [
+        "Oh, good!\nYou are all okay.\nI dreamed some bad guys\nhad captured Akari."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 149,
+      "category": "opening story",
+      "english": [
+        "What do you mean?\nWe rescue them, of course!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 161,
+      "category": "opening story",
+      "english": [
+        "Someone is coming!\nStay right where you are!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 162,
+      "category": "opening story",
+      "english": [
+        "Hey, you lot!\nI brought your friends!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 164,
+      "category": "opening story",
+      "english": [
+        "Shoutmon! Are you okay?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 166,
+      "category": "opening story",
+      "english": [
+        "Shoutmon?\nAre you okay!?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 169,
+      "category": "opening story",
+      "english": [
+        "Shoutmon!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 190,
+      "category": "opening story",
+      "english": [
+        "Your Digimon's fate is in their General's hands! Give orders to your Digimon on the Touch Screen!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 191,
+      "category": "opening story",
+      "english": [
+        "Give orders using the Command Ring! Press Left or Right on the +Control Pad to rotate it, then press A to choose a command!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 192,
+      "category": "opening story",
+      "english": [
+        "Choose Fight for attacks that use no MP! Pick it when you want to save MP in battle."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 193,
+      "category": "opening story",
+      "english": [
+        "Choose Special for special moves that use MP! Some hit groups of enemies, while others deal elemental damage. Hit an enemy with an element it is weak against to deal double damage!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 195,
+      "category": "opening story",
+      "english": [
+        "Choose Items to use consumables! They can cure paralysis, sleep, or confusion, restore HP or MP, and even revive fallen Digimon!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 197,
+      "category": "opening story",
+      "english": [
+        "The Formation command swaps the Digimon giving the order with another Digimon in your party!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 198,
+      "category": "opening story",
+      "english": [
+        "One last thing to remember! Press B to change your orders. When you're ready, press X to begin the turn!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 2,
+      "start": 199,
+      "category": "opening story",
+      "english": [
+        "Hear the explanation again?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 0,
+      "category": "opening story",
+      "english": [
+        "Explain again"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 1,
+      "category": "opening story",
+      "english": [
+        "Go to battle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 2,
+      "category": "opening story",
+      "english": [
+        "All right, everyone! Here we go again! DigiXross!!"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 9,
+      "start": 4,
+      "category": "opening story",
+      "english": [
+        "........."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 169,
+      "category": "opening story",
+      "english": [
+        "Yes, return"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 170,
+      "category": "opening story",
+      "english": [
+        "No, stay here"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 96,
+      "category": "opening story",
+      "english": [
+        "Yes, go there"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 97,
+      "category": "opening story",
+      "english": [
+        "No, stay here"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 101,
+      "category": "opening story",
+      "english": [
+        "Yes, go there"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 102,
+      "category": "opening story",
+      "english": [
+        "No, stay here"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 127,
+      "category": "opening story",
+      "english": [
+        "Yes, go there"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 128,
+      "category": "opening story",
+      "english": [
+        "No, stay here"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 132,
+      "category": "opening story",
+      "english": [
+        "Yes, go there"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 133,
+      "category": "opening story",
+      "english": [
+        "No, stay here"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 142,
+      "category": "opening story",
+      "english": [
+        "Choose Fight for attacks that use no MP! Pick it when you want to save MP in battle."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 14,
+      "start": 122,
+      "category": "opening story",
+      "english": [
+        "Check the Quest Monitor?"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 100,
+      "category": "opening story",
+      "english": [
+        "Yes, check it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 101,
+      "category": "opening story",
+      "english": [
+        "No, leave it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 122,
+      "category": "opening story",
+      "english": [
+        "........."
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 184,
+      "category": "opening story",
+      "english": [
+        "Dark"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 25,
+      "start": 195,
+      "category": "opening story",
+      "english": [
+        "Digimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 67,
+      "category": "opening story",
+      "english": [
+        "Yes, check it"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 68,
+      "category": "opening story",
+      "english": [
+        "No, leave it"
+      ]
+    }
+  ]
+}

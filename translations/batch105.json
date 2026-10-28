@@ -1,0 +1,4 @@
+{
+  "description": "Font compatibility fix: compact English Digidex display glyphs in their native fullwidth Latin slots, preserving Japanese nicknames from existing saves in party and status screens.",
+  "blocks": []
+}

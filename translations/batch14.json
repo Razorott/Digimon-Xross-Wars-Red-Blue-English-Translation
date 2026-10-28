@@ -1,0 +1,2150 @@
+{
+  "description": "Reviewed quests, NPC dialogue, DigiFarm, moves, items and formal names.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 121,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Lilamon in\nSkull City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 124,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Give it to Puppetmon\nin Dark Tunnel."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 125,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Lilamon\nin Skull City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 126,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meteorite and Puppetmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 127,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find the meteorite\nPuppetmon wants."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 128,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Gentle Sunflowmon\nis on the farm."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 129,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Parrotmon in\nSkull City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 132,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Give it to ToyAgumon\nin Dark Tunnel."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 133,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Parrotmon\nin Skull City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 134,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Meteorite and ToyAgumon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 135,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find the meteorite\nToyAgumon wants."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 136,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Gentle Garudamon\nis on the farm."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 137,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to ToyAgumon\nin the Front Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 139,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Deliver the wrapped\ngift at Knuckle\nCoast East."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 140,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Get Lopmon\nautograph beside\nTerriermon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 141,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Give it to ToyAgumon\nin the Front Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 142,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Rising Idols!\nTerriermon & Lopmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 143,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Deliver a gift to\nnew idol duo\nTeriLop."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 145,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Kabukimon\nin Kumonos City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 147,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Kabukimon\nin Kumonos City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 148,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "VS Lucemon FDM\n& Knightmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 151,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Knightmon\nin Kumonos City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 153,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Knightmon\nin Kumonos City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 154,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "VS Kabukimon\n& Shurimon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 157,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Reppamon\nin Guruguru City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 158,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Dinobeemon in\nGuruguru Amazon W."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 159,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Reppamon\nin Guruguru City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 160,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "An Insect Idol?\nDinobeemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 161,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find and interview\nDinobeemon!"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 162,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Cool Snimon is\non the expedition\nteam."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 163,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Drimogemon\nin Guruguru City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 164,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Paildramon in\nGuruguru Amazon W."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 165,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Drimogemon\nin Guruguru City."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 166,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Beast Idol?\nPaildramon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 167,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find and interview\nPaildramon!"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 168,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Cool Ankylomon\nis on the\nexpedition team."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 169,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Dorumon in\nthe Front Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 170,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the\nsound in Guruguru\nAmazon West."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 171,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Convince\nShogunGekomon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 172,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Dorumon\nin the Front Room."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 173,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Singing Lord\nand His Servants"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 174,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find the source\nof the noise in\nGuruguru Amazon."
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Quest text from Japanese; Western species names checked in official English card list where available."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini\nshower...\nDo I have to\nget\nunder it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "That feels\ngreat!\nMy first shower\nin ages! My EXP\nwent up, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "I hate showers.\nI just get wet.\nI won't die if\nI skip one..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "A little\nfishing\npond! Think I\ncan\ncatch anything?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wow! Fish after\nfish! My EXP is\nshooting up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "Not even a\nnibble.\nAre there any\nfish in here?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "Am I supposed\nto\ntrain under\nthis\nwaterfall?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "Forget about\nEXP.\nJust stand\nunder\nthe falls...\nand\nEXP will\nfollow!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ow, this hurts!\nI can't\nbreathe,\nand it's\nfreezing!\nWhat's the\npoint?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "What a pretty\nflower. It\nsmells\ngood, too."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "Its sweet scent\nand beauty\ncalmed\nme down. I\nthink\nmy EXP went up."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "Achoo! Ah-choo!\nIs that\npollen!?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hey, a\ntreehouse!\nLooks cozy.\nI'll\ntake a peek."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "I love the calm\nfeeling here.\nMy\nEXP went up a\nlot."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hmm... This\nisn't\nfor me. Maybe a\nforest fairy\ncould\nlive here."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "A computer!\nI'll\ngo online and\nsee\nwhat's out\nthere!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "I found rare\ninfo!\nMy EXP went up\nwhile I\nsearched!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "Between us... I\npretended to\nknow.\nWhat's the\ninternet?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 0,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "A solar panel?\nHow does this\nthing work?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm report in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "He's\nembarrassed!\nI thought he\nwas\ngloomy at\nfirst,\nbut Spadamon's\npretty funny."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait a second.\nI'll open it."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait a second.\nI'll open it."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Things are\ngoing\npretty well so\nfar..."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Will you name\nthis Farm\nIsland\ntoo?"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Taiki!\nThat's a great\nname. We can\nalso\naccess more of\nthe\nDigiScore\nfolder."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "Now we can use\nmore\nDigiFusion!\nStill, getting\nthese towers to\nwork is a pain."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "I-I can't help\nit!\nI don't know\nhow\nthis works\neither!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "True. The\ntower's\na mystery. How\ndo\nyou work that\npanel, anyway?"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't know. I\njust somehow\nknow\nwhat to do...\nIs\nit tied to my\nmemories?"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "Maybe. Don't\nworry too much\nabout it."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "It's noisy\noutside\nagain. Let's go\nsee what's up."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "Hanumon!? You\ncame for us!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Spadamon!\nGanimon told\nme.\nThanks for\ngetting\nthe tower\ngoing!\nIt feels like\nwe're home\nagain!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "You lived here?"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 13,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "He's this\narea's\nleader. When\nROG\nattacked,\nHanumon\nand his group\nfought to the\nend!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "West Knuckle\nCity\nmeans\nPenguinmon's\nItem Shop! The\nW\nstands for\nwonderful\nwares!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to West\nKnuckle City's\nFarm Shop!\nYeah!\nLove you! Boom!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to West\nKnuckle City's\nFarm Shop!\nYeah!\nLove you! Boom!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "I thought we'd\nnever come\nback.\nROG even took\nSky Fort. Thank\nyou, Taiki and\nSpadamon!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "You found your\nlittle friend?\nGood! He was\njust playing?\nI didn't expect\nthat..."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "Another lost\nfriend found?\nGood! More\nallies\nmake you\nstronger.\nTake care of\nthem."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "You know where\nyour missing\nfriend is?\nThere\naren't many\nplaces\nto hide someone\nin this zone."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "Still looking\nfor\nyour friend? At\nleast you've\nfound\na way toward\nthe\nruins where\nhe's\ntrapped."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "You rescued\nyour\nfriend? Well\ndone!\nI'm impressed."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Earth Fort?\nMaybe\nit's\nunderground.\nI know the\nwater,\nnot the earth."
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "In East Knuckle\nCity,\nPenguinmon's\nItem Shop sells\nexcellent\ngoods!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to East\nKnuckle City's\nFarm Shop!\nYeah!\nWant you! Boom!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to East\nKnuckle City's\nFarm Shop!\nYeah!\nWant you! Boom!"
+      ],
+      "sources": [],
+      "review_note": "Story or NPC dialogue in fixed 15-column text cells."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1376,
+      "category": "Battle moves",
+      "english": [
+        "Petrifier"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2652,
+      "category": "Battle moves",
+      "english": [
+        "Petrifier"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1377,
+      "category": "Battle moves",
+      "english": [
+        "Pollen Spray"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card names this Japanese technique Pollen Spray."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2653,
+      "category": "Battle moves",
+      "english": [
+        "Pollen Spray"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Official English card names this Japanese technique Pollen Spray."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1378,
+      "category": "Battle moves",
+      "english": [
+        "Sing a Song"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2654,
+      "category": "Battle moves",
+      "english": [
+        "Sing a Song"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1379,
+      "category": "Battle moves",
+      "english": [
+        "Healing Spring"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2655,
+      "category": "Battle moves",
+      "english": [
+        "Healing Spring"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1380,
+      "category": "Battle moves",
+      "english": [
+        "Saint Heal"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2656,
+      "category": "Battle moves",
+      "english": [
+        "Saint Heal"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1381,
+      "category": "Battle moves",
+      "english": [
+        "Final Heal"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2657,
+      "category": "Battle moves",
+      "english": [
+        "Final Heal"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1382,
+      "category": "Battle moves",
+      "english": [
+        "MedicalSystem"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2658,
+      "category": "Battle moves",
+      "english": [
+        "MedicalSystem"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1383,
+      "category": "Battle moves",
+      "english": [
+        "Gaia Healing"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2659,
+      "category": "Battle moves",
+      "english": [
+        "Gaia Healing"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1384,
+      "category": "Battle moves",
+      "english": [
+        "Mental Cure"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2660,
+      "category": "Battle moves",
+      "english": [
+        "Mental Cure"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1385,
+      "category": "Battle moves",
+      "english": [
+        "Power of Love"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2661,
+      "category": "Battle moves",
+      "english": [
+        "Power of Love"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1386,
+      "category": "Battle moves",
+      "english": [
+        "Water of Life"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2662,
+      "category": "Battle moves",
+      "english": [
+        "Water of Life"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1387,
+      "category": "Battle moves",
+      "english": [
+        "Dark Savior"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2663,
+      "category": "Battle moves",
+      "english": [
+        "Dark Savior"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1388,
+      "category": "Battle moves",
+      "english": [
+        "Electric Shock"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2664,
+      "category": "Battle moves",
+      "english": [
+        "Electric Shock"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1389,
+      "category": "Battle moves",
+      "english": [
+        "Healing Air"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2665,
+      "category": "Battle moves",
+      "english": [
+        "Healing Air"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1390,
+      "category": "Battle moves",
+      "english": [
+        "Shining Heal"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2666,
+      "category": "Battle moves",
+      "english": [
+        "Shining Heal"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1391,
+      "category": "Battle moves",
+      "english": [
+        "Purification"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2667,
+      "category": "Battle moves",
+      "english": [
+        "Purification"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1392,
+      "category": "Battle moves",
+      "english": [
+        "Nanomech Heal"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2668,
+      "category": "Battle moves",
+      "english": [
+        "Nanomech Heal"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1393,
+      "category": "Battle moves",
+      "english": [
+        "Kusanagi"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2669,
+      "category": "Battle moves",
+      "english": [
+        "Kusanagi"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1395,
+      "category": "Battle moves",
+      "english": [
+        "Master Fire"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2671,
+      "category": "Battle moves",
+      "english": [
+        "Master Fire"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1396,
+      "category": "Battle moves",
+      "english": [
+        "Eternal Nirvana"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2328,
+      "category": "Battle moves",
+      "english": [
+        "Eternal Nirvana"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1397,
+      "category": "Battle moves",
+      "english": [
+        "Extreme Jihad"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2323,
+      "category": "Battle moves",
+      "english": [
+        "Extreme Jihad"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1399,
+      "category": "Battle moves",
+      "english": [
+        "Rainbow Symphony"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2398,
+      "category": "Battle moves",
+      "english": [
+        "Rainbow Symphony"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1400,
+      "category": "Battle moves",
+      "english": [
+        "Sharpness Claymore"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2399,
+      "category": "Battle moves",
+      "english": [
+        "Sharpness Claymore"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1401,
+      "category": "Battle moves",
+      "english": [
+        "Freezing Blizzard"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2400,
+      "category": "Battle moves",
+      "english": [
+        "Freezing Blizzard"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1406,
+      "category": "Battle moves",
+      "english": [
+        "Death Arrow"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2682,
+      "category": "Battle moves",
+      "english": [
+        "Death Arrow"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1419,
+      "category": "Battle moves",
+      "english": [
+        "Hung on Death"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2695,
+      "category": "Battle moves",
+      "english": [
+        "Hung on Death"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1421,
+      "category": "Battle moves",
+      "english": [
+        "Grey Sword"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2697,
+      "category": "Battle moves",
+      "english": [
+        "Grey Sword"
+      ],
+      "sources": [],
+      "review_note": "Working translation from Japanese; exact Western match unverified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1424,
+      "category": "Battle moves",
+      "english": [
+        "Invincible Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2417,
+      "category": "Battle moves",
+      "english": [
+        "Invincible Sword"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1425,
+      "category": "Battle moves",
+      "english": [
+        "Empress Haze"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2701,
+      "category": "Battle moves",
+      "english": [
+        "Empress Haze"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/joaomlsantos/Digimon-World-Dawn-Dusk-Research-Notes/master/move_name_lst.txt"
+      ],
+      "review_note": "Exact matching name appears in English Dawn/Dusk data; Japanese meaning cross-checked."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3909,
+      "category": "Items and equipment",
+      "english": [
+        "Gram"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3910,
+      "category": "Items and equipment",
+      "english": [
+        "Death Lure"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3929,
+      "category": "Items and equipment",
+      "english": [
+        "LS Sword"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3979,
+      "category": "Items and equipment",
+      "english": [
+        "JST Scarf"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3980,
+      "category": "Items and equipment",
+      "english": [
+        "Eba Helmet"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3981,
+      "category": "Items and equipment",
+      "english": [
+        "Armage Helm"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3982,
+      "category": "Items and equipment",
+      "english": [
+        "A-Wise Robe"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3993,
+      "category": "Items and equipment",
+      "english": [
+        "Dondoko Headband"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4009,
+      "category": "Items and equipment",
+      "english": [
+        "GAKU-RAN"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4014,
+      "category": "Items and equipment",
+      "english": [
+        "Purge Shine"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Purge Shine matches Bandai English card title."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4018,
+      "category": "Items and equipment",
+      "english": [
+        "Scale"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4019,
+      "category": "Items and equipment",
+      "english": [
+        "Belt Machine"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4020,
+      "category": "Items and equipment",
+      "english": [
+        "Running Machine"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4021,
+      "category": "Items and equipment",
+      "english": [
+        "Crystal Ball"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4022,
+      "category": "Items and equipment",
+      "english": [
+        "Tarot Cards"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4023,
+      "category": "Items and equipment",
+      "english": [
+        "Pyramid"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4024,
+      "category": "Items and equipment",
+      "english": [
+        "Sandbag"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4025,
+      "category": "Items and equipment",
+      "english": [
+        "Training Log"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4026,
+      "category": "Items and equipment",
+      "english": [
+        "Giant Rock"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4027,
+      "category": "Items and equipment",
+      "english": [
+        "Punching Machine"
+      ],
+      "sources": [],
+      "review_note": "Equipment or farm item working translation from Japanese."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1025,
+      "category": "Locations",
+      "english": [
+        "Pickmon (Sunglasses)"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1028,
+      "category": "Locations",
+      "english": [
+        "Bombmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1031,
+      "category": "Locations",
+      "english": [
+        "Shoutmon X4B"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1034,
+      "category": "Locations",
+      "english": [
+        "Shoutmon (Black)"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1035,
+      "category": "Locations",
+      "english": [
+        "Greymon (Orange)"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1036,
+      "category": "Locations",
+      "english": [
+        "SkullKnightmon (Black/Red)"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1041,
+      "category": "Locations",
+      "english": [
+        "Shoutmon X3GM"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1042,
+      "category": "Locations",
+      "english": [
+        "Shoutmon X3SD"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1043,
+      "category": "Locations",
+      "english": [
+        "Shoutmon X4S"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1046,
+      "category": "Locations",
+      "english": [
+        "Shoutmon X5S"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1044,
+      "category": "Locations",
+      "english": [
+        "GreyKnightsmon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "Western species stem follows Bandai English names; game-only variant qualifier retained literally."
+    }
+  ]
+}

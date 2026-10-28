@@ -1,0 +1,1123 @@
+{
+  "description": "Translate Dynasmon's restoration of Spadamon's memories, the Armamon reveal, and Dynasmon's farewell in MESPAK02 entry 10.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, let me give you your final memory... The one I kept safe for you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "Wait, Spadamon! Can we really trust him...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon's full power has been restored!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, are you all right?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "Dynasmon...! I finally remember!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "It's been a long time, Spadamon. Now show me the strength of the friends you chose."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Y-yes! With Xros Heart, I'm sure we can protect Elestou Zone!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Spadamon, what's going on?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "The final test... I'll do my best!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "A test? What kind of test is that?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Team Xros Heart! I won't go easy on you... Give it everything you've got!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Damn! I don't know what's going on, but we'll give this everything we've got!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon, you passed. You've grown so strong... Truly strong."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "What was that for?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Explain yourself! What did we pass?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "...How much do you know about the Weapon Digimon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "They have enough power to destroy the world, and they're sealed in Lost Space for some reason... Barbamon called one Armamon. That's all we know."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "You're not wrong, but there's a misunderstanding. Armamon isn't the only Weapon Digimon in this Zone. Spadamon is one of the few who survived."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon is a Weapon Digimon?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Long ago, many Weapon Digimon lived in this Zone. They chose warriors they trusted as partners and fought alongside them to protect the Zone. Spadamon was the youngest among them, so I sealed his memories to protect him from the invaders."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... So that's why Spadamon could activate the towers..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Maybe Dynasmon..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "No, I doubt it. Only the administrator could open the towers, right? Maybe Dynasmon locked them so only Spadamon could open the doors..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "As expected of the boy Spadamon chose. The only way to protect young Spadamon from the invaders was to make him stronger. I set the doors to open as he grew... Everything was meant to train him."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Dynasmon! Weren't you the warrior who was supposed to protect this Zone? Didn't you have an incredibly powerful Weapon Digimon partner?! Why didn't you fight?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Calm down, Shoutmon! There must be a reason."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Right, Dynasmon? I sensed the warmth in your heart, how you wanted to protect Spadamon. There's no way someone like you would hide here alone without a reason!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "Th-that's right, Taiki... Dynasmon..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "...During the long war to protect this Zone, I once had the strongest Weapon Digimon as my partner. But it became consumed by its own power and forgot its mission to protect the Zone... That Digimon was Armamon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "I sealed the rampaging Armamon, but my Digicore was badly damaged. Now I can only keep my data intact by using energy from the Capacitor System... If I leave here, my data will disappear..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "I see... I'm sorry, Dynasmon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "It's all right, Shoutmon. Because you trained Spadamon, hope has returned to Elestou Zone. Please stop Barbamon before he revives Armamon... I beg you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "I want to ask you again, too... I want to save this Zone and everyone in it! Please, fight alongside me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "Of course! You didn't even have to ask, Spadamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "What are you talking about, Spadamon?! You've been our friend for ages!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Th-thank you... Both of you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "I can't just leave Elestou Zone in danger! I'll stop Barbamon, no matter what!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 37,
+      "category": "Story and dialogue",
+      "english": [
+        "Leave it to us! We'll bring peace back to this Zone!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Thank you, everyone. I truly appreciate it... Spadamon, restore this Capacitor System so we can deactivate Sky Fort's protective field."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "The protective field has been deactivated!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Now we can go help everyone in Sky Fort!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 42,
+      "category": "Story and dialogue",
+      "english": [
+        "You did it, Taiki! Let's head back right away!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Also, a Digimon was looking for you, so I called them here to Elestou Zone."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Could it be...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "...Beelzemon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Shoutmon! You're safe!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "...Who is that? A friend of yours, Taiki?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "This Digimon is your friend, isn't he? I found him searching for you in another Zone, so I pulled him here."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hey, Taiki? I just realized... Maybe we were brought here, too..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah, probably. Dynasmon brought us here to help Spadamon... Well, that's all right, I guess."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "R-right! And we got to meet Spadamon because of it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Beelzemon! We're fighting some bad guys in this Zone. Help us protect its Digimon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Heh. Still helping people, as always. If you're asking, I'll gladly lend a hand."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Beelzemon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Thank you, Dynasmon... And thank you, Taiki and Shoutmon..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "It's all right, Dynasmon. I just couldn't leave you in trouble."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "That's our Taiki! The best General!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Until ROG is defeated and this Zone is reclaimed, no one can travel to another Zone. That means you can't go home, either."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! You dragged me here without asking, and now you say I can't leave? What am I supposed to do here?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Beelzemon, wait for us at Earth Fort, east of Crystal Volcano. We'll be there soon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "...Understood. I'll wait there."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Beelzemon, if you can... Would you fight alongside us?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "I don't have anything else to do, so I can help. Call if you need me... See you."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "We don't have much time... If you need other allies, I can bring them here, too."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "You make it sound like a mail-order service..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "What about Nene? Can you find her? Barbamon sent her somewhere..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "...I see. Wait a moment while I check."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "It seems she's outside the range of my power."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "What does that mean?! Is she just missing, or could she already be...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "I checked the data from when she was sent away... There was no corruption, loss, or damage. She is probably safe. But I'll have to investigate to learn where she went..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "That's all right, Dynasmon. Thank you. Knowing she's safe is enough for now."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "...I see."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Dynasmon?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "Wh-what's wrong?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "...At last... It seems... the time... has come... for me... to go..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "Go...? What do you mean?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "D-Dynasmon! Your data...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "When you say 'go'... Do you mean you're disappearing?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "Why are you disappearing now?! We still need you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "...Dynasmon was keeping his data alive with this system's energy. Now that the system is running again, he'll disappear...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "You... You knew that, and still..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Spada...mon... Xros...Heart... I... entrust... them... to you..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Thank you, Dynasmon..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "...Taiki, let's return to Earth Fort. Things have probably changed by now."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 10,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous Dynasmon memory-reveal scene. The Weapon Digimon origin, Spadamon's sealed memory, tower access, Beelzemon's arrival, and Dynasmon's data dependence are kept consistent with the preceding scene."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Graphics audit at batch 103
+
+The build applies 229 localized visual states from `graphics_manifest.json`. These include both title logos, the illustrated intro logo and nine caption frames, DigiLab icons, title and pause menus, status tabs, battle badges, quest results, and several DigiFarm and shop headings. The manifest counts animation states, not unique screens or a percentage of all graphics.
+
+The title logos and selected menu, battle, DigiLab, farm, and status states were previewed at native resolution in earlier batches. Batch 103 adds no new graphic edits. It changes the Digidex list-name rendering through the font and text table, and the screenshot from the supplied save shows those names in English.
+
+For this audit, `tools/audit_bg_contact.py` rendered 233 indexed `BG_NCGR`/`BG_NCLR`/`BG_NSCR` combinations into `build/graphics/bg_audit/bg_00.png` through `bg_09.png` without decoder errors. Entries 23 and 33–41 show the localized illustrated opening logo and captions. Many other entries show tiles laid out as atlases, partial layers, or incorrect color combinations when paired by index; those contact sheets do not represent finished game screens. Japanese lettering is visible in some atlas renders around indices 58–66 and 84–92, but its runtime context and exact layer pairing are unresolved. Editing those raw atlases without confirming their in-game appearance risks corrupting other screens.
+
+Remaining visual QA: capture those background layers in play, identify any visible Japanese text, translate it in its actual context, and recheck both versions. A complete story, quest, battle, DigiLab, Farm Island, Digidex, and postgame playthrough is also still needed. Until then, there is no defensible whole-game graphics or completion percentage. The verified 100% figure refers only to the extracted message-slot inventory.

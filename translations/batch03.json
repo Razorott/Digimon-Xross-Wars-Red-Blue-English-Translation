@@ -1,0 +1,2624 @@
+{
+  "description": "Verified Western Digimon spellings and matched US Dawn/Dusk battle move names.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 180,
+      "category": "Digimon name",
+      "english": [
+        "Kuramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 653,
+      "category": "Digimon name",
+      "english": [
+        "Kuramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 181,
+      "category": "Digimon name",
+      "english": [
+        "Calumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 654,
+      "category": "Digimon name",
+      "english": [
+        "Calumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 182,
+      "category": "Digimon name",
+      "english": [
+        "Monodramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 655,
+      "category": "Digimon name",
+      "english": [
+        "Monodramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 184,
+      "category": "Digimon name",
+      "english": [
+        "Veemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 631,
+      "category": "Digimon name",
+      "english": [
+        "Veemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 657,
+      "category": "Digimon name",
+      "english": [
+        "Veemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 185,
+      "category": "Digimon name",
+      "english": [
+        "Guilmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 632,
+      "category": "Digimon name",
+      "english": [
+        "Guilmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 658,
+      "category": "Digimon name",
+      "english": [
+        "Guilmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 186,
+      "category": "Digimon name",
+      "english": [
+        "Dorumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 659,
+      "category": "Digimon name",
+      "english": [
+        "Dorumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 187,
+      "category": "Digimon name",
+      "english": [
+        "Betamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 660,
+      "category": "Digimon name",
+      "english": [
+        "Betamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 188,
+      "category": "Digimon name",
+      "english": [
+        "Gabumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 661,
+      "category": "Digimon name",
+      "english": [
+        "Gabumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 190,
+      "category": "Digimon name",
+      "english": [
+        "Biyomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 663,
+      "category": "Digimon name",
+      "english": [
+        "Biyomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 191,
+      "category": "Digimon name",
+      "english": [
+        "Palmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 628,
+      "category": "Digimon name",
+      "english": [
+        "Palmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 664,
+      "category": "Digimon name",
+      "english": [
+        "Palmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 192,
+      "category": "Digimon name",
+      "english": [
+        "Tentomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 665,
+      "category": "Digimon name",
+      "english": [
+        "Tentomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 194,
+      "category": "Digimon name",
+      "english": [
+        "Otamamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 667,
+      "category": "Digimon name",
+      "english": [
+        "Otamamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 195,
+      "category": "Digimon name",
+      "english": [
+        "Gomamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 668,
+      "category": "Digimon name",
+      "english": [
+        "Gomamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 196,
+      "category": "Digimon name",
+      "english": [
+        "DemiDevimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 669,
+      "category": "Digimon name",
+      "english": [
+        "DemiDevimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 197,
+      "category": "Digimon name",
+      "english": [
+        "ToyAgumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 670,
+      "category": "Digimon name",
+      "english": [
+        "ToyAgumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 198,
+      "category": "Digimon name",
+      "english": [
+        "Hagurumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 671,
+      "category": "Digimon name",
+      "english": [
+        "Hagurumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 199,
+      "category": "Digimon name",
+      "english": [
+        "Salamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 672,
+      "category": "Digimon name",
+      "english": [
+        "Salamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 200,
+      "category": "Digimon name",
+      "english": [
+        "Wormmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 673,
+      "category": "Digimon name",
+      "english": [
+        "Wormmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 201,
+      "category": "Digimon name",
+      "english": [
+        "Hawkmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 674,
+      "category": "Digimon name",
+      "english": [
+        "Hawkmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 202,
+      "category": "Digimon name",
+      "english": [
+        "Armadillomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 675,
+      "category": "Digimon name",
+      "english": [
+        "Armadillomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 203,
+      "category": "Digimon name",
+      "english": [
+        "Terriermon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 676,
+      "category": "Digimon name",
+      "english": [
+        "Terriermon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 204,
+      "category": "Digimon name",
+      "english": [
+        "Lopmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 677,
+      "category": "Digimon name",
+      "english": [
+        "Lopmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 205,
+      "category": "Digimon name",
+      "english": [
+        "Renamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 678,
+      "category": "Digimon name",
+      "english": [
+        "Renamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 206,
+      "category": "Digimon name",
+      "english": [
+        "Impmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 679,
+      "category": "Digimon name",
+      "english": [
+        "Impmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 207,
+      "category": "Digimon name",
+      "english": [
+        "Keramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 680,
+      "category": "Digimon name",
+      "english": [
+        "Keramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 208,
+      "category": "Digimon name",
+      "english": [
+        "Falcomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 681,
+      "category": "Digimon name",
+      "english": [
+        "Falcomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 210,
+      "category": "Digimon name",
+      "english": [
+        "Goblimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 683,
+      "category": "Digimon name",
+      "english": [
+        "Goblimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 211,
+      "category": "Digimon name",
+      "english": [
+        "Syakomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 684,
+      "category": "Digimon name",
+      "english": [
+        "Syakomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 212,
+      "category": "Digimon name",
+      "english": [
+        "SnowAgumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 685,
+      "category": "Digimon name",
+      "english": [
+        "SnowAgumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 213,
+      "category": "Digimon name",
+      "english": [
+        "Crabmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 686,
+      "category": "Digimon name",
+      "english": [
+        "Crabmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 214,
+      "category": "Digimon name",
+      "english": [
+        "Floramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 687,
+      "category": "Digimon name",
+      "english": [
+        "Floramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 215,
+      "category": "Digimon name",
+      "english": [
+        "Lalamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 615,
+      "category": "Digimon name",
+      "english": [
+        "Lalamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 688,
+      "category": "Digimon name",
+      "english": [
+        "Lalamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 216,
+      "category": "Digimon name",
+      "english": [
+        "Gaomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 689,
+      "category": "Digimon name",
+      "english": [
+        "Gaomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 217,
+      "category": "Digimon name",
+      "english": [
+        "Kudamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 690,
+      "category": "Digimon name",
+      "english": [
+        "Kudamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 218,
+      "category": "Digimon name",
+      "english": [
+        "Kamemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 691,
+      "category": "Digimon name",
+      "english": [
+        "Kamemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 219,
+      "category": "Digimon name",
+      "english": [
+        "Dracmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 692,
+      "category": "Digimon name",
+      "english": [
+        "Dracmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 222,
+      "category": "Digimon name",
+      "english": [
+        "Kokuwamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 695,
+      "category": "Digimon name",
+      "english": [
+        "Kokuwamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 223,
+      "category": "Digimon name",
+      "english": [
+        "Coronamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 696,
+      "category": "Digimon name",
+      "english": [
+        "Coronamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 224,
+      "category": "Digimon name",
+      "english": [
+        "Lunamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 697,
+      "category": "Digimon name",
+      "english": [
+        "Lunamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 225,
+      "category": "Digimon name",
+      "english": [
+        "Hyokomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 698,
+      "category": "Digimon name",
+      "english": [
+        "Hyokomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 226,
+      "category": "Digimon name",
+      "english": [
+        "Lucemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 699,
+      "category": "Digimon name",
+      "english": [
+        "Lucemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 227,
+      "category": "Digimon name",
+      "english": [
+        "Mekanorimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 700,
+      "category": "Digimon name",
+      "english": [
+        "Mekanorimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 229,
+      "category": "Digimon name",
+      "english": [
+        "Tyrannomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 702,
+      "category": "Digimon name",
+      "english": [
+        "Tyrannomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4102,
+      "category": "Digimon name",
+      "english": [
+        "Tyrannomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 230,
+      "category": "Digimon name",
+      "english": [
+        "Devimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 703,
+      "category": "Digimon name",
+      "english": [
+        "Devimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4104,
+      "category": "Digimon name",
+      "english": [
+        "Devimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 231,
+      "category": "Digimon name",
+      "english": [
+        "Airdramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 704,
+      "category": "Digimon name",
+      "english": [
+        "Airdramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4084,
+      "category": "Digimon name",
+      "english": [
+        "Airdramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 232,
+      "category": "Digimon name",
+      "english": [
+        "Seadramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 705,
+      "category": "Digimon name",
+      "english": [
+        "Seadramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 233,
+      "category": "Digimon name",
+      "english": [
+        "Numemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 706,
+      "category": "Digimon name",
+      "english": [
+        "Numemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 234,
+      "category": "Digimon name",
+      "english": [
+        "Kabuterimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 707,
+      "category": "Digimon name",
+      "english": [
+        "Kabuterimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4440,
+      "category": "Digimon name",
+      "english": [
+        "Kabuterimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 235,
+      "category": "Digimon name",
+      "english": [
+        "Garurumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 708,
+      "category": "Digimon name",
+      "english": [
+        "Garurumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4091,
+      "category": "Digimon name",
+      "english": [
+        "Garurumon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 236,
+      "category": "Digimon name",
+      "english": [
+        "Angemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 709,
+      "category": "Digimon name",
+      "english": [
+        "Angemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4086,
+      "category": "Digimon name",
+      "english": [
+        "Angemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 237,
+      "category": "Digimon name",
+      "english": [
+        "Vegiemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 710,
+      "category": "Digimon name",
+      "english": [
+        "Vegiemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 238,
+      "category": "Digimon name",
+      "english": [
+        "Ogremon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 711,
+      "category": "Digimon name",
+      "english": [
+        "Ogremon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 239,
+      "category": "Digimon name",
+      "english": [
+        "Bakemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 712,
+      "category": "Digimon name",
+      "english": [
+        "Bakemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4107,
+      "category": "Digimon name",
+      "english": [
+        "Bakemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4441,
+      "category": "Digimon name",
+      "english": [
+        "Bakemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 240,
+      "category": "Digimon name",
+      "english": [
+        "Sukamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 713,
+      "category": "Digimon name",
+      "english": [
+        "Sukamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 242,
+      "category": "Digimon name",
+      "english": [
+        "Leomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 715,
+      "category": "Digimon name",
+      "english": [
+        "Leomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 243,
+      "category": "Digimon name",
+      "english": [
+        "Kuwagamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 716,
+      "category": "Digimon name",
+      "english": [
+        "Kuwagamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 244,
+      "category": "Digimon name",
+      "english": [
+        "Gekomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 717,
+      "category": "Digimon name",
+      "english": [
+        "Gekomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4096,
+      "category": "Digimon name",
+      "english": [
+        "Gekomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 245,
+      "category": "Digimon name",
+      "english": [
+        "Gatomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 718,
+      "category": "Digimon name",
+      "english": [
+        "Gatomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4103,
+      "category": "Digimon name",
+      "english": [
+        "Gatomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 246,
+      "category": "Digimon name",
+      "english": [
+        "Wizardmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 601,
+      "category": "Digimon name",
+      "english": [
+        "Wizardmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 719,
+      "category": "Digimon name",
+      "english": [
+        "Wizardmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 247,
+      "category": "Digimon name",
+      "english": [
+        "Togemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 720,
+      "category": "Digimon name",
+      "english": [
+        "Togemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4442,
+      "category": "Digimon name",
+      "english": [
+        "Togemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 248,
+      "category": "Digimon name",
+      "english": [
+        "Guardromon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 721,
+      "category": "Digimon name",
+      "english": [
+        "Guardromon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4443,
+      "category": "Digimon name",
+      "english": [
+        "Guardromon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 249,
+      "category": "Digimon name",
+      "english": [
+        "ExVeemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 722,
+      "category": "Digimon name",
+      "english": [
+        "ExVeemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4085,
+      "category": "Digimon name",
+      "english": [
+        "ExVeemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4444,
+      "category": "Digimon name",
+      "english": [
+        "ExVeemon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 250,
+      "category": "Digimon name",
+      "english": [
+        "Stingmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 723,
+      "category": "Digimon name",
+      "english": [
+        "Stingmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4100,
+      "category": "Digimon name",
+      "english": [
+        "Stingmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4445,
+      "category": "Digimon name",
+      "english": [
+        "Stingmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 251,
+      "category": "Digimon name",
+      "english": [
+        "Birdramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 724,
+      "category": "Digimon name",
+      "english": [
+        "Birdramon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 252,
+      "category": "Digimon name",
+      "english": [
+        "Ankylomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 725,
+      "category": "Digimon name",
+      "english": [
+        "Ankylomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4083,
+      "category": "Digimon name",
+      "english": [
+        "Ankylomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 253,
+      "category": "Digimon name",
+      "english": [
+        "Gargomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 726,
+      "category": "Digimon name",
+      "english": [
+        "Gargomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4090,
+      "category": "Digimon name",
+      "english": [
+        "Gargomon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 254,
+      "category": "Digimon name",
+      "english": [
+        "Growlmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 727,
+      "category": "Digimon name",
+      "english": [
+        "Growlmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4094,
+      "category": "Digimon name",
+      "english": [
+        "Growlmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 255,
+      "category": "Digimon name",
+      "english": [
+        "Kyubimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 728,
+      "category": "Digimon name",
+      "english": [
+        "Kyubimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4092,
+      "category": "Digimon name",
+      "english": [
+        "Kyubimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 256,
+      "category": "Digimon name",
+      "english": [
+        "Kurisarimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 729,
+      "category": "Digimon name",
+      "english": [
+        "Kurisarimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4093,
+      "category": "Digimon name",
+      "english": [
+        "Kurisarimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4446,
+      "category": "Digimon name",
+      "english": [
+        "Kurisarimon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 257,
+      "category": "Digimon name",
+      "english": [
+        "Seasarmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 730,
+      "category": "Digimon name",
+      "english": [
+        "Seasarmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4097,
+      "category": "Digimon name",
+      "english": [
+        "Seasarmon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 259,
+      "category": "Digimon name",
+      "english": [
+        "Aquilamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 732,
+      "category": "Digimon name",
+      "english": [
+        "Aquilamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4081,
+      "category": "Digimon name",
+      "english": [
+        "Aquilamon"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1237,
+      "category": "move name",
+      "english": [
+        "Charge"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2513,
+      "category": "move name",
+      "english": [
+        "Charge"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1241,
+      "category": "move name",
+      "english": [
+        "Little Blizzard"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2517,
+      "category": "move name",
+      "english": [
+        "Little Blizzard"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1246,
+      "category": "move name",
+      "english": [
+        "Hydro Water"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2522,
+      "category": "move name",
+      "english": [
+        "Hydro Water"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1247,
+      "category": "move name",
+      "english": [
+        "Megaton Hydro"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2523,
+      "category": "move name",
+      "english": [
+        "Megaton Hydro"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1248,
+      "category": "move name",
+      "english": [
+        "Gigaton Hydro"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2524,
+      "category": "move name",
+      "english": [
+        "Gigaton Hydro"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1249,
+      "category": "move name",
+      "english": [
+        "Double Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2525,
+      "category": "move name",
+      "english": [
+        "Double Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1250,
+      "category": "move name",
+      "english": [
+        "Triple Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2526,
+      "category": "move name",
+      "english": [
+        "Triple Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1251,
+      "category": "move name",
+      "english": [
+        "Ocean Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2527,
+      "category": "move name",
+      "english": [
+        "Ocean Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1254,
+      "category": "move name",
+      "english": [
+        "Sonic Voice"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2530,
+      "category": "move name",
+      "english": [
+        "Sonic Voice"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1255,
+      "category": "move name",
+      "english": [
+        "High Sonic Voice"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2531,
+      "category": "move name",
+      "english": [
+        "High Sonic Voice"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1258,
+      "category": "move name",
+      "english": [
+        "Hyper-Tornado"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2534,
+      "category": "move name",
+      "english": [
+        "Hyper-Tornado"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1259,
+      "category": "move name",
+      "english": [
+        "Air Cutter"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2535,
+      "category": "move name",
+      "english": [
+        "Air Cutter"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1262,
+      "category": "move name",
+      "english": [
+        "Top Gun"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2305,
+      "category": "move name",
+      "english": [
+        "Top Gun"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2538,
+      "category": "move name",
+      "english": [
+        "Top Gun"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3581,
+      "category": "move name",
+      "english": [
+        "Top Gun"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1265,
+      "category": "move name",
+      "english": [
+        "Mega Napalm"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2541,
+      "category": "move name",
+      "english": [
+        "Mega Napalm"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1266,
+      "category": "move name",
+      "english": [
+        "Volcano Napalm"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2542,
+      "category": "move name",
+      "english": [
+        "Volcano Napalm"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1268,
+      "category": "move name",
+      "english": [
+        "Dramon Claw"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2544,
+      "category": "move name",
+      "english": [
+        "Dramon Claw"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1272,
+      "category": "move name",
+      "english": [
+        "Tiny Bomb"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2548,
+      "category": "move name",
+      "english": [
+        "Tiny Bomb"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1273,
+      "category": "move name",
+      "english": [
+        "Normal Bomb"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2549,
+      "category": "move name",
+      "english": [
+        "Normal Bomb"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1274,
+      "category": "move name",
+      "english": [
+        "Normal Missile"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2550,
+      "category": "move name",
+      "english": [
+        "Normal Missile"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1276,
+      "category": "move name",
+      "english": [
+        "Holy Slash"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2552,
+      "category": "move name",
+      "english": [
+        "Holy Slash"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1277,
+      "category": "move name",
+      "english": [
+        "Shine Slash"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2553,
+      "category": "move name",
+      "english": [
+        "Shine Slash"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1278,
+      "category": "move name",
+      "english": [
+        "Royal Slash"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2554,
+      "category": "move name",
+      "english": [
+        "Royal Slash"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1279,
+      "category": "move name",
+      "english": [
+        "Holy Bolt"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2555,
+      "category": "move name",
+      "english": [
+        "Holy Bolt"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1300,
+      "category": "move name",
+      "english": [
+        "Rising Ray"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2576,
+      "category": "move name",
+      "english": [
+        "Rising Ray"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1302,
+      "category": "move name",
+      "english": [
+        "Metal Star"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2578,
+      "category": "move name",
+      "english": [
+        "Metal Star"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1403,
+      "category": "move name",
+      "english": [
+        "Crazy Crane"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2679,
+      "category": "move name",
+      "english": [
+        "Crazy Crane"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1450,
+      "category": "move name",
+      "english": [
+        "Heaven's Ripper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2726,
+      "category": "move name",
+      "english": [
+        "Heaven's Ripper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1501,
+      "category": "move name",
+      "english": [
+        "Spider Thread"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2777,
+      "category": "move name",
+      "english": [
+        "Spider Thread"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1503,
+      "category": "move name",
+      "english": [
+        "Soul Chopper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2315,
+      "category": "move name",
+      "english": [
+        "Soul Chopper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2779,
+      "category": "move name",
+      "english": [
+        "Soul Chopper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3591,
+      "category": "move name",
+      "english": [
+        "Soul Chopper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1553,
+      "category": "move name",
+      "english": [
+        "Heat Viper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2304,
+      "category": "move name",
+      "english": [
+        "Heat Viper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2829,
+      "category": "move name",
+      "english": [
+        "Heat Viper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3580,
+      "category": "move name",
+      "english": [
+        "Heat Viper"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1651,
+      "category": "move name",
+      "english": [
+        "Angry Rock"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2927,
+      "category": "move name",
+      "english": [
+        "Angry Rock"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1326,
+      "category": "move name",
+      "english": [
+        "Gatling Punch"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2602,
+      "category": "move name",
+      "english": [
+        "Gatling Punch"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1327,
+      "category": "move name",
+      "english": [
+        "Winning Punch"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2603,
+      "category": "move name",
+      "english": [
+        "Winning Punch"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1375,
+      "category": "move name",
+      "english": [
+        "Poison Powder"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2651,
+      "category": "move name",
+      "english": [
+        "Poison Powder"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1900,
+      "category": "move name",
+      "english": [
+        "Spiral Bone"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2376,
+      "category": "move name",
+      "english": [
+        "Spiral Bone"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3176,
+      "category": "move name",
+      "english": [
+        "Spiral Bone"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3652,
+      "category": "move name",
+      "english": [
+        "Spiral Bone"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1850,
+      "category": "move name",
+      "english": [
+        "Guilty Black"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2299,
+      "category": "move name",
+      "english": [
+        "Guilty Black"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3126,
+      "category": "move name",
+      "english": [
+        "Guilty Black"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3575,
+      "category": "move name",
+      "english": [
+        "Guilty Black"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1474,
+      "category": "move name",
+      "english": [
+        "Necrophobia"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2750,
+      "category": "move name",
+      "english": [
+        "Necrophobia"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1475,
+      "category": "move name",
+      "english": [
+        "Darkness Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2288,
+      "category": "move name",
+      "english": [
+        "Darkness Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2751,
+      "category": "move name",
+      "english": [
+        "Darkness Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3564,
+      "category": "move name",
+      "english": [
+        "Darkness Wave"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1874,
+      "category": "move name",
+      "english": [
+        "Bishop Laser"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3150,
+      "category": "move name",
+      "english": [
+        "Bishop Laser"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1877,
+      "category": "move name",
+      "english": [
+        "Rook Gatling"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2320,
+      "category": "move name",
+      "english": [
+        "Rook Gatling"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3153,
+      "category": "move name",
+      "english": [
+        "Rook Gatling"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3596,
+      "category": "move name",
+      "english": [
+        "Rook Gatling"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1506,
+      "category": "move name",
+      "english": [
+        "Metal Meteor"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2303,
+      "category": "move name",
+      "english": [
+        "Metal Meteor"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2782,
+      "category": "move name",
+      "english": [
+        "Metal Meteor"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3579,
+      "category": "move name",
+      "english": [
+        "Metal Meteor"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1627,
+      "category": "move name",
+      "english": [
+        "Megaton Press"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2259,
+      "category": "move name",
+      "english": [
+        "Megaton Press"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2903,
+      "category": "move name",
+      "english": [
+        "Megaton Press"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3535,
+      "category": "move name",
+      "english": [
+        "Megaton Press"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1601,
+      "category": "move name",
+      "english": [
+        "Fire Ball"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2877,
+      "category": "move name",
+      "english": [
+        "Fire Ball"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1602,
+      "category": "move name",
+      "english": [
+        "Fire Breath"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2245,
+      "category": "move name",
+      "english": [
+        "Fire Breath"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2878,
+      "category": "move name",
+      "english": [
+        "Fire Breath"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3521,
+      "category": "move name",
+      "english": [
+        "Fire Breath"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1597,
+      "category": "move name",
+      "english": [
+        "Heaven Knuckle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2251,
+      "category": "move name",
+      "english": [
+        "Heaven Knuckle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2873,
+      "category": "move name",
+      "english": [
+        "Heaven Knuckle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3527,
+      "category": "move name",
+      "english": [
+        "Heaven Knuckle"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1598,
+      "category": "move name",
+      "english": [
+        "Flame Dive"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2277,
+      "category": "move name",
+      "english": [
+        "Flame Dive"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2874,
+      "category": "move name",
+      "english": [
+        "Flame Dive"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3553,
+      "category": "move name",
+      "english": [
+        "Flame Dive"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1459,
+      "category": "move name",
+      "english": [
+        "Lightning Spear"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2353,
+      "category": "move name",
+      "english": [
+        "Lightning Spear"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2735,
+      "category": "move name",
+      "english": [
+        "Lightning Spear"
+      ]
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3629,
+      "category": "move name",
+      "english": [
+        "Lightning Spear"
+      ]
+    }
+  ]
+}

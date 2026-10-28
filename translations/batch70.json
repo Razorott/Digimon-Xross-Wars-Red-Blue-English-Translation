@@ -1,0 +1,499 @@
+{
+  "description": "Translate 38 dummy descriptions in MESPAK04 entries 27 and 28, using each established English move label.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Flame Pillar\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Volcano Bomb\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Heavy Drago Magma\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Raging Flame\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pressure Aqua\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 27,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Icicle Bomb\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Heavy Hard Rain\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Raging Blizzard\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Magnet Wave\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spark Bomb\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Heavy Magnet Power\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Raging Lightning\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rising Laser\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shining Bomb\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Heavy Wind\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rage Tornado\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Darkness Eddy\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Evil Data Bomb\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Heavy Gravity\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rage Demon Breath\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sonic Kick\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Mega Knuckle Bomb\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Heavy Giga Uppercut\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rage Grapple\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sword Masquerade\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rainbow Hand\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Malkuth Crystal\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hell & Thunder\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Heaven & Break\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ice & Fire\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Infinity Sword Rain\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Omega Death Blade\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Data to Data\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Tribe Lizard\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sigma Grapple\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Omega Crusher\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Chrono DSR\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Origin Nebula\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "The Japanese description is explicitly dummy text. The move title matches the reviewed English battle-move label already used in the game."
+    }
+  ]
+}

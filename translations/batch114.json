@@ -1,0 +1,4 @@
+{
+  "description": "Update battle control sprites: All Tactics, Start Battle, and English controller button states. Keep only the newest Blue and Red ROM builds; the rotating command-ring caption remains unresolved.",
+  "blocks": []
+}

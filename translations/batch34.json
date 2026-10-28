@@ -1,0 +1,1765 @@
+{
+  "description": "Continued the Elestou Zone story and translated the Piedmon quiz side mission, further DigiFarm activity reports, and battle status-resistance labels. Added source-checked Western names for five quiz attacks and expanded ZD Millenniummon to the official English name ZeedMillenniummon.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "Leave saving\nyour adventure\nto me! Press A\nin front of the\nSave Terminal.\nIf a teammate's\nHP or MP is\nlow, press A in\nfront of a bed.\nEasy, right?"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "By the way,\nhave you been\nreading the\nDigiReports?\nYou'd miss out\nif you didn't!\nThe raffle at\nthe end can win\nyou a huge pile\nof Bits!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "Before Sky Fort\nwas built,\nEarth Fort was\nthe strongest\nfortress in\nthis Zone. It's\nprotected, but\nit should still\nhave a radar\nthat scans the\nZone. Maybe\nZeed\nMillenniummon\nis using it to\nscan the\nZone..."
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Stop ROG\nbefore Zeed\nMillenniummon\nfinds anything!\nPlease!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Fort's\nfamous Penmon\nItem Shop! The\nSky Shop, for\nshort. Sounds\ncool, right?!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "I tried to\nthink of\nsomething we\ncould do to\nhelp... but\nhonestly, there\nisn't much.\nYou're going to\nCrystal Volcano\nto fight ROG,\nright? We'd\nonly get in\nyour way..."
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "We can't do\nmuch to help,\nbut we'll\nalways cheer\nyou on with all\nwe've got!\nDon't forget\nthat, okay?"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "So you're\nfacing ROG at\nCrystal\nVolcano... I'd\nlike to go with\nyou, but we\ncan't leave\nthis place\nempty. We'll\nstay and\nstrengthen Sky\nFort's\ndefenses."
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "We'll handle\ndefense. You\ntake care of\nthe offense.\n...I'm counting\non you, Taiki!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "You're about to\nfight someone\nsuper strong?\nBut you guys\nwill be fine! I\njust know it!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Whenever I\nthought someone\nwould be okay,\nthey almost\nalways were! So\nyou guys will\ndefinitely be\nfine!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome, Taiki!\nThis is the\nQuest Monitor.\n...You know\nthat, of\ncourse. Thanks\nfor stopping\nby, and see you\nagain!▼"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, the\nfight with ROG\nis reaching its\nclimax! If you\nneed a change\nof pace, check\nthe Quest\nMonitor!▼"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "You're heading\nout to defeat\nROG's boss,\nright? We'll\nget our turn to\nfight, too,\nwon't we?!\n...Right?!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "All right!\nLet's do this!\nWe'll blast\nROG's boss\nDigimon into\nnext week!♪"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki!\nHow's it going?\nIf you push\nyourself too\nhard, you'll\nrun out of\nsteam when it\nmatters. Learn\nwhen to take it\neasy, too!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Even if you\nstill have HP,\nyou can't fight\nwithout MP.\nDesperate\nAttack lets you\nattack anyway,\nbut if your HP\nis low, you'll\ngo down!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "You solved the\nproblems we\nwere facing,\none by one. We\ncan't thank you\nenough."
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "We haven't been\nable to repay\nyou properly,\nbut every\nDigimon in the\nZone, me\nincluded, is\ndeeply grateful\nto you."
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "You're really\ngoing to fight\nROG's boss,\nZeed\nMillenniummon?!\nI can't believe\nit... Actually,\nwith you guys,\nmaybe I can!\nGood luck,\nTaiki!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "It's not my\nplace to tell\nyou what to do,\nbut don't rush.\nTake it one\nstep at a time\nand be careful."
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "I heard you're\ngoing to face\nROG's big boss!\nTaiki, you're\namazing! So\ncool!♪"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "ROG's big boss\nmust be really\nstrong... Stay\nalert and do\nyour best so\nyou don't get\nbeaten!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "We're grateful\nto you, and we\nbelieve in you!\nEveryone's\ncheering you on\nwith all their\nmight!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Give it your\nall, everyone!\nGive it your\nall... Wait,\nwhat does 'give\nit your all'\neven mean?"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "We'd all given\nup, thinking\nthis fight\nwould never\nend. But after\nmeeting you,\nTaiki,\neverything\nchanged. We\nhave hope now.\nThank you!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks to you,\nwe're united\nagain. We're\ntruly grateful.\nWe hope you'll\nkeep looking\nout for us!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Crystal\nVolcano?! Earth\nFort?! ...Earth\nFort brings\nback memories.\nThe warriors\nwho protected\nthis Zone used\nto gather\nthere."
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, savior of\nthe Elestou\nZone! You're\ndoing great,\nright? You'd\nbetter be!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "I've heard all\nabout you! The\nDigimon are\nthrilled to\nhave such\nreliable\nfriends!♪"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "I know how hard\nyou're working\nfor this Zone.\nI keep praying\nyou won't push\nyourself too\nhard and get\nhurt!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey! Still\ngoing strong?\nWe'll keep\nworking hard so\nwe don't fall\nbehind you!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "The future of\nthis Zone\ndepends on you.\nSorry to leave\nit all to you,\nbut give it\neverything\nyou've got!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! You came\nto save us!\nThank you! But\nROG didn't even\nstop to fight\nus... They\nrushed straight\ntoward the\nwindmill in Sky\nGarden!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki...\nWhen we've\ntaken this Zone\nback for good,\ntell me\neverything that\nhappened here,\nokay? So come\nback safe!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "I have nothing\nmore to say to\nyou... Please\nprotect the\nElestou Zone!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "Hi, Taiki! I'm\nglad you look\nwell. I knew\nyou'd be safe,\nbut we were\nstill so\nworried about\nyou! Though\nmaybe we\nshould've\nworried more\nabout\nourselves..."
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Shadow Guard\ntook the tower\nfrom us this\ntime... We had\nto run away,\nand I'm ashamed\nof that. Thank\nyou for driving\nthem off!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Someone sent a\nmessage\naddressed to\nyou? Who could\nit be? Well,\nyou can handle\nyourself,\nsavior of this\nZone!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 18,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "Everyone at Sky\nFort seems to\nbe safe. That's\na relief! You\nreally are the\nsavior of this\nZone, Taiki!"
+      ],
+      "sources": [],
+      "review_note": "Continuation of the game-original Elestou Zone story. Preserve the established ROG, Elestou Zone, Earth Fort, Sky Fort, and Crystal Volcano terms. ZeedMillenniummon uses the official Western Digimon spelling and is deliberately wrapped at the name boundary. Dialogue is wrapped to the 15-cell story limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "I have a tough\nchallenge for\nyou. First,\nfind Piedmon in\nSouth 2 of\nDigital Space.\nThen answer his\nquiz questions\nin a row. You\ncan do it! I'd\nhate it... I\nmean, good\nluck. Come back\nwhen you're\ndone."
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "I have a tough\nchallenge for\nyou. First,\nfind Piedmon in\nSouth 2 of\nDigital Space.\nThen answer his\nquiz questions\nin a row. You\ncan do it! I'd\nhate it... I\nmean, good\nluck. Come back\nwhen you're\ndone."
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "Find Piedmon\nand answer his\nquiz. It sounds\neasy, but it's\na real ordeal.\nGood luck!"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "Find Piedmon\nand answer his\nquiz. It sounds\neasy, but it's\na real ordeal.\nGood luck!"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks! Here's\nyour reward. It\nmay be just a\nquiz, but\nPiedmon won't\nstop until he's\nsatisfied.\nEveryone who\npasses by is\nterrified... We\ncould sacrifice\nsomeone to take\nour place...\nNo, never mind.\nGreat work,\nsavior!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks! Here's\nyour reward. It\nmay be just a\nquiz, but\nPiedmon won't\nstop until he's\nsatisfied.\nEveryone who\npasses by is\nterrified... We\ncould sacrifice\nsomeone to take\nour place...\nNo, never mind.\nGreat work,\nsavior!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "You found me!\nHa ha! It's\ntime for\nPiedmon's\nSpecial Digimon\nQuiz 2,\nQuestion 1!\nWhat's\nSeadramon's\nspecial move?!"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Nice Arrow"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nIce Arrow! It's\nan arrow made\nof ice. A\nlittle obvious,\nhuh? Ha ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nIce Arrow! It's\nan arrow made\nof ice. A\nlittle obvious,\nhuh? Ha ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "Your next stop\nis South 7 of\nDigital Space!\nLet's go!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Your next stop\nis South 7 of\nDigital Space!\nLet's go!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll be waiting\nfor you in\nSouth 7 of\nDigital Space!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll be waiting\nfor you in\nSouth 7 of\nDigital Space!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "All right, you\nfound me! Ha\nha! It's\nQuestion 2 of\nPiedmon's\nSpecial Digimon\nQuiz 2! What's\nLeomon's\nspecial move?!"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "Deadly\nFragments"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nBeastKing Fist!\nIt's the fist\nof the king of\nbeasts! Ha ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nBeastKing Fist!\nIt's the fist\nof the king of\nbeasts! Ha ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Your next stage\nis North 4 of\nDigital Space!\nLet's go!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "Your next stage\nis North 4 of\nDigital Space!\nLet's go!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll be waiting\nfor you in\nNorth 4 of\nDigital Space!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll be waiting\nfor you in\nNorth 4 of\nDigital Space!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh, you found\nme! Ha ha! It's\nQuestion 3 of\nPiedmon's\nSpecial Digimon\nQuiz 2! What's\nToyAgumon's\nspecial move?!"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "Toy Fire"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nToy Flame! A\nflame that\nfeels like a\ntoy... Really?!\nHa ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nToy Flame! A\nflame that\nfeels like a\ntoy... Really?!\nHa ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "Your next stage\nis North 3 of\nDigital Space!\nLet's go!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Your next stage\nis North 3 of\nDigital Space!\nLet's go!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll be waiting\nfor you in\nNorth 3 of\nDigital Space!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll be waiting\nfor you in\nNorth 3 of\nDigital Space!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, you found\nme! Ha ha! It's\nQuestion 4 of\nPiedmon's\nSpecial Digimon\nQuiz 2! What's\nGreymon's\nspecial move?!"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "Giga Flame"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nMega Flame! Was\nthat one\ntrickier than\nyou expected?\nHa ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nMega Flame! Was\nthat one\ntrickier than\nyou expected?\nHa ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "Your next stop\nis North 8 of\nDigital Space!\nLet's go!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Your next stop\nis North 8 of\nDigital Space!\nLet's go!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll be waiting\nfor you in\nNorth 8 of\nDigital Space!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll be waiting\nfor you in\nNorth 8 of\nDigital Space!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, you found\nme! Ha ha! It's\nQuestion 5 of\nPiedmon's\nSpecial Digimon\nQuiz 2! What's\nLillymon's\nspecial move?!"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "Lily Smile"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nFlower Cannon!\nIt looks cute,\nbut it really\nhurts! Ha ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Ding-ding-ding!\nThe answer is\nFlower Cannon!\nIt looks cute,\nbut it really\nhurts! Ha ha!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "That's the end\nof the quiz!\nGreat work! Go\nclaim your\nreward from\nPaildramon!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Aww, already\nmiss the quiz?\nIt's over! Go\nclaim your\nreward from\nPaildramon!♪"
+      ],
+      "sources": [],
+      "review_note": "Piedmon Special Digimon Quiz 2, a complete optional mission segment. Species names follow the reviewed Western Digimon glossary. Attack names are cross-checked against Western Digimon game references; Beast King Fist and Flower Cannon match Dawn/Dusk, while the other exact spellings are checked against Western game references. Wrapped to the 15-cell dialogue limit."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What's this warm,\nfuzzy feeling?! I gained\nEXP, too! Is this what\nbeing holy feels like?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "I don't get what's so holy\nabout it... Is it the\nsound? If it doesn't move,\nhow would I know what it\nsounds like?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I found Stonehenge!\nI wonder what happens if I\nwalk past it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, what is this?! Is\nthis holy power?! I don't\nknow how, but I gained\nEXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing happened at all...\nThat's almost impressive."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, this pot is\nbubbling! I don't know\nwhat it is, but can I eat\nit?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! It's Dark Medicine!\nI gained a little EXP from\nit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh, it stinks! It's\ngross, bitter, sour... and\nrotten!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this?! It's\ncreepy... Is it a cursed\nbox? What's inside?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! Is this the power of\ndarkness?! I gained a fair\nbit of EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, the lid won't open!\nIs it cursed, too?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Is this a Dark Tower?!\nI'll get closer and check\nit out!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I can feel powerful\ndarkness! I think I gained\na lot of EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What a letdown! All\nit did was put me in a\nslightly dark mood!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh? What's that amazing\nsmell? It smells like\nsomething I really love!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's definitely Taiki's\nsmell! I want to play\ntogether when he visits! I\nthink my Friendship went\nup, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! Life is easy and\nhappy today! It's all\nthanks to Taiki! I should\nthank him!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Taiki, we're happy\nbecause of you! I'm so\ngrateful! I hope you heard\nme! My Friendship went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! 100 Bits! I'll send\nthem to Taiki right away!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, I did it! 500 Bits!\nI'll send them to Taiki\nright away!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, amazing! 1,000 Bits!\nI'll send them to Taiki\nright away!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I found wild berries\nout here!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "They're sweet and tasty! I\ngained EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this?! It's too\nbitter and sour to eat!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I want to climb a\ntree!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I climbed way up\nhigh, and my EXP shot up,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "No good! I slipped and\ncouldn't climb it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this?! ...It's\njust a tree stump, isn't\nit?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "I bumped into it and\ngained a fair amount of\nEXP! Whoa! Is this a magic\nmallet?!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ow! What is this?! A\nsplinter stuck me, and now\nmy feelings are all\nsplintered, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "I found some tasty tree\nsap! I'll try it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! It's sweet and\ndelicious! I think I\ngained a ton of EXP!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, no! It smells too\ngreen and grassy. I can't\nlick this!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Hm? This is a scale...\nI'll see how much I weigh."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 4,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Heh. I always watch my\nweight, so no problem. My\nmax HP seems to have gone\nup a little..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm activity report translated from the Japanese report text. EXP, Friendship, Bits, and stat names match existing project terminology; lines are wrapped for the report box."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1100,
+      "category": "Common labels and traits",
+      "english": [
+        "Paralysis Prevention"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1101,
+      "category": "Common labels and traits",
+      "english": [
+        "Paralysis Guard"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1102,
+      "category": "Common labels and traits",
+      "english": [
+        "Paralysis Barrier"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1103,
+      "category": "Common labels and traits",
+      "english": [
+        "Paralysis Alert"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1104,
+      "category": "Common labels and traits",
+      "english": [
+        "Paralysis Watch"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1105,
+      "category": "Common labels and traits",
+      "english": [
+        "Paralysis Weakness"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1106,
+      "category": "Common labels and traits",
+      "english": [
+        "Sleep Prevention"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1107,
+      "category": "Common labels and traits",
+      "english": [
+        "Sleep Guard"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1108,
+      "category": "Common labels and traits",
+      "english": [
+        "Sleep Barrier"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1109,
+      "category": "Common labels and traits",
+      "english": [
+        "Sleep Alert"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1110,
+      "category": "Common labels and traits",
+      "english": [
+        "Sleep Watch"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1111,
+      "category": "Common labels and traits",
+      "english": [
+        "Sleep Weakness"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1112,
+      "category": "Common labels and traits",
+      "english": [
+        "Confusion Prevention"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1113,
+      "category": "Common labels and traits",
+      "english": [
+        "Confusion Guard"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1114,
+      "category": "Common labels and traits",
+      "english": [
+        "Confusion Barrier"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1115,
+      "category": "Common labels and traits",
+      "english": [
+        "Confusion Alert"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1116,
+      "category": "Common labels and traits",
+      "english": [
+        "Confusion Watch"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1117,
+      "category": "Common labels and traits",
+      "english": [
+        "Confusion Weakness"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1118,
+      "category": "Common labels and traits",
+      "english": [
+        "Darkness Prevention"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1119,
+      "category": "Common labels and traits",
+      "english": [
+        "Darkness Guard"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1120,
+      "category": "Common labels and traits",
+      "english": [
+        "Darkness Barrier"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1121,
+      "category": "Common labels and traits",
+      "english": [
+        "Darkness Alert"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1122,
+      "category": "Common labels and traits",
+      "english": [
+        "Darkness Watch"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1123,
+      "category": "Common labels and traits",
+      "english": [
+        "Darkness Weakness"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1124,
+      "category": "Common labels and traits",
+      "english": [
+        "Mental Readiness"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1125,
+      "category": "Common labels and traits",
+      "english": [
+        "Mental Focus"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1126,
+      "category": "Common labels and traits",
+      "english": [
+        "Enlightenment"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1127,
+      "category": "Common labels and traits",
+      "english": [
+        "All-Status Alert"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1128,
+      "category": "Common labels and traits",
+      "english": [
+        "All-Status Watch"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1129,
+      "category": "Common labels and traits",
+      "english": [
+        "HP Drain Dodge"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1130,
+      "category": "Common labels and traits",
+      "english": [
+        "HP Drain Parry"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1131,
+      "category": "Common labels and traits",
+      "english": [
+        "HP Drain Resist"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1132,
+      "category": "Common labels and traits",
+      "english": [
+        "HP Drain Block"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1133,
+      "category": "Common labels and traits",
+      "english": [
+        "HP Drain Reflect"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1134,
+      "category": "Common labels and traits",
+      "english": [
+        "HP Drain Weakness"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1135,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Drain Dodge"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1136,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Drain Parry"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1137,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Drain Resist"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1138,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Drain Block"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1139,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Drain Reflect"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1140,
+      "category": "Common labels and traits",
+      "english": [
+        "MP Drain Weakness"
+      ],
+      "sources": [],
+      "review_note": "Battle resistance/personality label translated consistently with the Japanese naming pattern. The compact English wording is chosen to stay usable in the status and trait UI."
+    }
+  ]
+}

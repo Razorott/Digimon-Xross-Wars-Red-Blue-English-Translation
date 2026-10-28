@@ -1,0 +1,33 @@
+{
+  "description": "Restore readable name rendering by using standard ASCII labels, shorten fixed-width Play Info and quest text, and translate the remaining consumable item descriptions shown in the inventory.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 28,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Restores a little HP to\none Digimon.",
+        "Restores some HP to\none Digimon.",
+        "Restores a lot of HP to\none Digimon.",
+        "Fully restores one\nDigimon's HP.",
+        "Restores a little HP to\none row of Digimon.",
+        "Restores some HP to\none row of Digimon.",
+        "Restores a lot of HP to\none row of Digimon.",
+        "Fully restores one row\nof Digimon's HP.",
+        "Restores a tiny amount\nof HP to one Digimon.",
+        "Restores a little MP to\none Digimon.",
+        "Restores some MP to\none Digimon.",
+        "Restores a lot of MP to\none Digimon.",
+        "Fully restores one\nDigimon's MP.",
+        "Restores a little MP to\none row of Digimon.",
+        "Restores some MP to\none row of Digimon.",
+        "Restores a lot of MP to\none row of Digimon.",
+        "Fully restores one row\nof Digimon's MP.",
+        "Cures Health Down and\nrestores half of one\nDigimon's HP and MP."
+      ],
+      "sources": [],
+      "review_note": "Inventory consumable effects translated from the Japanese item descriptions. Keep the one-Digimon and one-row targets distinct; Health Down is the game's existing status term."
+    }
+  ]
+}

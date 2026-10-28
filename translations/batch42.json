@@ -1,0 +1,2832 @@
+{
+  "description": "Translate the remaining comic DigiFarm reports, facility events, training, and rewards.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "Caught it! My\nDefense went\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh... I can't\ndo\nthis. No way..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "A bookshelf...?\nWell, it's a\nshelf\nfor books,\nisn't it?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha ha...\nReading\na book now and\nthen\nis nice! I feel\na\nlittle wiser,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is too\nhard.\nI can't read\nit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "A study\ndesk...?\nIs this a\nchallenge\nfor someone who\nhates studying?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "I finished\nstudying!\nAnd my Wisdom\nwent up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can get by\njust\nfine without\nstudying!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "A magic\ncircle...?\nWhy is\nsomething\nlike this\nhere...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "Magic made my\nWisdom go way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "Even magic\ncan't\nmake me\nsmarter...\nI'll just stare\nat\nmy hands..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, no...\nSide-to-side\njumps are my\nweakness!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! I\nreally\ndid it! I can\ndo it\nif I try! My\nSpeed\nwent up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "Forget it... If\nI\npush too hard,\nmy\nknee will go\nout!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "A\ntrampoline...?\nSince it's\nhere,\nI'll bounce\naround\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "Bounce, bounce!\nMy Speed went\nup\na fair bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! That's\ncrazy!\nThe edge of the\ntrampoline is\ncreaking!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "A running\nwheel...\nYou want me to\nrun\nin there...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm rolling\naround\nlike crazy! My\nSpeed\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "The spin made\nmy\nsweat, tears,\ndreams,\nand hopes fly\naway..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "A ring of\nfire...?\nHot and scary,\nand\na little\nembarrassing..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "All right! I\ndid it!\nMy EXP went up\na fair bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why do I have\nto\ndo this...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Fire Road...?\nI have to cross\nit?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "If I calm my\nmind,\neven fire feels\ncool!\nAnd my EXP went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's hot! I'm\nburning!\nI'm getting\nroasted!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "Fireworks... I\nshould\nlaunch them\nwith\na big show!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "The fireworks\nshone\nbright and\nbeautiful!\nJust watching\nthem\nmade my EXP\nsoar!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was a\ndud...\nNow I'm bummed\nout..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "What am I\nsupposed\nto do with this\nbig ball...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is good\nfor\ntraining my\nbalance!\nMy EXP went up\na little, too!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! Careful!\nI'm going to\nfall!\nI'm stumbling,\nrolling, and\ntumbling!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "Tightrope\nwalking...\nSo I walk on a\nrope?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "Tightrope\nwalker,\nwalk the\ntightrope!\nWalk it well,\nand\nEXP will grow!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "A tightrope\nwalker\nwalks the\ntightrope...\nBut I can't\nwalk it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "A circus\ntent...?\nDo I learn\nacrobatics\ninside?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "I learned a\ntrick,\nand my EXP went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "I guess the\ncircus\nwasn't for\nme..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini shower!\nMaybe I'll take\none\nfor a change..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm clean now!\nMy EXP went up\na little."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "To be honest,\nI really don't\nlike\nshowers..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini fishing\npond...\nCan I catch\nfish here?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "I caught one!\nAnd my EXP went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing's\nbiting...\nThe fishing rod\nwon't even\ntwitch..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "A huge\nwaterfall...\nAm I supposed\nto\ntrain under it?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "The waterfall\ntraining\nmade my EXP go\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "I just got\nsoaked...\nWhat's the\npoint?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "This flower...\nI can't stop\nlooking\nat it..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's beautiful\nand\nsmells\nlovely... I\nfeel\nso refreshed.\nMy EXP\nwent up a\nlittle."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "I guess I was\nimagining\nthings..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "This tree house\nlooks pretty\nnice."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's small and\ncozy.\nIt puts me at\nease...\nMy EXP is\nsoaring!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "A house like\nthis\nis best admired\nfrom a\ndistance."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "A computer\nhere?\nLucky me!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "Search and\nresearch\non the\nInternet!\nI gathered\ninfo, and\nmy EXP went up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "Using the\ncomputer\nfeels\nproductive...\nBut I only\nwasted\nmy time..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "A solar panel!\nCan it make\npower\nfrom sunlight?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "Solar power\ngave me\nelectricity,\nspirit,\nand EXP!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "Actually, I\ndon't\nneed\nelectricity..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "A pinball\nmachine!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "New high score!\nMy EXP went up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "Huh...? I used\nto\nbe better at\nthis..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "I found a\nbirdhouse!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "The baby bird\nsoothed\nme. My EXP went\nup\na little..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "The parent bird\npecked me! Mood\ndown..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "A running high\njump...\nI'm not good at\nthis..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it! I can\ndo it! What a\njump!\nMy EXP jumped\nup, too!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's not that I\ncan't jump... I\njust\ndon't want to."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "A diving\nboard...?\nYou don't\nexpect me\nto jump from\nhere...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "My EXP went up,\nbut I think I\nlost\na few years off\nmy life..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! If I\njump\nfrom here, I'll\nfall\nall the way to\nhell!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a\nphonograph...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "The beautiful\nmusic\ncleansed my\nsoul...\nMy EXP went up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "It won't move\nor\nmake a sound..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "If I ring this\nHoly Bell,\nmaybe\nI'll feel holy,\ntoo...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "That beautiful\nsound\nmade my EXP go\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "The bell won't\nring...\nI don't feel\nholy..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "Stonehenge... I\ncan\nfeel its power."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "Holy power made\nmy EXP go way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nWas it my\nimagination?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "Something's\nbubbling\ninside this\nsuspicious\npot..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "Dark power made\nmy EXP go up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's hot and\nsmelly,\nbut nothing\nhappened..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "I sense\nsomething\nominous... Is\nthat\na cursed box?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What is\nthis\nterrifying\npower...?\nThe dark energy\nmade\nmy EXP go up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "An ominous\npresence\nleft the box\nand came\ntoward me...\nMaybe\nI'm the cursed\none?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "Could this be a\ncursed Dark\nTower...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's\nintense...\nDark power,\nmaybe?\nMy EXP went up,\nbut\nI feel awful..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 10,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened,\nbut I still\nfeel bad...\nThat's the\nworst..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Huh? What's\nthis?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "Found 100 Bits!\nI'll send them\nto Taiki!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "...What's\nthis...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yes! 500 Bits!\nI'll send them\nto Taiki right\naway!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "...What's\nthis...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! 1,000\nBits!\nThat's\nincredible!\nI'll send them\nto\nTaiki right\naway!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "I found wild\nstrawberries...\nThey look\ndelicious!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "Juicy and\nsweet-tart!\nMy EXP went up\na fair bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "Bitter! Sour!\nAnd kind of\ngrassy!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "This branch\nlooks\nperfect for\nclimbing..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "I made it up!\nMy EXP went up\na little!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "It creaked the\nwhole\ntime... That\nwas\nterrifying!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's with\nthis\nstump...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "Training on a\nstump\nfeels oddly\nsoothing!\nMy EXP floated\nup, too!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ow... Was the\nstump\nalways this\nhard?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "I found tasty\nsap!\nI'll try some!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "Not bad! My EXP\nwent way up,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Gross. Does\nanyone really\nthink\nthis tastes\ngood?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh! Is that a\nscale?\nI'll check my\nweight!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "I'm in good\nshape!\nWeight-loss\nsuccess!\nMy Max HP went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "Oh, no! I've\ngained\na ton of\nweight!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "A belt\nmachine...\nI'll give it a\ntry."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yeah! That\nreally\nworks! My Max\nHP\nwent up a fair\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "It just makes\nmy\nbody wobble...\nThis\nisn't helping\nat all!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "A treadmill!\nI'll\nsprint like\ncrazy!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha ha! I'm the\nwind!\nMy mood and Max\nHP\nsoared like the\nwind!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "I failed,\nbrother!\nI can run all I\nwant,\nbut this track\ngoes\nnowhere!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "A crystal\nball...?\nHa ha! This is\nfun!\nI'll see the\nfuture!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa... I think\nI saw\nsomething!\nAnd my Max MP\nwent up, too!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't see a\nthing!\nCan't even see\ntomorrow!\nYeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "A tarot card!\nI'll tell my\nown\nfortune!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "So this is\nmagic...?\nMy Max MP went\nup a fair bit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nI knew it. I\ndon't\nbelieve in\nfortunes\nor spells!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "A pyramid...\nWhat's inside?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What is\nthis power?! My\nMax MP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "It just smells\nmoldy...\nNothing\nhappened..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "A punching bag!\nWatch this,\nbrother.\nI'll nail it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha ha! How was\nthat,\nbrother? My\nAttack\nwent up a\nlittle! Yeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "I heard a bone\ncrack just\nnow..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "A training\ntree?\nPerfect for\ntough\ntraining, yeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "How was that\nsharp\nattack? My\nAttack\nwent up a fair\nbit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nope, this\nisn't\nfor me. Give me\na\ncooler item,\nyeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's with\nthis\nrock, brother?\nCan anyone move\nit?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! It\nworked!\nMy Attack went\nway\nup, too! Yeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way. It\nwon't\nbudge at all..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "A punching\nmachine!\nLooks like\nit'll help,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, that\nhurt!\nBut I endured\nit.\nMy Defense went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! I'll\nchoke\nif I try that!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "What kind of\ncannon\nis this? You\ndon't\nwant me to\ncatch\nthe ball, do\nyou?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! How was\nthat?\nI caught it! My\nDefense went\nway up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "Catch a\ncannonball?\nNo way!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa,\nbrother...\nI have to catch\nthis?\nI can do it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it,\nbrother!\nYes, I can! My\nDefense got hot\nand went up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nooo! I don't\nwant\nyou!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a\nbookshelf?\nMaybe I'll read\na book for\nonce."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha ha! I did\nit!\nJust reading\nmade\nmy Wisdom go\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "Books are no\ngood...\nThey just make\nme\nsleepy..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's this? A\nstudy desk...?\nDo\nDigimon have to\nstudy?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yeah! My Wisdom\nwent up! I can\ndo\nanything if I\ntry!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't deal\nwith\nthis... I'm\nbummed,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "What's this\ncalled?\nA magic\ncircle...?\nHow do I use\nit?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "My head feels\nclear!\nMy Wisdom went\nup!\nIt's magic,\nyeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened...\nMagic can't\nmake\neveryone smart,\nor\nWitchelny would\nbe\na paradise,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "Side-to-side\njumps...?\nAll right,\nlet's go!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "Did you see my\nSpeed,\nbrother? I got\neven\nfaster! Yeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "Something\ncracked...\nMy back just\ncracked..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "A trampoline...\nMight as well\ntry it!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yeah! I can\nfly!\nFresh, healthy,\nand\nfaster! Yeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "Bouncing like\nthis\nmade me feel\nsick,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "A running\nwheel...\nI run inside\nit?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha ha! My Speed\nwent way up! I\ncould\nrun forever,\nyeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why am I\nrunning\naround in\ncircles\nall by myself,\nbrother?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Digimon\nkeychain!\nLooks\ninteresting.\nI'll give it a\ntry!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "Friendship up,\neasy!\nThat's what\nhappens\nwhen I do it,\nman!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "It looks easy,\nbut\nit's trickier\nthan\nit seems...!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "A cell phone...\nI'll try it\nout."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "My hot\nconversation\nraised our\nFriendship!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 86,
+      "category": "DigiFarm reports",
+      "english": [
+        "My message\ndidn't\nget through...\nMaybe\nthere's no\nsignal or\nthe phone's\noff, man..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 87,
+      "category": "DigiFarm reports",
+      "english": [
+        "A digital\ncamera!\nI'll strike a\npose\nand take a\nshot!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 88,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yeah! Nailed\nit!\nLook at my\nprofile!\nThat photogenic\nshot\nraised\nFriendship!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 89,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Why does my\nface\nlook so\nugly...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 90,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, look! A\nring of fire!\nThat's\npretty\nthrilling!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 91,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha ha! I can do\nit!\nMy EXP burned\nup, too!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 92,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Something\nsmells\nburnt. Is\nsomething\non fire?\nSeriously?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 93,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! A Fire\nRoad?!\nDo I have to\ncross it?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 94,
+      "category": "DigiFarm reports",
+      "english": [
+        "I crossed it\nwith\na burning\nheart! My\nEXP flared up,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 95,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! I'll\nburn\nup, body and\nsoul!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 96,
+      "category": "DigiFarm reports",
+      "english": [
+        "Fireworks... A\nfiery\nflower in the\nsky!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 97,
+      "category": "DigiFarm reports",
+      "english": [
+        "They launched\nas\nbrightly as my\nlife!\nMy EXP shot way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 98,
+      "category": "DigiFarm reports",
+      "english": [
+        "How old are\nthese?\nThey're duds,\nright?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 11,
+      "start": 99,
+      "category": "DigiFarm reports",
+      "english": [
+        "That's one big\nball!\nI bet I can\nride it..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 0,
+      "category": "DigiFarm reports",
+      "english": [
+        "Balance matters\nin everything!\nMy\nEXP rose\nevenly! Yeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 1,
+      "category": "DigiFarm reports",
+      "english": [
+        "Careful,\nbrother!\nI nearly rolled\ninstead of the\nball!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 2,
+      "category": "DigiFarm reports",
+      "english": [
+        "Tightrope\nwalking...?\nWatch me nail\nit!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 3,
+      "category": "DigiFarm reports",
+      "english": [
+        "Easy! My EXP\nwent\nup a fair bit!\nThat's\nwhat happens\nwhen\nI do it! Yeah!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 4,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! That's\nscary!\nGive me a\nbreak!\nLife's\ntightrope is\nenough for me!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 5,
+      "category": "DigiFarm reports",
+      "english": [
+        "A circus tent?\nCan I go\ninside...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 6,
+      "category": "DigiFarm reports",
+      "english": [
+        "The crowd loved\nmy trick! A\nhuge hit!\nAnd my EXP went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 7,
+      "category": "DigiFarm reports",
+      "english": [
+        "I thought I was\ngood at\neverything...\nBut I'm no\nclown, man!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 8,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini shower!\nPerfect timing.\nI'll take a\nshower."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 9,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yeah! Clean and\nrefreshed! My\nEXP\nwent up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 10,
+      "category": "DigiFarm reports",
+      "english": [
+        "Brrr! It's\nfreezing!\nOnly cold\nwater,\nbrother?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 11,
+      "category": "DigiFarm reports",
+      "english": [
+        "A mini fishing\npond...?\nThis looks fun!\nI'm a great\nangler!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 12,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yeah! Fish on!\nI caught a fish\nand got EXP!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 13,
+      "category": "DigiFarm reports",
+      "english": [
+        "No bite at\nall...\nMy rod and\nspirit\ndidn't even\ntwitch..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 14,
+      "category": "DigiFarm reports",
+      "english": [
+        "A huge\nwaterfall...\nShould I train\nmy\nspirit under\nit?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "It tightened me\nup,\nbody and soul!\nMy\nEXP shot way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ow! This hurts!\nIt's cold and I\ncan't\nbreathe...\nMy spirit may\nbreak!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "This flower\nlooks\npretty nice!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's beautiful\nand\nsmells great!\nFlowers\nare nice\nsometimes!\nMy EXP went up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's pretty and\nsmells good,\nbut\nwhat's the\npoint?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "A tree house!\nThis place\nlooks great!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's a nice\nhouse.\nIt calms me\ndown.\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "A tree house?\nThis is just a\nshed,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "A computer!\nI've\nalways wanted\none!\nLet's get\nonline!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "Digimon need\nthe\nInternet these\ndays!\nMy knowledge,\ninfo,\nand EXP all\nwent up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "I opened too\nmany\nwindows and it\nfroze!\nHelp me,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "A solar panel!\nIt makes\nelectricity\nfrom sunlight,\nright?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 27,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! It's\ncharging!\nI got energy\nand\nEXP at the same\ntime!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 28,
+      "category": "DigiFarm reports",
+      "english": [
+        "Electricity's\nzapping\nthrough me...\nIs this\nsome kind of\npunishment?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 29,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why is there a\npinball machine\nhere...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 30,
+      "category": "DigiFarm reports",
+      "english": [
+        "Heh-heh... I'm\ngetting the\nhang of it!\nMy EXP went way\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 31,
+      "category": "DigiFarm reports",
+      "english": [
+        "Watching the\npinball\nmade me\ndizzy..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 32,
+      "category": "DigiFarm reports",
+      "english": [
+        "A birdhouse...?\nI could\nprobably\nfit inside..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 33,
+      "category": "DigiFarm reports",
+      "english": [
+        "If a bird can\ndo it,\nso can I! I\ngained\ncuriosity and\nEXP!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 34,
+      "category": "DigiFarm reports",
+      "english": [
+        "It's empty...\nThat's a\nletdown,\nbrother."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 35,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this for a\nrunning high\njump?\nAll right,\nlet's go!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 36,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yeah! High jump\nsuccess! My EXP\nleaped up, too!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 37,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! I can't\nhigh-jump worth\na\ndarn!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "A diving\nboard...\nAll right,\nbrother!\nWatch me dive,\nspin,\nand splash\ndown!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha ha! What a\nthrill!\nMy EXP went up,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! That's\ntoo dangerous,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a\nphonograph?\nIt's really\nold...\nDoes it work?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "What a moving\nsound!\nJust listening\nmade\nmy EXP go up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "It won't move,\nbrother.\nIt's worn\nout..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "A Holy Bell!\nI'll give it a\nring!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "What a sound...\nA truly holy\nbell!\nI could feel my\nEXP going up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "It won't\nring...?\nMaybe I need a\nholy heart?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "Stonehenge...?\nDo I walk\nbetween\nthose stones?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa... What is\nthis incredible\npower?\nMy EXP went way\nup,\nbut maybe I\nlost years..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "I was excited,\nbut nothing\nhappened..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What\nstinks?!\nWhat's in this\npot?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "I see... A dark\npotion! I feel\nawful,\nbut my EXP went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "It stinks so\nmuch\nI'm getting\ndizzy!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "Hey, is this a\ncursed box...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "The dark power\nraised my EXP,\nbut\nmy stomach\nfeels sick..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened,\nbut I feel\nawful...\nMaybe I'm the\none\nwho's cursed!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! That's a\nDark Tower! I'm\nscared,\nbut I can't\nlook away!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "Dark power made\nmy EXP soar! I\nthink\nI might be\ncursed, though!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "I can't believe\nnothing\nhappened..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Hmm? What's\nthis?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha ha ha! I got\n100 Bits! I'll\nsend\nthem to Taiki!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Oh? What's\nthis...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ha ha! 500\nBits!\nI'll send them\nto\nTaiki. Hang on,\nbro!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "...Huh?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "I did it,\nbrother!\n1,000 Bits!\nI'll send\nthem to Taiki!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "Wild\nstrawberries!\nThese look\ntasty!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "Sweet and\ndelicious!\nThe best! My\nmood\nand EXP went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "Bitter, hard,\nand\nsour! Are these\nreally\nwild\nstrawberries?!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "This branch\nlooks\nperfect for\nclimbing..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "Yeah! I can do\nit!\nI climbed a\nlittle,\nand my EXP went\nup!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why climb this?\nTake it easy,\nbrother!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "I found a\nstump..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What's\nwith\nthis stump?\nBumping\nit lightly made\nmy\nEXP go up!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "A stump isn't\nvery useful, is\nit...?"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "Tasty tree sap!\nThat looks\ndelicious!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "Tasty!\nDelicious!\nI licked it up,\nand\nmy EXP went up,\ntoo!"
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 12,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whether it's\ngood\nor bad, I don't\nlike\ntree sap..."
+      ],
+      "sources": [],
+      "review_note": "Original Japanese DigiFarm activity report; comic voice and wordplay adapted into concise English and wrapped to the story line width."
+    }
+  ]
+}

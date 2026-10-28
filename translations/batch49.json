@@ -1,0 +1,356 @@
+{
+  "description": "Translate the end of the Elestou Zone and Commander Room story scene.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "The Legendary\nAncient\nWeapons...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "That's enough\ntalk! Spadamon,\nprepare\nyourself!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Hah! You're on!\nLeave him to\nme, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Now do you\nunderstand the\npower of Xros\nHeart?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Guh... I didn't\nexpect Spadamon\nto have allies\nlike this...\nBut before Lord\nZD\nMillenniummon,\nyou're just\nkids! Enjoy\nyour friendship\nwith that\nweakling\nSpadamon while\nyou can...!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "What a pain...\nHe lost to that\n'weakling\nSpadamon'?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Spadamon,\nwhat's wrong?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "W-what\nhappened? What\nwas that just\nnow?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you okay,\nSpadamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "I remember! The\nLegendary\nAncient\nWeapons...\nThat's the\nsecret sealed\nin the Elestou\nZone! I must\nnever tell\nanyone... I\nthink someone\ntold me that...\nWho was it...?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hm? What's\nwrong?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "I can't\nremember what\ncame after\nthat. But it's\na huge secret!\nThe Legendary\nAncient Weapons\nare hidden in\nthis Zone. It\nhas to stay a\nsecret! ...Oh\nno! I just told\neveryone!\nW-what do I\ndo?!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "It's okay,\nSpadamon. We're\nall your\nfriends. Still,\nwhat a strange\nguy. We were\nfighting him\njust a moment\nago... Wait!\nMaybe\nSpadamon's\nmemory came\nback because he\nfought...\nbecause he got\nstronger!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "...I got\nstronger?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Wow! You really\nbeat him! He\nlooked so\nscary. It must\nhave been hard\nto take him\ndown!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Heh... It\nwasn't that\nhard."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Zenjiro didn't\ndo anything,\nthough."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "We got this\nroom back. Who\nused it before?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "This is the\nCommander Room,\nwhere the\ncommander\nworks. Taiki,\nyou can use it\nif you'd like.\nYou're the\ncommander of\nthe Elestou\nZone now, after\nall!"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "You can also\naccept requests\nfrom the\nmonitor over\nthere."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "If you use the\nhealing bed at\nthe back of the\nroom, you can\nrestore your\nallies' HP and\nMP."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? Taiki\nseems more\ntired than the\nDigimon. I can\nexplain\neverything\nlater... Why\ndon't you rest\nin the healing\nbed for a\nwhile?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "That's right!\nTaiki always\npushes himself\ntoo hard. Go\nrest in bed\nfirst! We can\ntalk after."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "I guess... Come\nto think of it,\nall of a\nsudden... I\nfeel sleepy..."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Good morning,\nTaiki."
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "Huh? What's\nwith that\npuzzled look?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 3,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hmm? Hey,\nAkari... I feel\nkind of dizzy.\nDid I sleep too\nlong?"
+      ],
+      "sources": [
+        "Original Japanese ROM (local primary source)"
+      ],
+      "review_note": "Story dialogue translated from the Japanese scene. Elestou Zone and other proper nouns follow the project glossary."
+    }
+  ]
+}

@@ -1,0 +1,1305 @@
+{
+  "description": "Translate 100 additional battle-effect descriptions from MESPAK04 entries 18 and 19.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dances up to a foe and\ndrains its blood. Drains\nHP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Excrement\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Platinum Excrement\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Splatter Hunting\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ogre Flame\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cathedral\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Aura Dio Grandiorqua\nPlaceholder text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sprinkles a foe with\nshining, sweet powder."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pokes a foe with something\nlike a tiny thorn."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with a fireball\nusing ninjutsu."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoots a foe with a water\ngun using ninjutsu."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows a gust of wind at a\nfoe using ninjutsu."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Releases electricity at a\nfoe using ninjutsu."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Plays a hot rhythm to\nraise one ally's Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a rapid barrage of\nlight waves at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swings a shining drumstick\nto strike a foe\nrepeatedly."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts a foe with the\nshock wave of a huge\nexplosion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Explodes and scatters\nparticles over nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with a plasma\nball. Lowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoots compressed light at\na foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Turns the air into plasma\nand fires it at nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices a foe with a blow\nstrong enough to shake the\nearth."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Buries a foe with a blow\npowerful enough to wake\nthe dead."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Collapses the ground\nbeneath nearby foes and\nslices them."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts a foe in half with\npower enough to destroy a\nstar."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a crystal at a foe\nwith a punch."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Curls up and rolls over\nnearby foes. May cause\ninstant death."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Reflects light to blind\nnearby foes. Lowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes solar lasers on\nnearby foes. May cause\nDarkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with claws\nthat rot whatever they\ntouch."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rams a foe with its spiny\nbody."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Explodes and engulfs\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rains blades from its back\non a foe. Deals Fighting\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with dark red\nbubbles from its eyes. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Raises its Defense with a\nshining light barrier."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges and punches a foe\nwith powerful claws.\nLowers Attack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with\nthe flames it inhaled.\nDramatically boosts Melody\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a\nshining fist of victory."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with hot,\npowerful claws. Lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits an iron ball at a\nfoe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends high-voltage\nelectricity through nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a small fireball at\na foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a ball of light at a\nfoe. May cause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pokes a foe with a\ndazzling illusion. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires strange energy at a\nfoe. Drains HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with hard\nclaws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Raises the ground to\nstrike nearby foes. Lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sprays water stored in its\nmouth at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Commands small fish to\nattack nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 18,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends a swarm of bats to\nattack a foe. Drains MP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows up nearby foes with\ntoy missiles."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Plants virus gears inside\na foe. May cause Darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with a\nholy, high-pitched cry.\nMay cause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits thread like\nelectrified needles. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pecks a foe fiercely like\na woodpecker. Lowers\nAttack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Curls up and charges into\nnearby foes. Lowers\nAttack."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a ball of hot air at\na foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a ball of cold air\nat a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes powerful punches\non nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Summons dark ice to strike\nnearby foes. Lowers\nWisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits poisonous mist at\nnearby foes. May cause\nPoison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Quickly scratches nearby\nfoes with its wing claws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws giant fireballs at\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a hard, black ball\nat a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scatters allergenic pollen\non nearby foes. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a hard nut from its\nmouth. Deals Light damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Leaps into a foe's guard\nand lands an uppercut. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rams into a foe with a\nholy spin."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges into nearby foes\nwith its helmet."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\nboth evil eyes. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges straight at a foe\nwith its shield. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a poisonous\nmushroom bomb at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Discharges the electricity\nstored in its pincers. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a fist\nheated by Fire energy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Focuses its power and\nfires a water ball at a\nfoe. May cause Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with a holy\nkatana that chirps. May\ncause Darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Tackles a foe with its\nbouncy body."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a small ice arrow at\na foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with a holy\nspear that explodes on\ncontact."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws Thor's Hammer at\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe repeatedly\nwith its big ears. Deals\nFighting damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires ultra-high-pressure\nwater bubbles at nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoots a foe with a\nwater-powered homing\narrow."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spins and pummels a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dives down from above and\ncharges at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes\nrepeatedly at light speed.\nMay cause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws its shining crest\nat a foe like a boomerang."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a fierce wave of\nflames at nearby foes.\nLowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rips a foe apart with\nclaws made of digital\ndata."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swallows nearby foes in a\nblack hole between its\npincers. May cause\nDarkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with an\nexploding fist. Deals Fire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires machine guns on both\narms at nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with\nelectrified steel claws.\nLowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calls a thundercloud to\nstrike nearby foes. Deals\nLight damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires electricity gathered\nfrom nature at nearby\nfoes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts a foe in half with\ngiant scissors. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a powerful plasma\ncannon at a foe. Lowers\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires scorching arrows\nfrom the jewels in both\nhands. Slightly boosts\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cuts a foe in half with a\nholy blade."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 19,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Smashes a bean-shaped iron\nball into a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct translation of the original battle-effect text. Established Xros Wars terms and status names are retained."
+    }
+  ]
+}

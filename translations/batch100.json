@@ -1,0 +1,1156 @@
+{
+  "description": "Farm notices and optional story scenes.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Training was a huge success! ^5 increased! ^6 to ^7"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Training succeeded! ^5 increased! ^6 to ^7"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "Training failed..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Training was a huge success! EXP increased a lot!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Training succeeded! EXP increased a little!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, stop working."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "No, keep working."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, start working."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "No, never mind."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained a consumable item! ^0"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained a consumable item! ^0 x^1"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained equipment! ^0"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained equipment! ^0 x^1"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained a Farm item! ^0"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained a Farm item! ^0 x^1"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained a key item! ^0"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained ^1 bit!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained ^1 Tamer Points!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Quest complete!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained a DigiScore! ^0"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained DigiScores! ^0 x^1"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained a Melody! ^0"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Obtained Melodies! ^0 x^1"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 66,
+      "category": "Farm report notifications",
+      "english": [
+        "A DigiReport arrived!\nRead it now?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "You found Terilop and brought him back safely! I can't thank you enough!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes! You helped me when I was about to get lost!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "And you cheered me up when I was exhausted!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "This is our way of thanking you!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Please accept it!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "It's very precious and freshly made!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "Treasure it and think of us!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "See you! Please keep taking care of Terilop..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks a lop, teri-lop!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "Let me thank you again. I almost blamed Numesuka for the kidnapping! If you hadn't covered for me, it could have been awful. Whatever happens, keep this an absolute secret. Promise me!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "I will not forgive anyone who defiles this sacred sea. You shall atone at the bottom of it forever!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "H-hey! You can't be serious! This sea is incredibly deep! I'd be crushed flat down there!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Silence!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh no... He is furious! Mermaimon's in the greatest danger of her life!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Aaaaaah! Hey, you there! A hero passing by at just the right time! Please, help me!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Who are you? An ally of hers? If you're only passing through, keep walking. I'm about to sink this criminal to the bottom of the sea. Interfere, and I'll sink you with her!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm not her ally. In fact, we're enemies. But her friend begged me to save her, saying I was the only one who could. That's why I'm here. I won't just walk away. If you're going to sink her, I can't stand by!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "No one has ever escaped my wrath. You can both regret your choices forever at the bottom of the dark sea!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... You truly are no ally of hers. But I understand why you want to protect them. For your sake, I will forgive her crime. You are strong. Use that strength for good."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "Amazing! You beat him! You really saved me. Thank you so much!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll give you some treasure as thanks! I've hidden four treasures around Tokona Sea and Tokona Coast. Find them and take any one you like. They will disappear once I leave, so hurry!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, but what kind of treasure?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "Secret! That's what makes treasure exciting, isn't it? You'll spot it easily because it sparkles. Find my thank-you gift soon!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "Is this the strange stone tablet Patamon mentioned? It certainly looks suspicious..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Wh-what was that just now?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "It's saying the same thing again. What does it mean?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "It only repeats itself. What's going on?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "Are you the guardian of this tablet?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "The tablet? You mean that cursed seal?! I sealed it away with a curse of my own! Now all the Ancient Digimon will serve me. Once I revive everything, I'll rule the Digital World. My ambition is nearly fulfilled!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "So you're the one who angered the tablet guardian! No way. We won't let you do that!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "Too late!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "Come back to life, Ancient Digimon!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Please... stop that one... and the Ancient Digimon..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Thank you. You saved us. AncientWisemon controlled me, and I lost myself."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=ancientwisemon"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "We will return to our slumber. I hope nothing wakes us again."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm sure you'll be all right now. Sleep well, everyone."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "As thanks, I entrust you with this legendary Score. Farewell, wielder of good power."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "It's nice to have it, but what Score is this? Let's ask Patamon when we get back."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "Parrotmon, what's wrong? I heard you were looking for me."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=parrotmon"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "...Parrotmon?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary",
+        "https://digimon.net/reference_en/detail.php?directory_name=parrotmon"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "What? Something's wrong with him!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "WE WILL MULTIPLY. MORE AND MORE, FASTER AND FASTER."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "NO ONE CAN STOP US."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Multiply? Who does he mean by 'we'?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "You're acting suspicious. What are you doing here?"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "GRRR... GGGGG... GRRRRRRR..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "What is this thing? It isn't just suspicious. It looks completely broken..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh no... This again?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "GRRRRRRRRRRR... GRRRRRRR!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "WE WILL KEEP MULTIPLYING. MORE AND MORE, FOREVER. GGGGG..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "NO ONE CAN STOP US. GRRRR..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "That again? Who are you calling 'we'?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "They still won't give up?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "WE WILL ALWAYS MULTIPLY. WE WILL COPY OURSELVES, THEN COPY THE COPIES, OVER AND OVER. WE... WILL... KEEP... GGG..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... Let's go back and report to Veemon for now."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "They've multiplied this much already?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "GGG... GGGGG! OBSTACLE APPROACHING. IT WILL INTERFERE WITH US..."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 26,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "GRRRRR... ELIMINATE THE OBSTACLE."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Existing reviewed project glossary"
+      ],
+      "review_note": "Farm notices and optional story translated from the original Japanese. All source substitution tokens are retained and build-validated."
+    }
+  ]
+}

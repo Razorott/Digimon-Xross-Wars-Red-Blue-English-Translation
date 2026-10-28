@@ -1,0 +1,1793 @@
+{
+  "description": "Sky Fort story and NPC dialogue, quest objectives, DigiFarm reports, Digimon names, battle techniques, and farm equipment labels.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 376,
+      "category": "Digimon names",
+      "english": [
+        "MetalTyrannomon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=EX9-043&search=true"
+      ],
+      "review_note": "Official English card name; the game abbreviation ME resolves to MetalTyrannomon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 387,
+      "category": "Digimon names",
+      "english": [
+        "BP Chessmon"
+      ],
+      "sources": [],
+      "review_note": "Game roster abbreviation retained; an exact official Western expansion was not verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 402,
+      "category": "Digimon names",
+      "english": [
+        "MasterTyrannomon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/cards/?card_no=EX11-010&search=true"
+      ],
+      "review_note": "Official English card name; the game abbreviation MT resolves to MasterTyrannomon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 449,
+      "category": "Digimon names",
+      "english": [
+        "SlashAngemon"
+      ],
+      "sources": [
+        "https://world.digimoncard.com/pdf/products_BT01-03_list1.pdf"
+      ],
+      "review_note": "Standard English card spelling. The Xros Wars English dub used SlushAngemon; this project uses the canonical franchise spelling."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 531,
+      "category": "Digimon names",
+      "english": [
+        "EX Eraser Omega"
+      ],
+      "sources": [],
+      "review_note": "Game-specific form; translated from the Japanese roster label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1004,
+      "category": "Digimon names",
+      "english": [
+        "EX Eraser Omega"
+      ],
+      "sources": [],
+      "review_note": "Game-specific form; translated from the Japanese roster label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 533,
+      "category": "Digimon names",
+      "english": [
+        "Omega Armamon BM"
+      ],
+      "sources": [],
+      "review_note": "Compact roster label for this game-specific form; full name appears in the formal-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 624,
+      "category": "Digimon names",
+      "english": [
+        "Omega Armamon BM"
+      ],
+      "sources": [],
+      "review_note": "Compact roster label for this game-specific form; full name appears in the formal-name field."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 534,
+      "category": "Digimon names",
+      "english": [
+        "Flowerbed Boss"
+      ],
+      "sources": [],
+      "review_note": "Context identifies a named boss Digimon; concise roster wording."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 625,
+      "category": "Digimon names",
+      "english": [
+        "Flowerbed Boss"
+      ],
+      "sources": [],
+      "review_note": "Context identifies a named boss Digimon; concise roster wording."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1007,
+      "category": "Digimon names",
+      "english": [
+        "Flowerbed Boss"
+      ],
+      "sources": [],
+      "review_note": "Context identifies a named boss Digimon; concise roster wording."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 582,
+      "category": "Digimon names",
+      "english": [
+        "System Omega"
+      ],
+      "sources": [],
+      "review_note": "Game system name; Omega retained as the named system."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 606,
+      "category": "Digimon names",
+      "english": [
+        "Signboard Monitamon"
+      ],
+      "sources": [],
+      "review_note": "Roster label for the signboard Monitamon."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 650,
+      "category": "Digimon names",
+      "english": [
+        "Formal Name Placeholder"
+      ],
+      "sources": [],
+      "review_note": "Placeholder label from the roster data."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 651,
+      "category": "Digimon names",
+      "english": [
+        "????????????"
+      ],
+      "sources": [],
+      "review_note": "The source name is intentionally hidden in the game data."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1006,
+      "category": "Digimon names",
+      "english": [
+        "Omega Armamon: Burst Mode"
+      ],
+      "sources": [],
+      "review_note": "Expanded game-specific form name; preserves Omega from the original game name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4070,
+      "category": "Digimon names",
+      "english": [
+        "Armor Workshop"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4071,
+      "category": "Digimon names",
+      "english": [
+        "Armor Factory"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4072,
+      "category": "Digimon names",
+      "english": [
+        "Armor Shrine"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm facility name."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4073,
+      "category": "Digimon names",
+      "english": [
+        "Friendship Up 1"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm achievement label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4074,
+      "category": "Digimon names",
+      "english": [
+        "Friendship Up 2"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm achievement label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4075,
+      "category": "Digimon names",
+      "english": [
+        "Found 100 Bit"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm achievement label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4076,
+      "category": "Digimon names",
+      "english": [
+        "Found 500 Bit"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm achievement label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4077,
+      "category": "Digimon names",
+      "english": [
+        "Found 1,000 Bit"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm achievement label."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 201,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Talk to Megadramon in\nWest Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 204,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Report to Megadramon\nin West Knuckle City."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 205,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "The Rumor About\nHL Angemon"
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 206,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find and punish the\nculprit spreading bad\nrumors about\nHL Angemon."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 207,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "A Wild HL Angemon\nis on the farm."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 209,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Inspect the stone\ntablet in the\nKumonos Underground\nPassage."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 211,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Search for the\nAncient Stone Tablet!"
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 212,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the\nsuspicious stone\ntablet."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 215,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Inspect the stone\ntablet in Papyrus Cave."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 216,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Inspect the stone\ntablet beneath\nCrystal Mountain."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 218,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "The Mystery of the\nAncient Tablets!"
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 219,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the\ndangerous stone tablet."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 220,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Clear \"Search for the\nAncient Stone Tablet!\""
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 222,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Inspect the stone\ntablet in Stealth Cave."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 224,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Protect the seal on\nthe ancient tablet!"
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 225,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the\nsuspicious, dangerous\nstone tablet."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 226,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Clear at least seven\nRequest Quests."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 229,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Find Parrotmon in\nEast Digital Space."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 231,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Look-Alike?\nThe Copy Digimon\nMystery"
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK01.PAK",
+      "entry": 0,
+      "start": 232,
+      "category": "Menus, quests and battle prompts",
+      "english": [
+        "Investigate the\nParrotmon acting\nstrangely."
+      ],
+      "sources": [],
+      "review_note": "Quest title or objective; Digimon and place names use project spellings."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 15,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, that\nstartled\nme! That sounds\nnice.\nIt was so\nsoothing,\nmy EXP went up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 16,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this thing\nbroken?\nIt will not\nmake a\nsound at all..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 17,
+      "category": "DigiFarm reports",
+      "english": [
+        "I know this! It\nis a\nHoly Bell! Let\nme\ngive it a\nring..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 18,
+      "category": "DigiFarm reports",
+      "english": [
+        "That sounds\ngreat!\nSo soothing. My\nEXP\nwent up a\nlittle, too!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 19,
+      "category": "DigiFarm reports",
+      "english": [
+        "It will not\nring. Is it\nbroken, or can\nonly\npure hearts\nring it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 20,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this\nStonehenge?\nAm I supposed\nto walk\nthrough it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 21,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What was\nthat?\nI feel strong!\nMy EXP\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 22,
+      "category": "DigiFarm reports",
+      "english": [
+        "Nothing\nhappened.\nGuess it only\nlooks\nimpressive."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 23,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this?\nSome\nkind of strange\npot..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 24,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh! A Dark\nPotion!\nMy EXP went up,\nbut\nit reeks!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 25,
+      "category": "DigiFarm reports",
+      "english": [
+        "Phew! Something\nsmells awful! I\nam\ngetting out of\nhere!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 1,
+      "start": 26,
+      "category": "DigiFarm reports",
+      "english": [
+        "Is this a\ncursed box?\nI am curious...\nI\nshould check it\nout!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm reaction dialogue; wrapped to the fixed 15-column text renderer."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3829,
+      "category": "Items and equipment",
+      "english": [
+        "MA Angemon"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3831,
+      "category": "Items and equipment",
+      "english": [
+        "HL Angemon"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3876,
+      "category": "Items and equipment",
+      "english": [
+        "Koyojo"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3877,
+      "category": "Items and equipment",
+      "english": [
+        "Momiji Oroshi"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3879,
+      "category": "Items and equipment",
+      "english": [
+        "Pao Fu"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3880,
+      "category": "Items and equipment",
+      "english": [
+        "Pao Tzu"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3881,
+      "category": "Items and equipment",
+      "english": [
+        "Pao Chen"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3882,
+      "category": "Items and equipment",
+      "english": [
+        "Treasure Mallet"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3897,
+      "category": "Items and equipment",
+      "english": [
+        "Kikurin"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3901,
+      "category": "Items and equipment",
+      "english": [
+        "Chououmaru"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3905,
+      "category": "Items and equipment",
+      "english": [
+        "Sanaoria"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3906,
+      "category": "Items and equipment",
+      "english": [
+        "Aztec"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3907,
+      "category": "Items and equipment",
+      "english": [
+        "Ernstwell"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3908,
+      "category": "Items and equipment",
+      "english": [
+        "Aussterben"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4044,
+      "category": "Items and equipment",
+      "english": [
+        "Stonehenge"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4045,
+      "category": "Items and equipment",
+      "english": [
+        "Suspicious Pot"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4046,
+      "category": "Items and equipment",
+      "english": [
+        "Cursed Box"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4047,
+      "category": "Items and equipment",
+      "english": [
+        "Dark Tower"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4048,
+      "category": "Items and equipment",
+      "english": [
+        "Computer"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4049,
+      "category": "Items and equipment",
+      "english": [
+        "Solar Panel"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4050,
+      "category": "Items and equipment",
+      "english": [
+        "Pinball Machine"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4051,
+      "category": "Items and equipment",
+      "english": [
+        "Mini Shower"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4052,
+      "category": "Items and equipment",
+      "english": [
+        "Mini Fishing Pond"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4053,
+      "category": "Items and equipment",
+      "english": [
+        "Waterfall"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4054,
+      "category": "Items and equipment",
+      "english": [
+        "Birdhouse"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4055,
+      "category": "Items and equipment",
+      "english": [
+        "High Jump Bar"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4056,
+      "category": "Items and equipment",
+      "english": [
+        "Diving Board"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4057,
+      "category": "Items and equipment",
+      "english": [
+        "Tree Climb"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4058,
+      "category": "Items and equipment",
+      "english": [
+        "Tree Stump"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4059,
+      "category": "Items and equipment",
+      "english": [
+        "Tasty Sap"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4060,
+      "category": "Items and equipment",
+      "english": [
+        "Flower"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4061,
+      "category": "Items and equipment",
+      "english": [
+        "Wild Berries"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4062,
+      "category": "Items and equipment",
+      "english": [
+        "Treehouse"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4063,
+      "category": "Items and equipment",
+      "english": [
+        "Weapon Shed"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4064,
+      "category": "Items and equipment",
+      "english": [
+        "Weapon House"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4065,
+      "category": "Items and equipment",
+      "english": [
+        "Weapon Workshop"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4066,
+      "category": "Items and equipment",
+      "english": [
+        "Weapon Factory"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4067,
+      "category": "Items and equipment",
+      "english": [
+        "Weapon Shrine"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4068,
+      "category": "Items and equipment",
+      "english": [
+        "Armor Shed"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 4069,
+      "category": "Items and equipment",
+      "english": [
+        "Armor House"
+      ],
+      "sources": [],
+      "review_note": "Equipment, farm object, or facility label. Concise form selected for the item row."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1452,
+      "category": "Battle moves",
+      "english": [
+        "Execution by Beheading"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2363,
+      "category": "Battle moves",
+      "english": [
+        "Execution by Beheading"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2728,
+      "category": "Battle moves",
+      "english": [
+        "Execution by Beheading"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3639,
+      "category": "Battle moves",
+      "english": [
+        "Execution by Beheading"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1489,
+      "category": "Battle moves",
+      "english": [
+        "Thunderclap"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2433,
+      "category": "Battle moves",
+      "english": [
+        "Thunderclap"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2765,
+      "category": "Battle moves",
+      "english": [
+        "Thunderclap"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3709,
+      "category": "Battle moves",
+      "english": [
+        "Thunderclap"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1494,
+      "category": "Battle moves",
+      "english": [
+        "Radiant Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2435,
+      "category": "Battle moves",
+      "english": [
+        "Radiant Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2770,
+      "category": "Battle moves",
+      "english": [
+        "Radiant Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3711,
+      "category": "Battle moves",
+      "english": [
+        "Radiant Flame"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1496,
+      "category": "Battle moves",
+      "english": [
+        "Infinity"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2436,
+      "category": "Battle moves",
+      "english": [
+        "Infinity"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2772,
+      "category": "Battle moves",
+      "english": [
+        "Infinity"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3712,
+      "category": "Battle moves",
+      "english": [
+        "Infinity"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1542,
+      "category": "Battle moves",
+      "english": [
+        "Mikafutsu-no-Kami"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2319,
+      "category": "Battle moves",
+      "english": [
+        "Mikafutsu-no-Kami"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2818,
+      "category": "Battle moves",
+      "english": [
+        "Mikafutsu-no-Kami"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3595,
+      "category": "Battle moves",
+      "english": [
+        "Mikafutsu-no-Kami"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1748,
+      "category": "Battle moves",
+      "english": [
+        "Bonhitsu Sen"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2296,
+      "category": "Battle moves",
+      "english": [
+        "Bonhitsu Sen"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3024,
+      "category": "Battle moves",
+      "english": [
+        "Bonhitsu Sen"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3572,
+      "category": "Battle moves",
+      "english": [
+        "Bonhitsu Sen"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1751,
+      "category": "Battle moves",
+      "english": [
+        "Dragon Impulse"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2317,
+      "category": "Battle moves",
+      "english": [
+        "Dragon Impulse"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3027,
+      "category": "Battle moves",
+      "english": [
+        "Dragon Impulse"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3593,
+      "category": "Battle moves",
+      "english": [
+        "Dragon Impulse"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1758,
+      "category": "Battle moves",
+      "english": [
+        "Flash of Radiance"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2330,
+      "category": "Battle moves",
+      "english": [
+        "Flash of Radiance"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3034,
+      "category": "Battle moves",
+      "english": [
+        "Flash of Radiance"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3606,
+      "category": "Battle moves",
+      "english": [
+        "Flash of Radiance"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1796,
+      "category": "Battle moves",
+      "english": [
+        "Wrath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2268,
+      "category": "Battle moves",
+      "english": [
+        "Wrath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3072,
+      "category": "Battle moves",
+      "english": [
+        "Wrath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3544,
+      "category": "Battle moves",
+      "english": [
+        "Wrath"
+      ],
+      "sources": [],
+      "review_note": "Provisional English rendering from the Japanese; no exact western game match verified."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "This was not\nall\nTaiki's\nfault... I\ncould not do a\nthing,\neither.\nBarbamon\ndid not finish\nus off\non purpose! He\nthinks\nhe can toy with\nus!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "This was not\nall\nTaiki's\nfault... I\ncould not do a\nthing,\neither.\nBarbamon\ndid not finish\nus off\non purpose! He\nthinks\nhe can toy with\nus!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 143,
+      "category": "Story and dialogue",
+      "english": [
+        "We need to\ncontact\nPatamon,\nquickly...\nBarbamon may be\nheading for Sky\nFort."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "We need to\ncontact\nPatamon,\nquickly...\nBarbamon may be\nheading for Sky\nFort."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 144,
+      "category": "Story and dialogue",
+      "english": [
+        "There you are!\nEveryone, it is\nawful!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "There you are!\nEveryone, it is\nawful!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "We are not safe\nat\nall! ROG\ninvaded the\ncity, forced\neveryone\nout, and took\nover the\ntower. Sky Fort\nis\nsurrounded by a\nfield\nof lightning.\nWe cannot\nget near it!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "We are not safe\nat\nall! ROG\ninvaded the\ncity, forced\neveryone\nout, and took\nover the\ntower. Sky Fort\nis\nsurrounded by a\nfield\nof lightning.\nWe cannot\nget near it!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! Zenjiro,\nAkari,\nand everyone\nelse are\nat Sky Fort!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! Zenjiro,\nAkari,\nand everyone\nelse are\nat Sky Fort!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "That electric\nfield...\nCould it be the\nProtective\nField? It is\na powerful\nbarrier\nthat guards Sky\nFort."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "That electric\nfield...\nCould it be the\nProtective\nField? It is\na powerful\nbarrier\nthat guards Sky\nFort."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "Then we are\nfine!\nPatamon must\nhave\nactivated the\nbarrier,\nright?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "Then we are\nfine!\nPatamon must\nhave\nactivated the\nbarrier,\nright?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "The Protective\nField\nonly activates\nwhen\nevery Capacitor\nTower\nis in Emergency\nMode.\nIf they\ncaptured the\ntowers, that\nmeans..."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "The Protective\nField\nonly activates\nwhen\nevery Capacitor\nTower\nis in Emergency\nMode.\nIf they\ncaptured the\ntowers, that\nmeans..."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon\ncaptured\nSky Fort!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 11,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Barbamon\ncaptured\nSky Fort!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Good. We will\nwait\nhere, then.\nCall us\nwhenever you\nneed us."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "Good. We will\nwait\nhere, then.\nCall us\nwhenever you\nneed us."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki,\nShoutmon, can\nyou hear me? I\nhave\na way to get\nback to\nSky Fort..."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki,\nShoutmon, can\nyou hear me? I\nhave\na way to get\nback to\nSky Fort..."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "You know how?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "You know how?"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 174,
+      "category": "Story and dialogue",
+      "english": [
+        "The Protective\nField\nappears when\nevery\nCapacitor Tower\nenters\nEmergency Mode.\nReturn\nevery tower to\nNormal\nMode, and you\nshould\nbe able to\nreach Sky Fort!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "The Protective\nField\nappears when\nevery\nCapacitor Tower\nenters\nEmergency Mode.\nReturn\nevery tower to\nNormal\nMode, and you\nshould\nbe able to\nreach Sky Fort!"
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 175,
+      "category": "Story and dialogue",
+      "english": [
+        "So we need to\nvisit\nthe towers we\nactivated..."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "So we need to\nvisit\nthe towers we\nactivated..."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 8,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "If Barbamon\nfrees\nArmamon, his\nreal goal,\nthis Zone...\nno, the\nwhole Digital\nWorld\ncould fall\nunder his\ncontrol. Even\nyour\nworld may be in\ndanger."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "If Barbamon\nfrees\nArmamon, his\nreal goal,\nthis Zone...\nno, the\nwhole Digital\nWorld\ncould fall\nunder his\ncontrol. Even\nyour\nworld may be in\ndanger."
+      ],
+      "sources": [],
+      "review_note": "Sky Fort story scene; original character and Digimon names retained."
+    }
+  ]
+}

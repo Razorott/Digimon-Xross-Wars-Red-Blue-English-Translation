@@ -1,0 +1,2238 @@
+{
+  "description": "Translate battle help, Sky Fort functions, and NPC dialogue in MESPAK02 entry 17.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Battle strategy"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "Move effects"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "Other topics"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Commands"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Formations"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "Health Down?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "Special effects"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "Melody capture"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "Attributes"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "EXP"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Strategy"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Choosing moves"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Other commands"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Vanguard"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Rearguard"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Reserve"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "Power/Conserve"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "Guard/Escape"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "All Strategy"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "Commands"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiXross"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "Formations"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Items"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Full Power makes a Digimon attack with its strongest move and automatically targets an enemy it can defeat. Conserve chooses a move that uses less MP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "Guard reduces damage while a Digimon defends. Escape makes the whole team flee. If even one Digimon gets away, the battle ends."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 27,
+      "category": "Story and dialogue",
+      "english": [
+        "All Strategy applies the same strategy to every Digimon in the Vanguard and Rearguard."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 28,
+      "category": "Story and dialogue",
+      "english": [
+        "Issue a command to choose a specific move. Some moves hit multiple enemies or deal extra damage. Attacking with an attribute the enemy is weak to deals more damage. The icon beside a move shows whether its damage uses Strength, Wisdom, or both."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 29,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiXross combines Digimon in a team attack. To use it, your team needs to know a DigiXross move and include every participating Digimon. You cannot DigiXross if the user is in the Rearguard or any participant has Health Down."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 30,
+      "category": "Story and dialogue",
+      "english": [
+        "Formation lets you switch the selected Digimon with another member of your party."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 31,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Items to use a consumable. Items can restore HP or MP, cure Health Down such as paralysis, sleep, or confusion, and revive a fallen Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 32,
+      "category": "Story and dialogue",
+      "english": [
+        "The Digimon at the front is the Vanguard. It confronts enemies and protects the Digimon behind it. Only Vanguard Digimon can use DigiXross."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 34,
+      "category": "Story and dialogue",
+      "english": [
+        "Reserve Digimon still earn EXP. But if every Vanguard and Rearguard Digimon is defeated, the Reserve cannot act and the whole party is defeated. Reserve Digimon cannot join a battle already in progress."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 35,
+      "category": "Story and dialogue",
+      "english": [
+        "Health Down is an abnormal condition, such as paralysis, sleep, confusion, or darkness. Use certain items or moves to cure it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 36,
+      "category": "Story and dialogue",
+      "english": [
+        "Some moves have special effects. Drain steals HP or MP from an enemy. Poison deals extra damage over time. Curse can stop an enemy from acting. These effects have a chance to activate, so they may not always work."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 38,
+      "category": "Story and dialogue",
+      "english": [
+        "Every Digimon has attributes it resists and attributes it is weak to. Attacks from a resisted attribute deal less damage; attacks using a weakness deal much more. Check the enemy's attributes and your move's attribute before attacking."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 39,
+      "category": "Story and dialogue",
+      "english": [
+        "Win a battle to earn EXP. The party shares it, but a Digimon unable to act gets none. More party members means less EXP for each one, so use a smaller party when you want to focus on raising a Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 40,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm a know-it-all! Is there anything you want to ask me?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 41,
+      "category": "Story and dialogue",
+      "english": [
+        "Nothing now"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 43,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about Sky Fort."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the Xros Loader."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 45,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me some useful tips."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 46,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the Sky Port."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the Commander Room."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 48,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the Central Room."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 49,
+      "category": "Story and dialogue",
+      "english": [
+        "Check on my Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 50,
+      "category": "Story and dialogue",
+      "english": [
+        "Show me other information."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 51,
+      "category": "Story and dialogue",
+      "english": [
+        "Change my party setup."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 52,
+      "category": "Story and dialogue",
+      "english": [
+        "What if a Digimon reaches max level?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 53,
+      "category": "Story and dialogue",
+      "english": [
+        "How can I get strong equipment?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 54,
+      "category": "Story and dialogue",
+      "english": [
+        "How can I earn lots of bit?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 55,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the Air Squadron."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 56,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the Service Counter."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 57,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the Quest Monitor."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 58,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the Healing Bed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 59,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about saving."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 60,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the DigiLab."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 61,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell me about the DigiFarm."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 62,
+      "category": "Story and dialogue",
+      "english": [
+        "Check party status."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 63,
+      "category": "Story and dialogue",
+      "english": [
+        "Check all recruited Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 64,
+      "category": "Story and dialogue",
+      "english": [
+        "Check the Digimon Encyclopedia."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 65,
+      "category": "Story and dialogue",
+      "english": [
+        "Check my items."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "Check collected maps."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 67,
+      "category": "Story and dialogue",
+      "english": [
+        "Check my active quests."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 68,
+      "category": "Story and dialogue",
+      "english": [
+        "Rearrange moves."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 69,
+      "category": "Story and dialogue",
+      "english": [
+        "Equip items."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 70,
+      "category": "Story and dialogue",
+      "english": [
+        "Change formation."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "The Digimon Air Squadron can fly you safely to airports in other areas. First, unlock the destination airport. The keys are inside treasure chests, so keep searching!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "At the Service Counter, you can enter secret passwords or use items from Digimon Reload to call Support Digimon. They will give you an item, so try calling them all!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "The Quest Monitor is the screen beside Palmon. It shows what Digimon in the El Estow Zone need help with and what they want you to do. As you help people, more quests become available. Check Quest Info on your Xros Loader if you get stuck. Clear a quest to receive a reward from the Digimon who requested it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "The Healing Bed restores your Digimon's HP and MP and cures all Health Down. There is one inside tents, too. Use it often so you can fight without taking unnecessary risks."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "Save at any Save Terminal. You can find one in the hall leading to the Central Room and inside tents. Look for a Tent Point when you need to save in a stage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "The DigiFarm lets you train your Digimon. Ask Agumon by the Farm PC for details."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Status on the Xros Loader to check all nine party Digimon at once. You can quickly see their HP and whether they have Health Down."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Information, then Digimon List, on the Xros Loader to see every Digimon you have recruited and where each one is. You can also check their moves and abilities."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Information, then Digimon Encyclopedia, on the Xros Loader. It lists each Digimon's moves, abilities, dropped items, and other details."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Items on the Xros Loader to check what you have and use items. Plan ahead when using them!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Map on the Xros Loader to view the World Map. Maps found in treasure chests reveal more of it. Press SELECT in a stage to see your current area and position. You need to find a map first, so don't forget to collect them!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Information, then Quest Info, on the Xros Loader to check your active quests. If you forget what to do, take another look there."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Moves on the Xros Loader to rearrange your party Digimon's moves. Put the moves you use most where they are easy to select. You can also use healing moves here."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Equipment on the Xros Loader to equip or remove your party's gear. Strength-based moves benefit from Strength, and Wisdom-based moves benefit from Wisdom. Moves that use both benefit from both stats. Wisdom can also reduce damage from moves that use Wisdom."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Formation on the Xros Loader to rearrange your party. Reserve Digimon also earn EXP, so place a Digimon there if you want it to gain levels."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "A raised Digimon will eventually reach its max level, making further EXP go to waste. Jogress Up can raise its potential. Combine several Digimon of similar levels at once. Ask Veemon by the DigiLab PC for details."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "You can get equipment from treasure and quest rewards, or have Digimon make it. Buy Job Goods at a Farm Shop, place them on an island, and assign a job. Stronger Digimon can make stronger equipment. Expedition Teams can also find rare gear. Ask Agumon by the Farm PC about jobs and expeditions."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "Running low on bit after shopping? Sell items at a shop. Check your inventory for things you don't need, such as coins, shells, or charms found by Expedition Teams. Some sell for a good price. Ask Agumon by the Farm PC if you want to know more about expeditions."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "I'll explain the communication features available at the Communication Box beside me!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "About trading Melodies"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "About sending DigiScores"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "About receiving DigiScores"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Melody Trade to trade Melodies with a friend, one species at a time. A Melody is removed from your inventory when you trade it. Some cannot be traded until you make more story progress, so try again later."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Send DigiScore to give a friend a DigiScore. Sending one does not remove it from your inventory. Some DigiScores cannot be sent until the other player has made more story progress."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "Choose Receive DigiScore to get a DigiScore from a friend. Receiving one does not remove it from their inventory. Some DigiScores cannot be received until you make more story progress."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Shh! Keep it down! I heard a legendary Weapon Digimon is here, so I've been watching this place for ages. Stay quiet and I'll show you something good. Want to see?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 99,
+      "category": "Story and dialogue",
+      "english": [
+        "Would you like to see something good?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "No, not right now."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "Come back whenever you want to see it. I'll get back to watching."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Something good...? I guess I'll take a quick look."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "Okay! Hold still!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "What do you think? Pretty interesting, right? Come back again!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, welcome back! I'm Tentomon, and I run this tent. Tentomon in a tent... get it? Hahaha! Anyway, nice to meet you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "Remember how to use the bed and Save Terminal? Press A by the bed to fully restore your recruited Digimon's HP and MP. Press A by the terminal to save your adventure. Sorry, the terminal isn't working right now for some reason."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks for helping us! You're human, right? I've never seen a real human before. And you're a General, too! I'd heard rumors, but I never thought one really existed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "You beat that nasty-looking Digimon?! Wow... That's amazing... But is it because you're a General? Or did you become a General because you're amazing?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "This is a Tent Point. Press A here to open your tent. Inside, you can save and restore HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "This is a Tent Point. Press A on the tent marker to open your tent. The tent is a key item, so you can use it as often as you like."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Use the PC on my right to access the DigiFarm, where you can raise Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Use the PC on my left to access the DigiLab, where you can strengthen Digimon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome back! I'm Tentomon, and I run this tent. Here's how the bed and Save Terminal work. Press A by the bed to fully restore your recruited Digimon's HP and MP. To save your adventure, press A by the Save Terminal. Easy, right?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Tentomon in a tent... get it? Hahaha! Anyway, nice to meet you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, welcome back! Tired out? Press A by the Save Terminal to save your adventure. Press A by the bed to restore your recruited Digimon's HP and MP!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "Restoring your team's health often is the key to a successful adventure. Charging in and getting knocked out is what a rookie does!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm glad you all came... Only the leader of ROG, Minotaurmon, is left! It's in the Commander Room next door!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "Thank you so much for helping us! Please look after Spadamon, okay?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "You have to hurry and rescue your friends! The Central Room is inside the building up ahead!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "It's your old friend Tentomon! Press A by the Save Terminal to save. Press A by the bed when your recruited Digimon need their HP or MP restored. Easy, right?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "When you activate a Capacitor Tower, the DigiFarm starts running and sends you a DigiReport. It is packed with important information, so check it often!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Fort was built to protect this zone. Long ago, many warriors defended the area. The Quest Monitor has been in use since then!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "The Quest Monitor is the huge screen in the Commander Room. Ask Palmon, beside the monitor, how to use it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "Go to the Sky Port past the Commander Room and talk to the Digimon Air Squadron. They can take you to the West Knuckle City Port. From there, go to nearby West Knuckle City and switch on the Capacitor System inside its Capacitor Tower!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Thanks for activating the Capacitor Tower! The DigiLab and DigiFarm PCs are now available. Ask Agumon and Veemon for details. Once you get Farm Goods, use Training at the Farm PC to raise your Digimon's stats! Now, please activate the other Capacitor Towers, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "I hope Chibickmon is okay. Maybe it's lost. It's so small, it might have fallen into a hole and gotten lost underground. Bring a Digimon with the Dig ability. Dorumon from Fort Yard or Guilmon from Knuckle Coast might have it. Make a Melody in battle, then play it at the DigiLab to recruit it."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "I hope Chibickmon is okay. Maybe it's lost. It's so small, it might have fallen into a hole and gotten lost underground. Bring a Digimon with the Dig ability. Maybe Armadillomon from Fort Yard? Make a Melody in battle, then play it at the DigiLab to recruit it."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm glad Chibickmon was found, but you got a key to West Twisted Amazon, right? That means someone wants you to go there. Be careful, Taiki. They must be planning something."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki, did you know? Besides Skill Spots reached by digging or diving, there are other kinds of hidden paths! I think Twisted Amazon has a portal that leads to Digital Space somewhere."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 138,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, did you remember to open the Airport Gate? After you turn on a Capacitor Tower, don't forget to open the gate in the city, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "If you get lost, check the Area Map! Press SELECT, or choose Map on your Xros Loader. You need to find the map before you can view it, so keep that in mind!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 140,
+      "category": "Story and dialogue",
+      "english": [
+        "Did you find the key in Web City Ruins? I think it opens a path to Papyrus Desert. Watch out for the coffins there. They say you're cursed whether you open one or leave it alone!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 141,
+      "category": "Story and dialogue",
+      "english": [
+        "Hmm... There aren't any sweets in Crystal Volcano. Don't tell Spadamon..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 142,
+      "category": "Story and dialogue",
+      "english": [
+        "Welcome to Sky Fort's number-one Penmon Item Shop! Well, it's the only shop here..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 145,
+      "category": "Story and dialogue",
+      "english": [
+        "Keep going, Taiki, but don't push yourself too hard. I know you can't ignore someone who needs help, but it won't do them any good if you collapse, too! ...Got it?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "The Quest Monitor is where Minotaurmon used to be. Palmon, the green Digimon beside the monitor, can explain how it works."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "The Digimon Air Squadron can take you to different places, but right now only West Knuckle Coast is open. Find keys and unlock Airport Gates to reach other places."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, are you checking the Area Map? It shows information about the stage you're in. After you find a map, press SELECT or open Map on your Xros Loader to check it."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "Chibickmon can be pretty strong in a group... but one by itself is worrying. Taiki, please find it soon!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "'Hey, sis, Cutemon... Cutemon isn't cute'...? What is that? A message Chibickmon brought back? Don't ask me, I have no idea. Maybe it means Cutemon isn't cute...? If so, who does it think it is?!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 151,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm glad you found Cutemon and Dorulumon! I knew I could count on you, Taiki! Keep going and activate the remaining Capacitor Towers!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! An explosion in Digital Space? And you heard Sparrowmon's SOS? Taiki, are you okay? Please don't take too many risks..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 153,
+      "category": "Story and dialogue",
+      "english": [
+        "You're going to Web City Ruins now, Taiki? Sparrowmon might be trapped there? Good luck! But please don't do anything reckless..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon just got back safely! I knew you could do it, Taiki! You're so dependable!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 155,
+      "category": "Story and dialogue",
+      "english": [
+        "Earth Fort in Crystal Volcano... ROG must be there, but I have a bad feeling. Taiki, promise me you won't do anything reckless! That's all I ask."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "So this place is called Sky Fort? Sky Fort... a fortress in the sky? Wow, that sounds incredibly cool!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 157,
+      "category": "Story and dialogue",
+      "english": [
+        "Sky Fort Commander Zenjiro Tsurugi orders you to find the Digimon Air Squadron right away! I'm counting on you, General Taiki! ...Wait, which rank is higher: commander or general?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 158,
+      "category": "Story and dialogue",
+      "english": [
+        "Listen! I learned something important! The damage from special moves and DigiXross depends on different stats. Check the icon beside a move's name on the top screen: Strength, Wisdom, or both. Damage uses the stat or stats shown. Remember that and you'll win more battles!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 159,
+      "category": "Story and dialogue",
+      "english": [
+        "Treasure on the Area Map means a treasure chest! Treasure... riches... loot... It's every adventurer's dream!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 160,
+      "category": "Story and dialogue",
+      "english": [
+        "Was Chibickmon really kidnapped? That little one speaks up when it doesn't like something, and it's not as weak as everyone thinks!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 161,
+      "category": "Story and dialogue",
+      "english": [
+        "The key Chibickmon brought back is bait. It's practically an invitation to West Twisted Amazon. Taiki, be careful!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 162,
+      "category": "Story and dialogue",
+      "english": [
+        "We'll take responsibility for Cutemon. You defeat ROG and reclaim the other Capacitor Towers! I'm counting on you, Taiki Kudo!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 163,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon called Taiki for help? All right! Start the rescue operation now! Taiki seems to catch SOS calls from everywhere..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "You've been meeting stronger enemies lately, Taiki. It's time to get better equipment. We researched how: buy the Weapon Shop and Armor Shop Job Goods from BomberNanimon in East Knuckle City. Assign Digimon jobs on your Farm Island and they'll make equipment for you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "I heard a strange rumor about Papyrus Desert. They say the Pharaoh's curse stops you from going farther. To break it, you have to fight a mummy..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 166,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki Kudo, just to be safe... Have you switched on all six Capacitor Towers? The DigiFarm should have six Farm Islands by now. What, you don't have six?! That's impossible... probably?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 167,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks for helping me! Dorulumon is grateful, too!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 168,
+      "category": "Story and dialogue",
+      "english": [
+        "Minervamon from ROG was bad... but she was kind to me..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 169,
+      "category": "Story and dialogue",
+      "english": [
+        "After Jogress Up or DigiFusion, a Digimon goes to the DigiBank. Be careful: Digimon in the DigiBank don't earn EXP!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 170,
+      "category": "Story and dialogue",
+      "english": [
+        "Have you assigned Digimon to an Expedition Team? They bring back weapons, armor, and items! The more Digimon you send, the more things they can find!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 171,
+      "category": "Story and dialogue",
+      "english": [
+        "Everyone's happy Sparrowmon is back! You're so dependable, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 172,
+      "category": "Story and dialogue",
+      "english": [
+        "After accepting a Request Quest at the Quest Monitor, check Quest Info under Information on your Xros Loader. It's useful!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 173,
+      "category": "Story and dialogue",
+      "english": [
+        "Hi, Taiki! I'm Palmon. Let me show you the Quest Monitor. Press A in front of the screen beside me to access it. Choose an available quest from the list. If one interests you, check its reward and requirements first!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "People around here treat us like superheroes! What do you think of that?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Everyone's asking us for help! They want us to grant Digimon's wishes through the Quest Monitor. Let's start small and help one person at a time!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "Go for it! Don't give up! Our goal is... some kind of tower! What was it called again? I forgot!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "I've got it memorized now! We're going to the Energy Continent to switch on the Capacitor Tower! ...Right?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Please, Taiki! Find Chibickmon for us! We really need that little guy!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 190,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, brother! We knew you could do it! We're relieved Chibickmon made it back safely!"
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 191,
+      "category": "Story and dialogue",
+      "english": [
+        "Chibickmon, Dorulumon, and Cutemon are back... One worry at a time, we're getting things sorted out."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "https://digimon.net/reference_en/detail.php?directory_name=chibickmon"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 192,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon is in Web City Ruins? We'll need to find a key to get in. But you'll find one soon, Taiki!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "You found the key to the ruins, right? Then Sparrowmon should be easy to find! Good luck, brother! We're counting on you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "Sparrowmon made it back safely! It doesn't seem to remember what happened, but you still did a great job, brother!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "Digimon around this zone are asking us for help. When you have time, check the Quest Monitor for their requests. Please, brother!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, Taiki! Are we going to the Colosseum?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, Taiki! Are you going to the Capacitor Tower? Pipimon wants to come, too! Let's go to the tower!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 17,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, did the Capacitor Tower go boom? Huh? Capacitor... power? Con... den... ser... tower!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Battle help and Sky Fort NPC dialogue. Battle mechanics and feature names follow the source text and established glossary; DigiXross is retained per the user's naming preference."
+    }
+  ]
+}

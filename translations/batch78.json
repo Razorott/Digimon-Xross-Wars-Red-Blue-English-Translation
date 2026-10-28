@@ -1,0 +1,629 @@
+{
+  "description": "Translate the remaining Nene rescue and Weapon Digimon reveal in MESPAK02 entry 7.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Spadamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "How many ROG members are still left?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "Uh... Well...! We must have defeated all the ROG leader Digimon by now!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "Yeah... But there's one more... Never mind. Get to Earth Fort and stop them from breaking the seal!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, Taiki... Isn't that Nene?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "I knew it... She's still being controlled by ROG."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "Listen, Nene! We found Sparrowmon, the friend you've been looking for! She's with us now... waiting for you to come back."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "...Sparrowmon? ...Who is that? I don't know her..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene forgot Sparrowmon...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 109,
+      "category": "Story and dialogue",
+      "english": [
+        "No... That can't be true! Nene would never forget Sparrowmon! I won't believe it!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 110,
+      "category": "Story and dialogue",
+      "english": [
+        "Foolish, pitiful wretches... Trust only yourselves..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "Damn it! It was a trap?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene...! Sparrowmon! Remember her! Remember us!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "Gah... G-g-g-g... As expected of Spadamon... The boy who tamed him..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "This one is already... spent... G-gah..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 116,
+      "category": "Story and dialogue",
+      "english": [
+        "Lost Space... I made them find it... I alone will become the strongest and claim everything..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "...Hey, what happened to them? It was like someone completely different had taken them over..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 118,
+      "category": "Story and dialogue",
+      "english": [
+        "So they used her to find Lost Space...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene! Hey, can you hear me?! Wake up!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene, are you all right?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "...Taiki...? What happened to me...? Sparrowmon! Where is she?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "You're okay! Don't worry, Nene. Sparrowmon is here with us!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh... Thank goodness! I could hear Sparrowmon's voice in the darkness... I heard her the whole time, but I couldn't move. A terrifying darkness had seized me and wouldn't let go..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Those SkullKnightmon who were with you seemed strange... Were they being controlled, too?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "...No. That SkullKnightmon was a fake. Zeed Millenniummon made it from my memories."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 127,
+      "category": "Story and dialogue",
+      "english": [
+        "He made a fake from your memories? How is that possible?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 128,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! It's terrible! Zeed Millenniummon has entered Lost Space and is trying to do something. I think he's going to revive the Weapon Digimon...!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "...So you're Spadamon?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 132,
+      "category": "Story and dialogue",
+      "english": [
+        "So it's you... I have to protect you... Taiki, don't let this one join the next battle! Don't let them go!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 133,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene's still confused... Why is she talking about Spadamon...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "We can figure that out later. First, let's help Nene..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene?! Where are you going?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 136,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh no! Earth Fort is just ahead! She went alone to stop them from breaking the seal!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 137,
+      "category": "Story and dialogue",
+      "english": [
+        "Hey, hey, hey! Charging in unprepared where Zeed Millenniummon is... She's really confused, isn't she?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 139,
+      "category": "Story and dialogue",
+      "english": [
+        "Nene, are you okay?! ...Where are they?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 146,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Why did you bring him here?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 147,
+      "category": "Story and dialogue",
+      "english": [
+        "Spadamon is our friend now. I couldn't leave him behind. And if one of our friends were in danger, you'd come help us even if we told you not to, right, Nene?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 148,
+      "category": "Story and dialogue",
+      "english": [
+        "...You're right. That's how you are. You reached out to me when I was suffering..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 149,
+      "category": "Story and dialogue",
+      "english": [
+        "Don't carry this alone. Tell us what's going on, too..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 150,
+      "category": "Story and dialogue",
+      "english": [
+        "...ROG wants to revive the Legendary Ancient Weapon in Elestou Zone."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 152,
+      "category": "Story and dialogue",
+      "english": [
+        "The Legendary Ancient Weapon isn't just a weapon... It's a Weapon Digimon that transforms into the strongest weapon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 154,
+      "category": "Story and dialogue",
+      "english": [
+        "...Yes. That's Elestou Zone's secret. Whoever controls a Weapon Digimon could destroy the world, so this Zone has always been targeted. Dynasmon once protected the Zone alongside the Weapon Digimon... But no one knows where Dynasmon went or why the Weapon Digimon were sealed away."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 156,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki, we don't have much time. For now, we have to stop Zeed Millenniummon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 164,
+      "category": "Story and dialogue",
+      "english": [
+        "I mean, 'all the way to chocolate'...?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 165,
+      "category": "Story and dialogue",
+      "english": [
+        "...How far is that supposed to be?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Stop right there, Barbamon!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 7,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "Well, well... Nene Amano, the General who abandoned her former team and joined Xros Heart... Do you think I can be stopped by someone who fell for such a feeble illusion?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Continuous scene translation. Nene's apparent memory loss, the shadow's use of her memories, the Weapon Digimon reveal, and the Dynasmon mystery are preserved as the game presents them."
+    }
+  ]
+}

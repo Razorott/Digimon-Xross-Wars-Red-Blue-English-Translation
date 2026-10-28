@@ -1,0 +1,1131 @@
+{
+  "description": "Terriellop autograph and rescue quests, Numesuka promotion/autograph side quest, battle moves and descriptions, DigiMemory item descriptions, and DigiFarm reports.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 193,
+      "category": "Story and dialogue",
+      "english": [
+        "A new\nTerriellop CD\nis out!♪ Could\nyou ask their\nmanager,\nLadyDevimon,\nfor an\nautographed\ncopy? She is in\nWest Kumonos\nRuins!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "A new\nTerriellop CD\nis out!♪ Could\nyou ask their\nmanager,\nLadyDevimon,\nfor an\nautographed\ncopy? She is in\nWest Kumonos\nRuins!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 194,
+      "category": "Story and dialogue",
+      "english": [
+        "Please get me\nan autographed\nTerriellop CD\nby asking their\nmanager,\nLadyDevimon!\nShe is in West\nKumonos Ruins!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "Please get me\nan autographed\nTerriellop CD\nby asking their\nmanager,\nLadyDevimon!\nShe is in West\nKumonos Ruins!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 195,
+      "category": "Story and dialogue",
+      "english": [
+        "...... Ah, I am\nso moved!♪ I\nmight start\nsinging before\nI even play\nit...♪ Thank\nyou so much!\nPlease take\nthis reward!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "...... Ah, I am\nso moved!♪ I\nmight start\nsinging before\nI even play\nit...♪ Thank\nyou so much!\nPlease take\nthis reward!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 196,
+      "category": "Story and dialogue",
+      "english": [
+        "...... Huh? Oh,\nsorry. I got\ncarried away.♪\nHmm hmm hmm...♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "...... Huh? Oh,\nsorry. I got\ncarried away.♪\nHmm hmm hmm...♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "What? Another\nautograph? I\ncannot worry\nabout that now!\nTerriellop's\nimportant\nSystem Notebook\nhas gone\nmissing!\nWithout it, I\ncannot get in\ntouch with\nthem! Please\nfind it\nquickly!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "What? Another\nautograph? I\ncannot worry\nabout that now!\nTerriellop's\nimportant\nSystem Notebook\nhas gone\nmissing!\nWithout it, I\ncannot get in\ntouch with\nthem! Please\nfind it\nquickly!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "It went missing\nafter\nTerriellop\nvisited South\nPapyrus Desert.\nThey must have\ndropped it\nthere. Search\nSouth Papyrus\nDesert!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "It went missing\nafter\nTerriellop\nvisited South\nPapyrus Desert.\nThey must have\ndropped it\nthere. Search\nSouth Papyrus\nDesert!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "Thank you! Now\nI can check\nwhere\nTerriellop is.\nLet me see...\nThey are making\nan appearance\nat East Skull\nIceberg! I will\npass on your\nrequest. Ask\nthem for the\nautograph\nyourself!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Thank you! Now\nI can check\nwhere\nTerriellop is.\nLet me see...\nThey are making\nan appearance\nat East Skull\nIceberg! I will\npass on your\nrequest. Ask\nthem for the\nautograph\nyourself!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Terriellop is\nat East Skull\nIceberg. I will\nlet them know\nyou want an\nautograph, so\nask them\nyourself!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Terriellop is\nat East Skull\nIceberg. I will\nlet them know\nyou want an\nautograph, so\nask them\nyourself!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "Ah! Are you one\nof our fans?\nOur manager\nasked us to\nsign this CD.\nHave we met\nbefore? No? I\ndo not\nremember... Do\nnot say you\nwere a fan back\nwhen we were\nobscure, okay?\nOr post our\nweird old\nphotos\nonline... Ha\nha... Here,\ntake the CD!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Ah! Are you one\nof our fans?\nOur manager\nasked us to\nsign this CD.\nHave we met\nbefore? No,\nright? I do not\nremember... Do\nnot say you\nwere a fan back\nwhen we were\nobscure, okay?\nOr post our\nweird old\nphotos\nonline... Ha\nha... Here,\ntake the CD!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "Keep supporting\nTerriellop!\nTeri-ro-ri-lop!▼\n...... Hmph...\nDid I just say\nsomething\nweird? I did\nnot, right?"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "Keep supporting\nTerriellop!\nTeri-ro-ri-lop!▼\n...... Hmph...\nDid I just say\nsomething\nweird? I did\nnot, right?"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "I hear you! You\nare one of our\nfans, right?\nThanks for\nalways\nsupporting us!▼\nLadyDevimon\ntold me about\nyou. Here is\nyour CD. Now\nget out of\nhere... See ya!\nS-sorry! I am a\nlittle worn\nout... My usual\ntact just\nvanished!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "I hear you! You\nare one of our\nfans, right?\nThanks for\nalways\nsupporting us!▼\nLadyDevimon\ntold me about\nyou. Here is\nyour CD. Now\nget out of\nhere... See ya!\nS-sorry! I am a\nlittle worn\nout... My usual\ntact just\nvanished!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "You have only\nseen us at our\nmost\nembarrassing...\nPlease give us\na little more\ntime. We will\nmake it big!\nKeep supporting\nTerriellop!\nTeri-ro-ri-lop!▼\n... Heh...\nHaha..."
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "You have only\nseen us at our\nmost\nembarrassing...\nPlease give us\na little more\ntime. We will\nmake it big!\nKeep supporting\nTerriellop!\nTeri-ro-ri-lop!▼\n... Heh...\nHaha..."
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop CD and rescue quest dialogue. Character names and DigiMemory terms use the project glossary; Terriellop is retained as the game-specific performer name. Locations follow existing map labels."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 10,
+      "category": "Story and dialogue",
+      "english": [
+        "The shining\nsuperstar of El\nEstow Zone! Can\nI really get\nTerriellop's\nautograph? I am\namazed you are\nnot afraid of\ntheir scary\nmanager,\nLadyDevimon!\nPlease get me\nan autograph\nand I will\nreward you!\nLadyDevimon is\nin West Kumonos\nRuins."
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 11,
+      "category": "Story and dialogue",
+      "english": [
+        "Maybe I should\nask the\nmanager,\nLadyDevimon,\nfirst. That\nold-fashioned,\nmonochrome lady\nis in West\nKumonos Ruins."
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 12,
+      "category": "Story and dialogue",
+      "english": [
+        "Yaaah!\nAaaah...! I\nscreamed loud\nenough to\nshatter glass!\nThank you from\nthe bottom of\nmy heart! I got\nso overwhelmed\nthat I wore\nmyself out, but\nplease take\nthis reward!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 13,
+      "category": "Story and dialogue",
+      "english": [
+        "Would you like\nto recruit me?\nIf you do, come\ntalk to me\nanytime!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 197,
+      "category": "Story and dialogue",
+      "english": [
+        "E-everyone!\nThis is an\nemergency!\nHelp!\nTerriellop has\nbeen kidnapped!\nWho did it? I\nhave no idea!\nAll I know is\nthey ran into\nDigital Space!\nPlease hurry\nand save\nTerriellop!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 14,
+      "category": "Story and dialogue",
+      "english": [
+        "E-everyone!\nThis is an\nemergency!\nHelp!\nTerriellop has\nbeen kidnapped!\nWho did it? I\nhave no idea!\nAll I know is\nthey ran into\nDigital Space!\nPlease hurry\nand save\nTerriellop!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 198,
+      "category": "Story and dialogue",
+      "english": [
+        "Please find and\nrescue\nTerriellop! It\nsounds like the\nculprit escaped\ninto Digital\nSpace! If\nanything\nhappens to\nthem, I will\nnot be able to\ngo on!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 15,
+      "category": "Story and dialogue",
+      "english": [
+        "Please find and\nrescue\nTerriellop! It\nsounds like the\nculprit escaped\ninto Digital\nSpace! If\nanything\nhappens to\nthem, I will\nnot be able to\ngo on!"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 21,
+      "start": 199,
+      "category": "Story and dialogue",
+      "english": [
+        "Quick, take the\nautographs\nover. Give one\nto Numesuka and\nTerriellop, of\ncourse... And\nkeep what\nhappened\nabsolutely\nsecret! Got it?"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 16,
+      "category": "Story and dialogue",
+      "english": [
+        "Quick, take the\nautographs\nover. Give one\nto Numesuka and\nTerriellop, of\ncourse... And\nkeep what\nhappened\nabsolutely\nsecret! Got it?"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "Trying to get\npast me? Do not\nlie, baby! You\nare looking for\nme... me, or\nmaybe... me! I\ncan feel your\nheart racing,\nand it is\nmaking mine\nburst, baby!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 17,
+      "category": "Story and dialogue",
+      "english": [
+        "Trying to get\npast me? Do not\nlie, baby! You\nare looking for\nme... me, or\nmaybe... me! I\ncan feel your\nheart racing,\nand it is\nmaking mine\nburst, baby!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "That fierce\nheat of yours\nhas my heart\nbeating, baby!\nYou almost\nknocked me out,\nbaby!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 18,
+      "category": "Story and dialogue",
+      "english": [
+        "That fierce\nheat of yours\nhas my heart\nbeating, baby!\nYou almost\nknocked me out,\nbaby!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "You came to\nrescue me?\nThank you! I\nwas getting\nlost, so I was\nin a bit of a\nbind... Huh?\nKidnapped? I\nhave no idea\nwhat you mean.\nI was with\nNumesuka for a\nwhile... It is\nso peaceful\nwhen fans are\nnot swarming\nus!♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 19,
+      "category": "Story and dialogue",
+      "english": [
+        "You came to\nrescue me?\nThank you! I\nwas getting\nlost, so I was\nin a bit of a\nbind... Huh?\nKidnapped? I\nhave no idea\nwhat you mean.\nI was with\nNumesuka for a\nwhile... It is\nso peaceful\nwhen fans are\nnot swarming\nus!♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "Could you check\nwhere Lopmon\nis, too? I\nthink they are\nsomewhere\nnearby..."
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 20,
+      "category": "Story and dialogue",
+      "english": [
+        "Could you check\nwhere Lopmon\nis, too? I\nthink they are\nsomewhere\nnearby..."
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 4,
+      "category": "Story and dialogue",
+      "english": [
+        "I want to thank\nyou for coming\nall this way to\nrescue me...\nCould you come\nmeet\nLadyDevimon?\nLopmon and I\nwill wait\nthere!♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 21,
+      "category": "Story and dialogue",
+      "english": [
+        "I want to thank\nyou for coming\nall this way to\nrescue me...\nCould you come\nmeet\nLadyDevimon?\nLopmon and I\nwill wait\nthere!♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 5,
+      "category": "Story and dialogue",
+      "english": [
+        "Hi there,\nhoney! Did you\ndrop a gold\nautograph? A\nsilver one? Or\nthis Numesuka\nautograph? None\nof them? Oh,\nright, honey...\nBecause what\nyou dropped was\nmy heart!\nRight, honey?▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 22,
+      "category": "Story and dialogue",
+      "english": [
+        "Hi there,\nhoney! Did you\ndrop a gold\nautograph? A\nsilver one? Or\nthis Numesuka\nautograph? None\nof them? Oh,\nright, honey...\nBecause what\nyou dropped was\nmy heart!\nRight, honey?▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 6,
+      "category": "Story and dialogue",
+      "english": [
+        "I caught your\nshy feelings,\nhoney! See you\nlater! Get home\nsafe, honey!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 23,
+      "category": "Story and dialogue",
+      "english": [
+        "I caught your\nshy feelings,\nhoney! See you\nlater! Get home\nsafe, honey!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 7,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh! You came to\npick me up? I\nwas resting\nbecause I got a\nlittle tired...\nKidnapped? What\nare you talking\nabout? I felt\nso safe with\nNumesuka! They\nmust have gone\nhome already."
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 24,
+      "category": "Story and dialogue",
+      "english": [
+        "Oh! You came to\npick me up? I\nwas resting\nbecause I got a\nlittle tired...\nKidnapped? What\nare you talking\nabout? I felt\nso safe with\nNumesuka! They\nmust have gone\nhome already."
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 8,
+      "category": "Story and dialogue",
+      "english": [
+        "Terriermon\nshould be\nnearby, too.\nCould you find\nthem for me?"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 25,
+      "category": "Story and dialogue",
+      "english": [
+        "Terriermon\nshould be\nnearby, too.\nCould you find\nthem for me?"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 9,
+      "category": "Story and dialogue",
+      "english": [
+        "I want to thank\nyou for coming\nto pick me up.\nCould you come\nto\nLadyDevimon's\nplace?\nTerriermon and\nI will head\nthere first!♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 26,
+      "category": "Story and dialogue",
+      "english": [
+        "I want to thank\nyou for coming\nto pick me up.\nCould you come\nto\nLadyDevimon's\nplace?\nTerriermon and\nI will head\nthere first!♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Terriellop autograph and rescue dialogue translated from the Japanese ROM. Terriermon, Lopmon, LadyDevimon, and Numesuka follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 176,
+      "category": "Story and dialogue",
+      "english": [
+        "A Numesuka\nautograph? No\nway! ...That is\nwhat I would\nsay, but they\nare not\npopular. I\nshould treasure\ntheir few fans.\nYou! Tell three\nDigimon around\nhere how great\nNumesuka is!\nThen you can\nask them for\nautographs.\nTake these\nNumesuka goods\nand hand them\nout! Report\nback when you\nare done, okay?"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 177,
+      "category": "Story and dialogue",
+      "english": [
+        "Please promote\nNumesuka to\nthree Digimon\nnearby! Come\nreport back\nwhen you are\ndone!"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 178,
+      "category": "Story and dialogue",
+      "english": [
+        "Looks like you\npromoted them\nproperly!♪\nNumesuka are\nlucky to have a\nfan like you!\nThey are in\nSouth Papyrus\nDesert,\npracticing\ncheesy lines.\nTheir stench\nmight knock you\nout!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 179,
+      "category": "Story and dialogue",
+      "english": [
+        "Numesuka are in\nSouth Papyrus\nDesert...\npracticing how\nto make their\nfans swoon.\nPrepare for all\nkinds of\nstench!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 180,
+      "category": "Story and dialogue",
+      "english": [
+        "Numesuka? They\nsound kind of\nstinky... You\nare going\naround\npromoting them?\nYou must really\nlike them...\nCould I have a\nphoto card?\n...Thank you!♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 181,
+      "category": "Story and dialogue",
+      "english": [
+        "Numesuka... I\nlearned their\nnames and\nfaces! They\nlook pretty\nstinky, but I\nwill cheer them\non!"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 182,
+      "category": "Story and dialogue",
+      "english": [
+        "Numesuka!?\nYeah, I know\nthem! That rare\ngross-out duo\nadored by a few\ndie-hard fans,\nright? They are\nso stinky they\nare banned from\nlive houses!\nThey are stinky\nin every sense\nof the word.\nTheir CDs make\nme dizzy! They\nare the worst\nand the best,\nthe strongest\nand the most\nawful! So do\nnot be ashamed\nto be their\nfan! I will\ntake a\npostcard,\ntoo..."
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 183,
+      "category": "Story and dialogue",
+      "english": [
+        "I will write to\nmy friend who\nis into weird\nstuff! I will\nuse a\nNumesuka-style\nline that sends\na shiver down\nyour spine!♪"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 184,
+      "category": "Story and dialogue",
+      "english": [
+        "Numesuka!? I\nlove them! I am\na huge fan! You\nare giving me\nthis smelly\nphoto? Wow!\nThank you so\nmuch! I am so\nhappy!"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 185,
+      "category": "Story and dialogue",
+      "english": [
+        "This is rare! I\nbet nobody else\nhas one! It is\nso stinky it\ncould make you\ncry... No, that\nis how happy I\nam! Thank you\nfor this\ntreasure!"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 186,
+      "category": "Story and dialogue",
+      "english": [
+        "Ah... Welcome,\nbaby! Are your\neyes welling up\nbecause of my\ndazzling smile,\nbaby? Or is it\nmy dazzling\nsmell, baby?\nNow I will\nknock you out\nwith this\nNumesuka\nautograph,\nbaby!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 187,
+      "category": "Story and dialogue",
+      "english": [
+        "I knocked you\nout with my\nNumesuka\nautograph!\nSweet dreams,\nbaby! With all\nthis love and\nslime, I wrote\nit just for\nyou, baby!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 188,
+      "category": "Story and dialogue",
+      "english": [
+        "Hi, how are\nyou? Welcome,\nhoney! You look\nlike you are\nabout to\nfaint... Do you\nwant our\nNumesuka\nautograph? Then\nask my partner\nNumemon,\nhoney!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 22,
+      "start": 189,
+      "category": "Story and dialogue",
+      "english": [
+        "Numemon has our\nautograph for\nyou, honey! I\nwrote it with\nall my heart,\nenough to make\nyour nose\ntingle, honey!▼"
+      ],
+      "sources": [],
+      "review_note": "Optional Numesuka promotion and autograph side quest translated from the Japanese ROM. Numesuka is retained as the game’s group name; individual species use the sourced English glossary."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a ring of light to\npurify the target."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated from the Japanese Xros Wars technique guide; no new attack title is inferred from the description."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a feather boomerang\nthat slashes nearby\nenemies."
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Battle effect translated from the Japanese Xros Wars technique guide; no new attack title is inferred from the description."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Leviamon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Agumon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Garurumon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Guilmon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Patamon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "MetalGarurumon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Veemon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Darkdramon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gatomon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Impmon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "WarGreymon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Examon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Omnimon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sold at the Penmon Shop. A\nsmall pair of gloves."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory and equipment description translated from the Japanese item table. Species spellings match Bandai English names where available."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 38,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! Pyramid power is the\nbest! My max MP shot way\nup!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 39,
+      "category": "DigiFarm reports",
+      "english": [
+        "No treasure or cursed\ntraps... What a letdown!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 40,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! A punching bag!\nAttacking is what I do\nbest!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 41,
+      "category": "DigiFarm reports",
+      "english": [
+        "How was that? I am strong!\nMy Strength went up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 42,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh, I am not feeling it\ntoday..."
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 43,
+      "category": "DigiFarm reports",
+      "english": [
+        "This must be a training\ntree! I will give it\neverything I have!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 44,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! That went great! My\nStrength went up quite a\nbit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 45,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ouch... My body is\nstarting to hurt!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 46,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! What is this giant\nrock?! I just have to move\nit? Easy!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 47,
+      "category": "DigiFarm reports",
+      "english": [
+        "How about that?! My\nstrongest power yet! My\nStrength went way up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 48,
+      "category": "DigiFarm reports",
+      "english": [
+        "Why will it not move?!\nForget it, I am done!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 49,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this? A punching\nmachine?! Come on, hit me!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 50,
+      "category": "DigiFarm reports",
+      "english": [
+        "That was nothing! My\nDefense went up a little!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 51,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this?! It hurts\ntoo much!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 52,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! A training cannon!\nGreat! Bring it on!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 53,
+      "category": "DigiFarm reports",
+      "english": [
+        "It did not hurt! My\nDefense went up some!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 54,
+      "category": "DigiFarm reports",
+      "english": [
+        "No way! No matter how long\nI endure it, pain is pain!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 55,
+      "category": "DigiFarm reports",
+      "english": [
+        "I just have to catch this\niron ball, right? Got it!\nBring it on!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training and exploration report translated from the Japanese ROM, keeping the Digimon’s excited voice and stat names consistent with the English menus."
+    }
+  ]
+}

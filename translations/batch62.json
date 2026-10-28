@@ -1,0 +1,3567 @@
+{
+  "description": "Translate the next 274 battle-effect and item descriptions from MESPAK04 entries 8-13, including healing and status disks.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scatters heart orbs that\nsap nearby foes' will. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes with a holy sword\nborn from its bracelet.\nDeals Light damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Releases mummy gas at\nfoes. Greatly boosts\nMelody Capture rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a supersonic\nelectric wave."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Releases the Gorgon\nshield's dark shock wave.\nDeals Poison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a dark-energy orb\nthat explodes near foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ambushes nearby foes with\ncountless dark bats."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Releases evil spirits to\nattack nearby foes. Deals\nPoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\nbat-shaped dark power. May\ncause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes dark energy.\nDeals electric damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sticks on and detonates a\nLight-sealed talisman. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires electric beams from\nboth hands."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Launches homing missiles\nfrom its body. Lowers the\nfoe's Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stabs with the twin Royal\nMeister swords. Deals\nelectric damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires blades of electric\nenergy from its arms."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a bomb shaped like\na glove."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with\nits arm-mounted Psycho\nBlaster."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires energy like a flying\ndragon's breath."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a Light shock wave\nfrom its arm-mounted pile\nbunker."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a laser from high\nabove and scorches foes.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a dark bomb filled\nwith computer viruses."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires dark missiles from\nboth arms. Deals dark\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calls a thundercloud and\nstrikes nearby foes with\nlightning."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a right-arm missile.\nEngulfs foes in flames,\nlowering Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rusts nearby foes with a\nwave of Light. Deals\nPoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires fire bullets from\nits arm-mounted revolver.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires missiles from both\narms to scorch foes. Deals\nfire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Burns nearby foes with\nscorching flames."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Turns both hands into guns\nand fires Light energy.\nDeals Light damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Traps nearby foes in a\nhallucinatory mist. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calls down meteors on\nnearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with dark\npower from its arm-mounted\nrapier."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with\nelectric petals. Lowers\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes a mighty water\ndragon at nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with\nelectric spider silk.\nLowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Moves at electric speed\nand cuts nearby foes. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes with a giant chain\nsickle filled with dark\npower."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes' data\nwith a Light vibration."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spins its turbine at high\nspeed for a heavy blow."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Crashes a giant iron ball\ninto nearby foes. Deals\nphysical damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges nearby foes with a\nmountain-breaking tackle."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires compressed energy in\na huge blast. Deals Water\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with a giant\nhorn charged with\nelectricity."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a water-charged\ntrident at a foe. May\ncause Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rends a foe with the sharp\nclaws on both arms."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes with its removed\nhelmet. Greatly raises\nMelody Capture rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Creates a storm around\nnearby foes. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\nflames from its chest.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with sharp,\nelectrically charged\nscissors."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 8,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spins a shining axe to\nslash nearby foes. Deals\nLight damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dives at nearby foes and\npierces them with its\nshining horn."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a volley of lasers\nto scorch nearby foes.\nDeals Poison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swings its beloved giant\nsword with a flash of\nLight."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes nearby foes with\nabsolute-zero cold. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with\nthe cold raised by its\nthick fur."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows foes away with a\ntornado of holy earth. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires water hardened into\ncrystals. Deals Water\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires lightning from its\nhead feathers. Lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes nearby foes with\nlightning from Thor\nHammer."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires lightning at nearby\nfoes from the blade on its\nhead."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes a summoned evil\ngod's dark power. Raises\nMelody Capture rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swallows nearby foes in a\nflood of bubbles. Deals\nWater damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes with water blades\nformed by crossing its\nforepaws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a destructive dark\nbeam with a roar."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with a\nLight shock wave. Lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices foes with an\nultra-fast vacuum wave."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires crushing water\npressure repeatedly. Deals\nphysical damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a beam of Light\nenergy from its mouth."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires energy from its body\nmechanisms. Deals electric\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires Light-charged\nfeathers in a shock wave."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rakes a foe with claws\nhidden inside its hands."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\na legendary monster's\npower. Lowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Summons Light crystals and\nhurls them at a foe. May\ncause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices nearby foes with a\nlegendary sword of Light.\nDeals Light damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Swallows nearby foes in a\nwhirlwind spun with its\nstaff."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires holy energy from its\nforepaws. Deals dark\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes nearby foes with\ndisaster lightning. Lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Uses volcanic power for a\nlariat. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gathers energy in its\nwings and fires flames.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dashes past and slices\nfoes like a gale."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes a fierce barrage\nat nearby foes. Deals\nPoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Drives in its left claw\nand charges with a spin."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Draws its katana and\nstrikes with fighting\nspirit. Lowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Delivers an ultra-fast\nslash with two katanas.\nDeals physical damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Draws a sun with its\nkatana and slashes nearby\nfoes. Lowers Intelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with a\ngiant rocket cannon. Deals\ndark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\na heat ray from its arm."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Lifts nearby foes with\nfierce strikes, then\nknocks them down."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with a\nsuperheated fireball.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Corrodes nearby foes with\ndark breath. May cause\ninstant defeat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges with flames around\nits body. Lowers\nIntelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Whips a foe with a giant\nelectric chain."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rends a foe with claws as\nhard as steel."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Surprises nearby foes with\nan electric drill. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stuns nearby foes with an\nelectrified flying kiss."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shatters nearby foes'\nminds with dark power. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with claws\nwreathed in scorching\nflames."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charms a foe with a holy\nheart. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a wave of flame\nenergy from its waist\ncannon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 9,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Traps foes in subspace\nwith a Light sword. May\ncause instant defeat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a Light-charged\nheart at nearby foes. May\ncause Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires powerful lightning\nas Light arrows."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires seven Light orbs at\nnearby foes. Lowers\nIntelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Covers nearby foes in\nendless darkness. Deals\ndark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shatters foes' hearts with\na dark crystal. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Drains data from a foe's\nhead with a ray gun.\nDrains MP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Envelops a foe in a\nsorrowful cry. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes with a greatsword\nmade from a fire sword and\nshield."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires flames filled with\ndark power. Deals fire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes nearby foes with a\nLight energy orb."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes a dark aura from\nits wings."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Erases foes' will with its\nstaff. Greatly raises\nMelody Capture rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires the aura of a\nflaming lion. Deals fire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\na scorching sun orb."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dances through foes with\nNoir Luna. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with a lunar\nhook. May cause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Surrounds nearby foes with\nan aura and breaks them\ndown with electricity."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Wraps a foe in its\ntentacles and crushes it.\nMay cause Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\na beam that warps space."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Splits the earth with\nOlympia and destroys a\nfoe. Deals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with a\nLight blade. May cause\ninstant defeat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches foes with a\n100,000-degree beam.\nLowers Intelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with\nthe BAN-CHO Blade."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Floods the area with light\nfrom Digi-Entelecheia.\nRestores HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rakes a foe with long,\nLight-charged claws. May\ncause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies nearby foes with\na storm of leaves. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a Light-powered\nenergy blast at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rains Pickmon on nearby\nfoes. Deals physical\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Summons a blue flame\ndragon to scorch a foe.\nMay cause instant defeat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rakes a foe with\nLight-charged claws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches a foe with a\ngolden fist."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Charges with flames around\nits body. Lowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with a\nblast of fire breath."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Knocks down a foe with a\npowerful headbutt."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a powerful fireball\nat a foe. Deals fire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\ncrimson fire breath."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with a\nplasma blade. Lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows nearby foes away\nwith a giant tornado."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with an\nX-shaped energy wave.\nLowers ATK."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Burns a foe with an\nintense heat ray."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Burns a foe with\nsuperheated flames."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts a foe with water\nbreath."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes a foe with giant,\nshrimp-like claws. Deals\nWater damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes a foe with a\npowerful freezing punch."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Manipulates chi and\nsmashes a foe with water\npower."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires an ink-filled orb at\na foe. May cause\nBlindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices nearby foes with a\nspinning disk."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a sharp horn that\nexplodes on impact."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Impales a foe with small\nblades."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 10,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rakes nearby foes with a\ngiant claw."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws an electric flower\nbud at a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a fireball at Mach\nspeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sweeps nearby foes away\nwith a small tornado."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hits a foe with a hard\nbone club."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\na powerful shock wave."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pounces and bites a foe\nwith sharp fangs."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sweeps nearby foes away in\na Light whirlwind."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with\nextreme heat. Deals fire\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Spits a large iron ball at\na foe. Lowers ATK."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoots a foe with a holy\nVulcan cannon. Deals Light\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Crushes nearby foes\nbeneath its huge body."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bites a foe with icy\nfangs. Lowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes with Shishioumaru.\nBoosts Melody Capture\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Hurls a polluted,\nbubble-shaped mass at a\nfoe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a strange ray from\nits mouth to defeat a foe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with dark\nflames."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Curses a foe with a\npowerful spell. May cause\ninstant defeat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a syringe to drain\na foe's blood. Drains HP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stretches both arms and\npierces a foe with its\nclaws. Deals dark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Calls thunderclouds and\nstrikes with lightning.\nDeals electric damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes' data\nwith its tentacles."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices a foe with a\ndark-powered sword."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\npowerful flames."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Envelops a foe in\nsleep-inducing water\nbubbles. May cause Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires amplified static\nfrom its wings. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slams electrified vines\ninto a foe. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires ice-charged arrows\nat nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Draws its katana and cuts\na foe in the blink of an\neye."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with\nelectrified spikes on both\narms."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 11,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bites a foe with dark,\npoisonous fangs. Deals\nPoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches foes with\nmeteor-like feathers.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes in a\ndark vortex. Deals dark\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Crushes and buries a foe\nbeneath a giant foot."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices nearby foes with\nblades from its back."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rushes in and punches a\nfoe. Deals physical\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with the\nsacred sword Kikurin."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes nearby foes in an\ninstant. Deals Light\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Enthralls nearby foes with\ndarkness. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Single HP Heal\nDummy text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Line HP Heal\nDummy text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Great Line HP Heal\nDummy text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Single MP Heal\nDummy text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Line MP Heal\nDummy text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Great Line MP Heal\nDummy text."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stabs a foe with a\nfire-charged horn. Lowers\nIntelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scalds a foe with hot\nbubbles from its mouth."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bites a foe with its\npowerful jaws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices a foe with electric\nscissors."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rains slimy liquid on a\nfoe. Deals Poison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Throws a life-sized bomb\nat nearby foes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices nearby foes with\nblades of dark wind."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Bites and tears a foe with\nsharp fangs."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\nice bullets."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches foes with a\nfull-arsenal barrage.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies nearby foes with\nthe sacred spear Gungnir."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\ndark-energy orbs. Deals\nPoison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Envelops a foe in painful\ndark smoke. Deals Poison\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes all its power to\nscorch nearby foes. Deals\nfire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sends nearby foes to a\ndark dimension. May cause\ninstant defeat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\nlightning from eight\ndragons. Lowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies the area with\nholy Light. Raises allies'\nDefense and Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes in a\nfull-power explosion.\nDeals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies all foes with a\ngreat Light explosion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with a\nsingle lightning strike."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shocks all foes with a\nflying kiss. Lowers\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breaks down nearby foes\nwith digital cell bullets."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces and shatters a foe\nwith sharp spikes."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shocks nearby foes with\ninsect-shaped lightning.\nMay cause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Punches and slashes nearby\nfoes with many arms. Deals\nphysical damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Traps nearby foes in a\nmagic circle. May cause\ninstant defeat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\nLight energy orbs."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with its\nelectric Booster Claw."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Envelops nearby foes in\ndarkness and destroys\nthem. Deals dark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 12,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies foes by sweeping\nits holy robe's sleeves."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires needle-like hairs at\nnearby foes. Deals Poison\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Whips a foe with an\nelectric band. May cause\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\ndemonic fire. May cause\ninstant defeat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Crushes nearby foes in a\nspinning charge. Lowers\nSpeed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes nearby foes with\ncryogenic missiles."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with an\nenergy blast. May cause\ninstant defeat."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies a foe with the\nsacred sword Gram."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shocks a foe with a\nsmiling headbutt. Deals\nelectric damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slashes nearby foes with a\nholy sword. Lowers\nIntelligence."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\nthe Behemoth bike. Deals\ndark damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Knocks down a foe with an\nexplosive punch."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with focused\nLight. Raises Melody\nCapture rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "Freezes nearby foes in an\nultra-cold blizzard."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches a foe with the\nearth sword GeoGrey Sword."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies nearby foes with\na tremendous blow."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pierces a foe with a\nsupersonic water dragon.\nLowers Defense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shocks and slashes a foe\nwith Ame-no-Ohabari. Deals\nWater damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies a foe with a\ndeadly fist."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys nearby foes with\nmoonlight. May cause\nSleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sweeps nearby foes away\nwith dark energy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shoots nearby foes with\ntiny electric needles."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices nearby foes with a\nsharp electric blade."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Impales and destroys a foe\nwith Ambrosius. Deals dark\ndamage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "Encloses nearby foes in\ndark spheres. May cause\nBlindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Restores allies' HP with\nthe light of Heaven."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blows dark sand at nearby\nfoes. May cause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Whips a foe with a\nblood-red electric lash.\nDrains MP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Revives one ally with the\nhealing power of flowers."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Strikes a foe with a blow\nfilled with a holy heart."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Binds a foe with dark\nbandages. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breaks down nearby foes'\ndata with a laser. Deals\nLight damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Destroys a foe with a\nSanskrit glyph drawn in\ndark power."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Blasts nearby foes with a\ngiant firecracker."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Scorches nearby foes with\na powerful laser."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Becomes a blue Light\ndragon and scorches a foe.\nDeals Light damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Erases nearby foes with a\npurifying roar. May cause\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Fires a plasma ball at a\nfoe. Lowers Speed."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "Opens a dimensional rift.\nRaises one ally's Defense\nand ATK."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices a foe with spinning\nhand-and-foot shuriken."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Crushes a foe while\ndischarging electricity."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Unleashes stored dark\npower. May cause Sleep."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices and purifies a foe\nwith a decisive strike."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stat HP Disk"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Stat MP Disk"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Status Recovery Disk"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies nearby foes with\nintense sound waves. May\ncause Confusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Slices a foe with electric\nclaws."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breaks down foes with\nbio-missiles from its\nback. Deals fire damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Breathes dark matter at a\nfoe."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 13,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Purifies a foe with the\nSanskrit glyph 'Ra'. May\ncause Blindness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Effect translated from the original Japanese description. Status, stat, element, and Melody Capture wording follows the existing English UI; named weapons are retained in concise romanized form. Source rows with an intentionally blank description keep that blank line."
+    }
+  ]
+}

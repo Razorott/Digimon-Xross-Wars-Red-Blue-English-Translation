@@ -1,0 +1,1458 @@
+{
+  "description": "Translate the DigiScore captions in MESPAK04 entries 36 and 37 using reviewed Digimon-name spellings.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Mermaimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Magnamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "MachGaogamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "MarineDevimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?card_no=EX8-061&search=true"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "MegaSeadramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "Megadramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "MegaloGrowmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "Monzaemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?card_no=BT22-038&search=true"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Yatagaramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "RizeGreymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rapidmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Lillymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "RookChessmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Lucemon Falldown Mode\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "LadyDevimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "WereGarurumon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Wisemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "AeroVeedramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "MagnaAngemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "MetalGreymon L\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Anubimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Apollomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "Alphamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "WarGreymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Vikemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Valkyrimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522002&search=true",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Examon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ophanimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gaiomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cannondramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "GigaSeadramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "Craniamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "Eaglemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "Chronomon: Holy Mode\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "GranDracmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "Cherubimon (Virtue)\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "Goldramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "SaberLeomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "Sakuyamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?card_no=BT19-040&search=true"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "Zanbamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "Justimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522011&search=true"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "JumboGamemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "SkullMammothmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Kentaurosmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "Seraphimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "MegaGargomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?card_no=BT3-057&search=true"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "Darkdramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "DaiPenmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?category=522007&search=true",
+        "https://digimon.net/reference_en/detail.php?directory_name=daipenmon",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "Dianamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 36,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "Diaboromon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "Creepymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "Devitamamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gallantmon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Gallantmon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "Leopardmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "DORUgoramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "Neptunmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "HiAndromon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "Piedmon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "Piedmon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "Puppetmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "Pharaohmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "PrinceMamemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "Beelzemon L\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "Phoenixmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "Magnadramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "Boltmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "Minervamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "Millenniummon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "Machinedramon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "Machinedramon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "Megidramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "MetalEtemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "MetalGarurumon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "Mercurymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "Lilithmon L\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "Ravemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "Rosemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "Lotusmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientKazemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientGarurumon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientGreymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientSphinxmon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientTroymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientBeetlemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientVolcanomon▼\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientVolcanomon▲\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientMermaimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientMegatheriummon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "AncientWisemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "BanchoLeomon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/?card_no=BT20-036&search=true",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "GranKuwagamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "HerculesKabuterimon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "Imperialdramon DM\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "MagnaAngemon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "MetalSeadramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "MirageGaogamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "SN Greymon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "TigerVespamon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://digimon.net/reference_en/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 37,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "UlforceVeedramon\nDigiScore description."
+      ],
+      "sources": [
+        "Original Japanese ROM",
+        "Project Digimon-name glossary",
+        "https://world.digimoncard.com/cards/"
+      ],
+      "review_note": "This source string is a generic DigiScore-description placeholder, so the translation preserves that meaning rather than inventing a species profile. The species name follows the reviewed Western-name proposal used elsewhere in the project."
+    }
+  ]
+}

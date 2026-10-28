@@ -1,0 +1,13 @@
+{
+  "language": "en-US",
+  "stage": "Batch124 hardware-tested baseline preserved. Experimental TEST ROMs include the native transport/session controller, lobby and action/checksum protocol, a Link Box update pump hook, relocated actor storage, partial twelve-actor turn ordering, and wireless-only tactics/items input gates. Red Reserve yellow palette is carried into the current Red TEST build. Wireless battle remains unplayable: there is no visible battle option/session-start path, validated party-to-actor conversion, full six-versus-six battle setup, or command-engine hook. Roughly one third of the engineering work is complete; live two-system matches are unverified.",
+  "original_sha256": {
+    "blue": "dc9dd0cf0e13b2e017ee5606343fb9198bbb5a95c2c926896a4bcaf4060f929a",
+    "red": "8cdef262651828658a22b62c94ea0fc3e9509b09ede80de564d347eb4302cc94"
+  },
+  "human_names": "Original character names: Taiki, Akari, Zenjiro, Kiriha, Nene. Explicit user choice on 2026-10-24.",
+  "terminology": "Prefer checked Western game/card names for Digimon and moves; record conflicts and evidence. Use the user's requested DigiXross spelling (official card-game spelling: DigiXros).",
+  "story_coherence": "translations/story_coherence.md; official Bandai Namco game and Toei anime summaries checked 2026-10-25; exact game episode placement is not established.",
+  "graphics_update": "Batch125 changes only BG_NCLR entry102 colors9-12 in Red. Original Vanguard and Rearguard colors preserved. Actual Red125 formation and Sky Fort screenshots in build/qa/batch125/red. Backup checksums in build/backups/ui_checkpoint_batch125_before_local_wireless/checkpoint.json. Wireless investigation and menu hook addresses in translations/local_wireless_status.md.",
+  "wireless_battle": "native/README.md; translations/local_wireless_status.md. Both players need a pre-battle formation/ready screen; host chooses among seven requested themes. Session synchronization protocol is experimental and not called by a visible battle flow. UI, party conversion, battle-engine command integration, and complete-match tests remain."
+}

@@ -1,0 +1,1067 @@
+{
+  "description": "Skill-Test Crew and DigiFarm interview side missions, battle moves, DigiFarm reports, two DigiMemory descriptions, and the Call Allies sprite label.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "You look like a\nskilled\nfighter! We\ngathered a team\nof top-notch\nDigimon to test\ntrainers like\nyou. Our name?\nThe Skill-Test\nCrew! ...Yeah,\nwe know. It is\nnot creative.\nWin and there\nis a big reward\nin it for you.\nInterested?"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "First, find the\nSkill-Test Crew\nin West Kumonos\nRuins. Beat\nthem, then come\nback to me for\nyour reward.\nGood luck!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 84,
+      "category": "Story and dialogue",
+      "english": [
+        "Great job! Here\nis your reward.\nI can vouch for\nyour skill!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 85,
+      "category": "Story and dialogue",
+      "english": [
+        "How about\nrecruiting a\nskilled fighter\nlike me? Talk\nto me any time\nif you are\ninterested!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 86,
+      "category": "Story and dialogue",
+      "english": [
+        "So you are the\nskilled fighter\nlooking for a\ntest? Hold on\nwhile I size\nyou up... ...\nAll right! I\nfound a team\nthat matches\nyour skill. Let\nus go! Ready...\nBOMB!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "So you are the\nskilled fighter\nlooking for a\ntest? Hold on\nwhile I size\nyou up... ...\nAll right! I\nfound a team\nthat matches\nyour skill. Let\nus go! Ready...\nBOMB!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 87,
+      "category": "Story and dialogue",
+      "english": [
+        "You do have\nsome skill!\nKeep training\nand you will\nget even\nbetter. Now\nreturn to\nKabukimon and\ncollect your\nreward!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 88,
+      "category": "Story and dialogue",
+      "english": [
+        "You are still\nrough around\nthe edges. Your\nskill will fade\nif you stop\ntraining. Do\nnot get cocky.\nCome back when\nyou are\nstronger!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 95,
+      "category": "Story and dialogue",
+      "english": [
+        "You are still\nrough around\nthe edges. Your\nskill will fade\nif you stop\ntraining. Do\nnot get cocky.\nCome back when\nyou are\nstronger!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 89,
+      "category": "Story and dialogue",
+      "english": [
+        "So, you think\nyou have skill?\nWe put together\na team of elite\nDigimon to test\ntrainers like\nyou. Our name\nis... the\nSkill-Test\nCrew! ...Yes,\nit says exactly\nwhat it means.\nIgnore our lack\nof imagination.\nWin and there\nwill be a\nreward. You\nwill not run\noff, will you?"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 90,
+      "category": "Story and dialogue",
+      "english": [
+        "First, find the\nSkill-Test Crew\nin West Kumonos\nRuins. Beat\nthem and return\nhere for your\nreward. Good\nluck!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 91,
+      "category": "Story and dialogue",
+      "english": [
+        "Great job! Let\nus give you\nyour reward. I\ncan vouch for\nyour skill!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "They say I am a\nskilled\nfighter. Care\nto recruit me?\nIf you change\nyour mind, just\nask."
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "You do have\nsome skill!\nKeep training\nand you will\nget even\nbetter. Now\nreturn to\nKnightmon and\ncollect your\nreward!"
+      ],
+      "sources": [],
+      "review_note": "Optional Skill-Test Crew challenge quest. The name localizes the Japanese ude-dameshi pun as a deliberately plain test-of-skill group name; original names and area labels follow project terminology."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 96,
+      "category": "Story and dialogue",
+      "english": [
+        "Snimon at the\nDigiFarm asked\nme to do a\nfavor:\ninterview\nDinobeemon in\nWest Guruguru\nAmazon and\nrecord it with\nthis voice\nrecorder. Got\nit? Dinobeemon,\nokay?"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm interview quest translated from the Japanese ROM. Snimon and Dinobeemon use checked Western spellings; Guruguru Amazon West follows the existing map label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 97,
+      "category": "Story and dialogue",
+      "english": [
+        "Please\ninterview\nDinobeemon in\nWest Guruguru\nAmazon and\nrecord it on\nthis voice\nrecorder. Just\nchecking... You\nknow who\nDinobeemon is,\nright?"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm interview quest translated from the Japanese ROM. Snimon and Dinobeemon use checked Western spellings; Guruguru Amazon West follows the existing map label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 98,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, you\nsaved me! Here\nis your reward!\nLet us hear it\nright away...\nHmm?! Why does\nthis interview\naudio echo,\nwith background\nmusic and\neverything?"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm interview quest translated from the Japanese ROM. Snimon and Dinobeemon use checked Western spellings; Guruguru Amazon West follows the existing map label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 100,
+      "category": "Story and dialogue",
+      "english": [
+        "An interview?\nSure, leave it\nto me! You use\nvoice\nrecorders,\nright? Good\nthing I already\nrecorded some\nD-Voice data\nfor just such\nan occasion!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm interview quest translated from the Japanese ROM. Snimon and Dinobeemon use checked Western spellings; Guruguru Amazon West follows the existing map label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 101,
+      "category": "Story and dialogue",
+      "english": [
+        "Tell all the\nfans I said\nhello! Yeah!\nCheck it out!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm interview quest translated from the Japanese ROM. Snimon and Dinobeemon use checked Western spellings; Guruguru Amazon West follows the existing map label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 102,
+      "category": "Story and dialogue",
+      "english": [
+        "An interview?\nWho do you\nthink I am?\nHuh, you want\nDinobeemon?! I\nwill knock you\nflat, you\nlittle runt!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm interview quest translated from the Japanese ROM. Snimon and Dinobeemon use checked Western spellings; Guruguru Amazon West follows the existing map label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 103,
+      "category": "Story and dialogue",
+      "english": [
+        "I do not care\nif it is your\neyes or your\nhead that are\nrotten. Learn\nthe difference\nbetween an\ninsect and a\ndragon, will\nyou?!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm interview quest translated from the Japanese ROM. Snimon and Dinobeemon use checked Western spellings; Guruguru Amazon West follows the existing map label."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 20,
+      "start": 104,
+      "category": "Story and dialogue",
+      "english": [
+        "You are looking\nfor Dinobeemon,\nright? Quit\nstanding around\nhere and get\ngoing!"
+      ],
+      "sources": [],
+      "review_note": "Optional DigiFarm interview quest translated from the Japanese ROM. Snimon and Dinobeemon use checked Western spellings; Guruguru Amazon West follows the existing map label."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1926,
+      "category": "Battle moves",
+      "english": [
+        "Vulcanators"
+      ],
+      "sources": [
+        "https://wikimon.net/Shoutmon_X_2"
+      ],
+      "review_note": "Western Digimon Fusion dub name for Shoutmon X2's matching elbow-vulcan attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3202,
+      "category": "Battle moves",
+      "english": [
+        "Vulcanators"
+      ],
+      "sources": [
+        "https://wikimon.net/Shoutmon_X_2"
+      ],
+      "review_note": "Western Digimon Fusion dub name for Shoutmon X2's matching elbow-vulcan attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1946,
+      "category": "Battle moves",
+      "english": [
+        "Healing Glow"
+      ],
+      "sources": [
+        "https://wikimon.net/Cutemon"
+      ],
+      "review_note": "Established English dub name for Cutemon's matching healing attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3222,
+      "category": "Battle moves",
+      "english": [
+        "Healing Glow"
+      ],
+      "sources": [
+        "https://wikimon.net/Cutemon"
+      ],
+      "review_note": "Established English dub name for Cutemon's matching healing attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1948,
+      "category": "Battle moves",
+      "english": [
+        "Healing Glow II"
+      ],
+      "sources": [
+        "https://wikimon.net/Cutemon"
+      ],
+      "review_note": "Established English dub name for Cutemon's stronger healing attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3224,
+      "category": "Battle moves",
+      "english": [
+        "Healing Glow II"
+      ],
+      "sources": [
+        "https://wikimon.net/Cutemon"
+      ],
+      "review_note": "Established English dub name for Cutemon's stronger healing attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1955,
+      "category": "Battle moves",
+      "english": [
+        "Star's Blade Celestrike"
+      ],
+      "sources": [
+        "https://wikimon.net/Shoutmon_X5B"
+      ],
+      "review_note": "English name recorded for Shoutmon X5B/X4B. The move label is checked against the game's 104px box. Full source title retained; if it exceeds the 104px move-name field, shorten only the in-game label and keep the complete English name here."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2453,
+      "category": "Battle moves",
+      "english": [
+        "Star's Blade Celestrike"
+      ],
+      "sources": [
+        "https://wikimon.net/Shoutmon_X5B"
+      ],
+      "review_note": "English name recorded for Shoutmon X5B/X4B. The move label is checked against the game's 104px box. Full source title retained; if it exceeds the 104px move-name field, shorten only the in-game label and keep the complete English name here."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1956,
+      "category": "Battle moves",
+      "english": [
+        "Venom Claw"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation from the game guide: sharp claws containing deadly poison. No exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3232,
+      "category": "Battle moves",
+      "english": [
+        "Venom Claw"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation from the game guide: sharp claws containing deadly poison. No exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1957,
+      "category": "Battle moves",
+      "english": [
+        "Beast King Punch"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation. Dawn/Dusk uses Beast King Fist for the related Jūouken, but this source label is Jūoudaken, so the earlier name is not treated as an exact match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3233,
+      "category": "Battle moves",
+      "english": [
+        "Beast King Punch"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation. Dawn/Dusk uses Beast King Fist for the related Jūouken, but this source label is Jūoudaken, so the earlier name is not treated as an exact match."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1975,
+      "category": "Battle moves",
+      "english": [
+        "Shorty"
+      ],
+      "sources": [
+        "https://wikimon.net/Pickmon"
+      ],
+      "review_note": "English translation listed for Pickmon's matching attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3251,
+      "category": "Battle moves",
+      "english": [
+        "Shorty"
+      ],
+      "sources": [
+        "https://wikimon.net/Pickmon"
+      ],
+      "review_note": "English translation listed for Pickmon's matching attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1988,
+      "category": "Battle moves",
+      "english": [
+        "First Blade"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the first named sword form; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3264,
+      "category": "Battle moves",
+      "english": [
+        "First Blade"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the first named sword form; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1989,
+      "category": "Battle moves",
+      "english": [
+        "Second Blade"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the second named sword form; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3265,
+      "category": "Battle moves",
+      "english": [
+        "Second Blade"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the second named sword form; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1990,
+      "category": "Battle moves",
+      "english": [
+        "Third Blade"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the third named sword form; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3266,
+      "category": "Battle moves",
+      "english": [
+        "Third Blade"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the third named sword form; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1991,
+      "category": "Battle moves",
+      "english": [
+        "Star Splitter"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3267,
+      "category": "Battle moves",
+      "english": [
+        "Star Splitter"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 1996,
+      "category": "Battle moves",
+      "english": [
+        "Nazar Nail"
+      ],
+      "sources": [
+        "https://wikimon.net/Lilithmon"
+      ],
+      "review_note": "Wikimon lists Nazar Nail as the English attack name and Razor Nails as a separate dub alias. Keep Nazar Nail to match the established English attack spelling and the earlier game entry."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3272,
+      "category": "Battle moves",
+      "english": [
+        "Nazar Nail"
+      ],
+      "sources": [
+        "https://wikimon.net/Lilithmon"
+      ],
+      "review_note": "Wikimon lists Nazar Nail as the English attack name and Razor Nails as a separate dub alias. Keep Nazar Nail to match the established English attack spelling and the earlier game entry."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2001,
+      "category": "Battle moves",
+      "english": [
+        "Guard"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Standard English battle command for this defensive move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3277,
+      "category": "Battle moves",
+      "english": [
+        "Guard"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Standard English battle command for this defensive move."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2032,
+      "category": "Battle moves",
+      "english": [
+        "Seed Blast"
+      ],
+      "sources": [
+        "https://wikimon.net/Lalamon"
+      ],
+      "review_note": "English dub name for Lalamon's matching Nuts Shoot attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3308,
+      "category": "Battle moves",
+      "english": [
+        "Seed Blast"
+      ],
+      "sources": [
+        "https://wikimon.net/Lalamon"
+      ],
+      "review_note": "English dub name for Lalamon's matching Nuts Shoot attack."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2034,
+      "category": "Battle moves",
+      "english": [
+        "Bullet Cyclone"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3310,
+      "category": "Battle moves",
+      "english": [
+        "Bullet Cyclone"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2035,
+      "category": "Battle moves",
+      "english": [
+        "Helmet Tackle"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3311,
+      "category": "Battle moves",
+      "english": [
+        "Helmet Tackle"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2036,
+      "category": "Battle moves",
+      "english": [
+        "Nightmare Eye"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3312,
+      "category": "Battle moves",
+      "english": [
+        "Nightmare Eye"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation of the Japanese move name; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 2042,
+      "category": "Battle moves",
+      "english": [
+        "Peep-Peep Slash"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation preserving the Japanese chick-call wordplay; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK00.PAK",
+      "entry": 0,
+      "start": 3318,
+      "category": "Battle moves",
+      "english": [
+        "Peep-Peep Slash"
+      ],
+      "sources": [
+        "https://wikimon.net/Digimon_Story:_Super_Xros_Wars_Guide/Technique"
+      ],
+      "review_note": "Working translation preserving the Japanese chick-call wordplay; no exact western game title was verified."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 56,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I caught it! I am\nthe strongest! My Defense\nwent way up!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 57,
+      "category": "DigiFarm reports",
+      "english": [
+        "No! I lost this time!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 58,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, it is a book! I will\nread it if you have any\nfun ones!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 59,
+      "category": "DigiFarm reports",
+      "english": [
+        "Reading is fun sometimes!\nMy Wisdom went up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 60,
+      "category": "DigiFarm reports",
+      "english": [
+        "No! The books are all too\nhard to read!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 61,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, is this a study\ndesk? Honestly, I will\npass on studying!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 62,
+      "category": "DigiFarm reports",
+      "english": [
+        "I powered through my\nstudies! My Wisdom rose,\nso all that effort paid\noff!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 63,
+      "category": "DigiFarm reports",
+      "english": [
+        "No! Try all I want, there\nis no way I am doing this!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 64,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, I know this! It is a\nmagic circle, right?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 65,
+      "category": "DigiFarm reports",
+      "english": [
+        "My mind is clearing by the\nsecond! My Wisdom is\nsoaring. I am becoming a\ngenius!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 66,
+      "category": "DigiFarm reports",
+      "english": [
+        "Incredibly, nothing\nhappened at all!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 67,
+      "category": "DigiFarm reports",
+      "english": [
+        "Side-to-side jumps? I am\ngreat at those!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 68,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, I am on a roll! New\nrecord! My Speed went up a\nfair bit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 69,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, I am exhausted! I am\ndone!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 70,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, a trampoline! Looks\nfun. I am jumping on!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 71,
+      "category": "DigiFarm reports",
+      "english": [
+        "Jumping so high gets me\npumped! My Speed went up\nquite a bit!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 72,
+      "category": "DigiFarm reports",
+      "english": [
+        "No! All this bouncing is\nmaking me sick!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 73,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this thing?! A\nrunning wheel?! I just run\ninside it?"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 74,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, I really ran a lot!\nMy Speed seems to have\ngone up a ton!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 75,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, my head and body are\nspinning around!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 76,
+      "category": "DigiFarm reports",
+      "english": [
+        "This is a Digimon\nkeychain! Looks fun! I am\ngoing to try it!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 77,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, this is great! That\ngame was the best! My\nFriendship went up a\nlittle!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 78,
+      "category": "DigiFarm reports",
+      "english": [
+        "Ugh, this is hard! I will\nkeep trying!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 79,
+      "category": "DigiFarm reports",
+      "english": [
+        "What is this?! A cell\nphone?! I will text Taiki\nright now!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 80,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, Taiki replied! My\nFriendship went up a good\namount!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 81,
+      "category": "DigiFarm reports",
+      "english": [
+        "No reply yet... I am\ndisappointed!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 82,
+      "category": "DigiFarm reports",
+      "english": [
+        "This digital camera\nbelongs to Taiki, huh? I\nwill take a picture of\nmyself!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 83,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa, success! The picture\ncame out perfectly! My\nFriendship went up a lot!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 84,
+      "category": "DigiFarm reports",
+      "english": [
+        "What?! I have no idea how\nto use this!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK05.PAK",
+      "entry": 3,
+      "start": 85,
+      "category": "DigiFarm reports",
+      "english": [
+        "Whoa! I found a ring of\nfire here! Jumping through\nit is easy!"
+      ],
+      "sources": [],
+      "review_note": "DigiFarm training report translated from the Japanese ROM. Strength, Defense, Wisdom, Speed, and Friendship match the English status terminology."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "MA Angemon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory description translated from the Japanese item table. MA and HL are retained as the game's variant prefixes; the exact expanded form is not established in the project sources."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 29,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "HL Angemon DigiMemory.\nDisappears after one use\nin battle."
+      ],
+      "sources": [],
+      "review_note": "DigiMemory description translated from the Japanese item table. MA and HL are retained as the game's variant prefixes; the exact expanded form is not established in the project sources."
+    }
+  ]
+}

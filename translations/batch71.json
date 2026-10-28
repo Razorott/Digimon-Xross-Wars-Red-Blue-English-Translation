@@ -1,0 +1,1253 @@
+{
+  "description": "Translate 96 weapon and armor descriptions in MESPAK04 entries 30 and 31.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "An ordinary pair of gloves\nsold at the Penguinmon\nShop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "A fairly large hammer sold\nat the Penguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "A giant hammer sold at the\nPenguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "A small needle sold at the\nPenguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 4,
+      "category": "Move and item descriptions",
+      "english": [
+        "An ordinary needle sold at\nthe Penguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "A fairly large sword sold\nat the Penguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "A giant sword sold at the\nPenguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword wrapped in weeds\nwith a terrible edge."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 8,
+      "category": "Move and item descriptions",
+      "english": [
+        "A red, spiked knuckle made\nin East Knuckle City."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "A blue, spiked knuckle\nmade in West Knuckle City."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "A staff tipped with a\nskull, made in Skull City."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "A mushroom-shaped glove\nthat scatters spores.\nMakes Paralysis and Poison\neasier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "A stun gun that shocks\nfoes. Makes Paralysis\neasier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "A soft red glove that\nmakes attacks more\naccurate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "A gun that riddles foes\nwith holes. Increases\ncritical hit rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "A glove that makes Sleep\neasier to inflict.\nImproves accuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "A huge mechanical gun that\nmakes foes easier to\nMelodize."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "A long, slender hammer.\nMakes Confusion easier to\ninflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "A mechanical gun that\nmakes Paralysis and Curse\neasier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "A spiked iron ball on a\nhammer. Increases critical\nhit rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "A gun that makes Curse\neasier to inflict.\nIncreases critical hit\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "A hammer that makes foes\neasier to Melodize.\nImproves accuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "A bazooka that makes\nConfusion, Darkness, and\nMP Drain easier to\ninflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "A spear that makes\nParalysis easier to\ninflict. Improves\naccuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "A katana for a young chick\nDigimon. Increases\ncritical hit rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "A katana that makes\nConfusion and Darkness\neasier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "A staff that extends and\nretracts freely. Makes\nfoes easier to Melodize."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "A katana engraved with\ncursed characters. Makes\nCurse easier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "A spear for catching\nunderwater prey. Increases\ncritical hit rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword that makes\nConfusion easier to\ninflict and increases MP\nDrain."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sacred, single-pronged\nvajra wielded by the gods.\nMakes foes easier to\nMelodize."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "A staff that increases\ncritical hit rate and\naccuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "Shuriken worn on both\nhands and feet. Makes\nConfusion easier to\ninflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "A club made from\nSkullGreymon's bones.\nIncreases battle EXP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "An axe that makes HP Drain\neasier to inflict and\nincreases its amount."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sturdy steel mallet.\nIncreases battle bit\nrewards."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword that increases\nbattle EXP and Melodize\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "A hammer that increases\ncritical hit rate and\nMelodize rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "A gleaming white holy\nsword. Increases battle\nEXP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "A giant sword that cuts\nfoes in half. Makes foes\neasier to Melodize."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "A pair of shining swords.\nIncreases critical hit\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "A giant morning star.\nIncreases critical hit\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword that makes\nConfusion easier to\ninflict and improves\naccuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "A huge chunk of an ice\npillar. Makes Curse easier\nto inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword that increases\nbattle bit rewards. Escape\nTactic always succeeds."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "An explosive greatsword of\nflame. Makes foes easier\nto Melodize."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "A staff that increases\ncritical hit rate and\nmakes Curse easier to\ninflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 30,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "A gun that makes Darkness\neasier to inflict and\nimproves accuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 0,
+      "category": "Move and item descriptions",
+      "english": [
+        "A gun shaped like\nGarurumon. Makes Paralysis\nand Confusion easier to\ninflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 1,
+      "category": "Move and item descriptions",
+      "english": [
+        "An arm-mounted energy\ncannon that improves\naccuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 2,
+      "category": "Move and item descriptions",
+      "english": [
+        "Giant claws worn on both\narms. Increases critical\nhit rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 3,
+      "category": "Move and item descriptions",
+      "english": [
+        "Claws that make Poison and\nCurse easier to inflict.\nIncreases Poison damage."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 5,
+      "category": "Move and item descriptions",
+      "english": [
+        "A spear that increases\nPoison damage and battle\nEXP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 6,
+      "category": "Move and item descriptions",
+      "english": [
+        "A katana that makes\nConfusion and Poison\neasier to inflict.\nIncreases critical hit\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 7,
+      "category": "Move and item descriptions",
+      "english": [
+        "A giant spear that makes\nParalysis, Sleep,\nConfusion, and Poison\neasier to inflict."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 9,
+      "category": "Move and item descriptions",
+      "english": [
+        "A greatsword that makes\nfoes easier to Melodize.\nImproves accuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 10,
+      "category": "Move and item descriptions",
+      "english": [
+        "A shining holy spear.\nIncreases critical hit\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 11,
+      "category": "Move and item descriptions",
+      "english": [
+        "A bow that increases\ncritical hit rate and\naccuracy."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 12,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sister gun to Berenjena.\nIncreases battle EXP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 13,
+      "category": "Move and item descriptions",
+      "english": [
+        "A dagger that increases HP\nand MP Drain."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 14,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword that improves\naccuracy and makes foes\neasier to Melodize."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 15,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword that makes\nDarkness easier to\ninflict. Increases\ncritical hit rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 16,
+      "category": "Move and item descriptions",
+      "english": [
+        "A holy spear filled with\nfocused energy. Increases\nbattle EXP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 17,
+      "category": "Move and item descriptions",
+      "english": [
+        "A staff that makes\nConfusion and Poison\neasier to inflict.\nIncreases battle bit\nrewards."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 18,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword that makes foes\neasier to Melodize.\nIncreases battle EXP."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 19,
+      "category": "Move and item descriptions",
+      "english": [
+        "A spear that makes Poison\neasier to inflict and\nincreases Poison damage\nand critical hit rate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 20,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword that makes foes\neasier to Melodize.\nIncreases critical hit\nrate."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 21,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword wreathed in blue\nflames. Raises Attack and\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 22,
+      "category": "Move and item descriptions",
+      "english": [
+        "An axe wreathed in dim\nlight. Raises Attack and\nDefense."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 23,
+      "category": "Move and item descriptions",
+      "english": [
+        "A glove brought back by a\ngreat explorer. Increases\nbattle bit rewards."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 24,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword only Phantom Beast\nDigimon can wield. Grants\nimmunity to Curse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 25,
+      "category": "Move and item descriptions",
+      "english": [
+        "A hatchet only Beast\nDigimon can wield. Grants\nimmunity to Darkness and\nShuffle."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 26,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sacred implement only\nAngel Digimon can wield.\nGrants immunity to\nConfusion."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 27,
+      "category": "Move and item descriptions",
+      "english": [
+        "A cannon only Demon\nDigimon can wield. Grants\nimmunity to Curse."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 28,
+      "category": "Move and item descriptions",
+      "english": [
+        "A spear only Aquatic\nDigimon can wield. Grants\nimmunity to Shuffle."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 29,
+      "category": "Move and item descriptions",
+      "english": [
+        "A spear only Machine\nDigimon can wield.\nNullifies foes' Poison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 30,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sword only Bird Digimon\ncan wield. Grants immunity\nto Shuffle."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 31,
+      "category": "Move and item descriptions",
+      "english": [
+        "A spear only Insect\nDigimon can wield.\nNullifies foes' Poison."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 32,
+      "category": "Move and item descriptions",
+      "english": [
+        "A whip only Plant Digimon\ncan wield. Grants immunity\nto Paralysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 33,
+      "category": "Move and item descriptions",
+      "english": [
+        "A legendary sword passed\ndown in Elestou Zone."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 34,
+      "category": "Move and item descriptions",
+      "english": [
+        "A small helmet sold at the\nPenguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 35,
+      "category": "Move and item descriptions",
+      "english": [
+        "An ordinary helmet sold at\nthe Penguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 36,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sturdy cloak sold at the\nPenguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 37,
+      "category": "Move and item descriptions",
+      "english": [
+        "A very durable cloak sold\nat the Penguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 38,
+      "category": "Move and item descriptions",
+      "english": [
+        "A small vest sold at the\nPenguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 39,
+      "category": "Move and item descriptions",
+      "english": [
+        "An ordinary vest sold at\nthe Penguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 40,
+      "category": "Move and item descriptions",
+      "english": [
+        "A sturdy suit sold at the\nPenguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 41,
+      "category": "Move and item descriptions",
+      "english": [
+        "A very durable suit sold\nat the Penguinmon Shop."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 42,
+      "category": "Move and item descriptions",
+      "english": [
+        "A rusty, battered shield\nthat looks ready to break."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 43,
+      "category": "Move and item descriptions",
+      "english": [
+        "A Roundabout City\nspecialty: glasses that\nmake you look studious."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 44,
+      "category": "Move and item descriptions",
+      "english": [
+        "A Spider Nest City\nspecialty: pants that\nsometimes turn\ntransparent."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 45,
+      "category": "Move and item descriptions",
+      "english": [
+        "A Papyrus City specialty:\na T-shirt made from\nspecial paper."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 46,
+      "category": "Move and item descriptions",
+      "english": [
+        "A flower-shaped helmet\nthat helps prevent\nParalysis."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 47,
+      "category": "Move and item descriptions",
+      "english": [
+        "A headband that helps you\ndodge and improves Escape\nTactic success."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 48,
+      "category": "Move and item descriptions",
+      "english": [
+        "A tiara with bird\nfeathers. Helps prevent\nConfusion and MP Drain."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    },
+    {
+      "archive": "MSG/MESPAK04.PAK",
+      "entry": 31,
+      "start": 49,
+      "category": "Move and item descriptions",
+      "english": [
+        "A scarf made of red cloth.\nHelps prevent Paralysis\nand Darkness."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Direct item-description translation. Status names and equipment effects follow the established battle glossary; city names match the map localization."
+    }
+  ]
+}

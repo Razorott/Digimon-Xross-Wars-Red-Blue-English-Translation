@@ -1,0 +1,616 @@
+{
+  "description": "Translate the return to Sky Fort, alliance dialogue, and remaining field skill messages in MESPAK02 entry 12.",
+  "blocks": [
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 0,
+      "category": "Story and dialogue",
+      "english": [
+        "...All right. MailBirdramon, Greymon,let's join forces and defeat Barbamon."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 1,
+      "category": "Story and dialogue",
+      "english": [
+        "...Taiki."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 2,
+      "category": "Story and dialogue",
+      "english": [
+        "We have to defeat Barbamon and restore peace to this Zone. That's why we need their help."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 3,
+      "category": "Story and dialogue",
+      "english": [
+        "...As expected of Kiriha's rival. We'll be nearby. If you need us, just say the word."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 33,
+      "category": "Story and dialogue",
+      "english": [
+        "What about Kiriha? Can't we find him? Barbamon sent him to another Zone..."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 44,
+      "category": "Story and dialogue",
+      "english": [
+        "Thanks, Parrotmon. You've really helped us out."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 47,
+      "category": "Story and dialogue",
+      "english": [
+        "I'm so relieved everyone made it back!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 66,
+      "category": "Story and dialogue",
+      "english": [
+        "The Digimon who hid when ROG attacked might come back now. I'll wait for them at Sky Fort!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 71,
+      "category": "Story and dialogue",
+      "english": [
+        "Finally awake! While you were asleep, we've been through a lot!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 72,
+      "category": "Story and dialogue",
+      "english": [
+        "Did someone attack again?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 73,
+      "category": "Story and dialogue",
+      "english": [
+        "Well... You're half right. We let our guard down, and Taiki's fans stormed in! Everyone at Sky Fort got mobbed!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 74,
+      "category": "Story and dialogue",
+      "english": [
+        "...Fans? Wait, my fans?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 75,
+      "category": "Story and dialogue",
+      "english": [
+        "They're Digimon who fled ROG in this Zone. They wanted to see the hero who saved Elestou Zone! And I'm almost as popular as Taiki! Better practice your autograph while you can, Taiki!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 76,
+      "category": "Story and dialogue",
+      "english": [
+        "Shoutmon's autograph is so messy nobody can read it... Maybe that's why it's popular as art?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 77,
+      "category": "Story and dialogue",
+      "english": [
+        "What?! That's rude, Zenjiro! You're the one who went wild at Earth Fort... What are you, a kid?!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 78,
+      "category": "Story and dialogue",
+      "english": [
+        "Th-that has nothing to do with it! Besides, Earth Fort is a man's dre... I mean, a man's dream!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 79,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki isn't just meeting fans! Some Digimon have requests or need help. Check the Quest Monitor later, okay?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 80,
+      "category": "Story and dialogue",
+      "english": [
+        "Got it. If everyone's counting on us, we'll do what we can to help!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 81,
+      "category": "Story and dialogue",
+      "english": [
+        "Forget the fans,things are hectic and dangerous around the Zone right now. If you're going somewhere, I'll come with you!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 82,
+      "category": "Story and dialogue",
+      "english": [
+        "Okay, thanks, legendary Weapon Digimon!♪"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 83,
+      "category": "Story and dialogue",
+      "english": [
+        "Taiki! Hurry up and let's go!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 92,
+      "category": "Story and dialogue",
+      "english": [
+        "Leave the tent?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 93,
+      "category": "Story and dialogue",
+      "english": [
+        "Yes, leave."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 94,
+      "category": "Story and dialogue",
+      "english": [
+        "No, stay."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 105,
+      "category": "Story and dialogue",
+      "english": [
+        "Consumable item acquired!\n^i"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 106,
+      "category": "Story and dialogue",
+      "english": [
+        "Consumable items acquired!\n^i ×^n"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 107,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\n^i"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 108,
+      "category": "Story and dialogue",
+      "english": [
+        "Equipment acquired!\n^i ×^n"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 111,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiFarm item acquired!\n^i"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 112,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiFarm items acquired!\n^i ×^n"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 113,
+      "category": "Story and dialogue",
+      "english": [
+        "DigiScore acquired!\n^i"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 114,
+      "category": "Story and dialogue",
+      "english": [
+        "Key item acquired!\n^i"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 115,
+      "category": "Story and dialogue",
+      "english": [
+        "Bit acquired!\n^b"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 117,
+      "category": "Story and dialogue",
+      "english": [
+        "Airport Gate opened!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 119,
+      "category": "Story and dialogue",
+      "english": [
+        "Switch Gate opened!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 120,
+      "category": "Story and dialogue",
+      "english": [
+        "No Digimon in your party knows Rock Breaking."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 121,
+      "category": "Story and dialogue",
+      "english": [
+        "Used Rock Breaking!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 122,
+      "category": "Story and dialogue",
+      "english": [
+        "No Digimon in your party knows Tree Chopping."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 123,
+      "category": "Story and dialogue",
+      "english": [
+        "Used Tree Chopping!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 124,
+      "category": "Story and dialogue",
+      "english": [
+        "No Digimon in your party knows Melt Ice."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 125,
+      "category": "Story and dialogue",
+      "english": [
+        "Used Melt Ice!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 126,
+      "category": "Story and dialogue",
+      "english": [
+        "Use Digging to travel?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 129,
+      "category": "Story and dialogue",
+      "english": [
+        "No Digimon in your party knows Digging."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 130,
+      "category": "Story and dialogue",
+      "english": [
+        "Used Digging!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 131,
+      "category": "Story and dialogue",
+      "english": [
+        "Use Diving to travel?"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 134,
+      "category": "Story and dialogue",
+      "english": [
+        "No Digimon in your party knows Diving."
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    },
+    {
+      "archive": "MSG/MESPAK02.PAK",
+      "entry": 12,
+      "start": 135,
+      "category": "Story and dialogue",
+      "english": [
+        "Used Diving!"
+      ],
+      "sources": [
+        "Original Japanese ROM"
+      ],
+      "review_note": "Post-Armamon alliance dialogue and field skill messages. Placeholder tokens ^i, ^n, and ^b are preserved."
+    }
+  ]
+}
