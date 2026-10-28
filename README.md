@@ -2,6 +2,8 @@
 
 An AI-assisted, fan-made English translation patch project for *Digimon Story: Super Xros Wars Blue* and *Red*. The translation was made with ChatGPT Codex and supervised by the project creator.
 
+In RELEASES you can download the already patched nds file or the ups file to patch your rom if you prefer.
+
 ## Why I made this patch
 
 I used ChatGPT Codex to translate the game and supervised several parts myself. I have waited so many years to play this game in English. It is part of my childhood, and I wanted to understand the dialogue and story, so I decided to make this translation with Codex's help. I hope it helps someone else, too, even though it was made with AI and my supervision. There are surely parts that are not the best, but I can improve them sometime soon. Now I can understand the game, and that means a lot to me. Thank you so much!
